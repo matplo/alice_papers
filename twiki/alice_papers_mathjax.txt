@@ -1,4 +1,4 @@
-   * Generated on 2017-Nov-29 01:00 CET
+   * Generated on 2017-Nov-29 02:25 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Longitudinal asymmetry and its effect on pseudorapidity distributions in Pb-Pb collisions at \(\sqrt{s_{NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1710.07975v1][1710.07975]]|[[http://inspirehep.net//record/1632046?ln=en][1632046]]|%RED%Submitted%ENDCOLOR%|191|

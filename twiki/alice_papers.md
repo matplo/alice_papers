@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Measurement of Z\\(^0\\)-boson production at large rapidities in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}=5.02\\) TeV|PbPb|[1711.10753](http://arxiv.org/abs/1711.10753v1){: target="_blank"}|[1639439](http://inspirehep.net//record/1639439?ln=en){: target="_blank"}|Submitted|192|
 |LF|Longitudinal asymmetry and its effect on pseudorapidity distributions in Pb-Pb collisions at \\(\sqrt\{s_\{NN\}\}\\) = 2.76 TeV|PbPb|[1710.07975](http://arxiv.org/abs/1710.07975v1){: target="_blank"}|[1632046](http://inspirehep.net//record/1632046?ln=en){: target="_blank"}|Submitted|191|
 |LF|Production of \\(^\{4\}\\)He and \\(^\{4\}\overline\{\textrm\{He\}\}\\) in Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\) = 2.76 TeV at the LHC|PbPb|[1710.07531](http://arxiv.org/abs/1710.07531v1){: target="_blank"}|[1631788](http://inspirehep.net//record/1631788?ln=en){: target="_blank"}|Submitted|190|
 |LF|Production of deuterons, tritons, \\(^\{3\}\\)He nuclei and their anti-nuclei in pp collisions at \\(\mathbf\{\sqrt\{\textit s\}\}\\) = 0.9, 2.76 and 7 TeV|pp|[1709.08522](http://arxiv.org/abs/1709.08522v1){: target="_blank"}|[1625294](http://inspirehep.net//record/1625294?ln=en){: target="_blank"}|Submitted|189|

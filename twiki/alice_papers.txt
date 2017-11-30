@@ -1,6 +1,7 @@
-   * Generated on 2017-Nov-30 02:28 CET
+   * Generated on 2017-Nov-30 19:18 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Measurement of Z$^0$-boson production at large rapidities in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1711.10753v1][1711.10753]]|[[http://inspirehep.net//record/1639439?ln=en][1639439]]|%RED%Submitted%ENDCOLOR%|192|
 |LF|Longitudinal asymmetry and its effect on pseudorapidity distributions in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1710.07975v1][1710.07975]]|[[http://inspirehep.net//record/1632046?ln=en][1632046]]|%RED%Submitted%ENDCOLOR%|191|
 |LF|Production of $^{4}$He and $^{4}\overline{\textrm{He}}$ in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 2.76 !TeV at the LHC|!PbPb|[[http://arxiv.org/abs/1710.07531v1][1710.07531]]|[[http://inspirehep.net//record/1631788?ln=en][1631788]]|%RED%Submitted%ENDCOLOR%|190|
 |LF|Production of deuterons, tritons, $^{3}$He nuclei and their anti-nuclei in pp collisions at $\mathbf{\sqrt{\textit s}}$ = 0.9, 2.76 and 7 !TeV|!pp|[[http://arxiv.org/abs/1709.08522v1][1709.08522]]|[[http://inspirehep.net//record/1625294?ln=en][1625294]]|%RED%Submitted%ENDCOLOR%|189|

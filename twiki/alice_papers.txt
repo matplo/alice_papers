@@ -1,4 +1,4 @@
-   * Generated on 2017-Dez-12 02:24 CET
+   * Generated on 2017-Dez-13 02:23 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of Z$^0$-boson production at large rapidities in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1711.10753v1][1711.10753]]|[[http://inspirehep.net//record/1639439?ln=en][1639439]]|%RED%Submitted%ENDCOLOR%|192|
@@ -12,7 +12,7 @@
 |CF|Kaon femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1709.01731v1][1709.01731]]|[[http://inspirehep.net//record/1621809?ln=en][1621809]]|%RED%Submitted%ENDCOLOR%|184|
 |CF|Systematic studies of correlations between different order flow harmonics in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1709.01127v1][1709.01127]]|[[http://inspirehep.net//record/1621591?ln=en][1621591]]|%RED%Submitted%ENDCOLOR%|183|
 |GA|$π^0$ and $\eta$ meson production in proton-proton collisions at $\sqrt{s}=8$ !TeV|!pp|[[http://arxiv.org/abs/1708.08745v1][1708.08745]]|[[http://inspirehep.net//record/1620477?ln=en][1620477]]|%RED%Submitted%ENDCOLOR%|182|
-|LF|Charged-particle multiplicity distributions over a wide pseudorapidity range in proton-proton collisions at $\mathbf{\sqrt{s}=}$ 0.9, 7 and 8 !TeV|!pp|[[http://arxiv.org/abs/1708.01435v1][1708.01435]]|[[http://inspirehep.net//record/1614477?ln=en][1614477]]|%RED%Submitted%ENDCOLOR%|181|
+|LF|Charged-particle multiplicity distributions over a wide pseudorapidity range in proton-proton collisions at $\mathbf{\sqrt{s}=}$ 0.9, 7 and 8 !TeV|!pp|[[http://arxiv.org/abs/1708.01435v1][1708.01435]]|[[http://inspirehep.net//record/1614477?ln=en][1614477]]|%GREEN%[[http://dx.doi.org/10.1140/epjc/s10052-017-5412-6][Eur. Phys. J. C77]]%ENDCOLOR%|181|
 |LF,CF|Measurement of deuteron spectra and elliptic flow in Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}}$ = 2.76 !TeV at the LHC|!PbPb|[[http://arxiv.org/abs/1707.07304v1][1707.07304]]|[[http://inspirehep.net//record/1611301?ln=en][1611301]]|%GREEN%[[http://dx.doi.org/10.1140/epjc/s10052-017-5222-x][Eur. Phys. J. C77]]%ENDCOLOR%|180|
 |CF|Searches for transverse momentum dependent flow vector fluctuations in Pb-Pb and p-Pb collisions at the LHC|!pPb,|[[http://arxiv.org/abs/1707.05690v1][1707.05690]]|[[http://inspirehep.net//record/1610453?ln=en][1610453]]|%GREEN%[[http://dx.doi.org/10.1007/JHEP09(2017)032][JHEP 09]]%ENDCOLOR%|179|
 |HF|D-meson azimuthal anisotropy in mid-central Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}=5.02}$ !TeV|!PbPb|[[http://arxiv.org/abs/1707.01005v1][1707.01005]]|[[http://inspirehep.net//record/1608612?ln=en][1608612]]|%RED%Submitted%ENDCOLOR%|178|

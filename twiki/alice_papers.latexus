@@ -1,3 +1,9 @@
+%\cite{Acharya:2017okq}
+\bibitem{Acharya:2017okq}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Constraints on jet quenching in p-Pb collisions at $\mathbf{\sqrt{s_{NN}}}$ = 5.02 TeV measured by the event-activity dependence of semi-inclusive hadron-jet distributions,''
+ arXiv:1712.05603 [nucl-ex].
+ %%CITATION = ARXIV:1712.05603;%% 
+
 %\cite{Acharya:2017wpf}
 \bibitem{Acharya:2017wpf}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of Z$^0$-boson production at large rapidities in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
@@ -30,8 +36,8 @@
 
 %\cite{Acharya:2017tgv}
 \bibitem{Acharya:2017tgv}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``J/$\psi$ elliptic flow in Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}}$ = 5.02 TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 119}, 242301 (2017)
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``J/$\psi$ elliptic flow in Pb-Pb collisions at $\sqrt{s_\mathrm{NN}}=5.02$ TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 119}, no. 24, 242301 (2017)
  doi:10.1103/PhysRevLett.119.242301
  [arXiv:1709.05260 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.119.242301;%%

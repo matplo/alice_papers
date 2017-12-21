@@ -1,4 +1,4 @@
-   * Generated on 2017-Dez-20 02:24 CET
+   * Generated on 2017-Dez-21 02:23 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Constraints on jet quenching in p-Pb collisions at $\mathbf{\sqrt{s_{NN}}}$ = 5.02 !TeV measured by the event-activity dependence of semi-inclusive hadron-jet distributions|!pPb|[[http://arxiv.org/abs/1712.05603v1][1712.05603]]|[[http://inspirehep.net//record/1643642?ln=en][1643642]]|%RED%Submitted%ENDCOLOR%|193|

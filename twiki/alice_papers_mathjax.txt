@@ -1,6 +1,7 @@
-   * Generated on 2017-Dez-22 02:29 CET
+   * Generated on 2017-Dez-23 02:25 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|LF|Relative particle yield fluctuations in Pb-Pb collisions at \({\mathbf{\sqrt{s_{\rm NN}}=2.76}}\) !TeV|!PbPb|[[http://arxiv.org/abs/1712.07929v1][1712.07929]]|[[http://inspirehep.net//record/1644609?ln=en][1644609]]|%RED%Submitted%ENDCOLOR%|194|
 |JE|Constraints on jet quenching in p-Pb collisions at \(\mathbf{\sqrt{s_{NN}}}\) = 5.02 !TeV measured by the event-activity dependence of semi-inclusive hadron-jet distributions|!pPb|[[http://arxiv.org/abs/1712.05603v1][1712.05603]]|[[http://inspirehep.net//record/1643642?ln=en][1643642]]|%RED%Submitted%ENDCOLOR%|193|
 |HF|Measurement of Z\(^0\)-boson production at large rapidities in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}=5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1711.10753v1][1711.10753]]|[[http://inspirehep.net//record/1639439?ln=en][1639439]]|%RED%Submitted%ENDCOLOR%|192|
 |LF|Longitudinal asymmetry and its effect on pseudorapidity distributions in Pb-Pb collisions at \(\sqrt{s_{NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1710.07975v1][1710.07975]]|[[http://inspirehep.net//record/1632046?ln=en][1632046]]|%RED%Submitted%ENDCOLOR%|191|

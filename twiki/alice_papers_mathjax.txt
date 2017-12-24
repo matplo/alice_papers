@@ -1,4 +1,4 @@
-   * Generated on 2017-Dez-23 02:25 CET
+   * Generated on 2017-Dez-24 02:25 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Relative particle yield fluctuations in Pb-Pb collisions at \({\mathbf{\sqrt{s_{\rm NN}}=2.76}}\) !TeV|!PbPb|[[http://arxiv.org/abs/1712.07929v1][1712.07929]]|[[http://inspirehep.net//record/1644609?ln=en][1644609]]|%RED%Submitted%ENDCOLOR%|194|

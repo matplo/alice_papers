@@ -65,8 +65,10 @@
 %\cite{Acharya:2017qtq}
 \bibitem{Acharya:2017qtq}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Kaon femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 TeV,''
- arXiv:1709.01731 [nucl-ex].
- %%CITATION = ARXIV:1709.01731;%% 
+ Phys.\ Rev.\ C {\bf 96}, 064613 (2017)
+ doi:10.1103/PhysRevC.96.064613
+ [arXiv:1709.01731 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.96.064613;%% 
 
 %\cite{Acharya:2017gsw}
 \bibitem{Acharya:2017gsw}

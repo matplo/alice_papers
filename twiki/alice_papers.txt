@@ -1,4 +1,4 @@
-   * Generated on 2017-Dez-31 02:24 CET
+   * Generated on 2018-Jan-01 02:24 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|$Λ_{\rm c}^+$ production in pp collisions at $\sqrt{s} = 7$ !TeV and in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|!pp,pPb|[[http://arxiv.org/abs/1712.09581v1][1712.09581]]|[[http://inspirehep.net//record/1645239?ln=en][1645239]]|%RED%Submitted%ENDCOLOR%|195|

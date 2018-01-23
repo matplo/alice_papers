@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|GA|Neutral pion and \\(\eta\\) meson production in p-Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\}\} = 5.02\\) TeV|pPb|[1801.07051](http://arxiv.org/abs/1801.07051v1){: target="_blank"}|[1649235](http://inspirehep.net//record/1649235?ln=en){: target="_blank"}|Submitted|196|
 |HF|\\(\Lambda_\{\rm c\}^+\\) production in pp collisions at \\(\sqrt\{s\} = 7\\) TeV and in p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,pPb|[1712.09581](http://arxiv.org/abs/1712.09581v1){: target="_blank"}|[1645239](http://inspirehep.net//record/1645239?ln=en){: target="_blank"}|Submitted|195|
 |LF|Relative particle yield fluctuations in Pb-Pb collisions at \\(\{\mathbf\{\sqrt\{s_\{\rm NN\}\}=2.76\}\}\\) TeV|PbPb|[1712.07929](http://arxiv.org/abs/1712.07929v1){: target="_blank"}|[1644609](http://inspirehep.net//record/1644609?ln=en){: target="_blank"}|Submitted|194|
 |JE|Constraints on jet quenching in p-Pb collisions at \\(\mathbf\{\sqrt\{s_\{NN\}\}\}\\) = 5.02 TeV measured by the event-activity dependence of semi-inclusive hadron-jet distributions|pPb|[1712.05603](http://arxiv.org/abs/1712.05603v1){: target="_blank"}|[1643642](http://inspirehep.net//record/1643642?ln=en){: target="_blank"}|Submitted|193|

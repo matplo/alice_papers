@@ -1,4 +1,4 @@
-   * Generated on 2018-Jan-26 02:24 CET
+   * Generated on 2018-Jan-27 02:25 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |GA|Neutral pion and $\eta$ meson production in p-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}} = 5.02$ !TeV|!pPb|[[http://arxiv.org/abs/1801.07051v1][1801.07051]]|[[http://inspirehep.net//record/1649235?ln=en][1649235]]|%RED%Submitted%ENDCOLOR%|196|
@@ -7,7 +7,7 @@
 |JE|Constraints on jet quenching in p-Pb collisions at $\mathbf{\sqrt{s_{NN}}}$ = 5.02 !TeV measured by the event-activity dependence of semi-inclusive hadron-jet distributions|!pPb|[[http://arxiv.org/abs/1712.05603v1][1712.05603]]|[[http://inspirehep.net//record/1643642?ln=en][1643642]]|%RED%Submitted%ENDCOLOR%|193|
 |HF|Measurement of Z$^0$-boson production at large rapidities in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1711.10753v1][1711.10753]]|[[http://inspirehep.net//record/1639439?ln=en][1639439]]|%RED%Submitted%ENDCOLOR%|192|
 |LF|Longitudinal asymmetry and its effect on pseudorapidity distributions in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1710.07975v1][1710.07975]]|[[http://inspirehep.net//record/1632046?ln=en][1632046]]|%RED%Submitted%ENDCOLOR%|191|
-|LF|Production of $^{4}$He and $^{4}\overline{\textrm{He}}$ in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 2.76 !TeV at the LHC|!PbPb|[[http://arxiv.org/abs/1710.07531v1][1710.07531]]|[[http://inspirehep.net//record/1631788?ln=en][1631788]]|%GREEN%Accepted: Nucl. Phys. A971%ENDCOLOR%|190|
+|LF|Production of $^{4}$He and $^{4}\overline{\textrm{He}}$ in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 2.76 !TeV at the LHC|!PbPb|[[http://arxiv.org/abs/1710.07531v1][1710.07531]]|[[http://inspirehep.net//record/1631788?ln=en][1631788]]|%GREEN%[[http://dx.doi.org/10.1016/j.nuclphysa.2017.12.004][Nucl. Phys. A971]]%ENDCOLOR%|190|
 |LF|Production of deuterons, tritons, $^{3}$He nuclei and their anti-nuclei in pp collisions at $\mathbf{\sqrt{\textit s}}$ = 0.9, 2.76 and 7 !TeV|!pp|[[http://arxiv.org/abs/1709.08522v1][1709.08522]]|[[http://inspirehep.net//record/1625294?ln=en][1625294]]|%RED%Submitted%ENDCOLOR%|189|
 |DQ/CF|Search for collectivity with azimuthal J/$ψ$-hadron correlations in high multiplicity p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 and 8.16 !TeV|!pPb|[[http://arxiv.org/abs/1709.06807v1][1709.06807]]|[[http://inspirehep.net//record/1624550?ln=en][1624550]]|%RED%Submitted%ENDCOLOR%|188|
 |DQ|J/$ψ$ elliptic flow in Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}}$ = 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1709.05260v2][1709.05260]]|[[http://inspirehep.net//record/1623907?ln=en][1623907]]|%GREEN%[[http://dx.doi.org/10.1103/PhysRevLett.119.242301][Phys. Rev. Lett. 119]]%ENDCOLOR%|187|

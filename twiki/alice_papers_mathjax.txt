@@ -1,4 +1,4 @@
-   * Generated on 2018-Feb-03 02:28 CET
+   * Generated on 2018-Feb-04 02:23 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |GA|Neutral pion and \(\eta\) meson production in p-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}} = 5.02\) !TeV|!pPb|[[http://arxiv.org/abs/1801.07051v1][1801.07051]]|[[http://inspirehep.net//record/1649235?ln=en][1649235]]|%RED%Submitted%ENDCOLOR%|196|
@@ -11,7 +11,7 @@
 |LF|Production of deuterons, tritons, \(^{3}\)He nuclei and their anti-nuclei in pp collisions at \(\mathbf{\sqrt{\textit s}}\) = 0.9, 2.76 and 7 !TeV|!pp|[[http://arxiv.org/abs/1709.08522v1][1709.08522]]|[[http://inspirehep.net//record/1625294?ln=en][1625294]]|%RED%Submitted%ENDCOLOR%|189|
 |DQ/CF|Search for collectivity with azimuthal J/\(\psi\)-hadron correlations in high multiplicity p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 and 8.16 !TeV|!pPb|[[http://arxiv.org/abs/1709.06807v1][1709.06807]]|[[http://inspirehep.net//record/1624550?ln=en][1624550]]|%RED%Submitted%ENDCOLOR%|188|
 |DQ|J/\(\psi\) elliptic flow in Pb-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}}\) = 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1709.05260v2][1709.05260]]|[[http://inspirehep.net//record/1623907?ln=en][1623907]]|%GREEN%[[http://dx.doi.org/10.1103/PhysRevLett.119.242301][Phys. Rev. Lett. 119]]%ENDCOLOR%|187|
-|CF|Constraining the magnitude of the Chiral Magnetic Effect with Event Shape Engineering in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76\( !TeV|!PbPb|[[http://arxiv.org/abs/1709.04723v1][1709.04723]]|[[http://inspirehep.net//record/1623558?ln=en][1623558]]|%RED%Submitted%ENDCOLOR%|186|
+|CF|Constraining the magnitude of the Chiral Magnetic Effect with Event Shape Engineering in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76\( !TeV|!PbPb|[[http://arxiv.org/abs/1709.04723v1][1709.04723]]|[[http://inspirehep.net//record/1623558?ln=en][1623558]]|%GREEN%[[http://dx.doi.org/10.1016/j.physletb.2017.12.021][Phys. Lett. B777]]%ENDCOLOR%|186|
 |PP|The ALICE Transition Radiation Detector: construction, operation, and performance|!n/a|[[http://arxiv.org/abs/1709.02743v1][1709.02743]]|[[http://inspirehep.net//record/1622554?ln=en][1622554]]|%GREEN%[[http://dx.doi.org/10.1016/j.nima.2017.09.028][Nucl. Instrum. Meth. A881]]%ENDCOLOR%|185|
 |CF|Kaon femtoscopy in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1709.01731v1][1709.01731]]|[[http://inspirehep.net//record/1621809?ln=en][1621809]]|%GREEN%[[http://dx.doi.org/10.1103/PhysRevC.96.064613][Phys. Rev. C96]]%ENDCOLOR%|184|
 |CF|Systematic studies of correlations between different order flow harmonics in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1709.01127v1][1709.01127]]|[[http://inspirehep.net//record/1621591?ln=en][1621591]]|%RED%Submitted%ENDCOLOR%|183|

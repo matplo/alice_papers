@@ -1,4 +1,4 @@
-   * Generated on 2018-Feb-17 02:23 CET
+   * Generated on 2018-Feb-18 02:23 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Prompt and non-prompt J/$ψ$ production and nuclear modification at mid-rapidity in p-Pb collisions at ${\bf \sqrt{{\it s}_{\text{NN}}}= 5.02}$ !TeV|!pPb|[[http://arxiv.org/abs/1802.00765v1][1802.00765]]|[[http://inspirehep.net//record/1652829?ln=en][1652829]]|%RED%Submitted%ENDCOLOR%|197|
@@ -15,7 +15,7 @@
 |CF|Constraining the magnitude of the Chiral Magnetic Effect with Event Shape Engineering in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76$ !TeV|!PbPb|[[http://arxiv.org/abs/1709.04723v1][1709.04723]]|[[http://inspirehep.net//record/1623558?ln=en][1623558]]|%GREEN%[[http://dx.doi.org/10.1016/j.physletb.2017.12.021][Phys. Lett. B777]]%ENDCOLOR%|186|
 |PP|The ALICE Transition Radiation Detector: construction, operation, and performance|!n/a|[[http://arxiv.org/abs/1709.02743v1][1709.02743]]|[[http://inspirehep.net//record/1622554?ln=en][1622554]]|%GREEN%[[http://dx.doi.org/10.1016/j.nima.2017.09.028][Nucl. Instrum. Meth. A881]]%ENDCOLOR%|185|
 |CF|Kaon femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1709.01731v1][1709.01731]]|[[http://inspirehep.net//record/1621809?ln=en][1621809]]|%GREEN%[[http://dx.doi.org/10.1103/PhysRevC.96.064613][Phys. Rev. C96]]%ENDCOLOR%|184|
-|CF|Systematic studies of correlations between different order flow harmonics in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1709.01127v1][1709.01127]]|[[http://inspirehep.net//record/1621591?ln=en][1621591]]|%RED%Submitted%ENDCOLOR%|183|
+|CF|Systematic studies of correlations between different order flow harmonics in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1709.01127v1][1709.01127]]|[[http://inspirehep.net//record/1621591?ln=en][1621591]]|%GREEN%[[http://dx.doi.org/10.1103/PhysRevC.97.024906][Phys. Rev. C97]]%ENDCOLOR%|183|
 |GA|$π^0$ and $\eta$ meson production in proton-proton collisions at $\sqrt{s}=8$ !TeV|!pp|[[http://arxiv.org/abs/1708.08745v1][1708.08745]]|[[http://inspirehep.net//record/1620477?ln=en][1620477]]|%RED%Submitted%ENDCOLOR%|182|
 |LF|Charged-particle multiplicity distributions over a wide pseudorapidity range in proton-proton collisions at $\mathbf{\sqrt{s}=}$ 0.9, 7 and 8 !TeV|!pp|[[http://arxiv.org/abs/1708.01435v2][1708.01435]]|[[http://inspirehep.net//record/1614477?ln=en][1614477]]|%GREEN%[[http://dx.doi.org/10.1140/epjc/s10052-017-5412-6][Eur. Phys. J. C77]]%ENDCOLOR%|181|
 |LF,CF|Measurement of deuteron spectra and elliptic flow in Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}}$ = 2.76 !TeV at the LHC|!PbPb|[[http://arxiv.org/abs/1707.07304v2][1707.07304]]|[[http://inspirehep.net//record/1611301?ln=en][1611301]]|%GREEN%[[http://dx.doi.org/10.1140/epjc/s10052-017-5222-x][Eur. Phys. J. C77]]%ENDCOLOR%|180|

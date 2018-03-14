@@ -1,4 +1,4 @@
-   * Generated on 2018-Mär-13 02:23 CET
+   * Generated on 2018-Mär-14 02:26 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Transverse momentum spectra and nuclear modification factors of charged particles in pp, p-Pb and Pb-Pb collisions at the LHC|!pp,pPb,PbPb|[[http://arxiv.org/abs/1802.09145v1][1802.09145]]|[[http://inspirehep.net//record/1657384?ln=en][1657384]]|%RED%Submitted%ENDCOLOR%|198|

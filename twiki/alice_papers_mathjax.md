@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|GA|Neutral pion and \\(\eta\\) meson production at mid-rapidity in Pb-Pb collisions at \\(\sqrt\{s_\{NN\}\}\\) = 2.76 TeV|PbPb|[1803.05490](http://arxiv.org/abs/1803.05490v1){: target="_blank"}|[1662651](http://inspirehep.net//record/1662651?ln=en){: target="_blank"}|Submitted|199|
 |LF|Transverse momentum spectra and nuclear modification factors of charged particles in pp, p-Pb and Pb-Pb collisions at the LHC|pp,pPb,PbPb|[1802.09145](http://arxiv.org/abs/1802.09145v1){: target="_blank"}|[1657384](http://inspirehep.net//record/1657384?ln=en){: target="_blank"}|Submitted|198|
 |DQ|Prompt and non-prompt J/\\(\psi\\) production and nuclear modification at mid-rapidity in p-Pb collisions at \\(\{\bf \sqrt\{\{\it s\}_\{\text\{NN\}\}\}= 5.02\}\\) TeV|pPb|[1802.00765](http://arxiv.org/abs/1802.00765v1){: target="_blank"}|[1652829](http://inspirehep.net//record/1652829?ln=en){: target="_blank"}|Submitted|197|
 |GA|Neutral pion and \\(\eta\\) meson production in p-Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\}\} = 5.02\\) TeV|pPb|[1801.07051](http://arxiv.org/abs/1801.07051v1){: target="_blank"}|[1649235](http://inspirehep.net//record/1649235?ln=en){: target="_blank"}|Submitted|196|

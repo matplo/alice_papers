@@ -1,4 +1,4 @@
-   * Generated on 2018-Mär-24 02:25 CET
+   * Generated on 2018-Mär-25 03:06 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |GA|Neutral pion and $\eta$ meson production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1803.05490v1][1803.05490]]|[[http://inspirehep.net//record/1662651?ln=en][1662651]]|%RED%Submitted%ENDCOLOR%|199|

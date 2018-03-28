@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|GA|Direct photon production at low transverse momentum in proton-proton collisions at \\(\mathbf\{\sqrt\{s\}=2.76\}\\) and 8 TeV|pp|[1803.09857](http://arxiv.org/abs/1803.09857v1){: target="_blank"}|[1664312](http://inspirehep.net//record/1664312?ln=en){: target="_blank"}|Submitted|200|
 |GA|Neutral pion and \\(\eta\\) meson production at mid-rapidity in Pb-Pb collisions at \\(\sqrt\{s_\{NN\}\}\\) = 2.76 TeV|PbPb|[1803.05490](http://arxiv.org/abs/1803.05490v1){: target="_blank"}|[1662651](http://inspirehep.net//record/1662651?ln=en){: target="_blank"}|Submitted|199|
 |LF|Transverse momentum spectra and nuclear modification factors of charged particles in pp, p-Pb and Pb-Pb collisions at the LHC|pp,pPb,PbPb|[1802.09145](http://arxiv.org/abs/1802.09145v1){: target="_blank"}|[1657384](http://inspirehep.net//record/1657384?ln=en){: target="_blank"}|Submitted|198|
 |DQ|Prompt and non-prompt J/\\(\psi\\) production and nuclear modification at mid-rapidity in p-Pb collisions at \\(\{\bf \sqrt\{\{\it s\}_\{\text\{NN\}\}\}= 5.02\}\\) TeV|pPb|[1802.00765](http://arxiv.org/abs/1802.00765v1){: target="_blank"}|[1652829](http://inspirehep.net//record/1652829?ln=en){: target="_blank"}|Submitted|197|

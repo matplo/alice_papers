@@ -1,3 +1,9 @@
+%\cite{Acharya:2018dqe}
+\bibitem{Acharya:2018dqe}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Direct photon production at low transverse momentum in proton-proton collisions at $\mathbf{\sqrt{s}=2.76}$ and 8 TeV,''
+ arXiv:1803.09857 [nucl-ex].
+ %%CITATION = ARXIV:1803.09857;%% 
+
 %\cite{Acharya:2018yhg}
 \bibitem{Acharya:2018yhg}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Neutral pion and $\eta$ meson production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
@@ -102,7 +108,7 @@
  Nucl.\ Instrum.\ Meth.\ A {\bf 881}, 88 (2018)
  doi:10.1016/j.nima.2017.09.028
  [arXiv:1709.02743 [physics.ins-det]].
- %%CITATION = doi:10.1016/j.nima.2017.09.028;%% 
+ %%CITATION = doi:10.1016/j.nima.2017.09.028;%%
 
 %\cite{Acharya:2017qtq}
 \bibitem{Acharya:2017qtq}

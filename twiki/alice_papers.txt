@@ -1,4 +1,4 @@
-   * Generated on 2018-Mär-31 02:24 CEST
+   * Generated on 2018-Apr-01 02:28 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |GA|Direct photon production at low transverse momentum in proton-proton collisions at $\mathbf{\sqrt{s}=2.76}$ and 8 !TeV|!pp|[[http://arxiv.org/abs/1803.09857v1][1803.09857]]|[[http://inspirehep.net//record/1664312?ln=en][1664312]]|%RED%Submitted%ENDCOLOR%|200|

@@ -1,9 +1,9 @@
-   * Generated on 2018-Apr-13 02:24 CEST
+   * Generated on 2018-Apr-14 02:31 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at \(\mathbf{\sqrt{{\textit s}_\text{NN}}} = \mathbf{5.02}\) and \(\mathbf{2.76}\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.02944v1][1804.02944]]|[[http://inspirehep.net//record/1666817?ln=en][1666817]]|%RED%Submitted%ENDCOLOR%|201|
 |GA|Direct photon production at low transverse momentum in proton-proton collisions at \(\mathbf{\sqrt{s}=2.76}\) and 8 !TeV|!pp|[[http://arxiv.org/abs/1803.09857v1][1803.09857]]|[[http://inspirehep.net//record/1664312?ln=en][1664312]]|%RED%Submitted%ENDCOLOR%|200|
-|GA|Neutral pion and \(\eta\) meson production at mid-rapidity in Pb-Pb collisions at \(\sqrt{s_{NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1803.05490v1][1803.05490]]|[[http://inspirehep.net//record/1662651?ln=en][1662651]]|%RED%Submitted%ENDCOLOR%|199|
+|GA|Neutral pion and \(\eta\) meson production at mid-rapidity in Pb-Pb collisions at \(\sqrt{s_{NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1803.05490v1][1803.05490]]|[[http://inspirehep.net//record/1662651?ln=en][1662651]]|%GREEN%Submitted to: Phys. Rev. %ENDCOLOR%|199|
 |LF|Transverse momentum spectra and nuclear modification factors of charged particles in pp, p-Pb and Pb-Pb collisions at the LHC|!pp,pPb,PbPb|[[http://arxiv.org/abs/1802.09145v1][1802.09145]]|[[http://inspirehep.net//record/1657384?ln=en][1657384]]|%RED%Submitted%ENDCOLOR%|198|
 |DQ|Prompt and non-prompt J/\(\psi\) production and nuclear modification at mid-rapidity in p-Pb collisions at \({\bf \sqrt{{\it s}_{\text{NN}}}= 5.02}\) !TeV|!pPb|[[http://arxiv.org/abs/1802.00765v1][1802.00765]]|[[http://inspirehep.net//record/1652829?ln=en][1652829]]|%RED%Submitted%ENDCOLOR%|197|
 |GA|Neutral pion and \(\eta\) meson production in p-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}} = 5.02\) !TeV|!pPb|[[http://arxiv.org/abs/1801.07051v1][1801.07051]]|[[http://inspirehep.net//record/1649235?ln=en][1649235]]|%RED%Submitted%ENDCOLOR%|196|

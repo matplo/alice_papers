@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Measurement of D\\(^0\\), D\\(^+\\), D\\(^\{*+\}\\) and D\\(^+_\{\rm s\}\\) production in Pb-Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\}\}= 5.02\\) TeV|PbPb|[1804.09083](http://arxiv.org/abs/1804.09083v1){: target="_blank"}|[1669819](http://inspirehep.net//record/1669819?ln=en){: target="_blank"}|Submitted|203|
+|LF|\\(\phi\\) meson production at forward rapidity in Pb-Pb collisions at \\(\sqrt\{s_\mathrm\{NN\}\}=2.76\\) TeV|PbPb|[1804.08906](http://arxiv.org/abs/1804.08906v1){: target="_blank"}|[1669805](http://inspirehep.net//record/1669805?ln=en){: target="_blank"}|Submitted|202|
 |CF|Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at \\(\mathbf\{\sqrt\{\{\textit s\}_\text\{NN\}\}\} = \mathbf\{5.02\}\\) and \\(\mathbf\{2.76\}\\) TeV|PbPb|[1804.02944](http://arxiv.org/abs/1804.02944v1){: target="_blank"}|[1666817](http://inspirehep.net//record/1666817?ln=en){: target="_blank"}|Submitted|201|
 |GA|Direct photon production at low transverse momentum in proton-proton collisions at \\(\mathbf\{\sqrt\{s\}=2.76\}\\) and 8 TeV|pp|[1803.09857](http://arxiv.org/abs/1803.09857v1){: target="_blank"}|[1664312](http://inspirehep.net//record/1664312?ln=en){: target="_blank"}|Submitted|200|
 |GA|Neutral pion and \\(\eta\\) meson production at mid-rapidity in Pb-Pb collisions at \\(\sqrt\{s_\{NN\}\}\\) = 2.76 TeV|PbPb|[1803.05490](http://arxiv.org/abs/1803.05490v1){: target="_blank"}|[1662651](http://inspirehep.net//record/1662651?ln=en){: target="_blank"}|Submitted to: Phys. Rev. |199|

@@ -1,4 +1,4 @@
-   * Generated on 2018-Apr-25 09:41 CEST
+   * Generated on 2018-Apr-26 02:28 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of D$^0$, D$^+$, D$^{*+}$ and D$^+_{\rm s}$ production in Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}}= 5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1804.09083v1][1804.09083]]|[[http://inspirehep.net//record/1669819?ln=en][1669819]]|%RED%Submitted%ENDCOLOR%|203|

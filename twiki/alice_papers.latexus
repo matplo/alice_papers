@@ -1,8 +1,39 @@
+%\cite{Acharya:2018hre}
+\bibitem{Acharya:2018hre}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of D$^0$, D$^+$, D$^{*+}$ and D$^+_{\rm s}$ production in Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}}= 5.02$ TeV,''
+ arXiv:1804.09083 [nucl-ex].
+ %%CITATION = ARXIV:1804.09083;%% 
 
+%\cite{Acharya:2018wbz}
+\bibitem{Acharya:2018wbz}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``$\phi$ meson production at forward rapidity in Pb-Pb collisions at $\sqrt{s_\mathrm{NN}}=2.76$ TeV,''
+ arXiv:1804.08906 [nucl-ex].
+ %%CITATION = ARXIV:1804.08906;%% 
 
+%\cite{Acharya:2018lmh}
+\bibitem{Acharya:2018lmh}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at $\mathbf{\sqrt{{\textit s}_\text{NN}}} = \mathbf{5.02}$ and $\mathbf{2.76}$ TeV,''
+ arXiv:1804.02944 [nucl-ex].
+ %%CITATION = ARXIV:1804.02944;%% 
 
+%\cite{Acharya:2018dqe}
+\bibitem{Acharya:2018dqe}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Direct photon production at low transverse momentum in proton-proton collisions at $\mathbf{\sqrt{s}=2.76}$ and 8 TeV,''
+ arXiv:1803.09857 [nucl-ex].
+ %%CITATION = ARXIV:1803.09857;%% 
 
+%\cite{Acharya:2018yhg}
+\bibitem{Acharya:2018yhg}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Neutral pion and $\eta$ meson production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
+ %Submitted to: Phys.Rev.
+ [arXiv:1803.05490 [nucl-ex]].
+ %%CITATION = ARXIV:1803.05490;%% 
 
+%\cite{Acharya:2018qsh}
+\bibitem{Acharya:2018qsh}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Transverse momentum spectra and nuclear modification factors of charged particles in pp, p-Pb and Pb-Pb collisions at the LHC,''
+ arXiv:1802.09145 [nucl-ex].
+ %%CITATION = ARXIV:1802.09145;%%
 
 %\cite{Acharya:2018yud}
 \bibitem{Acharya:2018yud}
@@ -1336,6 +1367,14 @@
  [arXiv:1204.0282 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.05.011;%%
 
+%\cite{Abelev:2012kr}
+\bibitem{Abelev:2012kr}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Inclusive $J/\psi$ production in $pp$ collisions at $\sqrt{s} = 2.76$ TeV,''
+ Phys.\ Lett.\ B {\bf 718}, 295 (2012)
+ Erratum: [Phys.\ Lett.\ B {\bf 748}, 472 (2015)]
+ doi:10.1016/j.physletb.2012.10.078, 10.1016/j.physletb.2015.06.058
+ [arXiv:1203.3641 [hep-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2012.10.078, 10.1016/j.physletb.2015.06.058;%%
 
 %\cite{ALICE:2012aa}
 \bibitem{ALICE:2012aa}

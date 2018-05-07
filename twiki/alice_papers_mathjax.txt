@@ -1,6 +1,7 @@
-   * Generated on 2018-Mai-07 02:25 CEST
+   * Generated on 2018-Mai-07 15:02 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|CF|Anisotropic flow in Xe-Xe collisions at \(\mathbf{\sqrt{s_{\rm{NN}}} = 5.44}\) !TeV|!XeXe|[[http://arxiv.org/abs/1805.01832v1][1805.01832]]|[[http://inspirehep.net//record/1671792?ln=en][1671792]]|%RED%Submitted%ENDCOLOR%|204|
 |HF|Measurement of D\(^0\), D\(^+\), D\(^{*+}\) and D\(^+_{\rm s}\) production in Pb-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}}= 5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.09083v1][1804.09083]]|[[http://inspirehep.net//record/1669819?ln=en][1669819]]|%RED%Submitted%ENDCOLOR%|203|
 |LF|\(\phi\) meson production at forward rapidity in Pb-Pb collisions at \(\sqrt{s_\mathrm{NN}}=2.76\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.08906v1][1804.08906]]|[[http://inspirehep.net//record/1669805?ln=en][1669805]]|%RED%Submitted%ENDCOLOR%|202|
 |CF|Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at \(\mathbf{\sqrt{{\textit s}_\text{NN}}} = \mathbf{5.02}\) and \(\mathbf{2.76}\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.02944v1][1804.02944]]|[[http://inspirehep.net//record/1666817?ln=en][1666817]]|%RED%Submitted%ENDCOLOR%|201|

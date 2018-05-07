@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Anisotropic flow in Xe-Xe collisions at \\(\mathbf\{\sqrt\{s_\{\rm\{NN\}\}\} = 5.44\}\\) TeV|XeXe|[1805.01832](http://arxiv.org/abs/1805.01832v1){: target="_blank"}|[1671792](http://inspirehep.net//record/1671792?ln=en){: target="_blank"}|Submitted|204|
 |HF|Measurement of D\\(^0\\), D\\(^+\\), D\\(^\{*+\}\\) and D\\(^+_\{\rm s\}\\) production in Pb-Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\}\}= 5.02\\) TeV|PbPb|[1804.09083](http://arxiv.org/abs/1804.09083v1){: target="_blank"}|[1669819](http://inspirehep.net//record/1669819?ln=en){: target="_blank"}|Submitted|203|
 |LF|\\(\phi\\) meson production at forward rapidity in Pb-Pb collisions at \\(\sqrt\{s_\mathrm\{NN\}\}=2.76\\) TeV|PbPb|[1804.08906](http://arxiv.org/abs/1804.08906v1){: target="_blank"}|[1669805](http://inspirehep.net//record/1669805?ln=en){: target="_blank"}|Submitted|202|
 |CF|Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at \\(\mathbf\{\sqrt\{\{\textit s\}_\text\{NN\}\}\} = \mathbf\{5.02\}\\) and \\(\mathbf\{2.76\}\\) TeV|PbPb|[1804.02944](http://arxiv.org/abs/1804.02944v1){: target="_blank"}|[1666817](http://inspirehep.net//record/1666817?ln=en){: target="_blank"}|Submitted|201|

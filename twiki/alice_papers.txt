@@ -1,4 +1,4 @@
-   * Generated on 2018-Mai-11 02:24 CEST
+   * Generated on 2018-Mai-12 02:27 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Anisotropic flow in Xe-Xe collisions at $\mathbf{\sqrt{s_{\rm{NN}}} = 5.44}$ !TeV|!XeXe|[[http://arxiv.org/abs/1805.01832v1][1805.01832]]|[[http://inspirehep.net//record/1671792?ln=en][1671792]]|%RED%Submitted%ENDCOLOR%|204|

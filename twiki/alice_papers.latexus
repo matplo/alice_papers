@@ -1,3 +1,9 @@
+%\cite{Acharya:2018njl}
+\bibitem{Acharya:2018njl}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 TeV,''
+ arXiv:1805.05212 [nucl-ex].
+ %%CITATION = ARXIV:1805.05212;%% 
+
 %\cite{Acharya:2018hhy}
 \bibitem{Acharya:2018hhy}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44 TeV,''
@@ -74,7 +80,7 @@
 \bibitem{Acharya:2018dxy}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Azimuthal anisotropy of heavy-flavour decay electrons in p-Pb collisions at $ \sqrt{s_{\rm NN}}$ = 5.02 TeV,''
  arXiv:1805.04367 [nucl-ex].
- %%CITATION = ARXIV:1805.04367;%% 
+ %%CITATION = ARXIV:1805.04367;%%
 
 %\cite{Acharya:2018qnp}
 \bibitem{Acharya:2018qnp}
@@ -163,7 +169,7 @@
 \bibitem{Acharya:2017okq}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Constraints on jet quenching in p-Pb collisions at $\mathbf{\sqrt{s_{NN}}}$ = 5.02 TeV measured by the event-activity dependence of semi-inclusive hadron-jet distributions,''
  arXiv:1712.05603 [nucl-ex].
- %%CITATION = ARXIV:1712.05603;%% 
+ %%CITATION = ARXIV:1712.05603;%%
 
 %\cite{Acharya:2017wpf}
 \bibitem{Acharya:2017wpf}

@@ -90,8 +90,9 @@
 
 %\cite{ALICE:2018ewo}
 \bibitem{ALICE:2018ewo}
-  [ALICE Collaboration], %``Suppression of $\Lambda(1520)$ resonance production in central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- arXiv:1805.04361 [nucl-ex].
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Suppression of $\Lambda(1520)$ resonance production in central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
+ %Submitted to: Phys.Rev.Lett.
+ [arXiv:1805.04361 [nucl-ex]].
  %%CITATION = ARXIV:1805.04361;%% 
 
 %\cite{Acharya:2018ihu}

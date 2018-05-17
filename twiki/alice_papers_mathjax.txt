@@ -1,4 +1,4 @@
-   * Generated on 2018-Mai-16 02:25 CEST
+   * Generated on 2018-Mai-17 02:26 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1805.05212v1][1805.05212]]|[[http://inspirehep.net//record/1672944?ln=en][1672944]]|%RED%Submitted%ENDCOLOR%|220|
@@ -16,7 +16,7 @@
 |DQ|Measurement of the inclusive J/\(\psi\) polarization at forward rapidity in pp collisions at \(\sqrt{s} = 8\) !TeV|!pp|[[http://arxiv.org/abs/1805.04374v1][1805.04374]]|[[http://inspirehep.net//record/1672801?ln=en][1672801]]|%RED%Submitted%ENDCOLOR%|208|
 |HF|Azimuthal anisotropy of heavy-flavour decay electrons in p-Pb collisions at \( \sqrt{s_{\rm NN}}\) = 5.02 !TeV|!pPb|[[http://arxiv.org/abs/1805.04367v1][1805.04367]]|[[http://inspirehep.net//record/1672812?ln=en][1672812]]|%RED%Submitted%ENDCOLOR%|207|
 |LF|Production of the \(\rho\)(770)\({^{0}}\) meson in pp and Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|!pp,PbPb|[[http://arxiv.org/abs/1805.04365v1][1805.04365]]|[[http://inspirehep.net//record/1672860?ln=en][1672860]]|%RED%Submitted%ENDCOLOR%|206|
-|LF|Suppression of \(\Lambda(1520)\) resonance production in central Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1805.04361v1][1805.04361]]|[[http://inspirehep.net//record/1672806?ln=en][1672806]]|%RED%Submitted%ENDCOLOR%|205|
+|LF|Suppression of \(\Lambda(1520)\) resonance production in central Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1805.04361v1][1805.04361]]|[[http://inspirehep.net//record/1672806?ln=en][1672806]]|%GREEN%Submitted to: Phys. Rev. Lett. %ENDCOLOR%|205|
 |CF|Anisotropic flow in Xe-Xe collisions at \(\mathbf{\sqrt{s_{\rm{NN}}} = 5.44}\) !TeV|!XeXe|[[http://arxiv.org/abs/1805.01832v1][1805.01832]]|[[http://inspirehep.net//record/1671792?ln=en][1671792]]|%RED%Submitted%ENDCOLOR%|204|
 |HF|Measurement of D\(^0\), D\(^+\), D\(^{*+}\) and D\(^+_{\rm s}\) production in Pb-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}}= 5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.09083v1][1804.09083]]|[[http://inspirehep.net//record/1669819?ln=en][1669819]]|%GREEN%Submitted to: JHEP %ENDCOLOR%|203|
 |LF|\(\phi\) meson production at forward rapidity in Pb-Pb collisions at \(\sqrt{s_\mathrm{NN}}=2.76\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.08906v1][1804.08906]]|[[http://inspirehep.net//record/1669805?ln=en][1669805]]|%GREEN%Submitted to: Eur. Phys. J. %ENDCOLOR%|202|

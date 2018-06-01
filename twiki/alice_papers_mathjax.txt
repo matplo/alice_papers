@@ -1,6 +1,7 @@
-   * Generated on 2018-Jun-01 02:26 CEST
+   * Generated on 2018-Jun-01 08:28 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|CF|p-p, p-\(\Lambda\) and \(\Lambda\)-\(\Lambda\) correlations studied via femtoscopy in pp reactions at \(\sqrt{s}\) = 7 !TeV|!pp|[[http://arxiv.org/abs/1805.12455v1][1805.12455]]|[[http://inspirehep.net//record/1675759?ln=en][1675759]]|%RED%Submitted%ENDCOLOR%|221|
 |LF|Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1805.05212v1][1805.05212]]|[[http://inspirehep.net//record/1672944?ln=en][1672944]]|%RED%Submitted%ENDCOLOR%|220|
 |LF|Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at \(\sqrt{s_{\rm NN}}\) = 5.44 !TeV|!XeXe|[[http://arxiv.org/abs/1805.04432v1][1805.04432]]|[[http://inspirehep.net//record/1672756?ln=en][1672756]]|%RED%Submitted%ENDCOLOR%|219|
 |CF|Two particle differential transverse momentum and number density correlations in p-Pb and Pb-Pb at the LHC|!pPb,PbPb|[[http://arxiv.org/abs/1805.04422v1][1805.04422]]|[[http://inspirehep.net//record/1672765?ln=en][1672765]]|%RED%Submitted%ENDCOLOR%|218|

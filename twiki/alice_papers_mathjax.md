@@ -10,8 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|CF|p-p, p-\\(\Lambda\\) and \\(\Lambda\\)-\\(\Lambda\\) correlations studied via femtoscopy in pp reactions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1805.12455](http://arxiv.org/abs/1805.12455v1){: target="_blank"}|[](No Link Found){: target="_blank"}|Submitted|221|
-|LF|Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 TeV|PbPb|[1805.05212](http://arxiv.org/abs/1805.05212v1){: target="_blank"}|[](No Link Found){: target="_blank"}|Submitted|220|
+|CF|p-p, p-\\(\Lambda\\) and \\(\Lambda\\)-\\(\Lambda\\) correlations studied via femtoscopy in pp reactions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1805.12455](http://arxiv.org/abs/1805.12455v1){: target="_blank"}|[1675759](http://inspirehep.net//record/1675759?ln=en){: target="_blank"}|Submitted|221|
+|LF|Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 TeV|PbPb|[1805.05212](http://arxiv.org/abs/1805.05212v1){: target="_blank"}|[1672944](http://inspirehep.net//record/1672944?ln=en){: target="_blank"}|Submitted|220|
 |LF|Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.44 TeV|XeXe|[1805.04432](http://arxiv.org/abs/1805.04432v1){: target="_blank"}|[1672756](http://inspirehep.net//record/1672756?ln=en){: target="_blank"}|Submitted|219|
 |CF|Two particle differential transverse momentum and number density correlations in p-Pb and Pb-Pb at the LHC|pPb,PbPb|[1805.04422](http://arxiv.org/abs/1805.04422v1){: target="_blank"}|[1672765](http://inspirehep.net//record/1672765?ln=en){: target="_blank"}|Submitted|218|
 |DQ|Dielectron and heavy-quark production in inelastic and high-multiplicity proton-proton collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 13 TeV|pp|[1805.04407](http://arxiv.org/abs/1805.04407v1){: target="_blank"}|[1672788](http://inspirehep.net//record/1672788?ln=en){: target="_blank"}|Submitted|217|

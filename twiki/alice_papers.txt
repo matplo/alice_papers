@@ -1,4 +1,4 @@
-   * Generated on 2018-Jun-12 02:27 CEST
+   * Generated on 2018-Jun-13 02:28 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|p-p, p-$Λ$ and $Λ$-$Λ$ correlations studied via femtoscopy in pp reactions at $\sqrt{s}$ = 7 !TeV|!pp|[[http://arxiv.org/abs/1805.12455v1][1805.12455]]|[[http://inspirehep.net//record/1675759?ln=en][1675759]]|%RED%Submitted%ENDCOLOR%|221|
@@ -25,7 +25,7 @@
 |GA|Direct photon production at low transverse momentum in proton-proton collisions at $\mathbf{\sqrt{s}=2.76}$ and 8 !TeV|!pp|[[http://arxiv.org/abs/1803.09857v1][1803.09857]]|[[http://inspirehep.net//record/1664312?ln=en][1664312]]|%RED%Submitted%ENDCOLOR%|200|
 |GA|Neutral pion and $\eta$ meson production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1803.05490v1][1803.05490]]|[[http://inspirehep.net//record/1662651?ln=en][1662651]]|%GREEN%Submitted to: Phys. Rev. %ENDCOLOR%|199|
 |LF|Transverse momentum spectra and nuclear modification factors of charged particles in pp, p-Pb and Pb-Pb collisions at the LHC|!pp,pPb,PbPb|[[http://arxiv.org/abs/1802.09145v1][1802.09145]]|[[http://inspirehep.net//record/1657384?ln=en][1657384]]|%RED%Submitted%ENDCOLOR%|198|
-|DQ|Prompt and non-prompt J/$ψ$ production and nuclear modification at mid-rapidity in p-Pb collisions at ${\bf \sqrt{{\it s}_{\text{NN}}}= 5.02}$ !TeV|!pPb|[[http://arxiv.org/abs/1802.00765v1][1802.00765]]|[[http://inspirehep.net//record/1652829?ln=en][1652829]]|%RED%Submitted%ENDCOLOR%|197|
+|DQ|Prompt and non-prompt J/$ψ$ production and nuclear modification at mid-rapidity in p-Pb collisions at ${\bf \sqrt{{\it s}_{\text{NN}}}= 5.02}$ !TeV|!pPb|[[http://arxiv.org/abs/1802.00765v1][1802.00765]]|[[http://inspirehep.net//record/1652829?ln=en][1652829]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-018-5881-2][Eur. Phys. J. C78]]%ENDCOLOR%|197|
 |GA|Neutral pion and $\eta$ meson production in p-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}} = 5.02$ !TeV|!pPb|[[http://arxiv.org/abs/1801.07051v1][1801.07051]]|[[http://inspirehep.net//record/1649235?ln=en][1649235]]|%RED%Submitted%ENDCOLOR%|196|
 |HF|$Λ_{\rm c}^+$ production in pp collisions at $\sqrt{s} = 7$ !TeV and in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|!pp,pPb|[[http://arxiv.org/abs/1712.09581v1][1712.09581]]|[[http://inspirehep.net//record/1645239?ln=en][1645239]]|%GREEN%Submitted to: JHEP %ENDCOLOR%|195|
 |LF|Relative particle yield fluctuations in Pb-Pb collisions at ${\mathbf{\sqrt{s_{\rm NN}}=2.76}}$ !TeV|!PbPb|[[http://arxiv.org/abs/1712.07929v1][1712.07929]]|[[http://inspirehep.net//record/1644609?ln=en][1644609]]|%GREEN%Submitted to: Eur. Phys. J. %ENDCOLOR%|194|

@@ -1,4 +1,4 @@
-   * Generated on 2018-Jun-22 02:25 CEST
+   * Generated on 2018-Jun-23 02:18 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|p-p, p-$Λ$ and $Λ$-$Λ$ correlations studied via femtoscopy in pp reactions at $\sqrt{s}$ = 7 !TeV|!pp|[[http://arxiv.org/abs/1805.12455v2][1805.12455]]|[[http://inspirehep.net//record/1675759?ln=en][1675759]]|%RED%Submitted%ENDCOLOR%|221|

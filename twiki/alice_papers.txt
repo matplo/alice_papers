@@ -1,6 +1,7 @@
-   * Generated on 2018-Jul-04 02:24 CEST
+   * Generated on 2018-Jul-04 10:48 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|DQ|Measurement of dielectron production in central Pb-Pb collisions at $\sqrt{\textit{s}_{\mathrm{NN}}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1807.00923v1][1807.00923]]|[[http://inspirehep.net//record/1680638?ln=en][1680638]]|%RED%Submitted%ENDCOLOR%|222|
 |CF|p-p, p-$Λ$ and $Λ$-$Λ$ correlations studied via femtoscopy in pp reactions at $\sqrt{s}$ = 7 !TeV|!pp|[[http://arxiv.org/abs/1805.12455v2][1805.12455]]|[[http://inspirehep.net//record/1675759?ln=en][1675759]]|%RED%Submitted%ENDCOLOR%|221|
 |LF|Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1805.05212v1][1805.05212]]|[[http://inspirehep.net//record/1672944?ln=en][1672944]]|%RED%Submitted%ENDCOLOR%|220|
 |LF|Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44 !TeV|!XeXe|[[http://arxiv.org/abs/1805.04432v1][1805.04432]]|[[http://inspirehep.net//record/1672756?ln=en][1672756]]|%RED%Submitted%ENDCOLOR%|219|

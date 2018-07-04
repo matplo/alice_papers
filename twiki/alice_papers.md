@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|Measurement of dielectron production in central Pb-Pb collisions at \\(\sqrt\{\textit\{s\}_\{\mathrm\{NN\}\}\}\\) = 2.76 TeV|PbPb|[1807.00923](http://arxiv.org/abs/1807.00923v1){: target="_blank"}|[1680638](http://inspirehep.net//record/1680638?ln=en){: target="_blank"}|Submitted|222|
 |CF|p-p, p-\\(\Lambda\\) and \\(\Lambda\\)-\\(\Lambda\\) correlations studied via femtoscopy in pp reactions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1805.12455](http://arxiv.org/abs/1805.12455v2){: target="_blank"}|[1675759](http://inspirehep.net//record/1675759?ln=en){: target="_blank"}|Submitted|221|
 |LF|Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 TeV|PbPb|[1805.05212](http://arxiv.org/abs/1805.05212v1){: target="_blank"}|[1672944](http://inspirehep.net//record/1672944?ln=en){: target="_blank"}|Submitted|220|
 |LF|Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.44 TeV|XeXe|[1805.04432](http://arxiv.org/abs/1805.04432v1){: target="_blank"}|[1672756](http://inspirehep.net//record/1672756?ln=en){: target="_blank"}|Submitted|219|

@@ -1,3 +1,9 @@
+%\cite{Acharya:2018nxm}
+\bibitem{Acharya:2018nxm}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of dielectron production in central Pb-Pb collisions at $\sqrt{{\textit{s}}_{\mathrm{NN}}}$ = 2.76 TeV,''
+ arXiv:1807.00923 [nucl-ex].
+ %%CITATION = ARXIV:1807.00923;%% 
+
 %\cite{Acharya:2018gyz}
 \bibitem{Acharya:2018gyz}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``p-p, p-$\Lambda$ and $\Lambda$-$\Lambda$ correlations studied via femtoscopy in pp reactions at $\sqrt{s}$ = 7 TeV,''
@@ -32,7 +38,7 @@
 \bibitem{Acharya:2018bdy}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Direct photon elliptic flow in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
  arXiv:1805.04403 [nucl-ex].
- %%CITATION = ARXIV:1805.04403;%% 
+ %%CITATION = ARXIV:1805.04403;%%
 
 %\cite{Acharya:2018eaq}
 \bibitem{Acharya:2018eaq}

@@ -1,4 +1,4 @@
-   * Generated on 2018-Jul-08 02:25 CEST
+   * Generated on 2018-Jul-09 02:24 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Measurement of dielectron production in central Pb-Pb collisions at \(\sqrt{\textit{s}_{\mathrm{NN}}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1807.00923v1][1807.00923]]|[[http://inspirehep.net//record/1680638?ln=en][1680638]]|%RED%Submitted%ENDCOLOR%|222|

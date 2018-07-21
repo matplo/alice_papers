@@ -1,4 +1,4 @@
-   * Generated on 2018-Jul-20 02:24 CEST
+   * Generated on 2018-Jul-21 02:31 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Medium modification of the shape of small-radius jets in central Pb-Pb collisions at $\sqrt{s_{\mathrm {NN}}} = 2.76\,\rm{!TeV}$|!PbPb|[[http://arxiv.org/abs/1807.06854v1][1807.06854]]|[[http://inspirehep.net//record/1682990?ln=en][1682990]]|%RED%Submitted%ENDCOLOR%|223|

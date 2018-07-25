@@ -113,7 +113,7 @@
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Suppression of $\Lambda(1520)$ resonance production in central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
  %Submitted to: Phys.Rev.Lett.
  [arXiv:1805.04361 [nucl-ex]].
- %%CITATION = ARXIV:1805.04361;%% 
+ %%CITATION = ARXIV:1805.04361;%%
 
 %\cite{Acharya:2018ihu}
 \bibitem{Acharya:2018ihu}
@@ -140,8 +140,10 @@
 %\cite{Acharya:2018lmh}
 \bibitem{Acharya:2018lmh}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at $\mathbf{\sqrt{{\textit s}_\text{NN}}} = \mathbf{5.02}$ and $\mathbf{2.76}$ TeV,''
- arXiv:1804.02944 [nucl-ex].
- %%CITATION = ARXIV:1804.02944;%%
+ JHEP {\bf 1807}, 103 (2018)
+ doi:10.1007/JHEP07(2018)103
+ [arXiv:1804.02944 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP07(2018)103;%%
 
 %\cite{Acharya:2018dqe}
 \bibitem{Acharya:2018dqe}

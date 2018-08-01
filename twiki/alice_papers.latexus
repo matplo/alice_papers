@@ -79,8 +79,10 @@
 %\cite{Acharya:2018kxc}
 \bibitem{Acharya:2018kxc}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive J/$\psi$ production at forward and backward rapidity in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 8.16 TeV,''
- arXiv:1805.04381 [nucl-ex].
- %%CITATION = ARXIV:1805.04381;%% 
+ JHEP {\bf 1807}, 160 (2018)
+ doi:10.1007/JHEP07(2018)160
+ [arXiv:1805.04381 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP07(2018)160;%% 
 
 %\cite{Acharya:2018upq}
 \bibitem{Acharya:2018upq}

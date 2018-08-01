@@ -1,4 +1,4 @@
-   * Generated on 2018-Jul-31 02:24 CEST
+   * Generated on 2018-Aug-01 02:24 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Medium modification of the shape of small-radius jets in central Pb-Pb collisions at \(\sqrt{s_{\mathrm {NN}}} = 2.76\,\rm{!TeV}\)|!PbPb|[[http://arxiv.org/abs/1807.06854v1][1807.06854]]|[[http://inspirehep.net//record/1682990?ln=en][1682990]]|%RED%Submitted%ENDCOLOR%|223|
@@ -14,7 +14,7 @@
 |CF|Anisotropic flow of identified particles in Pb-Pb collisions at \(\mathbf{\sqrt{{\textit s}_{\rm NN}}}=5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1805.04390v1][1805.04390]]|[[http://inspirehep.net//record/1672822?ln=en][1672822]]|%RED%Submitted%ENDCOLOR%|213|
 |DQ|\(\Upsilon\) suppression at forward rapidity in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1805.04387v1][1805.04387]]|[[http://inspirehep.net//record/1672798?ln=en][1672798]]|%RED%Submitted%ENDCOLOR%|212|
 |DQ|Inclusive J/\(\psi\) production in Xe-Xe collisions at \(\sqrt{s_{\rm NN}}\) = 5.44 !TeV|!XeXe|[[http://arxiv.org/abs/1805.04383v1][1805.04383]]|[[http://inspirehep.net//record/1672800?ln=en][1672800]]|%RED%Submitted%ENDCOLOR%|211|
-|DQ|Inclusive J/\(\psi\) production at forward and backward rapidity in p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 8.16 !TeV|!pPb|[[http://arxiv.org/abs/1805.04381v1][1805.04381]]|[[http://inspirehep.net//record/1672807?ln=en][1672807]]|%RED%Submitted%ENDCOLOR%|210|
+|DQ|Inclusive J/\(\psi\) production at forward and backward rapidity in p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 8.16 !TeV|!pPb|[[http://arxiv.org/abs/1805.04381v1][1805.04381]]|[[http://inspirehep.net//record/1672807?ln=en][1672807]]|%GREEN%[[https://doi.org/10.1007/JHEP07(2018)160][JHEP 07]]%ENDCOLOR%|210|
 |HF|Measurements of low-\(p_{\rm T}\) electrons from semileptonic heavy-flavour hadron decays at mid-rapidity in pp and Pb-Pb collisions at \(\mathbf{\sqrt{{\it s}_\mathrm{NN}}}\) = 2.76 !TeV|!pp,PbPb|[[http://arxiv.org/abs/1805.04379v1][1805.04379]]|[[http://inspirehep.net//record/1672811?ln=en][1672811]]|%RED%Submitted%ENDCOLOR%|209|
 |DQ|Measurement of the inclusive J/\(\psi\) polarization at forward rapidity in pp collisions at \(\sqrt{s} = 8\) !TeV|!pp|[[http://arxiv.org/abs/1805.04374v1][1805.04374]]|[[http://inspirehep.net//record/1672801?ln=en][1672801]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-018-6027-2][Eur. Phys. J. C78]]%ENDCOLOR%|208|
 |HF|Azimuthal anisotropy of heavy-flavour decay electrons in p-Pb collisions at \( \sqrt{s_{\rm NN}}\) = 5.02 !TeV|!pPb|[[http://arxiv.org/abs/1805.04367v1][1805.04367]]|[[http://inspirehep.net//record/1672812?ln=en][1672812]]|%RED%Submitted%ENDCOLOR%|207|

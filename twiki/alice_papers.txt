@@ -1,8 +1,8 @@
-   * Generated on 2018-Aug-02 10:18 CEST
+   * Generated on 2018-Aug-03 02:27 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Multiplicity dependence of light-flavor hadron production in pp collisions at $\sqrt{s}$ = 7 !TeV|!pp|[[http://arxiv.org/abs/1807.11321v1][1807.11321]]|[[http://inspirehep.net//record/1684320?ln=en][1684320]]|%RED%Submitted%ENDCOLOR%|224|
-|JE|Medium modification of the shape of small-radius jets in central Pb-Pb collisions at $\sqrt{s_{\mathrm {NN}}} = 2.76\,\rm{!TeV}$|!PbPb|[[http://arxiv.org/abs/1807.06854v1][1807.06854]]|[[http://inspirehep.net//record/1682990?ln=en][1682990]]|%RED%Submitted%ENDCOLOR%|223|
+|JE|Medium modification of the shape of small-radius jets in central Pb-Pb collisions at $\sqrt{s_{\mathrm {NN}}} = 2.76\,\rm{!TeV}$|!PbPb|[[http://arxiv.org/abs/1807.06854v1][1807.06854]]|[[http://inspirehep.net//record/1682990?ln=en][1682990]]|%GREEN%Submitted to: JHEP %ENDCOLOR%|223|
 |DQ|Measurement of dielectron production in central Pb-Pb collisions at $\sqrt{\textit{s}_{\mathrm{NN}}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1807.00923v1][1807.00923]]|[[http://inspirehep.net//record/1680638?ln=en][1680638]]|%RED%Submitted%ENDCOLOR%|222|
 |CF|p-p, p-$Λ$ and $Λ$-$Λ$ correlations studied via femtoscopy in pp reactions at $\sqrt{s}$ = 7 !TeV|!pp|[[http://arxiv.org/abs/1805.12455v2][1805.12455]]|[[http://inspirehep.net//record/1675759?ln=en][1675759]]|%RED%Submitted%ENDCOLOR%|221|
 |LF|Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1805.05212v1][1805.05212]]|[[http://inspirehep.net//record/1672944?ln=en][1672944]]|%RED%Submitted%ENDCOLOR%|220|

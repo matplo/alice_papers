@@ -89,7 +89,7 @@
  JHEP {\bf 1807}, 160 (2018)
  doi:10.1007/JHEP07(2018)160
  [arXiv:1805.04381 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP07(2018)160;%% 
+ %%CITATION = doi:10.1007/JHEP07(2018)160;%%
 
 %\cite{Acharya:2018upq}
 \bibitem{Acharya:2018upq}
@@ -127,8 +127,9 @@
 %\cite{Acharya:2018ihu}
 \bibitem{Acharya:2018ihu}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Anisotropic flow in Xe-Xe collisions at $\mathbf{\sqrt{s_{\rm{NN}}} = 5.44}$ TeV,''
+ Phys.\ Lett.\ B {\bf 784}, 82 (2018)
  doi:10.1016/j.physletb.2018.06.059
- arXiv:1805.01832 [nucl-ex].
+ [arXiv:1805.01832 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2018.06.059;%%
 
 %\cite{Acharya:2018hre}

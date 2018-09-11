@@ -1,3 +1,15 @@
+%\cite{Acharya:2018jua}
+\bibitem{Acharya:2018jua}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Energy dependence of exclusive $J/\psi$ photoproduction off protons in ultra-peripheral p-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:1809.03235 [nucl-ex].
+ %%CITATION = ARXIV:1809.03235;%% 
+
+%\cite{Acharya:2018eat}
+\bibitem{Acharya:2018eat}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged jet cross section and fragmentation in proton-proton collisions at $\sqrt{s}$ = 7 TeV,''
+ arXiv:1809.03232 [nucl-ex].
+ %%CITATION = ARXIV:1809.03232;%% 
+
 %\cite{Acharya:2018orn}
 \bibitem{Acharya:2018orn}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of light-flavor hadron production in pp collisions at $\sqrt{s}$ = 7 TeV,''

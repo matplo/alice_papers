@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|UD|Energy dependence of exclusive \\(J/\psi\\) photoproduction off protons in ultra-peripheral p-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|pPb|[1809.03235](http://arxiv.org/abs/1809.03235v1){: target="_blank"}|[1693305](http://inspirehep.net//record/1693305?ln=en){: target="_blank"}|Submitted|226|
+|JE|Charged jet cross section and fragmentation in proton-proton collisions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1809.03232](http://arxiv.org/abs/1809.03232v1){: target="_blank"}|[1693308](http://inspirehep.net//record/1693308?ln=en){: target="_blank"}|Submitted|225|
 |LF|Multiplicity dependence of light-flavor hadron production in pp collisions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1807.11321](http://arxiv.org/abs/1807.11321v1){: target="_blank"}|[1684320](http://inspirehep.net//record/1684320?ln=en){: target="_blank"}|Submitted to: Phys. Rev. |224|
 |JE|Medium modification of the shape of small-radius jets in central Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm \{NN\}\}\} = 2.76\,\rm\{TeV\}\\)|PbPb|[1807.06854](http://arxiv.org/abs/1807.06854v1){: target="_blank"}|[1682990](http://inspirehep.net//record/1682990?ln=en){: target="_blank"}|Submitted to: JHEP |223|
 |DQ|Measurement of dielectron production in central Pb-Pb collisions at \\(\sqrt\{\textit\{s\}_\{\mathrm\{NN\}\}\}\\) = 2.76 TeV|PbPb|[1807.00923](http://arxiv.org/abs/1807.00923v1){: target="_blank"}|[1680638](http://inspirehep.net//record/1680638?ln=en){: target="_blank"}|Submitted|222|

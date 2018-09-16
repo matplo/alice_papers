@@ -1,4 +1,4 @@
-   * Generated on 2018-Sep-15 02:29 CEST
+   * Generated on 2018-Sep-16 02:26 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|Energy dependence of exclusive \(J/\psi\) photoproduction off protons in ultra-peripheral p-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV|!pPb|[[http://arxiv.org/abs/1809.03235v1][1809.03235]]|[[http://inspirehep.net//record/1693305?ln=en][1693305]]|%RED%Submitted%ENDCOLOR%|226|

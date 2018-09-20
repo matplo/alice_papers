@@ -75,8 +75,10 @@
 %\cite{Acharya:2018ohw}
 \bibitem{Acharya:2018ohw}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Dielectron production in proton-proton collisions at $\sqrt{s}$ = 7 TeV,''
- arXiv:1805.04391 [hep-ex].
- %%CITATION = ARXIV:1805.04391;%%
+ JHEP {\bf 1809}, 064 (2018)
+ doi:10.1007/JHEP09(2018)064
+ [arXiv:1805.04391 [hep-ex]].
+ %%CITATION = doi:10.1007/JHEP09(2018)064;%%
 
 %\cite{Acharya:2018zuq}
 \bibitem{Acharya:2018zuq}

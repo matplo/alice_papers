@@ -1,4 +1,4 @@
-   * Generated on 2018-Sep-19 02:26 CEST
+   * Generated on 2018-Sep-20 02:26 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|Energy dependence of exclusive \(J/\psi\) photoproduction off protons in ultra-peripheral p-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV|!pPb|[[http://arxiv.org/abs/1809.03235v1][1809.03235]]|[[http://inspirehep.net//record/1693305?ln=en][1693305]]|%RED%Submitted%ENDCOLOR%|226|
@@ -13,7 +13,7 @@
 |DQ|Dielectron and heavy-quark production in inelastic and high-multiplicity proton-proton collisions at \(\sqrt{s_{\rm NN}}\) = 13 !TeV|!pp|[[http://arxiv.org/abs/1805.04407v1][1805.04407]]|[[http://inspirehep.net//record/1672788?ln=en][1672788]]|%RED%Submitted%ENDCOLOR%|217|
 |GA|Direct photon elliptic flow in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1805.04403v1][1805.04403]]|[[http://inspirehep.net//record/1672789?ln=en][1672789]]|%RED%Submitted%ENDCOLOR%|216|
 |LF|Transverse momentum spectra and nuclear modification factors of charged particles in Xe-Xe collisions at \(\sqrt{s_{\rm NN}}\) = 5.44 !TeV|!XeXe|[[http://arxiv.org/abs/1805.04399v1][1805.04399]]|[[http://inspirehep.net//record/1672790?ln=en][1672790]]|%RED%Submitted%ENDCOLOR%|215|
-|DQ|Dielectron production in proton-proton collisions at \(\sqrt{s}\) = 7 !TeV|!pp|[[http://arxiv.org/abs/1805.04391v1][1805.04391]]|[[http://inspirehep.net//record/1672792?ln=en][1672792]]|%RED%Submitted%ENDCOLOR%|214|
+|DQ|Dielectron production in proton-proton collisions at \(\sqrt{s}\) = 7 !TeV|!pp|[[http://arxiv.org/abs/1805.04391v1][1805.04391]]|[[http://inspirehep.net//record/1672792?ln=en][1672792]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2018)064][JHEP 09]]%ENDCOLOR%|214|
 |CF|Anisotropic flow of identified particles in Pb-Pb collisions at \(\mathbf{\sqrt{{\textit s}_{\rm NN}}}=5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1805.04390v1][1805.04390]]|[[http://inspirehep.net//record/1672822?ln=en][1672822]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2018)006][JHEP 09]]%ENDCOLOR%|213|
 |DQ|\(\Upsilon\) suppression at forward rapidity in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1805.04387v1][1805.04387]]|[[http://inspirehep.net//record/1672798?ln=en][1672798]]|%RED%Submitted%ENDCOLOR%|212|
 |DQ|Inclusive J/\(\psi\) production in Xe-Xe collisions at \(\sqrt{s_{\rm NN}}\) = 5.44 !TeV|!XeXe|[[http://arxiv.org/abs/1805.04383v1][1805.04383]]|[[http://inspirehep.net//record/1672800?ln=en][1672800]]|%RED%Submitted%ENDCOLOR%|211|

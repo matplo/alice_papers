@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Measuring K\\(^0_\{\rm S\}\\)K\\(^\{\rm\{\pm\}\}\\) interactions using pp collisions at \\(\sqrt\{s\}=7\\) TeV|pp|[1809.07899](http://arxiv.org/abs/1809.07899v1){: target="_blank"}|[1695028](http://inspirehep.net//record/1695028?ln=en){: target="_blank"}|Submitted|227|
 |UD|Energy dependence of exclusive \\(J/\psi\\) photoproduction off protons in ultra-peripheral p-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|pPb|[1809.03235](http://arxiv.org/abs/1809.03235v1){: target="_blank"}|[1693305](http://inspirehep.net//record/1693305?ln=en){: target="_blank"}|Submitted|226|
 |JE|Charged jet cross section and fragmentation in proton-proton collisions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1809.03232](http://arxiv.org/abs/1809.03232v1){: target="_blank"}|[1693308](http://inspirehep.net//record/1693308?ln=en){: target="_blank"}|Submitted|225|
 |LF|Multiplicity dependence of light-flavor hadron production in pp collisions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1807.11321](http://arxiv.org/abs/1807.11321v1){: target="_blank"}|[1684320](http://inspirehep.net//record/1684320?ln=en){: target="_blank"}|Submitted to: Phys. Rev. |224|

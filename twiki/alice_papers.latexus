@@ -1,3 +1,9 @@
+%\cite{Acharya:2018bxo}
+\bibitem{Acharya:2018bxo}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at $\sqrt{s_{\rm NN}} =5.02$ TeV,''
+ arXiv:1809.09371 [nucl-ex].
+ %%CITATION = ARXIV:1809.09371;%% 
+
 %\cite{Acharya:2018kpo}
 \bibitem{Acharya:2018kpo}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measuring K$^0_{\rm S}$K$^{\rm{\pm}}$ interactions using pp collisions at $\sqrt{s}=7$ TeV,''
@@ -205,7 +211,7 @@
  Eur.\ Phys.\ J.\ C {\bf 78}, no. 6, 466 (2018)
  doi:10.1140/epjc/s10052-018-5881-2
  [arXiv:1802.00765 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-018-5881-2;%% 
+ %%CITATION = doi:10.1140/epjc/s10052-018-5881-2;%%
 
 %\cite{Acharya:2018hzf}
 \bibitem{Acharya:2018hzf}

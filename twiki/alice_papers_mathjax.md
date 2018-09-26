@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} =5.02\\) TeV|PbPb|[1809.09371](http://arxiv.org/abs/1809.09371v1){: target="_blank"}|[1695334](http://inspirehep.net//record/1695334?ln=en){: target="_blank"}|Submitted|228|
 |CF|Measuring K\\(^0_\{\rm S\}\\)K\\(^\{\rm\{\pm\}\}\\) interactions using pp collisions at \\(\sqrt\{s\}=7\\) TeV|pp|[1809.07899](http://arxiv.org/abs/1809.07899v1){: target="_blank"}|[1695028](http://inspirehep.net//record/1695028?ln=en){: target="_blank"}|Submitted|227|
 |UD|Energy dependence of exclusive \\(J/\psi\\) photoproduction off protons in ultra-peripheral p-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|pPb|[1809.03235](http://arxiv.org/abs/1809.03235v1){: target="_blank"}|[1693305](http://inspirehep.net//record/1693305?ln=en){: target="_blank"}|Submitted|226|
 |JE|Charged jet cross section and fragmentation in proton-proton collisions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1809.03232](http://arxiv.org/abs/1809.03232v1){: target="_blank"}|[1693308](http://inspirehep.net//record/1693308?ln=en){: target="_blank"}|Submitted|225|

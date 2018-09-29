@@ -1,4 +1,4 @@
-   * Generated on 2018-Sep-28 02:25 CEST
+   * Generated on 2018-Sep-29 02:24 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at \(\sqrt{s_{\rm NN}} =5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1809.09371v1][1809.09371]]|[[http://inspirehep.net//record/1695334?ln=en][1695334]]|%RED%Submitted%ENDCOLOR%|228|

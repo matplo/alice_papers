@@ -1,6 +1,7 @@
-   * Generated on 2018-Okt-01 02:30 CEST
+   * Generated on 2018-Okt-01 18:37 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|$Λ_\mathrm{c}^+$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1809.10922v1][1809.10922]]|[[http://inspirehep.net//record/1696315?ln=en][1696315]]|%RED%Submitted%ENDCOLOR%|229|
 |HF|Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at $\sqrt{s_{\rm NN}} =5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1809.09371v1][1809.09371]]|[[http://inspirehep.net//record/1695334?ln=en][1695334]]|%RED%Submitted%ENDCOLOR%|228|
 |CF|Measuring K$^0_{\rm S}$K$^{\rm{\pm}}$ interactions using pp collisions at $\sqrt{s}=7$ !TeV|!pp|[[http://arxiv.org/abs/1809.07899v1][1809.07899]]|[[http://inspirehep.net//record/1695028?ln=en][1695028]]|%RED%Submitted%ENDCOLOR%|227|
 |UD|Energy dependence of exclusive $J/ψ$ photoproduction off protons in ultra-peripheral p-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|!pPb|[[http://arxiv.org/abs/1809.03235v1][1809.03235]]|[[http://inspirehep.net//record/1693305?ln=en][1693305]]|%RED%Submitted%ENDCOLOR%|226|

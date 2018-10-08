@@ -201,9 +201,11 @@
 %\cite{Acharya:2018yhg}
 \bibitem{Acharya:2018yhg}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Neutral pion and $\eta$ meson production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
- %Submitted to: Phys.Rev.
+ Phys.\ Rev.\ 
+ [Phys.\ Rev.\ C {\bf 98}, 044901 (2018)]
+ doi:10.1103/PhysRevC.98.044901
  [arXiv:1803.05490 [nucl-ex]].
- %%CITATION = ARXIV:1803.05490;%%
+ %%CITATION = doi:10.1103/PhysRevC.98.044901;%%
 
 %\cite{Acharya:2018qsh}
 \bibitem{Acharya:2018qsh}

@@ -1,4 +1,4 @@
-   * Generated on 2018-Okt-08 02:24 CEST
+   * Generated on 2018-Okt-09 02:27 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|\(\Lambda_\mathrm{c}^+\) production in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1809.10922v1][1809.10922]]|[[http://inspirehep.net//record/1696315?ln=en][1696315]]|%RED%Submitted%ENDCOLOR%|229|

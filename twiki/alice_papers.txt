@@ -1,4 +1,4 @@
-   * Generated on 2018-Okt-13 02:34 CEST
+   * Generated on 2018-Okt-14 02:25 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|$Λ_\mathrm{c}^+$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1809.10922v1][1809.10922]]|[[http://inspirehep.net//record/1696315?ln=en][1696315]]|%RED%Submitted%ENDCOLOR%|229|
@@ -77,7 +77,7 @@
 |DQ|J/$ψ$ suppression at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1606.08197v2][1606.08197]]|[[http://inspirehep.net//record/1472319?ln=en][1472319]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2016.12.064][Phys. Lett. B766]]%ENDCOLOR%|156|
 |LF|Enhanced production of multi-strange hadrons in high-multiplicity proton-proton collisions|!pp|[[http://arxiv.org/abs/1606.07424v2][1606.07424]]|[[http://inspirehep.net//record/1471838?ln=en][1471838]]|%GREEN%[[https://doi.org/10.1038/nphys4111][Nature Phys. 13]]%ENDCOLOR%|155|
 |CF|Higher harmonic flow coefficients of identified hadrons in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1606.06057v2][1606.06057]]|[[http://inspirehep.net//record/1471285?ln=en][1471285]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2016)164][JHEP 09]]%ENDCOLOR%|154|
-|HF|Elliptic flow of electrons from heavy-flavour hadron decays at mid-rapidity in Pb-Pb collisions at $\mathbf{\sqrt{s_\mathrm{NN}}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1606.00321v2][1606.00321]]|[[http://inspirehep.net//record/1466626?ln=en][1466626]]|%GREEN%JHEP 09%ENDCOLOR%|153|
+|HF|Elliptic flow of electrons from heavy-flavour hadron decays at mid-rapidity in Pb-Pb collisions at $\mathbf{\sqrt{s_\mathrm{NN}}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1606.00321v2][1606.00321]]|[[http://inspirehep.net//record/1466626?ln=en][1466626]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2016)028][JHEP 09]]%ENDCOLOR%|153|
 |HF|D-meson production in p-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ !TeV and in pp collisions at $\sqrt{s}=7$ !TeV|!pp,pPb|[[http://arxiv.org/abs/1605.07569v2][1605.07569]]|[[http://inspirehep.net//record/1465513?ln=en][1465513]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.94.054908][Phys. Rev. C94]]%ENDCOLOR%|152|
 |HF|Measurement of azimuthal correlations of D mesons and charged particles in pp collisions at $\sqrt{s}=7$ !TeV and p-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ !TeV|!pp,pPb|[[http://arxiv.org/abs/1605.06963v2][1605.06963]]|[[http://inspirehep.net//record/1464839?ln=en][1464839]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-017-4779-8][Eur. Phys. J. C77]]%ENDCOLOR%|151|
 |CF|Pseudorapidity dependence of the anisotropic flow of charged particles in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ !TeV|!PbPb|[[http://arxiv.org/abs/1605.02035v3][1605.02035]]|[[http://inspirehep.net//record/1456145?ln=en][1456145]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2016.07.017][Phys. Lett. B762]]%ENDCOLOR%|150|

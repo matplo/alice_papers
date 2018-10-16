@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|HF|\\(\Lambda_\mathrm\{c\}^+\\) production in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[1809.10922](http://arxiv.org/abs/1809.10922v1){: target="_blank"}|[1696315](http://inspirehep.net//record/1696315?ln=en){: target="_blank"}|Submitted|229|
+|HF|\\(\Lambda_\mathrm\{c\}^+\\) production in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[1809.10922](http://arxiv.org/abs/1809.10922v1){: target="_blank"}|[1696315](http://inspirehep.net//record/1696315?ln=en){: target="_blank"}|Submitted to: Phys. Lett. |229|
 |HF|Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} =5.02\\) TeV|PbPb|[1809.09371](http://arxiv.org/abs/1809.09371v1){: target="_blank"}|[1695334](http://inspirehep.net//record/1695334?ln=en){: target="_blank"}|Submitted|228|
 |CF|Measuring K\\(^0_\{\rm S\}\\)K\\(^\{\rm\{\pm\}\}\\) interactions using pp collisions at \\(\sqrt\{s\}=7\\) TeV|pp|[1809.07899](http://arxiv.org/abs/1809.07899v1){: target="_blank"}|[1695028](http://inspirehep.net//record/1695028?ln=en){: target="_blank"}|Submitted|227|
 |UD|Energy dependence of exclusive \\(J/\psi\\) photoproduction off protons in ultra-peripheral p-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|pPb|[1809.03235](http://arxiv.org/abs/1809.03235v1){: target="_blank"}|[1693305](http://inspirehep.net//record/1693305?ln=en){: target="_blank"}|Submitted|226|

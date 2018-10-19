@@ -14,7 +14,8 @@
 %\cite{Acharya:2018kpo}
 \bibitem{Acharya:2018kpo}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measuring K$^0_{\rm S}$K$^{\rm{\pm}}$ interactions using pp collisions at $\sqrt{s}=7$ TeV,''
- arXiv:1809.07899 [nucl-ex].
+ %Submitted to: Phys.Lett.
+ [arXiv:1809.07899 [nucl-ex]].
  %%CITATION = ARXIV:1809.07899;%% 
 
 %\cite{Acharya:2018jua}
@@ -202,8 +203,7 @@
 %\cite{Acharya:2018yhg}
 \bibitem{Acharya:2018yhg}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Neutral pion and $\eta$ meson production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ 
- [Phys.\ Rev.\ C {\bf 98}, 044901 (2018)]
+ Phys.\ Rev.\ C {\bf 98}, no. 4, 044901 (2018)
  doi:10.1103/PhysRevC.98.044901
  [arXiv:1803.05490 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.98.044901;%%

@@ -177,9 +177,10 @@
 %\cite{Acharya:2018hre}
 \bibitem{Acharya:2018hre}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of D$^0$, D$^+$, D$^{*+}$ and D$^+_{\rm s}$ production in Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}}= 5.02$ TeV,''
- %Submitted to: JHEP
+ JHEP {\bf 1810}, 174 (2018)
+ doi:10.1007/JHEP10(2018)174
  [arXiv:1804.09083 [nucl-ex]].
- %%CITATION = ARXIV:1804.09083;%%
+ %%CITATION = doi:10.1007/JHEP10(2018)174;%%
 
 %\cite{Acharya:2018wbz}
 \bibitem{Acharya:2018wbz}

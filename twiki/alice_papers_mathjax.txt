@@ -1,4 +1,4 @@
-   * Generated on 2018-Nov-05 02:26 CET
+   * Generated on 2018-Nov-06 02:28 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|\(\Lambda_\mathrm{c}^+\) production in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1809.10922v1][1809.10922]]|[[http://inspirehep.net//record/1696315?ln=en][1696315]]|%GREEN%Submitted to: Phys. Lett. %ENDCOLOR%|229|
@@ -27,7 +27,7 @@
 |LF|Production of the \(\rho\)(770)\({^{0}}\) meson in pp and Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|!pp,PbPb|[[http://arxiv.org/abs/1805.04365v1][1805.04365]]|[[http://inspirehep.net//record/1672860?ln=en][1672860]]|%RED%Submitted%ENDCOLOR%|206|
 |LF|Suppression of \(\Lambda(1520)\) resonance production in central Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1805.04361v1][1805.04361]]|[[http://inspirehep.net//record/1672806?ln=en][1672806]]|%GREEN%Submitted to: Phys. Rev. Lett. %ENDCOLOR%|205|
 |CF|Anisotropic flow in Xe-Xe collisions at \(\mathbf{\sqrt{s_{\rm{NN}}} = 5.44}\) !TeV|!XeXe|[[http://arxiv.org/abs/1805.01832v1][1805.01832]]|[[http://inspirehep.net//record/1671792?ln=en][1671792]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2018.06.059][Phys. Lett. B784]]%ENDCOLOR%|204|
-|HF|Measurement of D\(^0\), D\(^+\), D\(^{*+}\) and D\(^+_{\rm s}\) production in Pb-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}}= 5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.09083v1][1804.09083]]|[[http://inspirehep.net//record/1669819?ln=en][1669819]]|%GREEN%Submitted to: JHEP %ENDCOLOR%|203|
+|HF|Measurement of D\(^0\), D\(^+\), D\(^{*+}\) and D\(^+_{\rm s}\) production in Pb-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}}= 5.02\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.09083v1][1804.09083]]|[[http://inspirehep.net//record/1669819?ln=en][1669819]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2018)174][JHEP 10]]%ENDCOLOR%|203|
 |LF|\(\phi\) meson production at forward rapidity in Pb-Pb collisions at \(\sqrt{s_\mathrm{NN}}=2.76\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.08906v1][1804.08906]]|[[http://inspirehep.net//record/1669805?ln=en][1669805]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-018-6034-3][Eur. Phys. J. C78]]%ENDCOLOR%|202|
 |CF|Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at \(\mathbf{\sqrt{{\textit s}_\text{NN}}} = \mathbf{5.02}\) and \(\mathbf{2.76}\) !TeV|!PbPb|[[http://arxiv.org/abs/1804.02944v1][1804.02944]]|[[http://inspirehep.net//record/1666817?ln=en][1666817]]|%GREEN%[[https://doi.org/10.1007/JHEP07(2018)103][JHEP 07]]%ENDCOLOR%|201|
 |GA|Direct photon production at low transverse momentum in proton-proton collisions at \(\mathbf{\sqrt{s}=2.76}\) and 8 !TeV|!pp|[[http://arxiv.org/abs/1803.09857v1][1803.09857]]|[[http://inspirehep.net//record/1664312?ln=en][1664312]]|%RED%Submitted%ENDCOLOR%|200|

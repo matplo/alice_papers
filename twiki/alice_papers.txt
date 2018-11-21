@@ -1,4 +1,4 @@
-   * Generated on 2018-Nov-20 02:27 CET
+   * Generated on 2018-Nov-21 02:46 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|$Λ_\mathrm{c}^+$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|!PbPb|[[http://arxiv.org/abs/1809.10922v1][1809.10922]]|[[http://inspirehep.net//record/1696315?ln=en][1696315]]|%GREEN%Submitted to: Phys. Lett. %ENDCOLOR%|229|
@@ -13,7 +13,7 @@
 |LF|Analysis of the apparent nuclear modification in peripheral Pb-Pb collisions at 5.02 !TeV|!PbPb|[[http://arxiv.org/abs/1805.05212v1][1805.05212]]|[[http://inspirehep.net//record/1672944?ln=en][1672944]]|%RED%Submitted%ENDCOLOR%|220|
 |LF|Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44 !TeV|!XeXe|[[http://arxiv.org/abs/1805.04432v1][1805.04432]]|[[http://inspirehep.net//record/1672756?ln=en][1672756]]|%RED%Submitted%ENDCOLOR%|219|
 |CF|Two particle differential transverse momentum and number density correlations in p-Pb and Pb-Pb at the LHC|!pPb,PbPb|[[http://arxiv.org/abs/1805.04422v1][1805.04422]]|[[http://inspirehep.net//record/1672765?ln=en][1672765]]|%RED%Submitted%ENDCOLOR%|218|
-|DQ|Dielectron and heavy-quark production in inelastic and high-multiplicity proton-proton collisions at $\sqrt{s_{\rm NN}}$ = 13 !TeV|!pp|[[http://arxiv.org/abs/1805.04407v1][1805.04407]]|[[http://inspirehep.net//record/1672788?ln=en][1672788]]|%RED%Submitted%ENDCOLOR%|217|
+|DQ|Dielectron and heavy-quark production in inelastic and high-multiplicity proton-proton collisions at $\sqrt{s_{\rm NN}}$ = 13 !TeV|!pp|[[http://arxiv.org/abs/1805.04407v1][1805.04407]]|[[http://inspirehep.net//record/1672788?ln=en][1672788]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2018.11.009][j. physletb. 2018. 11. 009 ]]%ENDCOLOR%|217|
 |GA|Direct photon elliptic flow in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|!PbPb|[[http://arxiv.org/abs/1805.04403v1][1805.04403]]|[[http://inspirehep.net//record/1672789?ln=en][1672789]]|%RED%Submitted%ENDCOLOR%|216|
 |LF|Transverse momentum spectra and nuclear modification factors of charged particles in Xe-Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44 !TeV|!XeXe|[[http://arxiv.org/abs/1805.04399v1][1805.04399]]|[[http://inspirehep.net//record/1672790?ln=en][1672790]]|%RED%Submitted%ENDCOLOR%|215|
 |DQ|Dielectron production in proton-proton collisions at $\sqrt{s}$ = 7 !TeV|!pp|[[http://arxiv.org/abs/1805.04391v1][1805.04391]]|[[http://inspirehep.net//record/1672792?ln=en][1672792]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2018)064][JHEP 09]]%ENDCOLOR%|214|

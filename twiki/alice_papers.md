@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Jet fragmentation transverse momentum measurements from di-hadron correlations in \\(\sqrt\{s\}\\) = 7 TeV pp and \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV p-Pb collisions|pp,|[1811.09742](http://arxiv.org/abs/1811.09742v1){: target="_blank"}|[1704923](http://inspirehep.net//record/1704923?ln=en){: target="_blank"}|Submitted|230|
 |HF|\\(\Lambda_\mathrm\{c\}^+\\) production in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[1809.10922](http://arxiv.org/abs/1809.10922v1){: target="_blank"}|[1696315](http://inspirehep.net//record/1696315?ln=en){: target="_blank"}|Submitted to: Phys. Lett. |229|
 |HF|Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} =5.02\\) TeV|PbPb|[1809.09371](http://arxiv.org/abs/1809.09371v1){: target="_blank"}|[1695334](http://inspirehep.net//record/1695334?ln=en){: target="_blank"}|Submitted|228|
 |CF|Measuring K\\(^0_\{\rm S\}\\)K\\(^\{\rm\{\pm\}\}\\) interactions using pp collisions at \\(\sqrt\{s\}=7\\) TeV|pp|[1809.07899](http://arxiv.org/abs/1809.07899v1){: target="_blank"}|[1695028](http://inspirehep.net//record/1695028?ln=en){: target="_blank"}|Submitted to: Phys. Lett. |227|

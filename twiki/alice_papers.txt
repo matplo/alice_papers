@@ -1,4 +1,4 @@
-   * Generated on 2018-Nov-28 02:26 CET
+   * Generated on 2018-Nov-29 02:26 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Jet fragmentation transverse momentum measurements from di-hadron correlations in $\sqrt{s}$ = 7 !TeV pp and $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV p-Pb collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1811.09742v1][1811.09742]]|[[http://inspirehep.net//record/1704923?ln=en][1704923]]|%RED%Submitted%ENDCOLOR%|230|

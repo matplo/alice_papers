@@ -1,3 +1,9 @@
+%\cite{Acharya:2018pjd}
+\bibitem{Acharya:2018pjd}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Study of J/$\psi$ azimuthal anisotropy at forward rapidity in Pb-Pb collisions at $\sqrt{{\textit s}_{\rm NN}}$ = 5.02 TeV,''
+ arXiv:1811.12727 [nucl-ex].
+ %%CITATION = ARXIV:1811.12727;%% 
+
 %\cite{Acharya:2018dxw}
 \bibitem{Acharya:2018dxw}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Jet fragmentation transverse momentum measurements from di-hadron correlations in $\sqrt{s}$ = 7 TeV pp and $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV p-Pb collisions,''
@@ -15,7 +21,7 @@
 \bibitem{Acharya:2018bxo}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at $\sqrt{s_{\rm NN}} =5.02$ TeV,''
  arXiv:1809.09371 [nucl-ex].
- %%CITATION = ARXIV:1809.09371;%% 
+ %%CITATION = ARXIV:1809.09371;%%
 
 %\cite{Acharya:2018kpo}
 \bibitem{Acharya:2018kpo}

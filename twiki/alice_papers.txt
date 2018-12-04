@@ -1,6 +1,7 @@
-   * Generated on 2018-Dez-03 19:59 CET
+   * Generated on 2018-Dez-04 02:27 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|DQ|Study of J/$ψ$ azimuthal anisotropy at forward rapidity in Pb-Pb collisions at $\sqrt{{\textit s}_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1811.12727v1][1811.12727]]|[[http://inspirehep.net//record/1706006?ln=en][1706006]]|%RED%Submitted%ENDCOLOR%|231|
 |CF|Jet fragmentation transverse momentum measurements from di-hadron correlations in $\sqrt{s}$ = 7 !TeV pp and $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV p-Pb collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1811.09742v1][1811.09742]]|[[http://inspirehep.net//record/1704923?ln=en][1704923]]|%RED%Submitted%ENDCOLOR%|230|
 |HF|$Λ_\mathrm{c}^+$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1809.10922v1][1809.10922]]|[[http://inspirehep.net//record/1696315?ln=en][1696315]]|%GREEN%Submitted to: Phys. Lett. %ENDCOLOR%|229|
 |HF|Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at $\sqrt{s_{\rm NN}} =5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1809.09371v1][1809.09371]]|[[http://inspirehep.net//record/1695334?ln=en][1695334]]|%RED%Submitted%ENDCOLOR%|228|

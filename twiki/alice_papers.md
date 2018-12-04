@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|Study of J/\\(\psi\\) azimuthal anisotropy at forward rapidity in Pb-Pb collisions at \\(\sqrt\{\{\textit s\}_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[1811.12727](http://arxiv.org/abs/1811.12727v1){: target="_blank"}|[1706006](http://inspirehep.net//record/1706006?ln=en){: target="_blank"}|Submitted|231|
 |CF|Jet fragmentation transverse momentum measurements from di-hadron correlations in \\(\sqrt\{s\}\\) = 7 TeV pp and \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV p-Pb collisions|pp,pPb|[1811.09742](http://arxiv.org/abs/1811.09742v1){: target="_blank"}|[1704923](http://inspirehep.net//record/1704923?ln=en){: target="_blank"}|Submitted|230|
 |HF|\\(\Lambda_\mathrm\{c\}^+\\) production in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[1809.10922](http://arxiv.org/abs/1809.10922v1){: target="_blank"}|[1696315](http://inspirehep.net//record/1696315?ln=en){: target="_blank"}|Submitted to: Phys. Lett. |229|
 |HF|Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} =5.02\\) TeV|PbPb|[1809.09371](http://arxiv.org/abs/1809.09371v1){: target="_blank"}|[1695334](http://inspirehep.net//record/1695334?ln=en){: target="_blank"}|Submitted|228|

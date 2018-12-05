@@ -1,4 +1,4 @@
-   * Generated on 2018-Dez-04 02:27 CET
+   * Generated on 2018-Dez-05 02:27 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Study of J/$ψ$ azimuthal anisotropy at forward rapidity in Pb-Pb collisions at $\sqrt{{\textit s}_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1811.12727v1][1811.12727]]|[[http://inspirehep.net//record/1706006?ln=en][1706006]]|%RED%Submitted%ENDCOLOR%|231|

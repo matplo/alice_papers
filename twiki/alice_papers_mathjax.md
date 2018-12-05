@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Charged-particle pseudorapidity density at mid-rapidity in p-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 8.16 TeV|pPb|[1812.01312](http://arxiv.org/abs/1812.01312v1){: target="_blank"}|[1706753](http://inspirehep.net//record/1706753?ln=en){: target="_blank"}|Submitted|232|
 |DQ|Study of J/\\(\psi\\) azimuthal anisotropy at forward rapidity in Pb-Pb collisions at \\(\sqrt\{\{\textit s\}_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[1811.12727](http://arxiv.org/abs/1811.12727v1){: target="_blank"}|[1706006](http://inspirehep.net//record/1706006?ln=en){: target="_blank"}|Submitted|231|
 |CF|Jet fragmentation transverse momentum measurements from di-hadron correlations in \\(\sqrt\{s\}\\) = 7 TeV pp and \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV p-Pb collisions|pp,pPb|[1811.09742](http://arxiv.org/abs/1811.09742v1){: target="_blank"}|[1704923](http://inspirehep.net//record/1704923?ln=en){: target="_blank"}|Submitted|230|
 |HF|\\(\Lambda_\mathrm\{c\}^+\\) production in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[1809.10922](http://arxiv.org/abs/1809.10922v1){: target="_blank"}|[1696315](http://inspirehep.net//record/1696315?ln=en){: target="_blank"}|Submitted to: Phys. Lett. |229|

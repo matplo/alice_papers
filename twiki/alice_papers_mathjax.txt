@@ -1,4 +1,4 @@
-   * Generated on 2018-Dez-05 10:32 CET
+   * Generated on 2018-Dez-06 02:28 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Charged-particle pseudorapidity density at mid-rapidity in p-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1812.01312v1][1812.01312]]|[[http://inspirehep.net//record/1706753?ln=en][1706753]]|%RED%Submitted%ENDCOLOR%|232|
@@ -18,7 +18,7 @@
 |CF|Two particle differential transverse momentum and number density correlations in p-Pb and Pb-Pb at the LHC|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1805.04422v1][1805.04422]]|[[http://inspirehep.net//record/1672765?ln=en][1672765]]|%RED%Submitted%ENDCOLOR%|218|
 |DQ|Dielectron and heavy-quark production in inelastic and high-multiplicity proton-proton collisions at \(\sqrt{s_{\rm NN}}\) = 13 !TeV|pp|[[http://arxiv.org/abs/1805.04407v1][1805.04407]]|[[http://inspirehep.net//record/1672788?ln=en][1672788]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2018.11.009][j. physletb. 2018. 11. 009 ]]%ENDCOLOR%|217|
 |GA|Direct photon elliptic flow in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1805.04403v1][1805.04403]]|[[http://inspirehep.net//record/1672789?ln=en][1672789]]|%RED%Submitted%ENDCOLOR%|216|
-|LF|Transverse momentum spectra and nuclear modification factors of charged particles in Xe-Xe collisions at \(\sqrt{s_{\rm NN}}\) = 5.44 !TeV|%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/1805.04399v1][1805.04399]]|[[http://inspirehep.net//record/1672790?ln=en][1672790]]|%RED%Submitted%ENDCOLOR%|215|
+|LF|Transverse momentum spectra and nuclear modification factors of charged particles in Xe-Xe collisions at \(\sqrt{s_{\rm NN}}\) = 5.44 !TeV|%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/1805.04399v1][1805.04399]]|[[http://inspirehep.net//record/1672790?ln=en][1672790]]|%GREEN%Phys. Lett. B788%ENDCOLOR%|215|
 |DQ|Dielectron production in proton-proton collisions at \(\sqrt{s}\) = 7 !TeV|pp|[[http://arxiv.org/abs/1805.04391v1][1805.04391]]|[[http://inspirehep.net//record/1672792?ln=en][1672792]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2018)064][JHEP 09]]%ENDCOLOR%|214|
 |CF|Anisotropic flow of identified particles in Pb-Pb collisions at \(\mathbf{\sqrt{{\textit s}_{\rm NN}}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1805.04390v1][1805.04390]]|[[http://inspirehep.net//record/1672822?ln=en][1672822]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2018)006][JHEP 09]]%ENDCOLOR%|213|
 |DQ|\(\Upsilon\) suppression at forward rapidity in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1805.04387v1][1805.04387]]|[[http://inspirehep.net//record/1672798?ln=en][1672798]]|%RED%Submitted%ENDCOLOR%|212|

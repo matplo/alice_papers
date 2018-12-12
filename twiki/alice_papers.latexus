@@ -10,10 +10,11 @@
  arXiv:1811.12727 [nucl-ex].
  %%CITATION = ARXIV:1811.12727;%% 
 
-%\cite{Acharya:2018dxw}
-\bibitem{Acharya:2018dxw}
+%\cite{Acharya:2018edi}
+\bibitem{Acharya:2018edi}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Jet fragmentation transverse momentum measurements from di-hadron correlations in $\sqrt{s}$ = 7 TeV pp and $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV p-Pb collisions,''
- arXiv:1811.09742 [nucl-ex].
+ %Submitted to: JHEP
+ [arXiv:1811.09742 [nucl-ex]].
  %%CITATION = ARXIV:1811.09742;%% 
 
 %\cite{Acharya:2018ckj}
@@ -96,8 +97,9 @@
 %\cite{Acharya:2018kkj}
 \bibitem{Acharya:2018kkj}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Dielectron and heavy-quark production in inelastic and high-multiplicity proton-proton collisions at $\sqrt{s_{\rm NN}}$ = 13 TeV,''
+ Phys.\ Lett.\ B {\bf 788}, 505 (2019)
  doi:10.1016/j.physletb.2018.11.009
- arXiv:1805.04407 [hep-ex].
+ [arXiv:1805.04407 [hep-ex]].
  %%CITATION = doi:10.1016/j.physletb.2018.11.009;%% 
 
 %\cite{Acharya:2018bdy}

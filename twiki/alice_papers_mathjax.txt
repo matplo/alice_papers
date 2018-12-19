@@ -1,4 +1,4 @@
-   * Generated on 2018-Dez-18 02:27 CET
+   * Generated on 2018-Dez-19 02:24 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Charged-particle pseudorapidity density at mid-rapidity in p-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1812.01312v1][1812.01312]]|[[http://inspirehep.net//record/1706753?ln=en][1706753]]|%RED%Submitted%ENDCOLOR%|232|

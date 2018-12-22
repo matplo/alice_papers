@@ -1,4 +1,4 @@
-   * Generated on 2018-Dez-21 02:25 CET
+   * Generated on 2018-Dez-22 02:25 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HLT|Real-time data processing in the ALICE High Level Trigger at the LHC|n/a|[[http://arxiv.org/abs/1812.08036v1][1812.08036]]|[[http://inspirehep.net//record/1710095?ln=en][1710095]]|%RED%Submitted%ENDCOLOR%|233|

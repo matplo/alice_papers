@@ -1,3 +1,9 @@
+%\cite{Acharya:2019idg}
+\bibitem{Acharya:2019idg}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Event-shape and multiplicity dependence of freeze-out radii in pp collisions at $\sqrt{{\textit s}}=7$ TeV,''
+ arXiv:1901.05518 [nucl-ex].
+ %%CITATION = ARXIV:1901.05518;%% 
+
 %\cite{Acharya:2018gge}
 \bibitem{Acharya:2018gge}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Real-time data processing in the ALICE High Level Trigger at the LHC,''
@@ -40,8 +46,9 @@
 %\cite{Acharya:2018kpo}
 \bibitem{Acharya:2018kpo}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measuring K$^0_{\rm S}$K$^{\rm{\pm}}$ interactions using pp collisions at $\sqrt{s}=7$ TeV,''
+ Phys.\ Lett.\ B {\bf 790}, 22 (2019)
  doi:10.1016/j.physletb.2018.12.033
- arXiv:1809.07899 [nucl-ex].
+ [arXiv:1809.07899 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2018.12.033;%%
 
 %\cite{Acharya:2018jua}

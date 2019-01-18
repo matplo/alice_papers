@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|pp|Event-shape and multiplicity dependence of freeze-out radii in pp collisions at \\(\sqrt\{\textit s\}=7\\) TeV|CF|[1901.05518](http://arxiv.org/abs/1901.05518v1){: target="_blank"}|[1714695](http://inspirehep.net//record/1714695?ln=en){: target="_blank"}|Submitted|234|
+|CF|Event-shape and multiplicity dependence of freeze-out radii in pp collisions at \\(\sqrt\{\textit s\}=7\\) TeV|pp|[1901.05518](http://arxiv.org/abs/1901.05518v1){: target="_blank"}|[1714695](http://inspirehep.net//record/1714695?ln=en){: target="_blank"}|Submitted|234|
 |HLT|Real-time data processing in the ALICE High Level Trigger at the LHC|n/a|[1812.08036](http://arxiv.org/abs/1812.08036v1){: target="_blank"}|[1710095](http://inspirehep.net//record/1710095?ln=en){: target="_blank"}|Submitted|233|
 |LF|Charged-particle pseudorapidity density at mid-rapidity in p-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 8.16 TeV|pPb|[1812.01312](http://arxiv.org/abs/1812.01312v1){: target="_blank"}|[1706753](http://inspirehep.net//record/1706753?ln=en){: target="_blank"}|Submitted|232|
 |DQ|Study of J/\\(\psi\\) azimuthal anisotropy at forward rapidity in Pb-Pb collisions at \\(\sqrt\{\{\textit s\}_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[1811.12727](http://arxiv.org/abs/1811.12727v1){: target="_blank"}|[1706006](http://inspirehep.net//record/1706006?ln=en){: target="_blank"}|Submitted to: JHEP |231|

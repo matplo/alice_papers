@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Measurement of \\(\{\rm D^0\}\\), \\(\{\rm D^+\}\\), \\(\{\rm D^\{*+\}\}\\) and \\(\{\{\rm D^+\}_s\}\\) production in pp collisions at \\(\mathbf\{\sqrt\{\textit s\}~=~5.02~TeV\}\\) with ALICE|pp|[1901.07979](http://arxiv.org/abs/1901.07979v1){: target="_blank"}|[1716440](http://inspirehep.net//record/1716440?ln=en){: target="_blank"}|Submitted|235|
 |CF|Event-shape and multiplicity dependence of freeze-out radii in pp collisions at \\(\sqrt\{\textit s\}=7\\) TeV|pp|[1901.05518](http://arxiv.org/abs/1901.05518v1){: target="_blank"}|[1714695](http://inspirehep.net//record/1714695?ln=en){: target="_blank"}|Submitted|234|
 |HLT|Real-time data processing in the ALICE High Level Trigger at the LHC|n/a|[1812.08036](http://arxiv.org/abs/1812.08036v1){: target="_blank"}|[1710095](http://inspirehep.net//record/1710095?ln=en){: target="_blank"}|Submitted|233|
 |LF|Charged-particle pseudorapidity density at mid-rapidity in p-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 8.16 TeV|pPb|[1812.01312](http://arxiv.org/abs/1812.01312v1){: target="_blank"}|[1706753](http://inspirehep.net//record/1706753?ln=en){: target="_blank"}|Submitted|232|

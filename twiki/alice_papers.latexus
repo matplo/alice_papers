@@ -1,3 +1,9 @@
+%\cite{Acharya:2019mgn}
+\bibitem{Acharya:2019mgn}
+  S.~Acharya {\it et al.} [Alice Collaboration], %``Measurement of ${\rm D^0}$, ${\rm D^+}$, ${\rm D^{*+}}$ and ${{\rm D^+}_s}$ production in pp collisions at $\mathbf{\sqrt{{\textit s}}~=~5.02~TeV}$ with ALICE,''
+ arXiv:1901.07979 [nucl-ex].
+ %%CITATION = ARXIV:1901.07979;%% 
+
 %\cite{Acharya:2019idg}
 \bibitem{Acharya:2019idg}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Event-shape and multiplicity dependence of freeze-out radii in pp collisions at $\sqrt{{\textit s}}=7$ TeV,''

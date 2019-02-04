@@ -66,8 +66,10 @@
 %\cite{Acharya:2018eat}
 \bibitem{Acharya:2018eat}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged jet cross section and fragmentation in proton-proton collisions at $\sqrt{s}$ = 7 TeV,''
- arXiv:1809.03232 [nucl-ex].
- %%CITATION = ARXIV:1809.03232;%% 
+ Phys.\ Rev.\ D {\bf 99}, 012016 (2019)
+ doi:10.1103/PhysRevD.99.012016
+ [arXiv:1809.03232 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevD.99.012016;%% 
 
 %\cite{Acharya:2018orn}
 \bibitem{Acharya:2018orn}

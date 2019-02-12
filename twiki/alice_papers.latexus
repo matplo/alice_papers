@@ -25,9 +25,10 @@
 %\cite{Acharya:2018pjd}
 \bibitem{Acharya:2018pjd}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Study of J/$\psi$ azimuthal anisotropy at forward rapidity in Pb-Pb collisions at $\sqrt{{\textit s}_{\rm NN}}$ = 5.02 TeV,''
- %Submitted to: JHEP
+ JHEP {\bf 1902}, 012 (2019)
+ doi:10.1007/JHEP02(2019)012
  [arXiv:1811.12727 [nucl-ex]].
- %%CITATION = ARXIV:1811.12727;%%
+ %%CITATION = doi:10.1007/JHEP02(2019)012;%%
 
 %\cite{Acharya:2018edi}
 \bibitem{Acharya:2018edi}

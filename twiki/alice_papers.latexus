@@ -1,3 +1,9 @@
+%\cite{Acharya:2019rum}
+\bibitem{Acharya:2019rum}
+  S.~Acharya {\it et al.} [Alice Collaboration], %``Calibration of the photon spectrometer PHOS of the ALICE experiment,''
+ arXiv:1902.06145 [physics.ins-det].
+ %%CITATION = ARXIV:1902.06145;%% 
+
 %\cite{Acharya:2019mgn}
 \bibitem{Acharya:2019mgn}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of ${\rm D^0}$, ${\rm D^+}$, ${\rm D^{*+}}$ and ${{\rm D^+_s}}$ production in pp collisions at $\mathbf{\sqrt{{\textit s}}~=~5.02~TeV}$ with ALICE,''
@@ -91,7 +97,7 @@
 %\cite{Acharya:2018nxm}
 \bibitem{Acharya:2018nxm}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of dielectron production in central Pb-Pb collisions at $\sqrt{{\textit{s}}_{\mathrm{NN}}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 99}, 024002 (2019)
+ Phys.\ Rev.\ C {\bf 99}, no. 2, 024002 (2019)
  doi:10.1103/PhysRevC.99.024002
  [arXiv:1807.00923 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.99.024002;%%
@@ -99,7 +105,7 @@
 %\cite{Acharya:2018gyz}
 \bibitem{Acharya:2018gyz}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``p-p, p-$\Lambda$ and $\Lambda$-$\Lambda$ correlations studied via femtoscopy in pp reactions at $\sqrt{s}$ = 7 TeV,''
- Phys.\ Rev.\ C {\bf 99}, 024001 (2019)
+ Phys.\ Rev.\ C {\bf 99}, no. 2, 024001 (2019)
  doi:10.1103/PhysRevC.99.024001
  [arXiv:1805.12455 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.99.024001;%%

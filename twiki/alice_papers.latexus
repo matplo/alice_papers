@@ -8,7 +8,7 @@
 \bibitem{Acharya:2019mgn}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of ${\rm D^0}$, ${\rm D^+}$, ${\rm D^{*+}}$ and ${{\rm D^+_s}}$ production in pp collisions at $\mathbf{\sqrt{{\textit s}}~=~5.02~TeV}$ with ALICE,''
  arXiv:1901.07979 [nucl-ex].
- %%CITATION = ARXIV:1901.07979;%% 
+ %%CITATION = ARXIV:1901.07979;%%
 
 %\cite{Acharya:2019idg}
 \bibitem{Acharya:2019idg}
@@ -53,8 +53,10 @@
 %\cite{Acharya:2018bxo}
 \bibitem{Acharya:2018bxo}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Event-shape engineering for the D-meson elliptic flow in mid-central Pb-Pb collisions at $\sqrt{s_{\rm NN}} =5.02$ TeV,''
- arXiv:1809.09371 [nucl-ex].
- %%CITATION = ARXIV:1809.09371;%%
+ JHEP {\bf 1902}, 150 (2019)
+ doi:10.1007/JHEP02(2019)150
+ [arXiv:1809.09371 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP02(2019)150;%%
 
 %\cite{Acharya:2018kpo}
 \bibitem{Acharya:2018kpo}
@@ -213,7 +215,7 @@
 %\cite{Acharya:2018dxy}
 \bibitem{Acharya:2018dxy}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Azimuthal anisotropy of heavy-flavour decay electrons in p-Pb collisions at $ \sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 122}, 072301 (2019)
+ Phys.\ Rev.\ Lett.\ {\bf 122}, no. 7, 072301 (2019)
  doi:10.1103/PhysRevLett.122.072301
  [arXiv:1805.04367 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.122.072301;%%
@@ -267,7 +269,7 @@
 %\cite{Acharya:2018dqe}
 \bibitem{Acharya:2018dqe}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Direct photon production at low transverse momentum in proton-proton collisions at $\mathbf{\sqrt{s}=2.76}$ and 8 TeV,''
- Phys.\ Rev.\ C {\bf 99}, 024912 (2019)
+ Phys.\ Rev.\ C {\bf 99}, no. 2, 024912 (2019)
  doi:10.1103/PhysRevC.99.024912
  [arXiv:1803.09857 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.99.024912;%%

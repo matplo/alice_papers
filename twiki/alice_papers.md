@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Investigations of anisotropic flow using multi-particle azimuthal correlations in pp, p-Pb, Xe-Xe, and Pb-Pb collisions at the LHC|pp,pPb,XeXe,PbPb|[1903.01790](http://arxiv.org/abs/1903.01790v1){: target="_blank"}|[1723697](http://inspirehep.net//record/1723697?ln=en){: target="_blank"}|Submitted|237|
 |PP|Calibration of the photon spectrometer PHOS of the ALICE experiment|pp|[1902.06145](http://arxiv.org/abs/1902.06145v1){: target="_blank"}|[1720637](http://inspirehep.net//record/1720637?ln=en){: target="_blank"}|Submitted|236|
 |HF|Measurement of \\(\{\rm D^0\}\\), \\(\{\rm D^+\}\\), \\(\{\rm D^\{*+\}\}\\) and \\(\{\{\rm D^+\}_s\}\\) production in pp collisions at \\(\mathbf\{\sqrt\{\textit s\}~=~5.02~TeV\}\\) with ALICE|pp|[1901.07979](http://arxiv.org/abs/1901.07979v1){: target="_blank"}|[1716440](http://inspirehep.net//record/1716440?ln=en){: target="_blank"}|Submitted|235|
 |CF|Event-shape and multiplicity dependence of freeze-out radii in pp collisions at \\(\sqrt\{\textit s\}=7\\) TeV|pp|[1901.05518](http://arxiv.org/abs/1901.05518v1){: target="_blank"}|[1714695](http://inspirehep.net//record/1714695?ln=en){: target="_blank"}|Submitted|234|

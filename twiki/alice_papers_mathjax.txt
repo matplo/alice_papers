@@ -1,4 +1,4 @@
-   * Generated on 2019-Mär-12 02:26 CET
+   * Generated on 2019-Mär-12 02:30 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Investigations of anisotropic flow using multi-particle azimuthal correlations in pp, p-Pb, Xe-Xe, and Pb-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.01790v1][1903.01790]]|[[http://inspirehep.net//record/1723697?ln=en][1723697]]|%RED%Submitted%ENDCOLOR%|237|

@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Measurement of \\(\rm p\overline\Lambda\oplus\overline\{p\}\Lambda\\) and \\(\Lambda\overline\Lambda\\) interactions with femtoscopic correlations in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 2.76\\) TeV and \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[1903.06149](http://arxiv.org/abs/1903.06149v1){: target="_blank"}|[1724934](http://inspirehep.net//record/1724934?ln=en){: target="_blank"}|Submitted|238|
 |CF|Investigations of anisotropic flow using multi-particle azimuthal correlations in pp, p-Pb, Xe-Xe, and Pb-Pb collisions at the LHC|pp,pPb,XeXe,PbPb|[1903.01790](http://arxiv.org/abs/1903.01790v1){: target="_blank"}|[1723697](http://inspirehep.net//record/1723697?ln=en){: target="_blank"}|Submitted|237|
 |PP|Calibration of the photon spectrometer PHOS of the ALICE experiment|pp|[1902.06145](http://arxiv.org/abs/1902.06145v1){: target="_blank"}|[1720637](http://inspirehep.net//record/1720637?ln=en){: target="_blank"}|Submitted to: JINST |236|
 |HF|Measurement of \\(\{\rm D^0\}\\), \\(\{\rm D^+\}\\), \\(\{\rm D^\{*+\}\}\\) and \\(\{\{\rm D^+\}_s\}\\) production in pp collisions at \\(\mathbf\{\sqrt\{\textit s\}~=~5.02~TeV\}\\) with ALICE|pp|[1901.07979](http://arxiv.org/abs/1901.07979v1){: target="_blank"}|[1716440](http://inspirehep.net//record/1716440?ln=en){: target="_blank"}|Submitted|235|

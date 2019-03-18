@@ -1,4 +1,4 @@
-   * Generated on 2019-Mär-17 02:26 CET
+   * Generated on 2019-Mär-18 02:25 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Measurement of $\rm p\overlineΛ\oplus\overline{p}Λ$ and $Λ\overlineΛ$ interactions with femtoscopic correlations in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ !TeV and $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.06149v1][1903.06149]]|[[http://inspirehep.net//record/1724934?ln=en][1724934]]|%RED%Submitted%ENDCOLOR%|238|

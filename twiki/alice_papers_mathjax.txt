@@ -1,4 +1,4 @@
-   * Generated on 2019-Mär-24 02:26 CET
+   * Generated on 2019-Mär-25 02:26 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Measurement of \(\rm p\overline\Lambda\oplus\overline{p}\Lambda\) and \(\Lambda\overline\Lambda\) interactions with femtoscopic correlations in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 2.76\) !TeV and \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.06149v1][1903.06149]]|[[http://inspirehep.net//record/1724934?ln=en][1724934]]|%RED%Submitted%ENDCOLOR%|238|

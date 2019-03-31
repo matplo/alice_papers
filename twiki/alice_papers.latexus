@@ -568,6 +568,13 @@
  [arXiv:1612.08975 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-017-5129-6;%%
 
+%\cite{Adam:2016ddh}
+\bibitem{Adam:2016ddh}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of the pseudorapidity density distribution for charged particles in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
+ Phys.\ Lett.\ B {\bf 772}, 567 (2017)
+ doi:10.1016/j.physletb.2017.07.017
+ [arXiv:1612.08966 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2017.07.017;%%
 
 %\cite{Alice:2016wka}
 \bibitem{Alice:2016wka}

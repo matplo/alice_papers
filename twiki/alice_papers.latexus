@@ -1,3 +1,9 @@
+%\cite{Acharya:2019fip}
+\bibitem{Acharya:2019fip}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``One-dimensional charged kaon femtoscopy in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
+ arXiv:1903.12310 [nucl-ex].
+ %%CITATION = ARXIV:1903.12310;%% 
+
 %\cite{Acharya:2019ldv}
 \bibitem{Acharya:2019ldv}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of $\rm p\overline{\Lambda}\oplus\overline{p}\Lambda$ and $\Lambda\overline{\Lambda}$ interactions with femtoscopic correlations in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ TeV and $\sqrt{s_{\rm NN}} = 5.02$ TeV,''

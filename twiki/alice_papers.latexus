@@ -58,9 +58,10 @@
 %\cite{Acharya:2018edi}
 \bibitem{Acharya:2018edi}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Jet fragmentation transverse momentum measurements from di-hadron correlations in $\sqrt{s}$ = 7 TeV pp and $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV p-Pb collisions,''
- %Submitted to: JHEP
+ JHEP {\bf 1903}, 169 (2019)
+ doi:10.1007/JHEP03(2019)169
  [arXiv:1811.09742 [nucl-ex]].
- %%CITATION = ARXIV:1811.09742;%%
+ %%CITATION = doi:10.1007/JHEP03(2019)169;%%
 
 %\cite{Acharya:2018ckj}
 \bibitem{Acharya:2018ckj}

@@ -1,6 +1,7 @@
-   * Generated on 2019-Apr-15 02:24 CEST
+   * Generated on 2019-Apr-15 09:10 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|UD|Coherent J/$ψ$ photoproduction at forward rapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}=5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.06272v1][1904.06272]]|[[http://inspirehep.net//record/1729529?ln=en][1729529]]|%RED%Submitted%ENDCOLOR%|240|
 |CF|One-dimensional charged kaon femtoscopy in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.12310v1][1903.12310]]|[[http://inspirehep.net//record/1727337?ln=en][1727337]]|%RED%Submitted%ENDCOLOR%|239|
 |CF|Measurement of $\rm p\overlineΛ\oplus\overline{p}Λ$ and $Λ\overlineΛ$ interactions with femtoscopic correlations in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ !TeV and $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.06149v1][1903.06149]]|[[http://inspirehep.net//record/1724934?ln=en][1724934]]|%RED%Submitted%ENDCOLOR%|238|
 |CF|Investigations of anisotropic flow using multi-particle azimuthal correlations in pp, p-Pb, Xe-Xe, and Pb-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.01790v1][1903.01790]]|[[http://inspirehep.net//record/1723697?ln=en][1723697]]|%RED%Submitted%ENDCOLOR%|237|

@@ -1,4 +1,4 @@
-   * Generated on 2019-Apr-17 02:28 CEST
+   * Generated on 2019-Apr-18 02:25 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|Coherent J/\(\psi\) photoproduction at forward rapidity in ultra-peripheral Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.06272v1][1904.06272]]|[[http://inspirehep.net//record/1729529?ln=en][1729529]]|%RED%Submitted%ENDCOLOR%|240|

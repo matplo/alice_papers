@@ -1,7 +1,7 @@
-   * Generated on 2019-Apr-30 09:03 CEST
+   * Generated on 2019-Apr-30 10:16 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
-|No group|First observation of an attractive interaction between a proton and a multi-strange baryon|[[http://arxiv.org/abs/1904.12198v1][1904.12198]]|[[http://inspirehep.net//record/1731784?ln=en][1731784]]|%RED%Submitted%ENDCOLOR%|
+|CF|First observation of an attractive interaction between a proton and a multi-strange baryon|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.12198v1][1904.12198]]|[[http://inspirehep.net//record/1731784?ln=en][1731784]]|%RED%Submitted%ENDCOLOR%|241|
 |UD|Coherent J/\(\psi\) photoproduction at forward rapidity in ultra-peripheral Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.06272v1][1904.06272]]|[[http://inspirehep.net//record/1729529?ln=en][1729529]]|%RED%Submitted%ENDCOLOR%|240|
 |CF|One-dimensional charged kaon femtoscopy in p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.12310v1][1903.12310]]|[[http://inspirehep.net//record/1727337?ln=en][1727337]]|%RED%Submitted%ENDCOLOR%|239|
 |CF|Measurement of \(\rm p\overline\Lambda\oplus\overline{p}\Lambda\) and \(\Lambda\overline\Lambda\) interactions with femtoscopic correlations in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 2.76\) !TeV and \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.06149v1][1903.06149]]|[[http://inspirehep.net//record/1724934?ln=en][1724934]]|%RED%Submitted%ENDCOLOR%|238|

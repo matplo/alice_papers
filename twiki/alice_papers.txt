@@ -1,4 +1,4 @@
-   * Generated on 2019-Apr-30 10:16 CEST
+   * Generated on 2019-Mai-01 02:25 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|First observation of an attractive interaction between a proton and a multi-strange baryon|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.12198v1][1904.12198]]|[[http://inspirehep.net//record/1731784?ln=en][1731784]]|%RED%Submitted%ENDCOLOR%|241|

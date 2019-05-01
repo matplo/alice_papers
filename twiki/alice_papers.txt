@@ -1,6 +1,7 @@
-   * Generated on 2019-Mai-01 02:25 CEST
+   * Generated on 2019-Mai-01 20:18 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|JE|Measurement of jet radial profiles in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.13118v1][1904.13118]]|[[http://inspirehep.net//record/1732232?ln=en][1732232]]|%RED%Submitted%ENDCOLOR%|242|
 |CF|First observation of an attractive interaction between a proton and a multi-strange baryon|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.12198v1][1904.12198]]|[[http://inspirehep.net//record/1731784?ln=en][1731784]]|%RED%Submitted%ENDCOLOR%|241|
 |UD|Coherent J/$ψ$ photoproduction at forward rapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}=5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.06272v1][1904.06272]]|[[http://inspirehep.net//record/1729529?ln=en][1729529]]|%RED%Submitted%ENDCOLOR%|240|
 |CF|One-dimensional charged kaon femtoscopy in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.12310v1][1903.12310]]|[[http://inspirehep.net//record/1727337?ln=en][1727337]]|%RED%Submitted%ENDCOLOR%|239|

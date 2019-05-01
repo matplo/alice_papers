@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|JE|Measurement of jet radial profiles in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 2.76 TeV|PbPb|[1904.13118](http://arxiv.org/abs/1904.13118v1){: target="_blank"}|[1732232](http://inspirehep.net//record/1732232?ln=en){: target="_blank"}|Submitted|242|
 |CF|First observation of an attractive interaction between a proton and a multi-strange baryon|pPb|[1904.12198](http://arxiv.org/abs/1904.12198v1){: target="_blank"}|[1731784](http://inspirehep.net//record/1731784?ln=en){: target="_blank"}|Submitted|241|
 |UD|Coherent J/\\(\psi\\) photoproduction at forward rapidity in ultra-peripheral Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}=5.02\\) TeV|PbPb|[1904.06272](http://arxiv.org/abs/1904.06272v1){: target="_blank"}|[1729529](http://inspirehep.net//record/1729529?ln=en){: target="_blank"}|Submitted|240|
 |CF|One-dimensional charged kaon femtoscopy in p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|pPb|[1903.12310](http://arxiv.org/abs/1903.12310v1){: target="_blank"}|[1727337](http://inspirehep.net//record/1727337?ln=en){: target="_blank"}|Submitted|239|

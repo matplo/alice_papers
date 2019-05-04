@@ -1,4 +1,4 @@
-   * Generated on 2019-Mai-03 02:25 CEST
+   * Generated on 2019-Mai-04 02:25 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Measurement of jet radial profiles in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.13118v1][1904.13118]]|[[http://inspirehep.net//record/1732232?ln=en][1732232]]|%RED%Submitted%ENDCOLOR%|242|

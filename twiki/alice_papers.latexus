@@ -1,3 +1,21 @@
+%\cite{Acharya:2019tku}
+\bibitem{Acharya:2019tku}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of charged jet cross section in pp collisions at ${\sqrt{s}=5.02}$ TeV,''
+ arXiv:1905.02536 [nucl-ex].
+ %%CITATION = ARXIV:1905.02536;%% 
+
+%\cite{Acharya:2019djg}
+\bibitem{Acharya:2019djg}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies,''
+ arXiv:1905.02512 [nucl-ex].
+ %%CITATION = ARXIV:1905.02512;%% 
+
+%\cite{Acharya:2019zup}
+\bibitem{Acharya:2019zup}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $\sqrt{s}$= 7 TeV,''
+ arXiv:1905.02510 [nucl-ex].
+ %%CITATION = ARXIV:1905.02510;%% 
+
 %\cite{Acharya:2019ssy}
 \bibitem{Acharya:2019ssy}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of jet radial profiles in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''

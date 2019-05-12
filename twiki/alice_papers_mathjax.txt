@@ -1,4 +1,4 @@
-   * Generated on 2019-Mai-11 02:28 CEST
+   * Generated on 2019-Mai-12 02:39 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Measurement of charged jet cross section in pp collisions at \({\sqrt{s}=5.02}\) !TeV|pp|[[http://arxiv.org/abs/1905.02536v1][1905.02536]]|[[http://inspirehep.net//record/1733689?ln=en][1733689]]|%RED%Submitted%ENDCOLOR%|245|

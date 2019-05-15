@@ -1,11 +1,11 @@
-   * Generated on 2019-Mai-14 02:26 CEST
+   * Generated on 2019-Mai-15 02:26 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Measurement of charged jet cross section in pp collisions at ${\sqrt{s}=5.02}$ !TeV|pp|[[http://arxiv.org/abs/1905.02536v1][1905.02536]]|[[http://inspirehep.net//record/1733689?ln=en][1733689]]|%RED%Submitted%ENDCOLOR%|245|
 |JE|Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1905.02512v1][1905.02512]]|[[http://inspirehep.net//record/1733684?ln=en][1733684]]|%RED%Submitted%ENDCOLOR%|244|
 |HF|Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $\sqrt{s}$= 7 !TeV|pp|[[http://arxiv.org/abs/1905.02510v1][1905.02510]]|[[http://inspirehep.net//record/1733683?ln=en][1733683]]|%RED%Submitted%ENDCOLOR%|243|
 |JE|Measurement of jet radial profiles in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.13118v1][1904.13118]]|[[http://inspirehep.net//record/1732232?ln=en][1732232]]|%RED%Submitted%ENDCOLOR%|242|
-|CF|First observation of an attractive interaction between a proton and a multi-strange baryon|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.12198v1][1904.12198]]|[[http://inspirehep.net//record/1731784?ln=en][1731784]]|%RED%Submitted%ENDCOLOR%|241|
+|CF|First observation of an attractive interaction between a proton and a multi-strange baryon|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.12198v1][1904.12198]]|[[http://inspirehep.net//record/1731784?ln=en][1731784]]|%GREEN%Submitted to: Phys. Rev. Lett. %ENDCOLOR%|241|
 |UD|Coherent J/$ψ$ photoproduction at forward rapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}=5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1904.06272v1][1904.06272]]|[[http://inspirehep.net//record/1729529?ln=en][1729529]]|%RED%Submitted%ENDCOLOR%|240|
 |CF|One-dimensional charged kaon femtoscopy in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.12310v1][1903.12310]]|[[http://inspirehep.net//record/1727337?ln=en][1727337]]|%RED%Submitted%ENDCOLOR%|239|
 |CF|Measurement of $\rm p\overlineΛ\oplus\overline{p}Λ$ and $Λ\overlineΛ$ interactions with femtoscopic correlations in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ !TeV and $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1903.06149v1][1903.06149]]|[[http://inspirehep.net//record/1724934?ln=en][1724934]]|%RED%Submitted%ENDCOLOR%|238|

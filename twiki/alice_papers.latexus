@@ -1,3 +1,27 @@
+%\cite{Acharya:2019lkw}
+\bibitem{Acharya:2019lkw}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive J/$\psi$ production at mid-rapidity in pp collisions at $\sqrt{s}$ = 5.02 TeV,''
+ arXiv:1905.07211 [nucl-ex].
+ %%CITATION = ARXIV:1905.07211;%% 
+
+%\cite{Acharya:2019yvb}
+\bibitem{Acharya:2019yvb}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Study of the $\Lambda$-$\Lambda$ interaction with femtoscopy correlations in pp and p-Pb collisions at the LHC,''
+ arXiv:1905.07209 [nucl-ex].
+ %%CITATION = ARXIV:1905.07209;%% 
+
+%\cite{Acharya:2019mzb}
+\bibitem{Acharya:2019mzb}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged-particle production as a function of multiplicity and transverse spherocity in pp collisions at $\sqrt{s} =5.02$ and 13 TeV,''
+ arXiv:1905.07208 [nucl-ex].
+ %%CITATION = ARXIV:1905.07208;%% 
+
+%\cite{Acharya:2019mky}
+\bibitem{Acharya:2019mky}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of muons from heavy-flavour hadron decays in pp collisions at $\sqrt{s}=5.02$ TeV,''
+ arXiv:1905.07207 [nucl-ex].
+ %%CITATION = ARXIV:1905.07207;%% 
+
 %\cite{Acharya:2019tku}
 \bibitem{Acharya:2019tku}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of charged jet cross section in pp collisions at ${\sqrt{s}=5.02}$ TeV,''
@@ -130,7 +154,7 @@
 
 %\cite{Acharya:2018jua}
 \bibitem{Acharya:2018jua}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Energy dependence of exclusive $J/\psi$ photoproduction off protons in ultra-peripheral p-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Energy dependence of exclusive $\mathrm {J}/\psi $ photoproduction off protons in ultra-peripheral p?Pb collisions at $\sqrt{s_{\mathrm {\scriptscriptstyle NN}}} = 5.02$ TeV,''
  Eur.\ Phys.\ J.\ C {\bf 79}, no. 5, 402 (2019)
  doi:10.1140/epjc/s10052-019-6816-2
  [arXiv:1809.03235 [nucl-ex]].

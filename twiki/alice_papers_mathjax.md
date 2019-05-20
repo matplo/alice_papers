@@ -10,6 +10,10 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|Inclusive J/\\(\psi\\) production at mid-rapidity in pp collisions at \\(\sqrt\{s\}\\) = 5.02 TeV|pp|[1905.07211](http://arxiv.org/abs/1905.07211v1){: target="_blank"}|[1735351](http://inspirehep.net//record/1735351?ln=en){: target="_blank"}|Submitted|249|
+|CF|Study of the \\(\Lambda\\)-\\(\Lambda\\) interaction with femtoscopy correlations in pp and p-Pb collisions at the LHC|pp,pPb|[1905.07209](http://arxiv.org/abs/1905.07209v1){: target="_blank"}|[1735349](http://inspirehep.net//record/1735349?ln=en){: target="_blank"}|Submitted|248|
+|LF|Charged-particle production as a function of multiplicity and transverse spherocity in pp collisions at \\(\sqrt\{s\} =5.02\\) and 13 TeV|pp|[1905.07208](http://arxiv.org/abs/1905.07208v1){: target="_blank"}|[1735345](http://inspirehep.net//record/1735345?ln=en){: target="_blank"}|Submitted|247|
+|HF|Production of muons from heavy-flavour hadron decays in pp collisions at \\(\sqrt\{s\}=5.02\\) TeV|pp|[1905.07207](http://arxiv.org/abs/1905.07207v1){: target="_blank"}|[1735344](http://inspirehep.net//record/1735344?ln=en){: target="_blank"}|Submitted|246|
 |JE|Measurement of charged jet cross section in pp collisions at \\(\{\sqrt\{s\}=5.02\}\\) TeV|pp|[1905.02536](http://arxiv.org/abs/1905.02536v1){: target="_blank"}|[1733689](http://inspirehep.net//record/1733689?ln=en){: target="_blank"}|Submitted|245|
 |JE|Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies|pp,PbPb|[1905.02512](http://arxiv.org/abs/1905.02512v1){: target="_blank"}|[1733684](http://inspirehep.net//record/1733684?ln=en){: target="_blank"}|Submitted|244|
 |HF|Measurement of the production of charm jets tagged with D\\(^\{0\}\\) mesons in pp collisions at \\(\sqrt\{s\}\\)= 7 TeV|pp|[1905.02510](http://arxiv.org/abs/1905.02510v1){: target="_blank"}|[1733683](http://inspirehep.net//record/1733683?ln=en){: target="_blank"}|Submitted|243|

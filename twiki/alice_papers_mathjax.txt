@@ -1,4 +1,4 @@
-   * Generated on 2019-Jun-01 02:25 CEST
+   * Generated on 2019-Jun-02 02:25 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Inclusive J/\(\psi\) production at mid-rapidity in pp collisions at \(\sqrt{s}\) = 5.02 !TeV|pp|[[http://arxiv.org/abs/1905.07211v1][1905.07211]]|[[http://inspirehep.net//record/1735351?ln=en][1735351]]|%RED%Submitted%ENDCOLOR%|249|

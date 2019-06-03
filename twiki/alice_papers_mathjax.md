@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Scattering studies with low-energy kaon-proton femtoscopy in proton-proton collisions at the LHC|pp|[1905.13470](http://arxiv.org/abs/1905.13470v1){: target="_blank"}|[1737592](http://inspirehep.net//record/1737592?ln=en){: target="_blank"}|Submitted|250|
 |DQ|Inclusive J/\\(\psi\\) production at mid-rapidity in pp collisions at \\(\sqrt\{s\}\\) = 5.02 TeV|pp|[1905.07211](http://arxiv.org/abs/1905.07211v1){: target="_blank"}|[1735351](http://inspirehep.net//record/1735351?ln=en){: target="_blank"}|Submitted|249|
 |CF|Study of the \\(\Lambda\\)-\\(\Lambda\\) interaction with femtoscopy correlations in pp and p-Pb collisions at the LHC|pp,pPb|[1905.07209](http://arxiv.org/abs/1905.07209v1){: target="_blank"}|[1735349](http://inspirehep.net//record/1735349?ln=en){: target="_blank"}|Submitted|248|
 |LF|Charged-particle production as a function of multiplicity and transverse spherocity in pp collisions at \\(\sqrt\{s\} =5.02\\) and 13 TeV|pp|[1905.07208](http://arxiv.org/abs/1905.07208v1){: target="_blank"}|[1735345](http://inspirehep.net//record/1735345?ln=en){: target="_blank"}|Submitted|247|

@@ -86,9 +86,10 @@
 %\cite{Acharya:2019rum}
 \bibitem{Acharya:2019rum}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Calibration of the photon spectrometer PHOS of the ALICE experiment,''
- %Submitted to: JINST
+ JINST {\bf 14}, no. 05, P05025 (2019)
+ doi:10.1088/1748-0221/14/05/P05025
  [arXiv:1902.06145 [physics.ins-det]].
- %%CITATION = ARXIV:1902.06145;%% 
+ %%CITATION = doi:10.1088/1748-0221/14/05/P05025;%% 
 
 %\cite{Acharya:2019mgn}
 \bibitem{Acharya:2019mgn}

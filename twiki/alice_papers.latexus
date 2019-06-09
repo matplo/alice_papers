@@ -326,8 +326,10 @@
 %\cite{Acharya:2018qnp}
 \bibitem{Acharya:2018qnp}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of the $\rho$(770)${^{0}}$ meson in pp and Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- arXiv:1805.04365 [nucl-ex].
- %%CITATION = ARXIV:1805.04365;%%
+ Phys.\ Rev.\ C {\bf 99}, no. 6, 064901 (2019)
+ doi:10.1103/PhysRevC.99.064901
+ [arXiv:1805.04365 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.99.064901;%%
 
 %\cite{ALICE:2018ewo}
 \bibitem{ALICE:2018ewo}

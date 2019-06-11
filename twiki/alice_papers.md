@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Measurement of prompt D\\(^0\\), D\\(^+\\), D\\(^\{*+\}\\), and D\\(^+_s\\) production in p\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{\{\textit s\}_\{\rm NN\}\}~=~5.02~TeV\}\\)|pPb|[1906.03425](http://arxiv.org/abs/1906.03425v1){: target="_blank"}|[1738950](http://inspirehep.net//record/1738950?ln=en){: target="_blank"}|Submitted|252|
 |GA|Measurement of the inclusive isolated photon production cross section in pp collisions at \\(\sqrt\{s\}\\) = 7 TeV|pp|[1906.01371](http://arxiv.org/abs/1906.01371v1){: target="_blank"}|[1738300](http://inspirehep.net//record/1738300?ln=en){: target="_blank"}|Submitted|251|
 |CF|Scattering studies with low-energy kaon-proton femtoscopy in proton-proton collisions at the LHC|pp|[1905.13470](http://arxiv.org/abs/1905.13470v1){: target="_blank"}|[1737592](http://inspirehep.net//record/1737592?ln=en){: target="_blank"}|Submitted|250|
 |DQ|Inclusive J/\\(\psi\\) production at mid-rapidity in pp collisions at \\(\sqrt\{s\}\\) = 5.02 TeV|pp|[1905.07211](http://arxiv.org/abs/1905.07211v1){: target="_blank"}|[1735351](http://inspirehep.net//record/1735351?ln=en){: target="_blank"}|Submitted|249|

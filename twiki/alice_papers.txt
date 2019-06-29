@@ -1,4 +1,4 @@
-   * Generated on 2019-Jun-28 02:33 CEST
+   * Generated on 2019-Jun-29 02:26 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of prompt D$^0$, D$^+$, D$^{*+}$, and D$^+_s$ production in p$-$Pb collisions at $\mathbf{\sqrt{{\textit s}_{\rm NN}}~=~5.02~!TeV}$|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1906.03425v1][1906.03425]]|[[http://inspirehep.net//record/1738950?ln=en][1738950]]|%RED%Submitted%ENDCOLOR%|252|

@@ -118,11 +118,13 @@
  arXiv:1901.05518 [nucl-ex].
  %%CITATION = ARXIV:1901.05518;%%
 
-%\cite{Acharya:2018gge}
-\bibitem{Acharya:2018gge}
+%\cite{ALICE:2019jgt}
+\bibitem{ALICE:2019jgt}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Real-time data processing in the ALICE High Level Trigger at the LHC,''
- arXiv:1812.08036 [physics.ins-det].
- %%CITATION = ARXIV:1812.08036;%% 
+ Comput.\ Phys.\ Commun.\ {\bf 242}, 25 (2019)
+ doi:10.1016/j.cpc.2019.04.011
+ [arXiv:1812.08036 [physics.ins-det]].
+ %%CITATION = doi:10.1016/j.cpc.2019.04.011;%% 
 
 %\cite{Acharya:2018egz}
 \bibitem{Acharya:2018egz}

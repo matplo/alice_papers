@@ -1,4 +1,4 @@
-   * Generated on 2019-Jul-01 02:26 CEST
+   * Generated on 2019-Jul-02 02:35 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of prompt D\(^0\), D\(^+\), D\(^{*+}\), and D\(^+_s\) production in p\(-\)Pb collisions at \(\mathbf{\sqrt{{\textit s}_{\rm NN}}~=~5.02 !TeV}\)|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1906.03425v1][1906.03425]]|[[http://inspirehep.net//record/1738950?ln=en][1738950]]|%RED%Submitted%ENDCOLOR%|252|
@@ -20,7 +20,7 @@
 |PP|Calibration of the photon spectrometer PHOS of the ALICE experiment|pp|[[http://arxiv.org/abs/1902.06145v1][1902.06145]]|[[http://inspirehep.net//record/1720637?ln=en][1720637]]|%GREEN%[[https://doi.org/10.1088/1748-0221/14/05/P05025][JINST 14]]%ENDCOLOR%|236|
 |HF|Measurement of \({\rm D^0}\), \({\rm D^+}\), \({\rm D^{*+}}\) and \({{\rm D^+}_s}\) production in pp collisions at \(\mathbf{\sqrt{\textit s}~=~5.02 !TeV}\) with ALICE|pp|[[http://arxiv.org/abs/1901.07979v2][1901.07979]]|[[http://inspirehep.net//record/1716440?ln=en][1716440]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-019-6873-6][Eur. Phys. J. C79]]%ENDCOLOR%|235|
 |CF|Event-shape and multiplicity dependence of freeze-out radii in pp collisions at \(\sqrt{\textit s}=7\) !TeV|pp|[[http://arxiv.org/abs/1901.05518v1][1901.05518]]|[[http://inspirehep.net//record/1714695?ln=en][1714695]]|%RED%Submitted%ENDCOLOR%|234|
-|HLT|Real-time data processing in the ALICE High Level Trigger at the LHC|n/a|[[http://arxiv.org/abs/1812.08036v1][1812.08036]]|[[http://inspirehep.net//record/1710095?ln=en][1710095]]|%RED%Submitted%ENDCOLOR%|233|
+|HLT|Real-time data processing in the ALICE High Level Trigger at the LHC|n/a|[[http://arxiv.org/abs/1812.08036v1][1812.08036]]|[[http://inspirehep.net//record/1710095?ln=en][1710095]]|%GREEN%[[https://doi.org/10.1016/j.cpc.2019.04.011][Comput. Phys. Commun. 242]]%ENDCOLOR%|233|
 |MM|Charged-particle pseudorapidity density at mid-rapidity in p-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1812.01312v2][1812.01312]]|[[http://inspirehep.net//record/1706753?ln=en][1706753]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-019-6801-9][Eur. Phys. J. C79]]%ENDCOLOR%|232|
 |DQ|Study of J/\(\psi\) azimuthal anisotropy at forward rapidity in Pb-Pb collisions at \(\sqrt{{\textit s}_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1811.12727v2][1811.12727]]|[[http://inspirehep.net//record/1706006?ln=en][1706006]]|%GREEN%[[https://doi.org/10.1007/JHEP02(2019)012][JHEP 02]]%ENDCOLOR%|231|
 |CF|Jet fragmentation transverse momentum measurements from di-hadron correlations in \(\sqrt{s}\) = 7 !TeV pp and \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV p-Pb collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1811.09742v1][1811.09742]]|[[http://inspirehep.net//record/1704923?ln=en][1704923]]|%GREEN%[[https://doi.org/10.1007/JHEP03(2019)169][JHEP 03]]%ENDCOLOR%|230|

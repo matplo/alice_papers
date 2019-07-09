@@ -1,6 +1,7 @@
-   * Generated on 2019-Jul-09 02:25 CEST
+   * Generated on 2019-Jul-09 04:18 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|DQ|Measurement of \(\Upsilon(1{\rm S})\) elliptic flow at forward rapidity in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1907.03169v1][1907.03169]]|[[No Link Found][]]|%RED%Submitted%ENDCOLOR%|253|
 |HF|Measurement of prompt D\(^0\), D\(^+\), D\(^{*+}\), and D\(^+_s\) production in p\(-\)Pb collisions at \(\mathbf{\sqrt{{\textit s}_{\rm NN}}~=~5.02 !TeV}\)|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1906.03425v1][1906.03425]]|[[http://inspirehep.net//record/1738950?ln=en][1738950]]|%RED%Submitted%ENDCOLOR%|252|
 |GA|Measurement of the inclusive isolated photon production cross section in pp collisions at \(\sqrt{s}\) = 7 !TeV|pp|[[http://arxiv.org/abs/1906.01371v1][1906.01371]]|[[http://inspirehep.net//record/1738300?ln=en][1738300]]|%GREEN%Submitted to: Eur. Phys. J. %ENDCOLOR%|251|
 |CF|Scattering studies with low-energy kaon-proton femtoscopy in proton-proton collisions at the LHC|pp|[[http://arxiv.org/abs/1905.13470v1][1905.13470]]|[[http://inspirehep.net//record/1737592?ln=en][1737592]]|%RED%Submitted%ENDCOLOR%|250|

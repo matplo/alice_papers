@@ -1,4 +1,4 @@
-   * Generated on 2019-Jul-14 02:26 CEST
+   * Generated on 2019-Jul-15 02:26 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Measurement of $Υ(1{\rm S})$ elliptic flow at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}=5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1907.03169v1][1907.03169]]|[[http://inspirehep.net//record/1742764?ln=en][1742764]]|%RED%Submitted%ENDCOLOR%|253|

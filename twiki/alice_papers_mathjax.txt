@@ -1,6 +1,7 @@
-   * Generated on 2019-Jul-17 02:27 CEST
+   * Generated on 2019-Jul-17 12:09 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|LF|\(^3_\Lambda\mathrm{H}\) and \(^3_{\overline\Lambda}\mathrm{\overline{H}}\) lifetime measurement in Pb-Pb collisions at \(\sqrt{s_{\mathrm{NN}}} = \) 5.02 !TeV via two-body decay|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1907.06906v1][1907.06906]]|[[http://inspirehep.net//record/1743989?ln=en][1743989]]|%RED%Submitted%ENDCOLOR%|254|
 |DQ|Measurement of \(\Upsilon(1{\rm S})\) elliptic flow at forward rapidity in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1907.03169v1][1907.03169]]|[[http://inspirehep.net//record/1742764?ln=en][1742764]]|%RED%Submitted%ENDCOLOR%|253|
 |HF|Measurement of prompt D\(^0\), D\(^+\), D\(^{*+}\), and D\(^+_s\) production in p\(-\)Pb collisions at \(\mathbf{\sqrt{{\textit s}_{\rm NN}}~=~5.02 !TeV}\)|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1906.03425v1][1906.03425]]|[[http://inspirehep.net//record/1738950?ln=en][1738950]]|%RED%Submitted%ENDCOLOR%|252|
 |GA|Measurement of the inclusive isolated photon production cross section in pp collisions at \(\sqrt{s}\) = 7 !TeV|pp|[[http://arxiv.org/abs/1906.01371v1][1906.01371]]|[[http://inspirehep.net//record/1738300?ln=en][1738300]]|%GREEN%Submitted to: Eur. Phys. J. %ENDCOLOR%|251|

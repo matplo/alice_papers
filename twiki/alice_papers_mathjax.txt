@@ -1,4 +1,4 @@
-   * Generated on 2019-Jul-24 02:26 CEST
+   * Generated on 2019-Jul-25 02:27 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|\(^3_\Lambda\mathrm{H}\) and \(^3_{\overline\Lambda}\mathrm{\overline{H}}\) lifetime measurement in Pb-Pb collisions at \(\sqrt{s_{\mathrm{NN}}} = \) 5.02 !TeV via two-body decay|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1907.06906v1][1907.06906]]|[[http://inspirehep.net//record/1743989?ln=en][1743989]]|%RED%Submitted%ENDCOLOR%|254|

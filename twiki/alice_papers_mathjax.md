@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Multiplicity dependence of (multi-)strange hadron production in proton-proton collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[1908.01861](http://arxiv.org/abs/1908.01861v1){: target="_blank"}|[1748157](http://inspirehep.net//record/1748157?ln=en){: target="_blank"}|Submitted|255|
 |LF|\\(^3_\Lambda\mathrm\{H\}\\) and \\(^3_\{\overline\Lambda\}\mathrm\{\overline\{H\}\}\\) lifetime measurement in Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\} = \\) 5.02 TeV via two-body decay|PbPb|[1907.06906](http://arxiv.org/abs/1907.06906v1){: target="_blank"}|[1743989](http://inspirehep.net//record/1743989?ln=en){: target="_blank"}|Submitted|254|
 |DQ|Measurement of \\(\Upsilon(1\{\rm S\})\\) elliptic flow at forward rapidity in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}=5.02\\) TeV|PbPb|[1907.03169](http://arxiv.org/abs/1907.03169v1){: target="_blank"}|[1742764](http://inspirehep.net//record/1742764?ln=en){: target="_blank"}|Submitted|253|
 |HF|Measurement of prompt D\\(^0\\), D\\(^+\\), D\\(^\{*+\}\\), and D\\(^+_s\\) production in p\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{\{\textit s\}_\{\rm NN\}\}~=~5.02~TeV\}\\)|pPb|[1906.03425](http://arxiv.org/abs/1906.03425v1){: target="_blank"}|[1738950](http://inspirehep.net//record/1738950?ln=en){: target="_blank"}|Submitted|252|

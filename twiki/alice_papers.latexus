@@ -1,8 +1,14 @@
+%\cite{Acharya:2019iur}
+\bibitem{Acharya:2019iur}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Studies of J/$\psi$ production at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:1909.03158 [nucl-ex].
+ %%CITATION = ARXIV:1909.03158;%% 
+
 %\cite{Acharya:2019kyh}
 \bibitem{Acharya:2019kyh}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of (multi-)strange hadron production in proton-proton collisions at $\sqrt{s}$ = 13 TeV,''
  arXiv:1908.01861 [nucl-ex].
- %%CITATION = ARXIV:1908.01861;%% 
+ %%CITATION = ARXIV:1908.01861;%%
 
 %\cite{Acharya:2019qcp}
 \bibitem{Acharya:2019qcp}
@@ -39,7 +45,7 @@
 \bibitem{Acharya:2019lkw}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive J/$\psi$ production at mid-rapidity in pp collisions at $\sqrt{s}$ = 5.02 TeV,''
  arXiv:1905.07211 [nucl-ex].
- %%CITATION = ARXIV:1905.07211;%% 
+ %%CITATION = ARXIV:1905.07211;%%
 
 %\cite{Acharya:2019yvb}
 \bibitem{Acharya:2019yvb}
@@ -74,8 +80,9 @@
 %\cite{Acharya:2019zup}
 \bibitem{Acharya:2019zup}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $\sqrt{s}$= 7 TeV,''
+ doi:10.1007/JHEP08(2019)133
  arXiv:1905.02510 [nucl-ex].
- %%CITATION = ARXIV:1905.02510;%%
+ %%CITATION = doi:10.1007/JHEP08(2019)133;%%
 
 %\cite{Acharya:2019ssy}
 \bibitem{Acharya:2019ssy}

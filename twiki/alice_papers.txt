@@ -1,4 +1,4 @@
-   * Generated on 2019-Sep-09 02:28 CEST
+   * Generated on 2019-Sep-10 02:31 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Multiplicity dependence of (multi-)strange hadron production in proton-proton collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/1908.01861v1][1908.01861]]|[[http://inspirehep.net//record/1748157?ln=en][1748157]]|%RED%Submitted%ENDCOLOR%|255|

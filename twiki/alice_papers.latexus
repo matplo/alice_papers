@@ -62,8 +62,9 @@
 %\cite{Acharya:2019mky}
 \bibitem{Acharya:2019mky}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of muons from heavy-flavour hadron decays in pp collisions at $\sqrt{s}=5.02$ TeV,''
+ doi:10.1007/JHEP09(2019)008
  arXiv:1905.07207 [nucl-ex].
- %%CITATION = ARXIV:1905.07207;%% 
+ %%CITATION = doi:10.1007/JHEP09(2019)008;%% 
 
 %\cite{Acharya:2019tku}
 \bibitem{Acharya:2019tku}
@@ -80,8 +81,9 @@
 %\cite{Acharya:2019zup}
 \bibitem{Acharya:2019zup}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $\sqrt{s}$= 7 TeV,''
+ JHEP {\bf 1908}, 133 (2019)
  doi:10.1007/JHEP08(2019)133
- arXiv:1905.02510 [nucl-ex].
+ [arXiv:1905.02510 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP08(2019)133;%%
 
 %\cite{Acharya:2019ssy}

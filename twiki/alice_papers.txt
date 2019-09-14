@@ -1,4 +1,4 @@
-   * Generated on 2019-Sep-13 02:26 CEST
+   * Generated on 2019-Sep-14 02:30 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Studies of J/$ψ$ production at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1909.03158v1][1909.03158]]|[[http://inspirehep.net//record/1753083?ln=en][1753083]]|%RED%Submitted%ENDCOLOR%|256|

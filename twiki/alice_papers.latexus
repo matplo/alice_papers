@@ -1,3 +1,9 @@
+%\cite{Acharya:2019ttn}
+\bibitem{Acharya:2019ttn}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of the (anti-)$^{3}$He elliptic flow in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:1910.09718 [nucl-ex].
+ %%CITATION = ARXIV:1910.09718;%% 
+
 %\cite{Acharya:2019mom}
 \bibitem{Acharya:2019mom}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of electrons from semileptonic heavy-flavour hadron decays at midrapidity in pp and Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''

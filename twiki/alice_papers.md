@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF,CF|Measurement of the (anti-)\\(^\{3\}\\)He elliptic flow in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[1910.09718](http://arxiv.org/abs/1910.09718v1){: target="_blank"}|[1760170](http://inspirehep.net//record/1760170?ln=en){: target="_blank"}|Submitted|259|
 |HF|Measurement of electrons from semileptonic heavy-flavour hadron decays at midrapidity in pp and Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|pp,PbPb|[1910.09110](http://arxiv.org/abs/1910.09110v1){: target="_blank"}|[1759860](http://inspirehep.net//record/1759860?ln=en){: target="_blank"}|Submitted|258|
 |JE|Measurements of inclusive jet spectra in pp and central Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|pp,PbPb|[1909.09718](http://arxiv.org/abs/1909.09718v1){: target="_blank"}|[1755387](http://inspirehep.net//record/1755387?ln=en){: target="_blank"}|Submitted|257|
 |DQ|Studies of J/\\(\psi\\) production at forward rapidity in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[1909.03158](http://arxiv.org/abs/1909.03158v1){: target="_blank"}|[1753083](http://inspirehep.net//record/1753083?ln=en){: target="_blank"}|Submitted|256|

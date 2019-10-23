@@ -1,7 +1,7 @@
-   * Generated on 2019-Oct-22 09:39 PDT
+   * Generated on 2019-Okt-23 02:32 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
-|HF|Measurement of electrons from semileptonic heavy-flavour hadron decays at midrapidity in pp and Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.09110v1][1910.09110]]|[[No Link Found][]]|%RED%Submitted%ENDCOLOR%|258|
+|HF|Measurement of electrons from semileptonic heavy-flavour hadron decays at midrapidity in pp and Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.09110v1][1910.09110]]|[[http://inspirehep.net//record/1759860?ln=en][1759860]]|%RED%Submitted%ENDCOLOR%|258|
 |JE|Measurements of inclusive jet spectra in pp and central Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1909.09718v1][1909.09718]]|[[http://inspirehep.net//record/1755387?ln=en][1755387]]|%RED%Submitted%ENDCOLOR%|257|
 |DQ|Studies of J/$ψ$ production at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1909.03158v1][1909.03158]]|[[http://inspirehep.net//record/1753083?ln=en][1753083]]|%RED%Submitted%ENDCOLOR%|256|
 |LF|Multiplicity dependence of (multi-)strange hadron production in proton-proton collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/1908.01861v1][1908.01861]]|[[http://inspirehep.net//record/1748157?ln=en][1748157]]|%RED%Submitted%ENDCOLOR%|255|
@@ -12,7 +12,7 @@
 |CF|Scattering studies with low-energy kaon-proton femtoscopy in proton-proton collisions at the LHC|pp|[[http://arxiv.org/abs/1905.13470v1][1905.13470]]|[[http://inspirehep.net//record/1737592?ln=en][1737592]]|%RED%Submitted%ENDCOLOR%|250|
 |DQ|Inclusive J/$ψ$ production at mid-rapidity in pp collisions at $\sqrt{s}$ = 5.02 !TeV|pp|[[http://arxiv.org/abs/1905.07211v1][1905.07211]]|[[http://inspirehep.net//record/1735351?ln=en][1735351]]|%RED%Submitted%ENDCOLOR%|249|
 |CF|Study of the $Λ$-$Λ$ interaction with femtoscopy correlations in pp and p-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1905.07209v1][1905.07209]]|[[http://inspirehep.net//record/1735349?ln=en][1735349]]|%RED%Submitted%ENDCOLOR%|248|
-|LF|Charged-particle production as a function of multiplicity and transverse spherocity in pp collisions at $\sqrt{s} =5.02$ and 13 !TeV|pp|[[http://arxiv.org/abs/1905.07208v1][1905.07208]]|[[http://inspirehep.net//record/1735345?ln=en][1735345]]|%GREEN%Eur. Phys. J. C79%ENDCOLOR%|247|
+|LF|Charged-particle production as a function of multiplicity and transverse spherocity in pp collisions at $\sqrt{s} =5.02$ and 13 !TeV|pp|[[http://arxiv.org/abs/1905.07208v1][1905.07208]]|[[http://inspirehep.net//record/1735345?ln=en][1735345]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-019-7350-y][Eur. Phys. J. C79]]%ENDCOLOR%|247|
 |HF|Production of muons from heavy-flavour hadron decays in pp collisions at $\sqrt{s}=5.02$ !TeV|pp|[[http://arxiv.org/abs/1905.07207v1][1905.07207]]|[[http://inspirehep.net//record/1735344?ln=en][1735344]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2019)008][JHEP 09]]%ENDCOLOR%|246|
 |JE|Measurement of charged jet cross section in pp collisions at ${\sqrt{s}=5.02}$ !TeV|pp|[[http://arxiv.org/abs/1905.02536v1][1905.02536]]|[[http://inspirehep.net//record/1733689?ln=en][1733689]]|%RED%Submitted%ENDCOLOR%|245|
 |JE|Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1905.02512v1][1905.02512]]|[[http://inspirehep.net//record/1733684?ln=en][1733684]]|%RED%Submitted%ENDCOLOR%|244|

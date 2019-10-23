@@ -1,3 +1,8 @@
+%\cite{Acharya:2019mom}
+\bibitem{Acharya:2019mom}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of electrons from semileptonic heavy-flavour hadron decays at midrapidity in pp and Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:1910.09110 [nucl-ex].
+ %%CITATION = ARXIV:1910.09110;%% 
 
 %\cite{Acharya:2019jyg}
 \bibitem{Acharya:2019jyg}
@@ -64,8 +69,9 @@
 \bibitem{Acharya:2019mzb}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged-particle production as a function of multiplicity and transverse spherocity in pp collisions at $\sqrt{s} =5.02$ and 13 TeV,''
  Eur.\ Phys.\ J.\ C {\bf 79}, no. 10, 857 (2019)
+ doi:10.1140/epjc/s10052-019-7350-y
  [arXiv:1905.07208 [nucl-ex]].
- %%CITATION = ARXIV:1905.07208;%%
+ %%CITATION = doi:10.1140/epjc/s10052-019-7350-y;%%
 
 %\cite{Acharya:2019mky}
 \bibitem{Acharya:2019mky}

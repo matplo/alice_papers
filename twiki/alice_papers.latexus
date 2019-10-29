@@ -63,9 +63,10 @@
 
 %\cite{Acharya:2019lkw}
 \bibitem{Acharya:2019lkw}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive J/$\psi$ production at mid-rapidity in pp collisions at $\sqrt{s}$ = 5.02 TeV,''
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive J/$\psi$ production at mid-rapidity in pp collisions at $\sqrt{s}$ = 5.02 TeVInclusive J/? production at mid-rapidity in pp collisions at $ \sqrt{s} $ = 5.02 TeV,''
+ JHEP {\bf 1910}, 084 (2019)
  doi:10.1007/JHEP10(2019)084
- arXiv:1905.07211 [nucl-ex].
+ [arXiv:1905.07211 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP10(2019)084;%%
 
 %\cite{Acharya:2019yvb}

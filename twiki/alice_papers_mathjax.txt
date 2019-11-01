@@ -1,4 +1,4 @@
-   * Generated on 2019-Okt-31 02:29 CET
+   * Generated on 2019-Nov-01 02:32 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF,CF|Measurement of the (anti-)\(^{3}\)He elliptic flow in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.09718v1][1910.09718]]|[[http://inspirehep.net//record/1760170?ln=en][1760170]]|%RED%Submitted%ENDCOLOR%|259|

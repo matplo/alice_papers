@@ -106,6 +106,7 @@
  arXiv:1909.09718 [nucl-ex].
  %%CITATION = ARXIV:1909.09718;%% 
 
+
 %\cite{Acharya:2019iur}
 \bibitem{Acharya:2019iur}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Studies of J/$\psi$ production at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
@@ -162,8 +163,10 @@
 %\cite{Acharya:2019yvb}
 \bibitem{Acharya:2019yvb}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Study of the $\Lambda$-$\Lambda$ interaction with femtoscopy correlations in pp and p-Pb collisions at the LHC,''
- arXiv:1905.07209 [nucl-ex].
- %%CITATION = ARXIV:1905.07209;%%
+ Phys.\ Lett.\ B {\bf 797}, 134822 (2019)
+ doi:10.1016/j.physletb.2019.134822
+ [arXiv:1905.07209 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2019.134822;%%
 
 %\cite{Acharya:2019mzb}
 \bibitem{Acharya:2019mzb}
@@ -220,8 +223,9 @@
 %\cite{Acharya:2019vlb}
 \bibitem{Acharya:2019vlb}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Coherent J/$\psi$ photoproduction at forward rapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}=5.02$ TeV,''
+ Phys.\ Lett.\ B {\bf 798}, 134926 (2019)
  doi:10.1016/j.physletb.2019.134926
- arXiv:1904.06272 [nucl-ex].
+ [arXiv:1904.06272 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2019.134926;%%
 
 %\cite{Acharya:2019fip}

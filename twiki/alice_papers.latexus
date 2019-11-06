@@ -100,12 +100,17 @@
  arXiv:1910.09110 [nucl-ex].
  %%CITATION = ARXIV:1910.09110;%%
 
+%\cite{Acharya:2019yoi}
+\bibitem{Acharya:2019yoi}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of charged pions, kaons and (anti-)protons in Pb-Pb and inelastic pp collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:1910.07678 [nucl-ex].
+ %%CITATION = ARXIV:1910.07678;%%
+
 %\cite{Acharya:2019jyg}
 \bibitem{Acharya:2019jyg}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurements of inclusive jet spectra in pp and central Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
  arXiv:1909.09718 [nucl-ex].
  %%CITATION = ARXIV:1909.09718;%% 
-
 
 %\cite{Acharya:2019iur}
 \bibitem{Acharya:2019iur}

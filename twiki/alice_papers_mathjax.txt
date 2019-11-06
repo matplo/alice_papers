@@ -1,10 +1,10 @@
-   * Generated on 2019-Nov-05 16:15 PST
+   * Generated on 2019-Nov-06 02:27 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Evidence of rescattering effect in Pb-Pb collisions at the LHC through production of \(\rm{K}^{*}(892)^{0}\) and \(\\(\phi(1020)\)\) mesons|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14419v1][1910.14419]]|[[http://inspirehep.net//record/1762368?ln=en][1762368]]|%RED%Submitted%ENDCOLOR%|275|
 |LF|\(\rm{K}^{*}(\rm{892})^{0}\) and \(\\(\phi(1020)\)\) production at midrapidity in pp collisions at \(\sqrt{s}\) = 8 !TeV|pp|[[http://arxiv.org/abs/1910.14410v1][1910.14410]]|[[http://inspirehep.net//record/1762364?ln=en][1762364]]|%RED%Submitted%ENDCOLOR%|274|
 |CF|Measurement of spin-orbital angular momentum interactions in relativistic heavy-ion collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14408v1][1910.14408]]|[[http://inspirehep.net//record/1762362?ln=en][1762362]]|%RED%Submitted%ENDCOLOR%|273|
-|CF|Investigation of the p-\(\Sigma^{0}\) interaction via femtoscopy in pp collisions|pp|[[http://arxiv.org/abs/1910.14407v1][1910.14407]]|[[http://inspirehep.net//record/1762369?ln=en][1762369]]|%RED%Submitted%ENDCOLOR%|272|
+|CF|Investigation of the p-\(\Sigma^{0}\) interaction via femtoscopy in pp collisions|pp|[[http://arxiv.org/abs/1910.14407v2][1910.14407]]|[[http://inspirehep.net//record/1762369?ln=en][1762369]]|%RED%Submitted%ENDCOLOR%|272|
 |CF|Probing the effects of strong electromagnetic fields with charge-dependent directed flow in Pb-Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14406v1][1910.14406]]|[[http://inspirehep.net//record/1762367?ln=en][1762367]]|%RED%Submitted%ENDCOLOR%|271|
 |DQ|Inclusive \(\Upsilon\) production in p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14405v1][1910.14405]]|[[http://inspirehep.net//record/1762360?ln=en][1762360]]|%RED%Submitted%ENDCOLOR%|270|
 |DQ|Centrality and transverse momentum dependence of inclusive J/\(\psi\) production at midrapidity in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14404v1][1910.14404]]|[[http://inspirehep.net//record/1762353?ln=en][1762353]]|%RED%Submitted%ENDCOLOR%|269|

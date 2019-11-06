@@ -1,4 +1,4 @@
-   * Generated on 2019-Nov-06 02:27 CET
+   * Generated on 2019-Nov-06 11:33 PST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Evidence of rescattering effect in Pb-Pb collisions at the LHC through production of $\rm{K}^{*}(892)^{0}$ and $φ(1020)$ mesons|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14419v1][1910.14419]]|[[http://inspirehep.net//record/1762368?ln=en][1762368]]|%RED%Submitted%ENDCOLOR%|275|
@@ -18,7 +18,7 @@
 |CF|Longitudinal and azimuthal evolution of two-particle transverse momentum correlations in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14393v1][1910.14393]]|[[http://inspirehep.net//record/1762340?ln=en][1762340]]|%RED%Submitted%ENDCOLOR%|261|
 |LF,CF|Measurement of the (anti-)$^{3}$He elliptic flow in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.09718v1][1910.09718]]|[[http://inspirehep.net//record/1760170?ln=en][1760170]]|%RED%Submitted%ENDCOLOR%|260|
 |HF|Measurement of electrons from semileptonic heavy-flavour hadron decays at midrapidity in pp and Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.09110v2][1910.09110]]|[[http://inspirehep.net//record/1759860?ln=en][1759860]]|%RED%Submitted%ENDCOLOR%|259|
-|LF|Production of charged pions, kaons and (anti-)protons in Pb-Pb and inelastic pp collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|pp|[[http://arxiv.org/abs/1910.07678v1][1910.07678]]|[[http://inspirehep.net//record/1759506?ln=en][1759506]]|%RED%Submitted%ENDCOLOR%|258|
+|LF|Production of charged pions, kaons and (anti-)protons in Pb-Pb and inelastic pp collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.07678v1][1910.07678]]|[[http://inspirehep.net//record/1759506?ln=en][1759506]]|%RED%Submitted%ENDCOLOR%|258|
 |JE|Measurements of inclusive jet spectra in pp and central Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1909.09718v1][1909.09718]]|[[http://inspirehep.net//record/1755387?ln=en][1755387]]|%RED%Submitted%ENDCOLOR%|257|
 |DQ|Studies of J/$ψ$ production at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1909.03158v1][1909.03158]]|[[http://inspirehep.net//record/1753083?ln=en][1753083]]|%RED%Submitted%ENDCOLOR%|256|
 |LF|Multiplicity dependence of (multi-)strange hadron production in proton-proton collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/1908.01861v1][1908.01861]]|[[http://inspirehep.net//record/1748157?ln=en][1748157]]|%RED%Submitted%ENDCOLOR%|255|

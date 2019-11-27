@@ -1,4 +1,4 @@
-   * Generated on 2019-Nov-26 02:30 CET
+   * Generated on 2019-Nov-27 02:28 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Evidence of rescattering effect in Pb-Pb collisions at the LHC through production of $\rm{K}^{*}(892)^{0}$ and $φ(1020)$ mesons|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14419v1][1910.14419]]|[[http://inspirehep.net//record/1762368?ln=en][1762368]]|%RED%Submitted%ENDCOLOR%|275|

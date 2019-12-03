@@ -1,3 +1,9 @@
+%\cite{Acharya:2019uia}
+\bibitem{Acharya:2019uia}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Non-linear flow modes of identified particles in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:1912.00740 [nucl-ex].
+ %%CITATION = ARXIV:1912.00740;%% 
+
 %\cite{Acharya:2019qge}
 \bibitem{Acharya:2019qge}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Evidence of rescattering effect in Pb-Pb collisions at the LHC through production of $\rm{K}^{*}(892)^{0}$ and $\phi(1020)$ mesons,''
@@ -20,7 +26,7 @@
 \bibitem{Acharya:2019kqn}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Investigation of the p-$\Sigma^{0}$ interaction via femtoscopy in pp collisions,''
  arXiv:1910.14407 [nucl-ex].
- %%CITATION = ARXIV:1910.14407;%% 
+ %%CITATION = ARXIV:1910.14407;%%
 
 %\cite{Acharya:2019ijj}
 \bibitem{Acharya:2019ijj}
@@ -110,7 +116,7 @@
 \bibitem{Acharya:2019jyg}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurements of inclusive jet spectra in pp and central Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
  arXiv:1909.09718 [nucl-ex].
- %%CITATION = ARXIV:1909.09718;%% 
+ %%CITATION = ARXIV:1909.09718;%%
 
 %\cite{Acharya:2019iur}
 \bibitem{Acharya:2019iur}
@@ -135,8 +141,10 @@
 %\cite{Acharya:2019hlv}
 \bibitem{Acharya:2019hlv}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of $\Upsilon(1{\rm S})$ elliptic flow at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}=5.02$ TeV,''
- arXiv:1907.03169 [nucl-ex].
- %%CITATION = ARXIV:1907.03169;%%
+ Phys.\ Rev.\ Lett.\ {\bf 123}, no. 19, 192301 (2019)
+ doi:10.1103/PhysRevLett.123.192301
+ [arXiv:1907.03169 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.123.192301;%%
 
 %\cite{Acharya:2019mno}
 \bibitem{Acharya:2019mno}
@@ -147,9 +155,10 @@
 %\cite{Acharya:2019jkx}
 \bibitem{Acharya:2019jkx}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of the inclusive isolated photon production cross section in pp collisions at $\sqrt{s}$ = 7 TeV,''
- %Submitted to: Eur.Phys.J.
+ Eur.\ Phys.\ J.\ C {\bf 79}, no. 11, 896 (2019)
+ doi:10.1140/epjc/s10052-019-7389-9
  [arXiv:1906.01371 [nucl-ex]].
- %%CITATION = ARXIV:1906.01371;%% 
+ %%CITATION = doi:10.1140/epjc/s10052-019-7389-9;%%
 
 %\cite{Acharya:2019bsa}
 \bibitem{Acharya:2019bsa}
@@ -187,13 +196,15 @@
  JHEP {\bf 1909}, 008 (2019)
  doi:10.1007/JHEP09(2019)008
  [arXiv:1905.07207 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP09(2019)008;%% 
+ %%CITATION = doi:10.1007/JHEP09(2019)008;%%
 
 %\cite{Acharya:2019tku}
 \bibitem{Acharya:2019tku}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of charged jet cross section in pp collisions at ${\sqrt{s}=5.02}$ TeV,''
- arXiv:1905.02536 [nucl-ex].
- %%CITATION = ARXIV:1905.02536;%%
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of charged jet cross section in $pp$ collisions at ${\sqrt{s}=5.02}$ TeV,''
+ Phys.\ Rev.\ D {\bf 100}, no. 9, 092004 (2019)
+ doi:10.1103/PhysRevD.100.092004
+ [arXiv:1905.02536 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevD.100.092004;%%
 
 %\cite{Acharya:2019djg}
 \bibitem{Acharya:2019djg}
@@ -249,7 +260,7 @@
 
 %\cite{Acharya:2019vdf}
 \bibitem{Acharya:2019vdf}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Investigations of anisotropic flow using multi-particle azimuthal correlations in pp, p-Pb, Xe-Xe, and Pb-Pb collisions at the LHC,''
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Investigations of Anisotropic Flow Using Multiparticle Azimuthal Correlations in pp, p-Pb, Xe-Xe, and Pb-Pb Collisions at the LHC,''
  Phys.\ Rev.\ Lett.\ {\bf 123}, no. 14, 142301 (2019)
  doi:10.1103/PhysRevLett.123.142301
  [arXiv:1903.01790 [nucl-ex]].

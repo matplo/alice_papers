@@ -8,19 +8,19 @@
 \bibitem{Acharya:2019qge}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Evidence of rescattering effect in Pb-Pb collisions at the LHC through production of $\rm{K}^{*}(892)^{0}$ and $\phi(1020)$ mesons,''
  arXiv:1910.14419 [nucl-ex].
- %%CITATION = ARXIV:1910.14419;%% 
+ %%CITATION = ARXIV:1910.14419;%%
 
 %\cite{Acharya:2019wyb}
 \bibitem{Acharya:2019wyb}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``$\rm{K}^{*}(\rm{892})^{0}$ and $\phi(1020)$ production at midrapidity in pp collisions at $\sqrt{s}$ = 8 TeV,''
  arXiv:1910.14410 [nucl-ex].
- %%CITATION = ARXIV:1910.14410;%% 
+ %%CITATION = ARXIV:1910.14410;%%
 
 %\cite{Acharya:2019vpe}
 \bibitem{Acharya:2019vpe}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of spin-orbital angular momentum interactions in relativistic heavy-ion collisions,''
  arXiv:1910.14408 [nucl-ex].
- %%CITATION = ARXIV:1910.14408;%% 
+ %%CITATION = ARXIV:1910.14408;%%
 
 %\cite{Acharya:2019kqn}
 \bibitem{Acharya:2019kqn}
@@ -32,7 +32,7 @@
 \bibitem{Acharya:2019ijj}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Probing the effects of strong electromagnetic fields with charge-dependent directed flow in Pb-Pb collisions at the LHC,''
  arXiv:1910.14406 [nucl-ex].
- %%CITATION = ARXIV:1910.14406;%% 
+ %%CITATION = ARXIV:1910.14406;%%
 
 %\cite{Acharya:2019lqc}
 \bibitem{Acharya:2019lqc}
@@ -68,7 +68,7 @@
 \bibitem{Acharya:2019hao}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of electrons from heavy-flavour hadron decays as a function of multiplicity in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
  arXiv:1910.14399 [nucl-ex].
- %%CITATION = ARXIV:1910.14399;%% 
+ %%CITATION = ARXIV:1910.14399;%%
 
 %\cite{Acharya:2019psw}
 \bibitem{Acharya:2019psw}
@@ -80,7 +80,7 @@
 \bibitem{Acharya:2019bli}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of K*(892)$^{0}$ and $\phi$(1020) production in pp collisions at $\sqrt{s}$ = 13 TeV,''
  arXiv:1910.14397 [nucl-ex].
- %%CITATION = ARXIV:1910.14397;%% 
+ %%CITATION = ARXIV:1910.14397;%%
 
 %\cite{Acharya:2019izy}
 \bibitem{Acharya:2019izy}
@@ -148,9 +148,11 @@
 
 %\cite{Acharya:2019mno}
 \bibitem{Acharya:2019mno}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of prompt D$^0$, D$^+$, D$^{*+}$, and D$^+_s$ production in p$-$Pb collisions at $\mathbf{\sqrt{{\textit s}_{\rm NN}}~=~5.02~TeV}$,''
- arXiv:1906.03425 [nucl-ex].
- %%CITATION = ARXIV:1906.03425;%%
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of prompt D$^{0}$, D$^{+}$, D$^{*+}$, and $ {\mathrm{D}}_{\mathrm{S}}^{+} $ production in p?Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}} $ = 5.02 TeV,''
+ JHEP {\bf 1912}, 092 (2019)
+ doi:10.1007/JHEP12(2019)092
+ [arXiv:1906.03425 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP12(2019)092;%%
 
 %\cite{Acharya:2019jkx}
 \bibitem{Acharya:2019jkx}
@@ -272,7 +274,7 @@
  JINST {\bf 14}, no. 05, P05025 (2019)
  doi:10.1088/1748-0221/14/05/P05025
  [arXiv:1902.06145 [physics.ins-det]].
- %%CITATION = doi:10.1088/1748-0221/14/05/P05025;%% 
+ %%CITATION = doi:10.1088/1748-0221/14/05/P05025;%%
 
 %\cite{Acharya:2019mgn}
 \bibitem{Acharya:2019mgn}
@@ -839,9 +841,10 @@
 \bibitem{Adam:2016iwf}
   J.~Adam {\it et al.} [ALICE Collaboration], %``Insight into particle production mechanisms via angular correlations of identified particles in pp collisions at $\sqrt{\mathrm{s}}=7$ TeV,''
  Eur.\ Phys.\ J.\ C {\bf 77}, no. 8, 569 (2017)
- doi:10.1140/epjc/s10052-017-5129-6
+ Erratum: [Eur.\ Phys.\ J.\ C {\bf 79}, no. 12, 998 (2019)]
+ doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6
  [arXiv:1612.08975 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-5129-6;%%
+ %%CITATION = doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6;%%
 
 %\cite{Adam:2016ddh}
 \bibitem{Adam:2016ddh}

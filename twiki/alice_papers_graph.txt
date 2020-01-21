@@ -1,0 +1,67 @@
+
+            %JQPLOT{"canvasTextRenderer"}%
+            %JQPLOT{"canvasAxisLabelRenderer"}%
+            %JQPLOT{"dateAxisRenderer"}%
+            %JQPLOT{"cursor"}%
+            %JQPLOT{"highlighter"}%
+            <div id='chart1' style='height:400px; width: 600px;'></div>
+            <script>
+            $(document).ready(function(){
+                var line1=[['2019-10-31', 1, '1910.14419' ], ['2019-12-02', 2, '1912.00740' ]];;
+                plot1 = $.jqplot('chart1', [line1], {
+                    animate: true,
+                    animateReplot: true,
+                    title:'ALICE papers on arXiv vs. date',
+                    //seriesColors: ["rgb(211, 235, 59)"],
+                    seriesColors: ["rgb(200, 0, 0)"],
+                    grid: {
+                        background: 'rgba(255,255,255,1.0)',
+                        drawBorder: false,
+                        shadow: false,
+                        gridLineColor: '#666666',
+                        gridLineWidth: 1
+                    },
+                    axes:{
+                        xaxis:{
+                            renderer:$.jqplot.DateAxisRenderer
+                        },
+                        yaxis: {
+                            min:0,
+                            label:'Number of papers',
+                            labelRenderer: $.jqplot.CanvasAxisLabelRenderer
+                        }
+                    },
+                    seriesDefaults: {
+                        rendererOptions: {
+                            smooth: true,
+                            animation: {
+                                show: true
+                            }
+                        },
+                        showMarker: true,
+                        //pointLabels:{ show:true, location:'s', ypadding:3 }
+                    },                    
+                    //series:[{lineWidth:3, markerOptions:{style:'square'}}],
+                    //series:[{lineWidth:2, markerOptions:{style:'filledCircle', shadow: true, shadowAlpha: '0.07'}}],
+                    series:[{lineWidth:2, markerOptions:{style:'filledCircle', size: 6.0}}],
+                    highlighter: {
+                        show: true,
+                        tooltipAxes: 'both',
+                        yvalues: 2,
+                        sizeAdjust: 15.0,
+                        //formatString:'<table class="jqplot-highlighter"> <tr><td>date:</td><td>%s</td></tr> <tr><td>number:</td><td>%s</td></tr> <tr><td>arXiv:</td><td>%s</td></tr> <tr><td>title:</td><td>%s</td></tr> </table>'
+                        formatString:'<table class="jqplot-highlighter"> <tr><td>date:</td><td>%s</td></tr> <tr><td>number:</td><td>%s</td></tr> <tr><td>arXiv:</td><td>%s</td></tr> </table>'
+                      },
+                    cursor: {
+                        showTooltip: false,
+                        show: true,
+                        zoom: true,
+                        looseZoom: true,
+                        dblClickReset:true
+                      }                    
+                });
+            });
+            </script>
+
+            
+

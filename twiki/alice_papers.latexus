@@ -1479,13 +1479,6 @@
  [arXiv:1405.4117 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevD.91.012001;%%
 
-%\cite{Abelev:2014zpa}
-\bibitem{Abelev:2014zpa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Suppression of $\psi$(2S) production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- JHEP {\bf 1412}, 073 (2014)
- doi:10.1007/JHEP12(2014)073
- [arXiv:1405.3796 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP12(2014)073;%%
 
 %\cite{Abelev:2014ypa}
 \bibitem{Abelev:2014ypa}
@@ -1720,6 +1713,13 @@
  [arXiv:1303.0737 [hep-ex]].
  %%CITATION = doi:10.1103/PhysRevC.88.044910;%%
 
+%\cite{Abelev:2013qoq}
+\bibitem{Abelev:2013qoq}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Centrality determination of Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV with ALICE,''
+ Phys.\ Rev.\ C {\bf 88}, no. 4, 044909 (2013)
+ doi:10.1103/PhysRevC.88.044909
+ [arXiv:1301.4361 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.88.044909;%%
 
 %\cite{Abelev:2013csa}
 \bibitem{Abelev:2013csa}
@@ -1745,13 +1745,6 @@
  [arXiv:1212.5958 [hep-ex]].
  %%CITATION = doi:10.1103/PhysRevD.87.052016;%%
 
-%\cite{Abelev:2012ola}
-\bibitem{Abelev:2012ola}
-  B.~Abelev {\it et al.} [ALICE Collaboration], %``Long-range angular correlations on the near and away side in $p$-Pb collisions at $\sqrt{s_{NN}}=5.02$ TeV,''
- Phys.\ Lett.\ B {\bf 719}, 29 (2013)
- doi:10.1016/j.physletb.2013.01.012
- [arXiv:1212.2001 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2013.01.012;%%
 
 %\cite{ALICE:2012mj}
 \bibitem{ALICE:2012mj}
@@ -2019,6 +2012,13 @@
  [arXiv:1109.2501 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.01.060;%%
 
+%\cite{ALICE:2011ab}
+\bibitem{ALICE:2011ab}
+  K.~Aamodt {\it et al.} [ALICE Collaboration], %``Higher harmonic anisotropic flow measurements of charged particles in Pb-Pb collisions at $\sqrt{s_{NN}}$=2.76 TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 107}, 032301 (2011)
+ doi:10.1103/PhysRevLett.107.032301
+ [arXiv:1105.3865 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.107.032301;%%
 
 %\cite{Aamodt:2011gj}
 \bibitem{Aamodt:2011gj}

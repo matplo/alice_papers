@@ -1150,13 +1150,6 @@
  [arXiv:1509.07255 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-016-3915-1;%%
 
-%\cite{Adam:2015sza}
-\bibitem{Adam:2015sza}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Transverse momentum dependence of D-meson production in Pb-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=$ 2.76 TeV,''
- JHEP {\bf 1603}, 081 (2016)
- doi:10.1007/JHEP03(2016)081
- [arXiv:1509.06888 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP03(2016)081;%%
 
 %\cite{Adam:2015sia}
 \bibitem{Adam:2015sia}
@@ -1479,6 +1472,13 @@
  [arXiv:1405.4117 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevD.91.012001;%%
 
+%\cite{Abelev:2014zpa}
+\bibitem{Abelev:2014zpa}
+  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Suppression of $\psi$(2S) production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
+ JHEP {\bf 1412}, 073 (2014)
+ doi:10.1007/JHEP12(2014)073
+ [arXiv:1405.3796 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP12(2014)073;%%
 
 %\cite{Abelev:2014ypa}
 \bibitem{Abelev:2014ypa}
@@ -1745,6 +1745,13 @@
  [arXiv:1212.5958 [hep-ex]].
  %%CITATION = doi:10.1103/PhysRevD.87.052016;%%
 
+%\cite{Abelev:2012ola}
+\bibitem{Abelev:2012ola}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Long-range angular correlations on the near and away side in $p$-Pb collisions at $\sqrt{s_{NN}}=5.02$ TeV,''
+ Phys.\ Lett.\ B {\bf 719}, 29 (2013)
+ doi:10.1016/j.physletb.2013.01.012
+ [arXiv:1212.2001 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2013.01.012;%%
 
 %\cite{ALICE:2012mj}
 \bibitem{ALICE:2012mj}

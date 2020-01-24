@@ -257,8 +257,9 @@
 %\cite{Acharya:2019ldv}
 \bibitem{Acharya:2019ldv}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of strange baryon-antibaryon interactions with femtoscopic correlations,''
+ doi:10.1016/j.physletb.2020.135223
  arXiv:1903.06149 [nucl-ex].
- %%CITATION = ARXIV:1903.06149;%%
+ %%CITATION = doi:10.1016/j.physletb.2020.135223;%%
 
 %\cite{Acharya:2019vdf}
 \bibitem{Acharya:2019vdf}
@@ -1150,6 +1151,13 @@
  [arXiv:1509.07255 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-016-3915-1;%%
 
+%\cite{Adam:2015sza}
+\bibitem{Adam:2015sza}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Transverse momentum dependence of D-meson production in Pb-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=$ 2.76 TeV,''
+ JHEP {\bf 1603}, 081 (2016)
+ doi:10.1007/JHEP03(2016)081
+ [arXiv:1509.06888 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP03(2016)081;%%
 
 %\cite{Adam:2015sia}
 \bibitem{Adam:2015sia}

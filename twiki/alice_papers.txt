@@ -1,4 +1,4 @@
-   * Generated on 2020-Jan-26 22:47 CET
+   * Generated on 2020-Jan-27 01:27 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Non-linear flow modes of identified particles in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1912.00740v1][1912.00740]]|[[http://inspirehep.net//record/1767961?ln=en][1767961]]|%RED%Submitted%ENDCOLOR%|276|

@@ -1,3 +1,9 @@
+%\cite{Acharya:2020taj}
+\bibitem{Acharya:2020taj}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:2002.00633 [nucl-ex].
+ %%CITATION = ARXIV:2002.00633;%% 
+
 %\cite{Acharya:2019uia}
 \bibitem{Acharya:2019uia}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Non-linear flow modes of identified particles in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''

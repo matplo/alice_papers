@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[2002.00633](http://arxiv.org/abs/2002.00633v1){: target="_blank"}|[1778342](http://inspirehep.net//record/1778342?ln=en){: target="_blank"}|Submitted|277|
 |CF|Non-linear flow modes of identified particles in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[1912.00740](http://arxiv.org/abs/1912.00740v1){: target="_blank"}|[1767961](http://inspirehep.net//record/1767961?ln=en){: target="_blank"}|Submitted|276|
 |LF|Evidence of rescattering effect in Pb-Pb collisions at the LHC through production of \\(\rm\{K\}^\{*\}(892)^\{0\}\\) and \\(\\\(\phi(1020)\\)\\) mesons|PbPb|[1910.14419](http://arxiv.org/abs/1910.14419v1){: target="_blank"}|[1762368](http://inspirehep.net//record/1762368?ln=en){: target="_blank"}|[Phys. Lett. B802](https://doi.org/10.1016/j.physletb.2020.135225){: target="_blank"}|275|
 |LF|\\(\rm\{K\}^\{*\}(\rm\{892\})^\{0\}\\) and \\(\\\(\phi(1020)\\)\\) production at midrapidity in pp collisions at \\(\sqrt\{s\}\\) = 8 TeV|pp|[1910.14410](http://arxiv.org/abs/1910.14410v1){: target="_blank"}|[1762364](http://inspirehep.net//record/1762364?ln=en){: target="_blank"}|Submitted|274|

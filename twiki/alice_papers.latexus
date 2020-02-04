@@ -2136,6 +2136,13 @@
  [arXiv:1006.5432 [hep-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.105.072002;%%
 
+%\cite{Aamodt:2010pp}
+\bibitem{Aamodt:2010pp}
+  K.~Aamodt {\it et al.} [ALICE Collaboration], %``Charged-particle multiplicity measurement in proton-proton collisions at $\sqrt{s}=7$ TeV with ALICE at LHC,''
+ Eur.\ Phys.\ J.\ C {\bf 68}, 345 (2010)
+ doi:10.1140/epjc/s10052-010-1350-2
+ [arXiv:1004.3514 [hep-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-010-1350-2;%%
 
 %\cite{Aamodt:2010ft}
 \bibitem{Aamodt:2010ft}

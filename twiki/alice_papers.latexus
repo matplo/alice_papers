@@ -873,6 +873,13 @@
  [arXiv:1611.03002 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP02(2017)077;%%
 
+%\cite{Adam:2016ilk}
+\bibitem{Adam:2016ilk}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Determination of the event collision time with the ALICE detector at the LHC,''
+ Eur.\ Phys.\ J.\ Plus {\bf 132}, no. 2, 99 (2017)
+ doi:10.1140/epjp/i2017-11279-1
+ [arXiv:1610.03055 [physics.ins-det]].
+ %%CITATION = doi:10.1140/epjp/i2017-11279-1;%%
 
 %\cite{Adam:2016khe}
 \bibitem{Adam:2016khe}

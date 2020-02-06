@@ -1,4 +1,4 @@
-   * Generated on 2020-Feb-06 06:02 CET
+   * Generated on 2020-Feb-06 08:39 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2002.00633v1][2002.00633]]|[[http://inspirehep.net//record/1778342?ln=en][1778342]]|%RED%Submitted%ENDCOLOR%|277|

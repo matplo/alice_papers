@@ -231,13 +231,6 @@
  [arXiv:1905.02510 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP08(2019)133;%%
 
-%\cite{Acharya:2019ssy}
-\bibitem{Acharya:2019ssy}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of jet radial profiles in Pb$?$Pb collisions at $\sqrt{s_{\rm NN}}=$ 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 796}, 204 (2019)
- doi:10.1016/j.physletb.2019.07.020
- [arXiv:1904.13118 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2019.07.020;%%
 
 %\cite{Acharya:2019sms}
 \bibitem{Acharya:2019sms}
@@ -367,13 +360,6 @@
  [arXiv:1809.03235 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-019-6816-2;%%
 
-%\cite{Acharya:2018eat}
-\bibitem{Acharya:2018eat}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged jet cross section and fragmentation in proton-proton collisions at $\sqrt{s}$ = 7 TeV,''
- Phys.\ Rev.\ D {\bf 99}, no. 1, 012016 (2019)
- doi:10.1103/PhysRevD.99.012016
- [arXiv:1809.03232 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevD.99.012016;%%
 
 %\cite{Acharya:2018orn}
 \bibitem{Acharya:2018orn}
@@ -775,13 +761,6 @@
  [arXiv:1704.00274 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2017.11.008;%%
 
-%\cite{Adam:2017ucq}
-\bibitem{Adam:2017ucq}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Flow dominance and factorization of transverse momentum correlations in Pb-Pb collisions at the LHC,''
- Phys.\ Rev.\ Lett.\ {\bf 118}, no. 16, 162302 (2017)
- doi:10.1103/PhysRevLett.118.162302
- [arXiv:1702.02665 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.118.162302;%%
 
 %\cite{Adamova:2017opl}
 \bibitem{Adamova:2017opl}
@@ -1426,13 +1405,6 @@
  [arXiv:1407.5530 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-014-3077-y;%%
 
-%\cite{TheALICE:2014dwa}
-\bibitem{TheALICE:2014dwa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Exclusive $\mathrm{J/}\psi$ photoproduction off protons in ultra-peripheral p-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 113}, no. 23, 232504 (2014)
- doi:10.1103/PhysRevLett.113.232504
- [arXiv:1406.7819 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.113.232504;%%
 
 %\cite{Abelev:2014mva}
 \bibitem{Abelev:2014mva}

@@ -48,11 +48,6 @@
  arXiv:1910.14405 [nucl-ex].
  %%CITATION = ARXIV:1910.14405;%% 
 
-%\cite{Acharya:2019lkh}
-\bibitem{Acharya:2019lkh}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality and transverse momentum dependence of inclusive J/$\psi$ production at midrapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- arXiv:1910.14404 [nucl-ex].
- %%CITATION = ARXIV:1910.14404;%% 
 
 %\cite{Acharya:2019icl}
 \bibitem{Acharya:2019icl}
@@ -216,6 +211,12 @@
  [arXiv:1905.02536 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevD.100.092004;%%
 
+%\cite{Acharya:2019djg}
+\bibitem{Acharya:2019djg}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies,''
+ doi:10.1016/j.physletb.2020.135227
+ arXiv:1905.02512 [nucl-ex].
+ %%CITATION = doi:10.1016/j.physletb.2020.135227;%%
 
 %\cite{Acharya:2019zup}
 \bibitem{Acharya:2019zup}

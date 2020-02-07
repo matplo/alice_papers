@@ -48,6 +48,11 @@
  arXiv:1910.14405 [nucl-ex].
  %%CITATION = ARXIV:1910.14405;%% 
 
+%\cite{Acharya:2019lkh}
+\bibitem{Acharya:2019lkh}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality and transverse momentum dependence of inclusive J/$\psi$ production at midrapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
+ arXiv:1910.14404 [nucl-ex].
+ %%CITATION = ARXIV:1910.14404;%% 
 
 %\cite{Acharya:2019icl}
 \bibitem{Acharya:2019icl}

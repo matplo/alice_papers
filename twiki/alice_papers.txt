@@ -1,4 +1,4 @@
-   * Generated on 2020-Feb-10 10:40 CET
+   * Generated on 2020-Feb-10 13:19 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2002.00633v1][2002.00633]]|[[http://inspirehep.net//record/1778342?ln=en][1778342]]|%RED%Submitted%ENDCOLOR%|277|
@@ -276,6 +276,6 @@
 |LF|Midrapidity antiproton-to-proton ratio in pp collisions at $\sqrt{s} = 0.9$ and $7$ !TeV measured by the ALICE experiment|pp|[[http://arxiv.org/abs/1006.5432v2][1006.5432]]|[[http://inspirehep.net//record/859610?ln=en][859610]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.105.072002][Phys. Rev. Lett. 105]]%ENDCOLOR%|5|
 |LF|Charged-particle multiplicity measurement in proton-proton collisions at $\sqrt{s}$ = 7 !TeV with ALICE at LHC|pp|[[http://arxiv.org/abs/1004.3514v3][1004.3514]]|[[http://inspirehep.net//record/852264?ln=en][852264]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-010-1350-2][Eur. Phys. J. C68]]%ENDCOLOR%|4|
 |LF|Charged-particle multiplicity measurement in proton-proton collisions at $\sqrt{s}$ = 0.9 and 2.36 !TeV with ALICE at LHC|pp|[[http://arxiv.org/abs/1004.3034v3][1004.3034]]|[[http://inspirehep.net//record/852450?ln=en][852450]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-010-1339-x][Eur. Phys. J. C68]]%ENDCOLOR%|3|
-|PP|Alignment of the ALICE Inner Tracking System with cosmic-ray tracks|c.r.|[[http://arxiv.org/abs/1001.0502v4][1001.0502]]|[[http://inspirehep.net//record/841752?ln=en][841752]]|%GREEN%JINST 5%ENDCOLOR%|2|
+|PP|Alignment of the ALICE Inner Tracking System with cosmic-ray tracks|c.r.|[[http://arxiv.org/abs/1001.0502v4][1001.0502]]|[[http://inspirehep.net//record/841752?ln=en][841752]]|%GREEN%[[https://doi.org/10.1088/1748-0221/5/03/P03003][JINST 5]]%ENDCOLOR%|2|
 |LF|First proton-proton collisions at the LHC as observed with the ALICE detector: measurement of the charged particle pseudorapidity density at $\sqrt{s}$ = 900 !GeV|pp|[[http://arxiv.org/abs/0911.5430v3][0911.5430]]|[[http://inspirehep.net//record/838352?ln=en][838352]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-009-1227-4][Eur. Phys. J. C65]]%ENDCOLOR%|1|
 |PP|The ALICE experiment at the CERN LHC|n/a|n/a|[[https://inspirehep.net/record/796251?ln=en][796251]]|[[http://iopscience.iop.org/1748-0221/3/08/S08002/][ J. Instrum. 3 (2008)]]|0|

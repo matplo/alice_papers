@@ -640,6 +640,13 @@
  [arXiv:1711.10753 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2018.03.010;%%
 
+%\cite{Acharya:2017zkw}
+\bibitem{Acharya:2017zkw}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Longitudinal asymmetry and its effect on pseudorapidity distributions in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
+ Phys.\ Lett.\ B {\bf 781}, 20 (2018)
+ doi:10.1016/j.physletb.2018.03.051
+ [arXiv:1710.07975 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2018.03.051;%%
 
 %\cite{Acharya:2017bso}
 \bibitem{Acharya:2017bso}
@@ -1171,6 +1178,13 @@
  [arXiv:1508.05076 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2015.10.040;%%
 
+%\cite{Adam:2015pna}
+\bibitem{Adam:2015pna}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Precision measurement of the mass difference between light nuclei and anti-nuclei,''
+ Nature Phys.\ {\bf 11}, no. 10, 811 (2015)
+ doi:10.1038/nphys3432
+ [arXiv:1508.03986 [nucl-ex]].
+ %%CITATION = doi:10.1038/nphys3432;%%
 
 %\cite{ALICE:2015wfa}
 \bibitem{ALICE:2015wfa}
@@ -1605,14 +1619,6 @@
  [arXiv:1307.6796 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2013.11.020;%%
 
-%\cite{ABELEV:2013zaa}
-\bibitem{ABELEV:2013zaa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Multi-strange baryon production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 728}, 216 (2014)
- Erratum: [Phys.\ Lett.\ B {\bf 734}, 409 (2014)]
- doi:10.1016/j.physletb.2014.05.052, 10.1016/j.physletb.2013.11.048
- [arXiv:1307.5543 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2014.05.052, 10.1016/j.physletb.2013.11.048;%%
 
 %\cite{Abelev:2013xaa}
 \bibitem{Abelev:2013xaa}
@@ -2105,13 +2111,6 @@
  [arXiv:1011.3916 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.105.252301;%%
 
-%\cite{Aamodt:2010my}
-\bibitem{Aamodt:2010my}
-  K.~Aamodt {\it et al.} [ALICE Collaboration], %``Transverse momentum spectra of charged particles in proton-proton collisions at $\sqrt{s} = 900$~GeV with ALICE at the LHC,''
- Phys.\ Lett.\ B {\bf 693}, 53 (2010)
- doi:10.1016/j.physletb.2010.08.026
- [arXiv:1007.0719 [hep-ex]].
- %%CITATION = doi:10.1016/j.physletb.2010.08.026;%%
 
 %\cite{Aamodt:2010jj}
 \bibitem{Aamodt:2010jj}

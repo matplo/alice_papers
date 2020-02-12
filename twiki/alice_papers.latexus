@@ -1234,6 +1234,13 @@
  [arXiv:1506.08951 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.93.024917;%%
 
+%\cite{Adam:2015jsa}
+\bibitem{Adam:2015jsa}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of inclusive J/? production in p-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=5.02 $ TeV,''
+ JHEP {\bf 1511}, 127 (2015)
+ doi:10.1007/JHEP11(2015)127
+ [arXiv:1506.08808 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP11(2015)127;%%
 
 %\cite{Adam:2015isa}
 \bibitem{Adam:2015isa}

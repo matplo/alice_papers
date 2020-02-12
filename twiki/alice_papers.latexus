@@ -1146,6 +1146,13 @@
  [arXiv:1509.07299 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2015.12.082;%%
 
+%\cite{Adam:2015jda}
+\bibitem{Adam:2015jda}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of D$_{s}^{+}$ production and nuclear modification factor in Pb-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=$ 2.76 TeV,''
+ JHEP {\bf 1603}, 082 (2016)
+ doi:10.1007/JHEP03(2016)082
+ [arXiv:1509.07287 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP03(2016)082;%%
 
 %\cite{Adam:2015gda}
 \bibitem{Adam:2015gda}
@@ -1436,6 +1443,13 @@
  [arXiv:1406.5463 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2014.11.028;%%
 
+%\cite{Abelev:2014qqa}
+\bibitem{Abelev:2014qqa}
+  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Production of $\Sigma(1385)^{\pm}$ and $\Xi(1530)^{0}$ in proton-proton collisions at $\sqrt{s}=$ 7 TeV,''
+ Eur.\ Phys.\ J.\ C {\bf 75}, no. 1, 1 (2015)
+ doi:10.1140/epjc/s10052-014-3191-x
+ [arXiv:1406.3206 [nucl-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-014-3191-x;%%
 
 %\cite{Abelev:2014mda}
 \bibitem{Abelev:2014mda}
@@ -1798,6 +1812,13 @@
  [arXiv:1208.4968 [hep-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-013-2456-0;%%
 
+%\cite{Abelev:2012hxa}
+\bibitem{Abelev:2012hxa}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Centrality Dependence of Charged Particle Production at Large Transverse Momentum in Pb--Pb Collisions at $\sqrt{s_{\rm{NN}}} = 2.76$ TeV,''
+ Phys.\ Lett.\ B {\bf 720}, 52 (2013)
+ doi:10.1016/j.physletb.2013.01.051
+ [arXiv:1208.2711 [hep-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2013.01.051;%%
 
 %\cite{Abelev:2012wca}
 \bibitem{Abelev:2012wca}
@@ -1824,6 +1845,13 @@
  [arXiv:1208.1948 [hep-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.10.049;%%
 
+%\cite{Abelev:2012pv}
+\bibitem{Abelev:2012pv}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Net-Charge Fluctuations in Pb-Pb collisions at $\sqrt{s}_{NN} = 2.76$ TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 110}, no. 15, 152301 (2013)
+ doi:10.1103/PhysRevLett.110.152301
+ [arXiv:1207.6068 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.110.152301;%%
 
 %\cite{Abelev:2012pa}
 \bibitem{Abelev:2012pa}

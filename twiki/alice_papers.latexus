@@ -1925,6 +1925,13 @@
  [arXiv:1205.3963 [hep-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-012-2124-9;%%
 
+%\cite{Abelev:2012jp}
+\bibitem{Abelev:2012jp}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Multi-strange baryon production in $pp$ collisions at $\sqrt{s} = 7$ TeV with ALICE,''
+ Phys.\ Lett.\ B {\bf 712}, 309 (2012)
+ doi:10.1016/j.physletb.2012.05.011
+ [arXiv:1204.0282 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2012.05.011;%%
 
 %\cite{Abelev:2012kr}
 \bibitem{Abelev:2012kr}
@@ -2160,11 +2167,4 @@
  [arXiv:1001.0502 [physics.ins-det]].
  %%CITATION = doi:10.1088/1748-0221/5/03/P03003;%%
 
-%\cite{Aamodt:2009aa}
-\bibitem{Aamodt:2009aa}
-  K.~Aamodt {\it et al.} [ALICE Collaboration], %``First proton-proton collisions at the LHC as observed with the ALICE detector: Measurement of the charged particle pseudorapidity density at s**(1/2) = 900-GeV,''
- Eur.\ Phys.\ J.\ C {\bf 65}, 111 (2010)
- doi:10.1140/epjc/s10052-009-1227-4
- [arXiv:0911.5430 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-009-1227-4;%%
 

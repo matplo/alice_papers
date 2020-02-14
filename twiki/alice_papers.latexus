@@ -1,3 +1,8 @@
+%\cite{Acharya:2020taj}
+\bibitem{Acharya:2020taj}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:2002.00633 [nucl-ex].
+ %%CITATION = ARXIV:2002.00633;%% 
 
 %\cite{Acharya:2019uia}
 \bibitem{Acharya:2019uia}
@@ -411,6 +416,13 @@
  [arXiv:1805.05212 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2019.04.047;%%
 
+%\cite{Acharya:2018hhy}
+\bibitem{Acharya:2018hhy}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe?Xe collisions at $\sqrt{s_{\rm NN}}$ =5.44TeV,''
+ Phys.\ Lett.\ B {\bf 790}, 35 (2019)
+ doi:10.1016/j.physletb.2018.12.048
+ [arXiv:1805.04432 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2018.12.048;%%
 
 %\cite{Acharya:2018ddg}
 \bibitem{Acharya:2018ddg}
@@ -548,6 +560,13 @@
  [arXiv:1804.08906 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-018-6034-3;%%
 
+%\cite{Acharya:2018lmh}
+\bibitem{Acharya:2018lmh}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=5.02 $ and 2.76 TeV,''
+ JHEP {\bf 1807}, 103 (2018)
+ doi:10.1007/JHEP07(2018)103
+ [arXiv:1804.02944 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP07(2018)103;%%
 
 %\cite{Acharya:2018dqe}
 \bibitem{Acharya:2018dqe}
@@ -557,6 +576,13 @@
  [arXiv:1803.09857 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.99.024912;%%
 
+%\cite{Acharya:2018yhg}
+\bibitem{Acharya:2018yhg}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Neutral pion and $\eta$ meson production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
+ Phys.\ Rev.\ C {\bf 98}, no. 4, 044901 (2018)
+ doi:10.1103/PhysRevC.98.044901
+ [arXiv:1803.05490 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.98.044901;%%
 
 %\cite{Acharya:2018qsh}
 \bibitem{Acharya:2018qsh}
@@ -686,13 +712,6 @@
  [arXiv:1709.01127 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.97.024906;%%
 
-%\cite{Acharya:2017tlv}
-\bibitem{Acharya:2017tlv}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``$\pi ^{0}$ and $\eta $ meson production in proton-proton collisions at $\sqrt{s}=8$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 78}, no. 3, 263 (2018)
- doi:10.1140/epjc/s10052-018-5612-8
- [arXiv:1708.08745 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-018-5612-8;%%
 
 %\cite{ALICE:2017pcy}
 \bibitem{ALICE:2017pcy}
@@ -1256,13 +1275,6 @@
  [arXiv:1506.07499 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2015.11.048;%%
 
-%\cite{Adam:2015kca}
-\bibitem{Adam:2015kca}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of the nuclear modification factor of charged pions, kaons, and protons in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV,''
- Phys.\ Rev.\ C {\bf 93}, no. 3, 034913 (2016)
- doi:10.1103/PhysRevC.93.034913
- [arXiv:1506.07287 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.93.034913;%%
 
 %\cite{Adam:2015nna}
 \bibitem{Adam:2015nna}
@@ -1385,6 +1397,13 @@
  [arXiv:1411.4969 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevD.91.112012;%%
 
+%\cite{Abelev:2014oea}
+\bibitem{Abelev:2014oea}
+  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Production of inclusive $\Upsilon$(1S) and $\Upsilon$(2S) in p-Pb collisions at $\mathbf{\sqrt{s_{{\rm NN}}} = 5.02}$ TeV,''
+ Phys.\ Lett.\ B {\bf 740}, 105 (2015)
+ doi:10.1016/j.physletb.2014.11.041
+ [arXiv:1410.2234 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2014.11.041;%%
 
 %\cite{Abelev:2014ckr}
 \bibitem{Abelev:2014ckr}
@@ -1812,6 +1831,13 @@
  [arXiv:1208.1948 [hep-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.10.049;%%
 
+%\cite{Abelev:2012pv}
+\bibitem{Abelev:2012pv}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Net-Charge Fluctuations in Pb-Pb collisions at $\sqrt{s}_{NN} = 2.76$ TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 110}, no. 15, 152301 (2013)
+ doi:10.1103/PhysRevLett.110.152301
+ [arXiv:1207.6068 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.110.152301;%%
 
 %\cite{Abelev:2012pa}
 \bibitem{Abelev:2012pa}

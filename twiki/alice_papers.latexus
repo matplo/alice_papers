@@ -2038,6 +2038,13 @@
  [arXiv:1109.2501 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.01.060;%%
 
+%\cite{ALICE:2011ab}
+\bibitem{ALICE:2011ab}
+  K.~Aamodt {\it et al.} [ALICE Collaboration], %``Higher harmonic anisotropic flow measurements of charged particles in Pb-Pb collisions at $\sqrt{s_{NN}}$=2.76 TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 107}, 032301 (2011)
+ doi:10.1103/PhysRevLett.107.032301
+ [arXiv:1105.3865 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.107.032301;%%
 
 %\cite{Aamodt:2011gj}
 \bibitem{Aamodt:2011gj}

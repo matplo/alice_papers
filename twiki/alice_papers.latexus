@@ -1919,6 +1919,13 @@
  [arXiv:1205.4007 [hep-ex]].
  %%CITATION = doi:10.1007/JHEP07(2012)191;%%
 
+%\cite{Abelev:2012sk}
+\bibitem{Abelev:2012sk}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Transverse sphericity of primary charged particles in minimum bias proton-proton collisions at $\sqrt{s}=0.9$, 2.76 and 7 TeV,''
+ Eur.\ Phys.\ J.\ C {\bf 72}, 2124 (2012)
+ doi:10.1140/epjc/s10052-012-2124-9
+ [arXiv:1205.3963 [hep-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-012-2124-9;%%
 
 %\cite{Abelev:2012jp}
 \bibitem{Abelev:2012jp}

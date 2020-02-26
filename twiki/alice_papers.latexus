@@ -1,3 +1,9 @@
+%\cite{Acharya:2020sbc}
+\bibitem{Acharya:2020sbc}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Coherent photoproduction of $\rho^{0}$ vector mesons in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
+ arXiv:2002.10897 [nucl-ex].
+ %%CITATION = ARXIV:2002.10897;%% 
+
 %\cite{Acharya:2020taj}
 \bibitem{Acharya:2020taj}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
@@ -46,7 +52,7 @@
 \bibitem{Acharya:2019lqc}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive $\Upsilon$ production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 8.16 TeV,''
  arXiv:1910.14405 [nucl-ex].
- %%CITATION = ARXIV:1910.14405;%% 
+ %%CITATION = ARXIV:1910.14405;%%
 
 %\cite{Acharya:2019lkh}
 \bibitem{Acharya:2019lkh}
@@ -75,8 +81,10 @@
 %\cite{Acharya:2019hao}
 \bibitem{Acharya:2019hao}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of electrons from heavy-flavour hadron decays as a function of multiplicity in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- arXiv:1910.14399 [nucl-ex].
- %%CITATION = ARXIV:1910.14399;%%
+ JHEP {\bf 2002}, 077 (2020)
+ doi:10.1007/JHEP02(2020)077
+ [arXiv:1910.14399 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP02(2020)077;%%
 
 %\cite{Acharya:2019psw}
 \bibitem{Acharya:2019psw}
@@ -137,8 +145,10 @@
 %\cite{Acharya:2019kyh}
 \bibitem{Acharya:2019kyh}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of (multi-)strange hadron production in proton-proton collisions at $\sqrt{s}$ = 13 TeV,''
- arXiv:1908.01861 [nucl-ex].
- %%CITATION = ARXIV:1908.01861;%%
+ Eur.\ Phys.\ J.\ C {\bf 80}, no. 2, 167 (2020)
+ doi:10.1140/epjc/s10052-020-7673-8
+ [arXiv:1908.01861 [nucl-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-020-7673-8;%%
 
 %\cite{Acharya:2019qcp}
 \bibitem{Acharya:2019qcp}

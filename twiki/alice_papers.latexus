@@ -1559,6 +1559,13 @@
  [arXiv:1404.1194 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2014.10.034;%%
 
+%\cite{Abelev:2014uua}
+\bibitem{Abelev:2014uua}
+  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``$K^*(892)^0$ and $?(1020)$ production in Pb-Pb collisions at $\sqrt{s{NN}}$ = 2.76 TeV,''
+ Phys.\ Rev.\ C {\bf 91}, 024609 (2015)
+ doi:10.1103/PhysRevC.91.024609
+ [arXiv:1404.0495 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.91.024609;%%
 
 %\cite{Abelev:2014qha}
 \bibitem{Abelev:2014qha}
@@ -1971,6 +1978,13 @@
  [arXiv:1202.2816 [hep-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.04.052;%%
 
+%\cite{Abelev:2012rv}
+\bibitem{Abelev:2012rv}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``$J/\psi$ suppression at forward rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}=2.76$ TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 109}, 072301 (2012)
+ doi:10.1103/PhysRevLett.109.072301
+ [arXiv:1202.1383 [hep-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.109.072301;%%
 
 %\cite{Abelev:2012pi}
 \bibitem{Abelev:2012pi}

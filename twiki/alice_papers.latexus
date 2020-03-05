@@ -1270,6 +1270,13 @@
  [arXiv:1506.08453 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2016.01.040;%%
 
+%\cite{Adam:2015bka}
+\bibitem{Adam:2015bka}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Forward-central two-particle correlations in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
+ Phys.\ Lett.\ B {\bf 753}, 126 (2016)
+ doi:10.1016/j.physletb.2015.12.010
+ [arXiv:1506.08032 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2015.12.010;%%
 
 %\cite{Adam:2015vja}
 \bibitem{Adam:2015vja}
@@ -1536,6 +1543,13 @@
  [arXiv:1405.2001 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.90.034904;%%
 
+%\cite{Abelev:2014epa}
+\bibitem{Abelev:2014epa}
+  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Measurement of visible cross sections in proton-lead collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV in van der Meer scans with the ALICE detector,''
+ JINST {\bf 9}, no. 11, P11003 (2014)
+ doi:10.1088/1748-0221/9/11/P11003
+ [arXiv:1405.1849 [nucl-ex]].
+ %%CITATION = doi:10.1088/1748-0221/9/11/P11003;%%
 
 %\cite{Abelev:2014pja}
 \bibitem{Abelev:2014pja}

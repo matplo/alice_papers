@@ -1,4 +1,4 @@
-   * Generated on 2020-Mar-08 13:30 CET
+   * Generated on 2020-Mar-08 16:11 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Multiplicity dependence of $π$, K, and p production in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2003.02394v1][2003.02394]]|[[http://inspirehep.net//record/1784041?ln=en][1784041]]|%RED%Submitted%ENDCOLOR%|279|
@@ -30,7 +30,7 @@
 |DQ|Measurement of $Υ(1{\rm S})$ elliptic flow at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}=5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1907.03169v3][1907.03169]]|[[http://inspirehep.net//record/1742764?ln=en][1742764]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.123.192301][Phys. Rev. Lett. 123]]%ENDCOLOR%|253|
 |HF|Measurement of prompt D$^0$, D$^+$, D$^{*+}$, and D$^+_s$ production in p$-$Pb collisions at $\mathbf{\sqrt{{\textit s}_{\rm NN}}~=~5.02~!TeV}$|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1906.03425v1][1906.03425]]|[[http://inspirehep.net//record/1738950?ln=en][1738950]]|%GREEN%[[https://doi.org/10.1007/JHEP12(2019)092][JHEP 12]]%ENDCOLOR%|252|
 |GA|Measurement of the inclusive isolated photon production cross section in pp collisions at $\sqrt{s}$ = 7 !TeV|pp|[[http://arxiv.org/abs/1906.01371v2][1906.01371]]|[[http://inspirehep.net//record/1738300?ln=en][1738300]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-019-7389-9][Eur. Phys. J. C79]]%ENDCOLOR%|251|
-|CF|Scattering studies with low-energy kaon-proton femtoscopy in proton-proton collisions at the LHC|pp|[[http://arxiv.org/abs/1905.13470v1][1905.13470]]|[[http://inspirehep.net//record/1737592?ln=en][1737592]]|%RED%Submitted%ENDCOLOR%|250|
+|CF|Scattering studies with low-energy kaon-proton femtoscopy in proton-proton collisions at the LHC|pp|[[http://arxiv.org/abs/1905.13470v1][1905.13470]]|[[http://inspirehep.net//record/1737592?ln=en][1737592]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.124.092301][Phys. Rev. Lett. 124]]%ENDCOLOR%|250|
 |DQ|Inclusive J/$ψ$ production at mid-rapidity in pp collisions at $\sqrt{s}$ = 5.02 !TeV|pp|[[http://arxiv.org/abs/1905.07211v2][1905.07211]]|[[http://inspirehep.net//record/1735351?ln=en][1735351]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2019)084][JHEP 10]]%ENDCOLOR%|249|
 |CF|Study of the $Λ$-$Λ$ interaction with femtoscopy correlations in pp and p-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1905.07209v2][1905.07209]]|[[http://inspirehep.net//record/1735349?ln=en][1735349]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2019.134822][Phys. Lett. B797]]%ENDCOLOR%|248|
 |LF|Charged-particle production as a function of multiplicity and transverse spherocity in pp collisions at $\sqrt{s}$ = 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/1905.07208v2][1905.07208]]|[[http://inspirehep.net//record/1735345?ln=en][1735345]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-019-7350-y][Eur. Phys. J. C79]]%ENDCOLOR%|247|

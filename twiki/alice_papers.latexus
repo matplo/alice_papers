@@ -64,7 +64,7 @@
 \bibitem{Acharya:2019lkh}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality and transverse momentum dependence of inclusive J/$\psi$ production at midrapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
  arXiv:1910.14404 [nucl-ex].
- %%CITATION = ARXIV:1910.14404;%% 
+ %%CITATION = ARXIV:1910.14404;%%
 
 %\cite{Acharya:2019icl}
 \bibitem{Acharya:2019icl}
@@ -191,7 +191,7 @@
 %\cite{Acharya:2019bsa}
 \bibitem{Acharya:2019bsa}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Scattering studies with low-energy kaon-proton femtoscopy in proton-proton collisions at the LHC,''
- Phys.\ Rev.\ Lett.\ {\bf 124}, 092301 (2020)
+ Phys.\ Rev.\ Lett.\ {\bf 124}, no. 9, 092301 (2020)
  doi:10.1103/PhysRevLett.124.092301
  [arXiv:1905.13470 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.124.092301;%%
@@ -1038,6 +1038,13 @@
  [arXiv:1602.07240 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP08(2016)078;%%
 
+%\cite{Adam:2016acv}
+\bibitem{Adam:2016acv}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Particle identification in ALICE: a Bayesian approach,''
+ Eur.\ Phys.\ J.\ Plus {\bf 131}, no. 5, 168 (2016)
+ doi:10.1140/epjp/i2016-16168-5
+ [arXiv:1602.01392 [physics.data-an]].
+ %%CITATION = doi:10.1140/epjp/i2016-16168-5;%%
 
 %\cite{Adam:2016izf}
 \bibitem{Adam:2016izf}
@@ -1063,6 +1070,13 @@
  [arXiv:1601.03658 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2016.07.050;%%
 
+%\cite{Adam:2015pbc}
+\bibitem{Adam:2015pbc}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Multipion Bose-Einstein correlations in pp,p -Pb, and Pb-Pb collisions at energies available at the CERN Large Hadron Collider,''
+ Phys.\ Rev.\ C {\bf 93}, no. 5, 054908 (2016)
+ doi:10.1103/PhysRevC.93.054908
+ [arXiv:1512.08902 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.93.054908;%%
 
 %\cite{Adam:2015vsf}
 \bibitem{Adam:2015vsf}
@@ -1465,6 +1479,13 @@
  [arXiv:1406.2474 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.90.054901;%%
 
+%\cite{Abelev:2014pua}
+\bibitem{Abelev:2014pua}
+  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Elliptic flow of identified hadrons in Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
+ JHEP {\bf 1506}, 190 (2015)
+ doi:10.1007/JHEP06(2015)190
+ [arXiv:1405.4632 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP06(2015)190;%%
 
 %\cite{Abelev:2014nua}
 \bibitem{Abelev:2014nua}
@@ -1506,6 +1527,13 @@
  [arXiv:1405.3794 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-014-3108-8;%%
 
+%\cite{Abelev:2014hha}
+\bibitem{Abelev:2014hha}
+  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Measurement of prompt $D$-meson production in $p-Pb$ collisions at $\sqrt{s_{NN}}$ = 5.02 TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 113}, no. 23, 232301 (2014)
+ doi:10.1103/PhysRevLett.113.232301
+ [arXiv:1405.3452 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.113.232301;%%
 
 %\cite{Abelev:2014dsa}
 \bibitem{Abelev:2014dsa}
@@ -1845,6 +1873,13 @@
  [arXiv:1207.6068 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.110.152301;%%
 
+%\cite{Abelev:2012pa}
+\bibitem{Abelev:2012pa}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Charge separation relative to the reaction plane in Pb-Pb collisions at $\sqrt{s_{NN}}= 2.76$ TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 110}, no. 1, 012301 (2013)
+ doi:10.1103/PhysRevLett.110.012301
+ [arXiv:1207.0900 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.110.012301;%%
 
 %\cite{Abelev:2012ms}
 \bibitem{Abelev:2012ms}

@@ -588,6 +588,13 @@
  [arXiv:1804.02944 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP07(2018)103;%%
 
+%\cite{Acharya:2018dqe}
+\bibitem{Acharya:2018dqe}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Direct photon production at low transverse momentum in proton-proton collisions at $\mathbf{\sqrt{s}=2.76}$ and 8 TeV,''
+ Phys.\ Rev.\ C {\bf 99}, no. 2, 024912 (2019)
+ doi:10.1103/PhysRevC.99.024912
+ [arXiv:1803.09857 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.99.024912;%%
 
 %\cite{Acharya:2018yhg}
 \bibitem{Acharya:2018yhg}
@@ -709,6 +716,13 @@
  [arXiv:1709.02743 [physics.ins-det]].
  %%CITATION = doi:10.1016/j.nima.2017.09.028;%%
 
+%\cite{Acharya:2017qtq}
+\bibitem{Acharya:2017qtq}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Kaon femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 TeV,''
+ Phys.\ Rev.\ C {\bf 96}, no. 6, 064613 (2017)
+ doi:10.1103/PhysRevC.96.064613
+ [arXiv:1709.01731 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.96.064613;%%
 
 %\cite{Acharya:2017gsw}
 \bibitem{Acharya:2017gsw}
@@ -1513,6 +1527,13 @@
  [arXiv:1405.3794 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-014-3108-8;%%
 
+%\cite{Abelev:2014hha}
+\bibitem{Abelev:2014hha}
+  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Measurement of prompt $D$-meson production in $p-Pb$ collisions at $\sqrt{s_{NN}}$ = 5.02 TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 113}, no. 23, 232301 (2014)
+ doi:10.1103/PhysRevLett.113.232301
+ [arXiv:1405.3452 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.113.232301;%%
 
 %\cite{Abelev:2014dsa}
 \bibitem{Abelev:2014dsa}

@@ -412,6 +412,13 @@
  [arXiv:1807.06854 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP10(2018)139;%%
 
+%\cite{Acharya:2018nxm}
+\bibitem{Acharya:2018nxm}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of dielectron production in central Pb-Pb collisions at $\sqrt{{\textit{s}}_{\mathrm{NN}}}$ = 2.76 TeV,''
+ Phys.\ Rev.\ C {\bf 99}, no. 2, 024002 (2019)
+ doi:10.1103/PhysRevC.99.024002
+ [arXiv:1807.00923 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.99.024002;%%
 
 %\cite{Acharya:2018gyz}
 \bibitem{Acharya:2018gyz}
@@ -2084,6 +2091,13 @@
  [arXiv:1101.3665 [hep-ex]].
  %%CITATION = doi:10.1103/PhysRevD.84.112004;%%
 
+%\cite{Aamodt:2011mr}
+\bibitem{Aamodt:2011mr}
+  K.~Aamodt {\it et al.} [ALICE Collaboration], %``Two-pion Bose-Einstein correlations in central Pb-Pb collisions at $\sqrt{{s}_{NN}} =$ 2.76 TeV,''
+ Phys.\ Lett.\ B {\bf 696}, 328 (2011)
+ doi:10.1016/j.physletb.2010.12.053
+ [arXiv:1012.4035 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2010.12.053;%%
 
 %\cite{Aamodt:2011zza}
 \bibitem{Aamodt:2011zza}

@@ -156,6 +156,12 @@
  [arXiv:1908.01861 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-020-7673-8;%%
 
+%\cite{Acharya:2019ryw}
+\bibitem{Acharya:2019ryw}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Global polarization of $\Lambda$ and $\overline{\Lambda}$ hyperons in Pb-Pb collisions at the LHC,''
+ arXiv:1909.01281 [nucl-ex].
+ %%CITATION = ARXIV:1909.01281;%%
+
 %\cite{Acharya:2019qcp}
 \bibitem{Acharya:2019qcp}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``$^3_\Lambda\mathrm{H}$ and $^3_{\bar{\Lambda}}\mathrm{\bar{H}}$ lifetime measurement in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}} = $ 5.02 TeV via two-body decay,''

@@ -78,6 +78,11 @@
  arXiv:1910.14401 [nucl-ex].
  %%CITATION = ARXIV:1910.14401;%% 
 
+%\cite{Acharya:2019nqn}
+\bibitem{Acharya:2019nqn}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Underlying Event properties in pp collisions at $\sqrt{s}$ = 13 TeV,''
+ arXiv:1910.14400 [nucl-ex].
+ %%CITATION = ARXIV:1910.14400;%% 
 
 %\cite{Acharya:2019hao}
 \bibitem{Acharya:2019hao}
@@ -991,6 +996,13 @@
  [arXiv:1605.06963 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-017-4779-8;%%
 
+%\cite{Adam:2016ows}
+\bibitem{Adam:2016ows}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Pseudorapidity dependence of the anisotropic flow of charged particles in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV,''
+ Phys.\ Lett.\ B {\bf 762}, 376 (2016)
+ doi:10.1016/j.physletb.2016.07.017
+ [arXiv:1605.02035 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2016.07.017;%%
 
 %\cite{ALICE:2016kpq}
 \bibitem{ALICE:2016kpq}

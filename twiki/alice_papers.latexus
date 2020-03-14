@@ -1,7 +1,34 @@
+%\cite{Acharya:2020zji}
+\bibitem{Acharya:2020zji}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of $\pi$, K, and p production in pp collisions at $\sqrt{s} = 13$ TeV,''
+ arXiv:2003.02394 [nucl-ex].
+ %%CITATION = ARXIV:2003.02394;%%
 
+%\cite{Acharya:2020sbc}
+\bibitem{Acharya:2020sbc}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Coherent photoproduction of $\rho^{0}$ vector mesons in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
+ arXiv:2002.10897 [nucl-ex].
+ %%CITATION = ARXIV:2002.10897;%% 
 
+%\cite{Acharya:2020taj}
+\bibitem{Acharya:2020taj}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:2002.00633 [nucl-ex].
+ %%CITATION = ARXIV:2002.00633;%%
 
+%\cite{Acharya:2019uia}
+\bibitem{Acharya:2019uia}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Non-linear flow modes of identified particles in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:1912.00740 [nucl-ex].
+ %%CITATION = ARXIV:1912.00740;%%
 
+%\cite{Acharya:2019qge}
+\bibitem{Acharya:2019qge}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Evidence of rescattering effect in Pb-Pb collisions at the LHC through production of $\rm{K}^{*}(892)^{0}$ and $\phi(1020)$ mesons,''
+ Phys.\ Lett.\ B {\bf 802}, 135225 (2020)
+ doi:10.1016/j.physletb.2020.135225
+ [arXiv:1910.14419 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2020.135225;%%
 
 %\cite{Acharya:2019wyb}
 \bibitem{Acharya:2019wyb}
@@ -679,6 +706,13 @@
  [arXiv:1709.05260 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.119.242301;%%
 
+%\cite{Acharya:2017fau}
+\bibitem{Acharya:2017fau}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Constraining the magnitude of the Chiral Magnetic Effect with Event Shape Engineering in Pb-Pb collisions at $\sqrt{s_\mathrm{NN}}$ = 2.76 TeV,''
+ Phys.\ Lett.\ B {\bf 777}, 151 (2018)
+ doi:10.1016/j.physletb.2017.12.021
+ [arXiv:1709.04723 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2017.12.021;%%
 
 %\cite{Acharya:2017lco}
 \bibitem{Acharya:2017lco}

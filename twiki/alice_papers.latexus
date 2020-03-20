@@ -1812,13 +1812,6 @@
  [arXiv:1210.4520 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.110.082302;%%
 
-%\cite{ALICE:2012xs}
-\bibitem{ALICE:2012xs}
-  B.~Abelev {\it et al.} [ALICE Collaboration], %``Pseudorapidity density of charged particles in $p$ + Pb collisions at $\sqrt{s_{NN}}=5.02$ TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 110}, no. 3, 032301 (2013)
- doi:10.1103/PhysRevLett.110.032301
- [arXiv:1210.3615 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.110.032301;%%
 
 %\cite{Abelev:2012ba}
 \bibitem{Abelev:2012ba}

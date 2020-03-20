@@ -898,13 +898,6 @@
  [arXiv:1612.08966 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2017.07.017;%%
 
-%\cite{Alice:2016wka}
-\bibitem{Alice:2016wka}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``W and Z boson production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- JHEP {\bf 1702}, 077 (2017)
- doi:10.1007/JHEP02(2017)077
- [arXiv:1611.03002 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP02(2017)077;%%
 
 %\cite{Adam:2016ilk}
 \bibitem{Adam:2016ilk}
@@ -1563,13 +1556,6 @@
  [arXiv:1405.2001 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.90.034904;%%
 
-%\cite{Abelev:2014epa}
-\bibitem{Abelev:2014epa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Measurement of visible cross sections in proton-lead collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV in van der Meer scans with the ALICE detector,''
- JINST {\bf 9}, no. 11, P11003 (2014)
- doi:10.1088/1748-0221/9/11/P11003
- [arXiv:1405.1849 [nucl-ex]].
- %%CITATION = doi:10.1088/1748-0221/9/11/P11003;%%
 
 %\cite{Abelev:2014pja}
 \bibitem{Abelev:2014pja}

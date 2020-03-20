@@ -1,4 +1,4 @@
-   * Generated on 2020-Mar-20 06:36 CET
+   * Generated on 2020-Mar-20 09:17 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Measurement of nuclear effects on \(\psi\rm{(2S)}\) production in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}} = 8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v1][2003.06053]]|[[http://inspirehep.net//record/1785315?ln=en][1785315]]|%RED%Submitted%ENDCOLOR%|281|
@@ -36,7 +36,7 @@
 |DQ|Inclusive J/\(\psi\) production at mid-rapidity in pp collisions at \(\sqrt{s}\) = 5.02 !TeV|pp|[[http://arxiv.org/abs/1905.07211v2][1905.07211]]|[[http://inspirehep.net//record/1735351?ln=en][1735351]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2019)084][JHEP 10]]%ENDCOLOR%|249|
 |CF|Study of the \(\Lambda\)-\(\Lambda\) interaction with femtoscopy correlations in pp and p-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1905.07209v2][1905.07209]]|[[http://inspirehep.net//record/1735349?ln=en][1735349]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2019.134822][Phys. Lett. B797]]%ENDCOLOR%|248|
 |LF|Charged-particle production as a function of multiplicity and transverse spherocity in pp collisions at \(\sqrt{s}\) = 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/1905.07208v2][1905.07208]]|[[http://inspirehep.net//record/1735345?ln=en][1735345]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-019-7350-y][Eur. Phys. J. C79]]%ENDCOLOR%|247|
-|HF|Production of muons from heavy-flavour hadron decays in pp collisions at \(\sqrt{s}\) = 5.02 !TeV|pp|[[http://arxiv.org/abs/1905.07207v2][1905.07207]]|[[http://inspirehep.net//record/1735344?ln=en][1735344]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2019)008][JHEP 09]]%ENDCOLOR%|246|
+|HF|Production of muons from heavy-flavour hadron decays in pp collisions at \(\sqrt{s}\) = 5.02 !TeV|pp|[[http://arxiv.org/abs/1905.07207v2][1905.07207]]|[[http://inspirehep.net//record/1735344?ln=en][1735344]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2019)008][JHEP09(2019)008 ]]%ENDCOLOR%|246|
 |JE|Measurement of charged jet cross section in pp collisions at \({\sqrt{s}=5.02}\) !TeV|pp|[[http://arxiv.org/abs/1905.02536v2][1905.02536]]|[[http://inspirehep.net//record/1733689?ln=en][1733689]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.100.092004][Phys. Rev. D100]]%ENDCOLOR%|245|
 |JE|Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1905.02512v1][1905.02512]]|[[http://inspirehep.net//record/1733684?ln=en][1733684]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135227][Phys. Lett. B802]]%ENDCOLOR%|244|
 |HF|Measurement of the production of charm jets tagged with D\(^{0}\) mesons in pp collisions at \(\sqrt{s}\)= 7 !TeV|pp|[[http://arxiv.org/abs/1905.02510v2][1905.02510]]|[[http://inspirehep.net//record/1733683?ln=en][1733683]]|%GREEN%[[https://doi.org/10.1007/JHEP08(2019)133][JHEP 08]]%ENDCOLOR%|243|

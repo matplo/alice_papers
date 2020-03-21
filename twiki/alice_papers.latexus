@@ -144,8 +144,9 @@
 \bibitem{Acharya:2019jyg}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurements of inclusive jet spectra in pp and central Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
  Phys.\ Rev.\ C {\bf 101}, no. 3, 034911 (2020)
+ doi:10.1103/PhysRevC.101.034911
  [arXiv:1909.09718 [nucl-ex]].
- %%CITATION = ARXIV:1909.09718;%%
+ %%CITATION = doi:10.1103/PhysRevC.101.034911;%%
 
 %\cite{Acharya:2019iur}
 \bibitem{Acharya:2019iur}

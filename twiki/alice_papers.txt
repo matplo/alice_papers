@@ -1,4 +1,4 @@
-   * Generated on 2020-Mar-25 20:24 CET
+   * Generated on 2020-Mar-25 23:03 CET
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Measurement of nuclear effects on $ψ\rm{(2S)}$ production in p-Pb collisions at $\sqrt{\textit{s}_{\rm NN}} = 8.16$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v1][2003.06053]]|[[http://inspirehep.net//record/1785315?ln=en][1785315]]|%RED%Submitted%ENDCOLOR%|281|
@@ -220,7 +220,7 @@
 |LF|Multiplicity dependence of the average transverse momentum in pp, p-Pb, and Pb-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1307.1094v4][1307.1094]]|[[http://inspirehep.net//record/1241423?ln=en][1241423]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2013.10.054][Phys. Lett. B727]]%ENDCOLOR%|65|
 |LF|Energy Dependence of the Transverse Momentum Distributions of Charged Particles in pp Collisions Measured by ALICE|pp|[[http://arxiv.org/abs/1307.1093v3][1307.1093]]|[[http://inspirehep.net//record/1241422?ln=en][1241422]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-013-2662-9][Eur. Phys. J. C73]]%ENDCOLOR%|64|
 |CF|Directed flow of charged particles at mid-rapidity relative to the spectator plane in Pb-Pb collisions at $\sqrt{s_\rm{NN}}$=2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1306.4145v4][1306.4145]]|[[http://inspirehep.net//record/1238980?ln=en][1238980]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.111.232302][Phys. Rev. Lett. 111]]%ENDCOLOR%|63|
-|PP|Performance of the ALICE VZERO system|n/a|[[http://arxiv.org/abs/1306.3130v2][1306.3130]]|[[No Link Found][]]|%GREEN%[[https://doi.org/10.1088/1748-0221/8/10/P10016][1748-0221]]%ENDCOLOR%|62|
+|PP|Performance of the ALICE VZERO system|n/a|[[http://arxiv.org/abs/1306.3130v2][1306.3130]]|[[http://inspirehep.net//record/1238451?ln=en][1238451]]|%GREEN%[[https://doi.org/10.1088/1748-0221/8/10/P10016][JINST 8]]%ENDCOLOR%|62|
 |HF|D meson elliptic flow in non-central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76!TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1305.2707v4][1305.2707]]|[[http://inspirehep.net//record/1233087?ln=en][1233087]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.111.102301][Phys. Rev. Lett. 111]]%ENDCOLOR%|61|
 |LF|Mid-rapidity anti-baryon to baryon ratios in pp collisions at $\sqrt{s}$ = 0.9, 2.76 and 7 !TeV measured by ALICE|pp|[[http://arxiv.org/abs/1305.1562v2][1305.1562]]|[[http://inspirehep.net//record/1232209?ln=en][1232209]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-013-2496-5][Eur. Phys. J. C73]]%ENDCOLOR%|60|
 |UD|Charmonium and $e^+e^-$ pair photoproduction at mid-rapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\rm NN}}$=2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1305.1467v2][1305.1467]]|[[http://inspirehep.net//record/1232206?ln=en][1232206]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-013-2617-1][Eur. Phys. J. C73]]%ENDCOLOR%|59|

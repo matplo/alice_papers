@@ -924,6 +924,13 @@
  [arXiv:1609.07104 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2017.05.060;%%
 
+%\cite{Adam:2016ckp}
+\bibitem{Adam:2016ckp}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Evolution of the longitudinal and azimuthal structure of the near-side jet peak in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ TeV,''
+ Phys.\ Rev.\ C {\bf 96}, no. 3, 034904 (2017)
+ doi:10.1103/PhysRevC.96.034904
+ [arXiv:1609.06667 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.96.034904;%%
 
 %\cite{Adam:2016tsv}
 \bibitem{Adam:2016tsv}

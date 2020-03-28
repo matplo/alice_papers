@@ -402,29 +402,8 @@
  [arXiv:1809.03235 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-019-6816-2;%%
 
-%\cite{Acharya:2018eat}
-\bibitem{Acharya:2018eat}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged jet cross section and fragmentation in proton-proton collisions at $\sqrt{s}$ = 7 TeV,''
- Phys.\ Rev.\ D {\bf 99}, no. 1, 012016 (2019)
- doi:10.1103/PhysRevD.99.012016
- [arXiv:1809.03232 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevD.99.012016;%%
 
-%\cite{Acharya:2018orn}
-\bibitem{Acharya:2018orn}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of light-flavor hadron production in pp collisions at $\sqrt{s}$ = 7 TeV,''
- Phys.\ Rev.\ C {\bf 99}, no. 2, 024906 (2019)
- doi:10.1103/PhysRevC.99.024906
- [arXiv:1807.11321 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.99.024906;%%
 
-%\cite{Acharya:2018uvf}
-\bibitem{Acharya:2018uvf}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Medium modification of the shape of small-radius jets in central Pb-Pb collisions at $\sqrt{s_{\mathrm {NN}}} = 2.76\,\rm{TeV}$,''
- JHEP {\bf 1810}, 139 (2018)
- doi:10.1007/JHEP10(2018)139
- [arXiv:1807.06854 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP10(2018)139;%%
 
 %\cite{Acharya:2018nxm}
 \bibitem{Acharya:2018nxm}
@@ -1044,21 +1023,7 @@
  [arXiv:1603.02816 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP06(2016)050;%%
 
-%\cite{Adam:2016mkz}
-\bibitem{Adam:2016mkz}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of D-meson production versus multiplicity in p-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=5.02 $ TeV,''
- JHEP {\bf 1608}, 078 (2016)
- doi:10.1007/JHEP08(2016)078
- [arXiv:1602.07240 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP08(2016)078;%%
 
-%\cite{Adam:2016acv}
-\bibitem{Adam:2016acv}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Particle identification in ALICE: a Bayesian approach,''
- Eur.\ Phys.\ J.\ Plus {\bf 131}, no. 5, 168 (2016)
- doi:10.1140/epjp/i2016-16168-5
- [arXiv:1602.01392 [physics.data-an]].
- %%CITATION = doi:10.1140/epjp/i2016-16168-5;%%
 
 %\cite{Adam:2016izf}
 \bibitem{Adam:2016izf}

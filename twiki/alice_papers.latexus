@@ -42,11 +42,6 @@
  arXiv:1910.14410 [nucl-ex].
  %%CITATION = ARXIV:1910.14410;%%
 
-%\cite{Acharya:2019vpe}
-\bibitem{Acharya:2019vpe}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of spin-orbital angular momentum interactions in relativistic heavy-ion collisions,''
- arXiv:1910.14408 [nucl-ex].
- %%CITATION = ARXIV:1910.14408;%%
 
 %\cite{Acharya:2019kqn}
 \bibitem{Acharya:2019kqn}
@@ -346,13 +341,6 @@
  [arXiv:1812.08036 [physics.ins-det]].
  %%CITATION = doi:10.1016/j.cpc.2019.04.011;%%
 
-%\cite{Acharya:2018egz}
-\bibitem{Acharya:2018egz}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged-particle pseudorapidity density at mid-rapidity in p-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 8.16 TeV,''
- Eur.\ Phys.\ J.\ C {\bf 79}, no. 4, 307 (2019)
- doi:10.1140/epjc/s10052-019-6801-9
- [arXiv:1812.01312 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-019-6801-9;%%
 
 %\cite{Acharya:2018pjd}
 \bibitem{Acharya:2018pjd}

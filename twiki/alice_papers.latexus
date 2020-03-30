@@ -250,6 +250,13 @@
  [arXiv:1905.02536 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevD.100.092004;%%
 
+%\cite{Acharya:2019djg}
+\bibitem{Acharya:2019djg}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Exploration of jet substructure using iterative declustering in pp and Pb?Pb collisions at LHC energies,''
+ Phys.\ Lett.\ B {\bf 802}, 135227 (2020)
+ doi:10.1016/j.physletb.2020.135227
+ [arXiv:1905.02512 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2020.135227;%%
 
 %\cite{Acharya:2019zup}
 \bibitem{Acharya:2019zup}
@@ -1390,6 +1397,13 @@
  [arXiv:1503.00681 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2015.07.054;%%
 
+%\cite{Adam:2015ewa}
+\bibitem{Adam:2015ewa}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of jet suppression in central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
+ Phys.\ Lett.\ B {\bf 746}, 1 (2015)
+ doi:10.1016/j.physletb.2015.04.039
+ [arXiv:1502.01689 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2015.04.039;%%
 
 %\cite{Adam:2015pya}
 \bibitem{Adam:2015pya}
@@ -1889,6 +1903,13 @@
  [arXiv:1206.2056 [hep-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.09.013;%%
 
+%\cite{Abelev:2012qh}
+\bibitem{Abelev:2012qh}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Production of muons from heavy flavour decays at forward rapidity in pp and Pb-Pb collisions at $\sqrt {s_{NN}}$ = 2.76 TeV,''
+ Phys.\ Rev.\ Lett.\ {\bf 109}, 112301 (2012)
+ doi:10.1103/PhysRevLett.109.112301
+ [arXiv:1205.6443 [hep-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.109.112301;%%
 
 %\cite{Abelev:2012gx}
 \bibitem{Abelev:2012gx}

@@ -1,4 +1,4 @@
-   * Generated on 2020-Apr-01 21:18 CEST
+   * Generated on 2020-Apr-01 23:45 CEST
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Measurement of nuclear effects on \(\psi\rm{(2S)}\) production in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}} = 8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v1][2003.06053]]|[[No Link Found][]]|%RED%Submitted%ENDCOLOR%|281|

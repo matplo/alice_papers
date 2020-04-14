@@ -4,6 +4,12 @@
  arXiv:2003.06053 [nucl-ex].
  %%CITATION = ARXIV:2003.06053;%% 
 
+%\cite{Acharya:2020sfy}
+\bibitem{Acharya:2020sfy}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``(Anti-)Deuteron production in pp collisions at $\sqrt{s}=13$ TeV,''
+ arXiv:2003.03184 [nucl-ex].
+ %%CITATION = ARXIV:2003.03184;%% 
+
 %\cite{Acharya:2020zji}
 \bibitem{Acharya:2020zji}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of $\pi$, K, and p production in pp collisions at $\sqrt{s} = 13$ TeV,''
@@ -88,7 +94,7 @@
 \bibitem{Acharya:2019nqn}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Underlying Event properties in pp collisions at $\sqrt{s}$ = 13 TeV,''
  arXiv:1910.14400 [nucl-ex].
- %%CITATION = ARXIV:1910.14400;%% 
+ %%CITATION = ARXIV:1910.14400;%%
 
 %\cite{Acharya:2019hao}
 \bibitem{Acharya:2019hao}

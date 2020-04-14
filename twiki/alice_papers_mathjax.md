@@ -10,7 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|DQ|Measurement of nuclear effects on \\(\psi\rm\{(2S)\}\\) production in p-Pb collisions at \\(\sqrt\{\textit\{s\}_\{\rm NN\}\} = 8.16\\) TeV|pPb|[2003.06053](http://arxiv.org/abs/2003.06053v1){: target="_blank"}|[1785315](http://old.inspirehep.net//record/1785315?ln=en){: target="_blank"}|Submitted|281|
+|DQ|Measurement of nuclear effects on \\(\psi\rm\{(2S)\}\\) production in p-Pb collisions at \\(\sqrt\{\textit\{s\}_\{\rm NN\}\} = 8.16\\) TeV|pPb|[2003.06053](http://arxiv.org/abs/2003.06053v1){: target="_blank"}|[1785315](http://old.inspirehep.net//record/1785315?ln=en){: target="_blank"}|Submitted|282|
+|LF|(Anti-)Deuteron production in pp collisions at \\(\sqrt\{s\}=13\\) TeV|pp|[2003.03184](http://arxiv.org/abs/2003.03184v1){: target="_blank"}|[1784203](http://old.inspirehep.net//record/1784203?ln=en){: target="_blank"}|Submitted|281|
 |LF|Multiplicity dependence of \\(\pi\\), K, and p production in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2003.02394](http://arxiv.org/abs/2003.02394v1){: target="_blank"}|[1784041](http://old.inspirehep.net//record/1784041?ln=en){: target="_blank"}|Submitted|280|
 |UD|Coherent photoproduction of \\(\rho^\{0\}\\) vector mesons in ultra-peripheral Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2002.10897](http://arxiv.org/abs/2002.10897v1){: target="_blank"}|[1782227](http://old.inspirehep.net//record/1782227?ln=en){: target="_blank"}|Submitted|279|
 |CF|Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[2002.00633](http://arxiv.org/abs/2002.00633v1){: target="_blank"}|[1778342](http://old.inspirehep.net//record/1778342?ln=en){: target="_blank"}|Submitted|278|

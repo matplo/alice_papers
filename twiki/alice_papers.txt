@@ -1,7 +1,7 @@
-   * Generated on 2020-Apr-20 06:20 UTC  .
+   * Generated on 2020-Apr-20 08:35 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
-|No group|Search for a common baryon source in high-multiplicity pp collisions at the LHC|[[http://arxiv.org/abs/2004.08018v1][2004.08018]]|[[http://old.inspirehep.net//record/1791631?ln=en][1791631]]|%RED%Submitted%ENDCOLOR%|
+|CF|Search for a common baryon source in high-multiplicity pp collisions at the LHC|pp|[[http://arxiv.org/abs/2004.08018v1][2004.08018]]|[[http://old.inspirehep.net//record/1791631?ln=en][1791631]]|%RED%Submitted%ENDCOLOR%|283|
 |DQ|Measurement of nuclear effects on $ψ\rm{(2S)}$ production in p-Pb collisions at $\sqrt{\textit{s}_{\rm NN}} = 8.16$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v1][2003.06053]]|[[http://old.inspirehep.net//record/1785315?ln=en][1785315]]|%RED%Submitted%ENDCOLOR%|282|
 |LF|(Anti-)Deuteron production in pp collisions at $\sqrt{s}=13$ !TeV|pp|[[http://arxiv.org/abs/2003.03184v1][2003.03184]]|[[http://old.inspirehep.net//record/1784203?ln=en][1784203]]|%RED%Submitted%ENDCOLOR%|281|
 |LF|Multiplicity dependence of $π$, K, and p production in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2003.02394v1][2003.02394]]|[[http://old.inspirehep.net//record/1784041?ln=en][1784041]]|%RED%Submitted%ENDCOLOR%|280|

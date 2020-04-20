@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|No group|Search for a common baryon source in high-multiplicity pp collisions at the LHC|N/A|[2004.08018](http://arxiv.org/abs/2004.08018v1){: target="_blank"}|[1791631](http://old.inspirehep.net//record/1791631?ln=en){: target="_blank"}|Submitted|283|
 |DQ|Measurement of nuclear effects on \\(\psi\rm\{(2S)\}\\) production in p-Pb collisions at \\(\sqrt\{\textit\{s\}_\{\rm NN\}\} = 8.16\\) TeV|pPb|[2003.06053](http://arxiv.org/abs/2003.06053v1){: target="_blank"}|[1785315](http://old.inspirehep.net//record/1785315?ln=en){: target="_blank"}|Submitted|282|
 |LF|(Anti-)Deuteron production in pp collisions at \\(\sqrt\{s\}=13\\) TeV|pp|[2003.03184](http://arxiv.org/abs/2003.03184v1){: target="_blank"}|[1784203](http://old.inspirehep.net//record/1784203?ln=en){: target="_blank"}|Submitted|281|
 |LF|Multiplicity dependence of \\(\pi\\), K, and p production in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2003.02394](http://arxiv.org/abs/2003.02394v1){: target="_blank"}|[1784041](http://old.inspirehep.net//record/1784041?ln=en){: target="_blank"}|Submitted|280|

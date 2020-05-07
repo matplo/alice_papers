@@ -87,11 +87,6 @@
  arXiv:1910.14405 [nucl-ex].
  %%CITATION = ARXIV:1910.14405;%%
 
-%\cite{Acharya:2019lkh}
-\bibitem{Acharya:2019lkh}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality and transverse momentum dependence of inclusive J/$\psi$ production at midrapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- arXiv:1910.14404 [nucl-ex].
- %%CITATION = ARXIV:1910.14404;%%
 
 %\cite{Acharya:2019icl}
 \bibitem{Acharya:2019icl}
@@ -541,13 +536,6 @@
  [arXiv:1805.04390 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP09(2018)006;%%
 
-%\cite{Acharya:2018mni}
-\bibitem{Acharya:2018mni}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``$\Upsilon$ suppression at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- Phys.\ Lett.\ B {\bf 790}, 89 (2019)
- doi:10.1016/j.physletb.2018.11.067
- [arXiv:1805.04387 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.11.067;%%
 
 %\cite{Acharya:2018jvc}
 \bibitem{Acharya:2018jvc}
@@ -597,13 +585,6 @@
  [arXiv:1805.04365 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.99.064901;%%
 
-%\cite{ALICE:2018ewo}
-\bibitem{ALICE:2018ewo}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Suppression of $\Lambda(1520)$ resonance production in central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 99}, 024905 (2019)
- doi:10.1103/PhysRevC.99.024905
- [arXiv:1805.04361 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.99.024905;%%
 
 %\cite{Acharya:2018ihu}
 \bibitem{Acharya:2018ihu}
@@ -878,13 +859,6 @@
  [arXiv:1702.00917 [hep-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-017-5144-7, 10.1140/epjc/s10052-017-4890-x;%%
 
-%\cite{Acharya:2017goa}
-\bibitem{Acharya:2017goa}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``First measurement of jet mass in Pb?Pb and p?Pb collisions at the LHC,''
- Phys.\ Lett.\ B {\bf 776}, 249 (2018)
- doi:10.1016/j.physletb.2017.11.044
- [arXiv:1702.00804 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.11.044;%%
 
 %\cite{Acharya:2017jgo}
 \bibitem{Acharya:2017jgo}
@@ -910,13 +884,6 @@
  [arXiv:1702.00555 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevC.95.064606;%%
 
-%\cite{Adamova:2017elh}
-\bibitem{Adamova:2017elh}
-  D.~Adamova {\it et al.} [ALICE Collaboration], %``Production of $\Sigma(1385)^{\pm}$ and $\Xi(1530)^{0}$ in p-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 6, 389 (2017)
- doi:10.1140/epjc/s10052-017-4943-1
- [arXiv:1701.07797 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-4943-1;%%
 
 %\cite{Adam:2016iwf}
 \bibitem{Adam:2016iwf}
@@ -927,13 +894,6 @@
  [arXiv:1612.08975 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6;%%
 
-%\cite{Adam:2016ddh}
-\bibitem{Adam:2016ddh}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of the pseudorapidity density distribution for charged particles in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Phys.\ Lett.\ B {\bf 772}, 567 (2017)
- doi:10.1016/j.physletb.2017.07.017
- [arXiv:1612.08966 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.07.017;%%
 
 %\cite{Alice:2016wka}
 \bibitem{Alice:2016wka}
@@ -1873,13 +1833,6 @@
  [arXiv:1208.5717 [hep-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-012-2183-y;%%
 
-%\cite{Abelev:2012sea}
-\bibitem{Abelev:2012sea}
-  B.~Abelev {\it et al.} [ALICE Collaboration], %``Measurement of inelastic, single- and double-diffraction cross sections in proton--proton collisions at the LHC with ALICE,''
- Eur.\ Phys.\ J.\ C {\bf 73}, no. 6, 2456 (2013)
- doi:10.1140/epjc/s10052-013-2456-0
- [arXiv:1208.4968 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-013-2456-0;%%
 
 %\cite{Abelev:2012hxa}
 \bibitem{Abelev:2012hxa}
@@ -2011,13 +1964,6 @@
  [arXiv:1203.3641 [hep-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.10.078, 10.1016/j.physletb.2015.06.058;%%
 
-%\cite{ALICE:2012aa}
-\bibitem{ALICE:2012aa}
-  B.~Abelev {\it et al.} [ALICE Collaboration], %``Measurement of the Cross Section for Electromagnetic Dissociation with Neutron Emission in Pb-Pb Collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 109}, 252302 (2012)
- doi:10.1103/PhysRevLett.109.252302
- [arXiv:1203.2436 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.109.252302;%%
 
 %\cite{ALICE:2012ab}
 \bibitem{ALICE:2012ab}
@@ -2059,13 +2005,6 @@
  [arXiv:1201.2423 [hep-ex]].
  %%CITATION = doi:10.1007/JHEP03(2012)053;%%
 
-%\cite{ALICE:2011ac}
-\bibitem{ALICE:2011ac}
-  B.~Abelev {\it et al.} [ALICE Collaboration], %``Underlying Event measurements in $pp$ collisions at $\sqrt{s}=0.9$ and 7 TeV with the ALICE experiment at the LHC,''
- JHEP {\bf 1207}, 116 (2012)
- doi:10.1007/JHEP07(2012)116
- [arXiv:1112.2082 [hep-ex]].
- %%CITATION = doi:10.1007/JHEP07(2012)116;%%
 
 %\cite{ALICE:2011ad}
 \bibitem{ALICE:2011ad}

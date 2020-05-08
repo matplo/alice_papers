@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|DQ|J/\\(\psi\\) production as a function of charged-particle multiplicity in p-Pb collisions at \\(\sqrt\{\textit\{s\}_\{\rm NN\}\}~=~8.16\\) TeV|pPb|[2004.12673](http://arxiv.org/abs/2004.12673v1){: target="_blank"}|[](No Link Found){: target="_blank"}|Submitted|284|
+|DQ|J/\\(\psi\\) production as a function of charged-particle multiplicity in p-Pb collisions at \\(\sqrt\{\textit\{s\}_\{\rm NN\}\}~=~8.16\\) TeV|pPb|[2004.12673](http://arxiv.org/abs/2004.12673v1){: target="_blank"}|[1792996](http://old.inspirehep.net//record/1792996?ln=en){: target="_blank"}|Submitted|284|
 |CF|Search for a common baryon source in high-multiplicity pp collisions at the LHC|pp|[2004.08018](http://arxiv.org/abs/2004.08018v1){: target="_blank"}|[1791631](http://old.inspirehep.net//record/1791631?ln=en){: target="_blank"}|Submitted to: Phys. Lett. |283|
 |DQ|Measurement of nuclear effects on \\(\psi\rm\{(2S)\}\\) production in p-Pb collisions at \\(\sqrt\{\textit\{s\}_\{\rm NN\}\} = 8.16\\) TeV|pPb|[2003.06053](http://arxiv.org/abs/2003.06053v1){: target="_blank"}|[1785315](http://old.inspirehep.net//record/1785315?ln=en){: target="_blank"}|Submitted|282|
 |LF|(Anti-)Deuteron production in pp collisions at \\(\sqrt\{s\}=13\\) TeV|pp|[2003.03184](http://arxiv.org/abs/2003.03184v1){: target="_blank"}|[1784203](http://old.inspirehep.net//record/1784203?ln=en){: target="_blank"}|Submitted|281|

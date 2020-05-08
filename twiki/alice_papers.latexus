@@ -1,3 +1,8 @@
+%\cite{Acharya:2020giw}
+\bibitem{Acharya:2020giw}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``J/$\psi$ production as a function of charged-particle multiplicity in p-Pb collisions at $\sqrt{\textit{s}_{\rm NN}}~=~8.16$ TeV,''
+ arXiv:2004.12673 [nucl-ex].
+ %%CITATION = ARXIV:2004.12673;%% 
 
 %\cite{Acharya:2020dfb}
 \bibitem{Acharya:2020dfb}
@@ -480,6 +485,13 @@
  [arXiv:1805.05212 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2019.04.047;%%
 
+%\cite{Acharya:2018hhy}
+\bibitem{Acharya:2018hhy}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe?Xe collisions at $\sqrt{s_{\rm NN}}$ =5.44TeV,''
+ Phys.\ Lett.\ B {\bf 790}, 35 (2019)
+ doi:10.1016/j.physletb.2018.12.048
+ [arXiv:1805.04432 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2018.12.048;%%
 
 %\cite{Acharya:2018ddg}
 \bibitem{Acharya:2018ddg}
@@ -553,6 +565,13 @@
  [arXiv:1805.04381 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP07(2018)160;%%
 
+%\cite{Acharya:2018upq}
+\bibitem{Acharya:2018upq}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurements of low-p$_{T}$ electrons from semileptonic heavy-flavour hadron decays at mid-rapidity in pp and Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
+ JHEP {\bf 1810}, 061 (2018)
+ doi:10.1007/JHEP10(2018)061
+ [arXiv:1805.04379 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP10(2018)061;%%
 
 %\cite{Acharya:2018uww}
 \bibitem{Acharya:2018uww}

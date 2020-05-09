@@ -823,6 +823,13 @@
  [arXiv:1707.01005 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.120.102301;%%
 
+%\cite{Acharya:2017jks}
+\bibitem{Acharya:2017jks}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measuring K$^0_{\rm S}$K$^{\rm \pm}$ interactions using Pb-Pb collisions at ${\sqrt{s_{\rm NN}}=2.76}$ TeV,''
+ Phys.\ Lett.\ B {\bf 774}, 64 (2017)
+ doi:10.1016/j.physletb.2017.09.009
+ [arXiv:1705.04929 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2017.09.009;%%
 
 %\cite{Acharya:2017zfg}
 \bibitem{Acharya:2017zfg}

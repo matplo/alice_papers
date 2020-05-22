@@ -439,952 +439,123 @@
  [arXiv:1809.03235 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-019-6816-2;%%
 
-%\cite{Acharya:2018eat}
-\bibitem{Acharya:2018eat}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged jet cross section and fragmentation in proton-proton collisions at $\sqrt{s}$ = 7 TeV,''
- Phys.\ Rev.\ D {\bf 99}, no. 1, 012016 (2019)
- doi:10.1103/PhysRevD.99.012016
- [arXiv:1809.03232 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevD.99.012016;%%
-
-%\cite{Acharya:2018orn}
-\bibitem{Acharya:2018orn}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of light-flavor hadron production in pp collisions at $\sqrt{s}$ = 7 TeV,''
- Phys.\ Rev.\ C {\bf 99}, no. 2, 024906 (2019)
- doi:10.1103/PhysRevC.99.024906
- [arXiv:1807.11321 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.99.024906;%%
-
-%\cite{Acharya:2018uvf}
-\bibitem{Acharya:2018uvf}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Medium modification of the shape of small-radius jets in central Pb-Pb collisions at $\sqrt{s_{\mathrm {NN}}} = 2.76\,\rm{TeV}$,''
- JHEP {\bf 1810}, 139 (2018)
- doi:10.1007/JHEP10(2018)139
- [arXiv:1807.06854 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP10(2018)139;%%
-
-%\cite{Acharya:2018nxm}
-\bibitem{Acharya:2018nxm}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of dielectron production in central Pb-Pb collisions at $\sqrt{{\textit{s}}_{\mathrm{NN}}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 99}, no. 2, 024002 (2019)
- doi:10.1103/PhysRevC.99.024002
- [arXiv:1807.00923 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.99.024002;%%
-
-%\cite{Acharya:2018gyz}
-\bibitem{Acharya:2018gyz}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``p-p, p-$\Lambda$ and $\Lambda$-$\Lambda$ correlations studied via femtoscopy in pp reactions at $\sqrt{s}$ = 7 TeV,''
- Phys.\ Rev.\ C {\bf 99}, no. 2, 024001 (2019)
- doi:10.1103/PhysRevC.99.024001
- [arXiv:1805.12455 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.99.024001;%%
-
-%\cite{Acharya:2018njl}
-\bibitem{Acharya:2018njl}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Analysis of the apparent nuclear modification in peripheral Pb?Pb collisions at 5.02 TeV,''
- Phys.\ Lett.\ B {\bf 793}, 420 (2019)
- doi:10.1016/j.physletb.2019.04.047
- [arXiv:1805.05212 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2019.04.047;%%
-
-%\cite{Acharya:2018hhy}
-\bibitem{Acharya:2018hhy}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe?Xe collisions at $\sqrt{s_{\rm NN}}$ =5.44TeV,''
- Phys.\ Lett.\ B {\bf 790}, 35 (2019)
- doi:10.1016/j.physletb.2018.12.048
- [arXiv:1805.04432 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.12.048;%%
-
-%\cite{Acharya:2018ddg}
-\bibitem{Acharya:2018ddg}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Two particle differential transverse momentum and number density correlations in p-Pb and Pb-Pb at the LHC,''
- Phys.\ Rev.\ C {\bf 100}, no. 4, 044903 (2019)
- doi:10.1103/PhysRevC.100.044903
- [arXiv:1805.04422 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.100.044903;%%
-
-%\cite{Acharya:2018kkj}
-\bibitem{Acharya:2018kkj}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Dielectron and heavy-quark production in inelastic and high-multiplicity proton?proton collisions at $\sqrt {s_{NN}}=$ 13TeV,''
- Phys.\ Lett.\ B {\bf 788}, 505 (2019)
- doi:10.1016/j.physletb.2018.11.009
- [arXiv:1805.04407 [hep-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.11.009;%%
-
-%\cite{Acharya:2018bdy}
-\bibitem{Acharya:2018bdy}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Direct photon elliptic flow in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 789}, 308 (2019)
- doi:10.1016/j.physletb.2018.11.039
- [arXiv:1805.04403 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.11.039;%%
-
-%\cite{Acharya:2018eaq}
-\bibitem{Acharya:2018eaq}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Transverse momentum spectra and nuclear modification factors of charged particles in Xe-Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44 TeV,''
- Phys.\ Lett.\ B {\bf 788}, 166 (2019)
- doi:10.1016/j.physletb.2018.10.052
- [arXiv:1805.04399 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.10.052;%%
-
-%\cite{Acharya:2018ohw}
-\bibitem{Acharya:2018ohw}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Dielectron production in proton-proton collisions at $ \sqrt{s}=7 $ TeV,''
- JHEP {\bf 1809}, 064 (2018)
- doi:10.1007/JHEP09(2018)064
- [arXiv:1805.04391 [hep-ex]].
- %%CITATION = doi:10.1007/JHEP09(2018)064;%%
-
-%\cite{Acharya:2018zuq}
-\bibitem{Acharya:2018zuq}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Anisotropic flow of identified particles in Pb-Pb collisions at $ {\sqrt{s}}_{\mathrm{NN}}=5.02 $ TeV,''
- JHEP {\bf 1809}, 006 (2018)
- doi:10.1007/JHEP09(2018)006
- [arXiv:1805.04390 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP09(2018)006;%%
-
-%\cite{Acharya:2018mni}
-\bibitem{Acharya:2018mni}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``$\Upsilon$ suppression at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- Phys.\ Lett.\ B {\bf 790}, 89 (2019)
- doi:10.1016/j.physletb.2018.11.067
- [arXiv:1805.04387 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.11.067;%%
-
-%\cite{Acharya:2018jvc}
-\bibitem{Acharya:2018jvc}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive J/$\psi$ production in Xe?Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44 TeV,''
- Phys.\ Lett.\ B {\bf 785}, 419 (2018)
- doi:10.1016/j.physletb.2018.08.047
- [arXiv:1805.04383 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.08.047;%%
-
-%\cite{Acharya:2018kxc}
-\bibitem{Acharya:2018kxc}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive J/$\psi$ production at forward and backward rapidity in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 8.16 TeV,''
- JHEP {\bf 1807}, 160 (2018)
- doi:10.1007/JHEP07(2018)160
- [arXiv:1805.04381 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP07(2018)160;%%
-
-%\cite{Acharya:2018upq}
-\bibitem{Acharya:2018upq}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurements of low-p$_{T}$ electrons from semileptonic heavy-flavour hadron decays at mid-rapidity in pp and Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
- JHEP {\bf 1810}, 061 (2018)
- doi:10.1007/JHEP10(2018)061
- [arXiv:1805.04379 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP10(2018)061;%%
-
-%\cite{Acharya:2018uww}
-\bibitem{Acharya:2018uww}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of the inclusive J/ $\psi $ polarization at forward rapidity in pp collisions at $\mathbf {\sqrt{s} = 8}$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 78}, no. 7, 562 (2018)
- doi:10.1140/epjc/s10052-018-6027-2
- [arXiv:1805.04374 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-018-6027-2;%%
-
-%\cite{Acharya:2018dxy}
-\bibitem{Acharya:2018dxy}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Azimuthal Anisotropy of Heavy-Flavor Decay Electrons in $p$-Pb Collisions at $ \sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 122}, no. 7, 072301 (2019)
- doi:10.1103/PhysRevLett.122.072301
- [arXiv:1805.04367 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.122.072301;%%
-
-%\cite{Acharya:2018qnp}
-\bibitem{Acharya:2018qnp}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of the $\rho$(770)${^{0}}$ meson in pp and Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 99}, no. 6, 064901 (2019)
- doi:10.1103/PhysRevC.99.064901
- [arXiv:1805.04365 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.99.064901;%%
-
-%\cite{ALICE:2018ewo}
-\bibitem{ALICE:2018ewo}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Suppression of $\Lambda(1520)$ resonance production in central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 99}, 024905 (2019)
- doi:10.1103/PhysRevC.99.024905
- [arXiv:1805.04361 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.99.024905;%%
-
-%\cite{Acharya:2018ihu}
-\bibitem{Acharya:2018ihu}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Anisotropic flow in Xe-Xe collisions at $\mathbf{\sqrt{s_{\rm{NN}}} = 5.44}$ TeV,''
- Phys.\ Lett.\ B {\bf 784}, 82 (2018)
- doi:10.1016/j.physletb.2018.06.059
- [arXiv:1805.01832 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.06.059;%%
-
-%\cite{Acharya:2018hre}
-\bibitem{Acharya:2018hre}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of D$^{0}$, D$^{+}$, D$^{*+}$ and D$_{s}^{+}$ production in Pb-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=5.02 $ TeV,''
- JHEP {\bf 1810}, 174 (2018)
- doi:10.1007/JHEP10(2018)174
- [arXiv:1804.09083 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP10(2018)174;%%
-
-%\cite{Acharya:2018wbz}
-\bibitem{Acharya:2018wbz}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``$\phi$ meson production at forward rapidity in Pb-Pb collisions at $\sqrt{s_\mathrm{NN}}=2.76$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 78}, no. 7, 559 (2018)
- doi:10.1140/epjc/s10052-018-6034-3
- [arXiv:1804.08906 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-018-6034-3;%%
-
-%\cite{Acharya:2018lmh}
-\bibitem{Acharya:2018lmh}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=5.02 $ and 2.76 TeV,''
- JHEP {\bf 1807}, 103 (2018)
- doi:10.1007/JHEP07(2018)103
- [arXiv:1804.02944 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP07(2018)103;%%
-
-%\cite{Acharya:2018dqe}
-\bibitem{Acharya:2018dqe}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Direct photon production at low transverse momentum in proton-proton collisions at $\mathbf{\sqrt{s}=2.76}$ and 8 TeV,''
- Phys.\ Rev.\ C {\bf 99}, no. 2, 024912 (2019)
- doi:10.1103/PhysRevC.99.024912
- [arXiv:1803.09857 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.99.024912;%%
-
-%\cite{Acharya:2018yhg}
-\bibitem{Acharya:2018yhg}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Neutral pion and $\eta$ meson production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 98}, no. 4, 044901 (2018)
- doi:10.1103/PhysRevC.98.044901
- [arXiv:1803.05490 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.98.044901;%%
-
-%\cite{Acharya:2018qsh}
-\bibitem{Acharya:2018qsh}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Transverse momentum spectra and nuclear modification factors of charged particles in pp, p-Pb and Pb-Pb collisions at the LHC,''
- JHEP {\bf 1811}, 013 (2018)
- doi:10.1007/JHEP11(2018)013
- [arXiv:1802.09145 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP11(2018)013;%%
-
-%\cite{Acharya:2018yud}
-\bibitem{Acharya:2018yud}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Prompt and non-prompt $\hbox {J}/\psi $ production and nuclear modification at mid-rapidity in p?Pb collisions at $\mathbf{\sqrt{{ s}_{\text {NN}}}= 5.02}$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 78}, no. 6, 466 (2018)
- doi:10.1140/epjc/s10052-018-5881-2
- [arXiv:1802.00765 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-018-5881-2;%%
-
-%\cite{Acharya:2018hzf}
-\bibitem{Acharya:2018hzf}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Neutral pion and $\eta$ meson production in p-Pb collisions at $\sqrt{s_\mathrm{NN}} = 5.02$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 78}, no. 8, 624 (2018)
- doi:10.1140/epjc/s10052-018-6013-8
- [arXiv:1801.07051 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-018-6013-8;%%
-
-%\cite{Acharya:2017kfy}
-\bibitem{Acharya:2017kfy}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``$\Lambda_{\rm c}^+$ production in pp collisions at $\sqrt{s} = 7$ TeV and in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
- JHEP {\bf 1804}, 108 (2018)
- doi:10.1007/JHEP04(2018)108
- [arXiv:1712.09581 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP04(2018)108;%%
-
-%\cite{Acharya:2017cpf}
-\bibitem{Acharya:2017cpf}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Relative particle yield fluctuations in $\text{ Pb-Pb }$ collisions at $\sqrt{s_\mathrm{{NN}}} =2.76\hbox { TeV}$,''
- Eur.\ Phys.\ J.\ C {\bf 79}, no. 3, 236 (2019)
- doi:10.1140/epjc/s10052-019-6711-x
- [arXiv:1712.07929 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-019-6711-x;%%
-
-%\cite{Acharya:2017okq}
-\bibitem{Acharya:2017okq}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Constraints on jet quenching in p-Pb collisions at $\mathbf{\sqrt{s_{NN}}}$ = 5.02 TeV measured by the event-activity dependence of semi-inclusive hadron-jet distributions,''
- Phys.\ Lett.\ B {\bf 783}, 95 (2018)
- doi:10.1016/j.physletb.2018.05.059
- [arXiv:1712.05603 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.05.059;%%
-
-%\cite{Acharya:2017wpf}
-\bibitem{Acharya:2017wpf}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of Z$^0$-boson production at large rapidities in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Phys.\ Lett.\ B {\bf 780}, 372 (2018)
- doi:10.1016/j.physletb.2018.03.010
- [arXiv:1711.10753 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.03.010;%%
-
-%\cite{Acharya:2017zkw}
-\bibitem{Acharya:2017zkw}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Longitudinal asymmetry and its effect on pseudorapidity distributions in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 781}, 20 (2018)
- doi:10.1016/j.physletb.2018.03.051
- [arXiv:1710.07975 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.03.051;%%
-
-%\cite{Acharya:2017bso}
-\bibitem{Acharya:2017bso}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of $^{4}$He and $^{4}\overline{\textrm{He}}$ in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 2.76 TeV at the LHC,''
- Nucl.\ Phys.\ A {\bf 971}, 1 (2018)
- doi:10.1016/j.nuclphysa.2017.12.004
- [arXiv:1710.07531 [nucl-ex]].
- %%CITATION = doi:10.1016/j.nuclphysa.2017.12.004;%%
-
-%\cite{Acharya:2017fvb}
-\bibitem{Acharya:2017fvb}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of deuterons, tritons, $^{3}$He nuclei and their antinuclei in pp collisions at $\mathbf{\sqrt{{\textit s}}}$ = 0.9, 2.76 and 7 TeV,''
- Phys.\ Rev.\ C {\bf 97}, no. 2, 024615 (2018)
- doi:10.1103/PhysRevC.97.024615
- [arXiv:1709.08522 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.97.024615;%%
-
-%\cite{Acharya:2017tfn}
-\bibitem{Acharya:2017tfn}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Search for collectivity with azimuthal J/$\psi$-hadron correlations in high multiplicity p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 and 8.16 TeV,''
- Phys.\ Lett.\ B {\bf 780}, 7 (2018)
- doi:10.1016/j.physletb.2018.02.039
- [arXiv:1709.06807 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2018.02.039;%%
-
-%\cite{Acharya:2017tgv}
-\bibitem{Acharya:2017tgv}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``J/$\psi$ elliptic flow in Pb-Pb collisions at $\sqrt{s_\mathrm{NN}}=5.02$ TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 119}, no. 24, 242301 (2017)
- doi:10.1103/PhysRevLett.119.242301
- [arXiv:1709.05260 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.119.242301;%%
-
-%\cite{Acharya:2017fau}
-\bibitem{Acharya:2017fau}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Constraining the magnitude of the Chiral Magnetic Effect with Event Shape Engineering in Pb-Pb collisions at $\sqrt{s_\mathrm{NN}}$ = 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 777}, 151 (2018)
- doi:10.1016/j.physletb.2017.12.021
- [arXiv:1709.04723 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.12.021;%%
-
-%\cite{Acharya:2017lco}
-\bibitem{Acharya:2017lco}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``The ALICE Transition Radiation Detector: construction, operation, and performance,''
- Nucl.\ Instrum.\ Meth.\ A {\bf 881}, 88 (2018)
- doi:10.1016/j.nima.2017.09.028
- [arXiv:1709.02743 [physics.ins-det]].
- %%CITATION = doi:10.1016/j.nima.2017.09.028;%%
-
-%\cite{Acharya:2017qtq}
-\bibitem{Acharya:2017qtq}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Kaon femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 96}, no. 6, 064613 (2017)
- doi:10.1103/PhysRevC.96.064613
- [arXiv:1709.01731 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.96.064613;%%
-
-%\cite{Acharya:2017gsw}
-\bibitem{Acharya:2017gsw}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Systematic studies of correlations between different order flow harmonics in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 97}, no. 2, 024906 (2018)
- doi:10.1103/PhysRevC.97.024906
- [arXiv:1709.01127 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.97.024906;%%
-
-%\cite{Acharya:2017tlv}
-\bibitem{Acharya:2017tlv}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``$\pi ^{0}$ and $\eta $ meson production in proton-proton collisions at $\sqrt{s}=8$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 78}, no. 3, 263 (2018)
- doi:10.1140/epjc/s10052-018-5612-8
- [arXiv:1708.08745 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-018-5612-8;%%
-
-%\cite{ALICE:2017pcy}
-\bibitem{ALICE:2017pcy}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Charged-particle multiplicity distributions over a wide pseudorapidity range in proton-proton collisions at $\sqrt{s}=$ 0.9, 7, and 8 TeV,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 12, 852 (2017)
- doi:10.1140/epjc/s10052-017-5412-6
- [arXiv:1708.01435 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-5412-6;%%
-
-%\cite{Acharya:2017dmc}
-\bibitem{Acharya:2017dmc}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of deuteron spectra and elliptic flow in Pb?Pb collisions at $\sqrt{s_{\mathrm {NN}}}$ = 2.76 TeV at the LHC,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 10, 658 (2017)
- doi:10.1140/epjc/s10052-017-5222-x
- [arXiv:1707.07304 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-5222-x;%%
-
-%\cite{Acharya:2017ino}
-\bibitem{Acharya:2017ino}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Searches for transverse momentum dependent flow vector fluctuations in Pb-Pb and p-Pb collisions at the LHC,''
- JHEP {\bf 1709}, 032 (2017)
- doi:10.1007/JHEP09(2017)032
- [arXiv:1707.05690 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP09(2017)032;%%
-
-%\cite{Acharya:2017qps}
-\bibitem{Acharya:2017qps}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``$D$-meson azimuthal anisotropy in midcentral Pb-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}=5.02}$ TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 120}, no. 10, 102301 (2018)
- doi:10.1103/PhysRevLett.120.102301
- [arXiv:1707.01005 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.120.102301;%%
-
-%\cite{Acharya:2017jks}
-\bibitem{Acharya:2017jks}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measuring K$^0_{\rm S}$K$^{\rm \pm}$ interactions using Pb-Pb collisions at ${\sqrt{s_{\rm NN}}=2.76}$ TeV,''
- Phys.\ Lett.\ B {\bf 774}, 64 (2017)
- doi:10.1016/j.physletb.2017.09.009
- [arXiv:1705.04929 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.09.009;%%
-
-%\cite{Acharya:2017zfg}
-\bibitem{Acharya:2017zfg}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Linear and non-linear flow modes in Pb-Pb collisions at $\sqrt{s_{\rm NN}} =$ 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 773}, 68 (2017)
- doi:10.1016/j.physletb.2017.07.060
- [arXiv:1705.04377 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.07.060;%%
-
-%\cite{Adamova:2017uhu}
-\bibitem{Adamova:2017uhu}
-  D.~Adamov? {\it et al.} [ALICE Collaboration], %``J/$\psi$ production as a function of charged-particle pseudorapidity density in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
- Phys.\ Lett.\ B {\bf 776}, 91 (2018)
- doi:10.1016/j.physletb.2017.11.008
- [arXiv:1704.00274 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.11.008;%%
-
-%\cite{Adam:2017ucq}
-\bibitem{Adam:2017ucq}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Flow dominance and factorization of transverse momentum correlations in Pb-Pb collisions at the LHC,''
- Phys.\ Rev.\ Lett.\ {\bf 118}, no. 16, 162302 (2017)
- doi:10.1103/PhysRevLett.118.162302
- [arXiv:1702.02665 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.118.162302;%%
-
-%\cite{Adamova:2017opl}
-\bibitem{Adamova:2017opl}
-  D.~Adamova {\it et al.} [ALICE Collaboration], %``Azimuthally differential pion femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 118}, no. 22, 222301 (2017)
- doi:10.1103/PhysRevLett.118.222301
- [arXiv:1702.01612 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.118.222301;%%
-
-%\cite{Acharya:2017hdv}
-\bibitem{Acharya:2017hdv}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of muons from heavy-flavour hadron decays in p-Pb collisions at $\mathbf{\sqrt{{\textit s}_{NN}} = 5.02}$ TeV,''
- Phys.\ Lett.\ B {\bf 770}, 459 (2017)
- doi:10.1016/j.physletb.2017.03.049
- [arXiv:1702.01479 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.03.049;%%
-
-%\cite{Acharya:2017hyu}
-\bibitem{Acharya:2017hyu}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of ${\pi ^0}$ and $\eta $ mesons up to high transverse momentum in pp collisions at 2.76 TeV,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 5, 339 (2017)
- [Eur.\ Phys.\ J.\ C {\bf 77}, no. 9, 586 (2017)]
- doi:10.1140/epjc/s10052-017-5144-7, 10.1140/epjc/s10052-017-4890-x
- [arXiv:1702.00917 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-5144-7, 10.1140/epjc/s10052-017-4890-x;%%
-
-%\cite{Acharya:2017goa}
-\bibitem{Acharya:2017goa}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``First measurement of jet mass in Pb?Pb and p?Pb collisions at the LHC,''
- Phys.\ Lett.\ B {\bf 776}, 249 (2018)
- doi:10.1016/j.physletb.2017.11.044
- [arXiv:1702.00804 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.11.044;%%
-
-%\cite{Acharya:2017jgo}
-\bibitem{Acharya:2017jgo}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of D-meson production at mid-rapidity in pp collisions at ${\sqrt{s}=7}$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 8, 550 (2017)
- doi:10.1140/epjc/s10052-017-5090-4
- [arXiv:1702.00766 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-5090-4;%%
-
-%\cite{Acharya:2017hjh}
-\bibitem{Acharya:2017hjh}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Energy dependence of forward-rapidity $\mathrm {J}/\psi $ and $\psi \mathrm {(2S)}$ production in pp collisions at the LHC,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 6, 392 (2017)
- doi:10.1140/epjc/s10052-017-4940-4
- [arXiv:1702.00557 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-4940-4;%%
-
-%\cite{Adam:2017zbf}
-\bibitem{Adam:2017zbf}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``K$^{*}(892)^{0}$ and $\phi(1020)$ meson production at high transverse momentum in pp and Pb-Pb collisions at $\sqrt{s_\mathrm{NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 95}, no. 6, 064606 (2017)
- doi:10.1103/PhysRevC.95.064606
- [arXiv:1702.00555 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.95.064606;%%
-
-%\cite{Adamova:2017elh}
-\bibitem{Adamova:2017elh}
-  D.~Adamova {\it et al.} [ALICE Collaboration], %``Production of $\Sigma(1385)^{\pm}$ and $\Xi(1530)^{0}$ in p-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 6, 389 (2017)
- doi:10.1140/epjc/s10052-017-4943-1
- [arXiv:1701.07797 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-4943-1;%%
-
-%\cite{Adam:2016iwf}
-\bibitem{Adam:2016iwf}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Insight into particle production mechanisms via angular correlations of identified particles in pp collisions at $\sqrt{\mathrm{s}}=7$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 8, 569 (2017)
- Erratum: [Eur.\ Phys.\ J.\ C {\bf 79}, no. 12, 998 (2019)]
- doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6
- [arXiv:1612.08975 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6;%%
-
-%\cite{Adam:2016ddh}
-\bibitem{Adam:2016ddh}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of the pseudorapidity density distribution for charged particles in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Phys.\ Lett.\ B {\bf 772}, 567 (2017)
- doi:10.1016/j.physletb.2017.07.017
- [arXiv:1612.08966 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.07.017;%%
-
-%\cite{Alice:2016wka}
-\bibitem{Alice:2016wka}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``W and Z boson production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- JHEP {\bf 1702}, 077 (2017)
- doi:10.1007/JHEP02(2017)077
- [arXiv:1611.03002 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP02(2017)077;%%
-
-%\cite{Adam:2016ilk}
-\bibitem{Adam:2016ilk}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Determination of the event collision time with the ALICE detector at the LHC,''
- Eur.\ Phys.\ J.\ Plus {\bf 132}, no. 2, 99 (2017)
- doi:10.1140/epjp/i2017-11279-1
- [arXiv:1610.03055 [physics.ins-det]].
- %%CITATION = doi:10.1140/epjp/i2017-11279-1;%%
-
-%\cite{Adam:2016khe}
-\bibitem{Adam:2016khe}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of the production of high-$p_{\rm T}$ electrons from heavy-flavour hadron decays in Pb-Pb collisions at $\mathbf{\sqrt{\it s_{\rm{NN}}}}$ = 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 771}, 467 (2017)
- doi:10.1016/j.physletb.2017.05.060
- [arXiv:1609.07104 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.05.060;%%
-
-%\cite{Adam:2016ckp}
-\bibitem{Adam:2016ckp}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Evolution of the longitudinal and azimuthal structure of the near-side jet peak in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ TeV,''
- Phys.\ Rev.\ C {\bf 96}, no. 3, 034904 (2017)
- doi:10.1103/PhysRevC.96.034904
- [arXiv:1609.06667 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.96.034904;%%
-
-%\cite{Adam:2016tsv}
-\bibitem{Adam:2016tsv}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Anomalous evolution of the near-side jet peak shape in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 119}, no. 10, 102301 (2017)
- doi:10.1103/PhysRevLett.119.102301
- [arXiv:1609.06643 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.119.102301;%%
-
-%\cite{Adam:2016wyz}
-\bibitem{Adam:2016wyz}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of electrons from beauty-hadron decays in p-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=5.02 $ TeV and Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
- JHEP {\bf 1707}, 052 (2017)
- doi:10.1007/JHEP07(2017)052
- [arXiv:1609.03898 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP07(2017)052;%%
-
-%\cite{Adam:2016xbp}
-\bibitem{Adam:2016xbp}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Jet-like correlations with neutral pion triggers in pp and central Pb?Pb collisions at 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 763}, 238 (2016)
- doi:10.1016/j.physletb.2016.10.048
- [arXiv:1608.07201 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2016.10.048;%%
-
-%\cite{Adam:2016rdg}
-\bibitem{Adam:2016rdg}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``J/$\psi$ suppression at forward rapidity in Pb-Pb collisions at $\mathbf{\sqrt{s_{{\rm NN}}} = 5.02}$ TeV,''
- Phys.\ Lett.\ B {\bf 766}, 212 (2017)
- doi:10.1016/j.physletb.2016.12.064
- [arXiv:1606.08197 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2016.12.064;%%
-
-%\cite{ALICE:2017jyt}
-\bibitem{ALICE:2017jyt}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Enhanced production of multi-strange hadrons in high-multiplicity proton-proton collisions,''
- Nature Phys.\ {\bf 13}, 535 (2017)
- doi:10.1038/nphys4111
- [arXiv:1606.07424 [nucl-ex]].
- %%CITATION = doi:10.1038/nphys4111;%%
-
-%\cite{Adam:2016nfo}
-\bibitem{Adam:2016nfo}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Higher harmonic flow coefficients of identified hadrons in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- JHEP {\bf 1609}, 164 (2016)
- doi:10.1007/JHEP09(2016)164
- [arXiv:1606.06057 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP09(2016)164;%%
-
-%\cite{Adam:2016ssk}
-\bibitem{Adam:2016ssk}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Elliptic flow of electrons from heavy-flavour hadron decays at mid-rapidity in Pb-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=2.76 $ TeV,''
- JHEP {\bf 1609}, 028 (2016)
- doi:10.1007/JHEP09(2016)028
- [arXiv:1606.00321 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP09(2016)028;%%
-
-%\cite{Adam:2016ich}
-\bibitem{Adam:2016ich}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``$D$-meson production in $p$-Pb collisions at $\sqrt{s_{\rm NN}}=$5.02 TeV and in pp collisions at $\sqrt{s}=$7 TeV,''
- Phys.\ Rev.\ C {\bf 94}, no. 5, 054908 (2016)
- doi:10.1103/PhysRevC.94.054908
- [arXiv:1605.07569 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.94.054908;%%
-
-%\cite{ALICE:2016clc}
-\bibitem{ALICE:2016clc}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of azimuthal correlations of D mesons and charged particles in pp collisions at $\sqrt{s}=7$ TeV and p-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 4, 245 (2017)
- doi:10.1140/epjc/s10052-017-4779-8
- [arXiv:1605.06963 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-017-4779-8;%%
-
-%\cite{Adam:2016ows}
-\bibitem{Adam:2016ows}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Pseudorapidity dependence of the anisotropic flow of charged particles in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV,''
- Phys.\ Lett.\ B {\bf 762}, 376 (2016)
- doi:10.1016/j.physletb.2016.07.017
- [arXiv:1605.02035 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2016.07.017;%%
-
-%\cite{ALICE:2016kpq}
-\bibitem{ALICE:2016kpq}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Correlated event-by-event fluctuations of flow harmonics in Pb-Pb collisions at $\sqrt{s_{_{\rm NN}}}=2.76$ TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 117}, 182301 (2016)
- doi:10.1103/PhysRevLett.117.182301
- [arXiv:1604.07663 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.117.182301;%%
-
-%\cite{Adam:2016thv}
-\bibitem{Adam:2016thv}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of transverse energy at midrapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ TeV,''
- Phys.\ Rev.\ C {\bf 94}, no. 3, 034903 (2016)
- doi:10.1103/PhysRevC.94.034903
- [arXiv:1603.04775 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.94.034903;%%
-
-%\cite{Adam:2016jfp}
-\bibitem{Adam:2016jfp}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of charged jet production in p?Pb collisions at $\sqrt{s_\mathrm{NN}}$ = 5.02 TeV,''
- Eur.\ Phys.\ J.\ C {\bf 76}, no. 5, 271 (2016)
- doi:10.1140/epjc/s10052-016-4107-8
- [arXiv:1603.03402 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-016-4107-8;%%
-
-%\cite{Adam:2016ohd}
-\bibitem{Adam:2016ohd}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of $\mathbf{\psi}$(2S) suppression in p-Pb collisions at $\mathbf{\sqrt{{\textit s}_{\rm NN}}}$ = 5.02 TeV,''
- JHEP {\bf 1606}, 050 (2016)
- doi:10.1007/JHEP06(2016)050
- [arXiv:1603.02816 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP06(2016)050;%%
-
-%\cite{Adam:2016mkz}
-\bibitem{Adam:2016mkz}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of D-meson production versus multiplicity in p-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=5.02 $ TeV,''
- JHEP {\bf 1608}, 078 (2016)
- doi:10.1007/JHEP08(2016)078
- [arXiv:1602.07240 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP08(2016)078;%%
-
-%\cite{Adam:2016acv}
-\bibitem{Adam:2016acv}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Particle identification in ALICE: a Bayesian approach,''
- Eur.\ Phys.\ J.\ Plus {\bf 131}, no. 5, 168 (2016)
- doi:10.1140/epjp/i2016-16168-5
- [arXiv:1602.01392 [physics.data-an]].
- %%CITATION = doi:10.1140/epjp/i2016-16168-5;%%
-
-%\cite{Adam:2016izf}
-\bibitem{Adam:2016izf}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Anisotropic flow of charged particles in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 116}, no. 13, 132302 (2016)
- doi:10.1103/PhysRevLett.116.132302
- [arXiv:1602.01119 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.116.132302;%%
-
-%\cite{Adam:2016bpr}
-\bibitem{Adam:2016bpr}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Production of K$^{*}$ (892)$^{0}$ and $\phi $ (1020) in p?Pb collisions at $\sqrt{s_{{\text {NN}}}}$ = 5.02 TeV,''
- Eur.\ Phys.\ J.\ C {\bf 76}, no. 5, 245 (2016)
- doi:10.1140/epjc/s10052-016-4088-7
- [arXiv:1601.07868 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-016-4088-7;%%
-
-%\cite{Adam:2016dau}
-\bibitem{Adam:2016dau}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of charged pion, kaon, and (anti)proton production at large transverse momentum in p-Pb collisions at $\mathbf{\sqrt{{\textit s}_{\rm NN}}}$ = 5.02 TeV,''
- Phys.\ Lett.\ B {\bf 760}, 720 (2016)
- doi:10.1016/j.physletb.2016.07.050
- [arXiv:1601.03658 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2016.07.050;%%
-
-%\cite{Adam:2015pbc}
-\bibitem{Adam:2015pbc}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Multipion Bose-Einstein correlations in pp,p -Pb, and Pb-Pb collisions at energies available at the CERN Large Hadron Collider,''
- Phys.\ Rev.\ C {\bf 93}, no. 5, 054908 (2016)
- doi:10.1103/PhysRevC.93.054908
- [arXiv:1512.08902 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.93.054908;%%
-
-%\cite{Adam:2015vsf}
-\bibitem{Adam:2015vsf}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Multi-strange baryon production in p-Pb collisions at $\sqrt{s_\mathbf{NN}}=5.02$ TeV,''
- Phys.\ Lett.\ B {\bf 758}, 389 (2016)
- doi:10.1016/j.physletb.2016.05.027
- [arXiv:1512.07227 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2016.05.027;%%
-
-%\cite{Adam:2015ptt}
-\bibitem{Adam:2015ptt}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of the charged-particle multiplicity density at midrapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 116}, no. 22, 222302 (2016)
- doi:10.1103/PhysRevLett.116.222302
- [arXiv:1512.06104 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.116.222302;%%
-
-%\cite{Adam:2015vje}
-\bibitem{Adam:2015vje}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Charge-dependent flow and the search for the chiral magnetic wave in Pb-Pb collisions at $\sqrt{s_{\rm NN}} =$ 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 93}, no. 4, 044903 (2016)
- doi:10.1103/PhysRevC.93.044903
- [arXiv:1512.05739 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.93.044903;%%
-
-%\cite{Adam:2015gba}
-\bibitem{Adam:2015gba}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of an excess in the yield of $J/\psi$ at very low $p_{\rm T}$ in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 116}, no. 22, 222301 (2016)
- doi:10.1103/PhysRevLett.116.222301
- [arXiv:1509.08802 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.116.222301;%%
-
-%\cite{Adam:2015pza}
-\bibitem{Adam:2015pza}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Pseudorapidity and transverse-momentum distributions of charged particles in proton?proton collisions at $\sqrt s=$ 13 TeV,''
- Phys.\ Lett.\ B {\bf 753}, 319 (2016)
- doi:10.1016/j.physletb.2015.12.030
- [arXiv:1509.08734 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2015.12.030;%%
-
-%\cite{Adam:2015rta}
-\bibitem{Adam:2015rta}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Inclusive quarkonium production at forward rapidity in pp collisions at $\sqrt{s}=8$ TeV,''
- Eur.\ Phys.\ J.\ C {\bf 76}, no. 4, 184 (2016)
- doi:10.1140/epjc/s10052-016-3987-y
- [arXiv:1509.08258 [hep-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-016-3987-y;%%
-
-%\cite{Adam:2015gka}
-\bibitem{Adam:2015gka}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Charged-particle multiplicities in proton?proton collisions at $\sqrt{s} = 0.9$ to 8 TeV,''
- Eur.\ Phys.\ J.\ C {\bf 77}, no. 1, 33 (2017)
- doi:10.1140/epjc/s10052-016-4571-1
- [arXiv:1509.07541 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-016-4571-1;%%
-
-%\cite{Adam:2015qda}
-\bibitem{Adam:2015qda}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of electrons from heavy-flavour hadron decays in p-Pb collisions at $\sqrt{s_{\rm NN}} =$ 5.02 TeV,''
- Phys.\ Lett.\ B {\bf 754}, 81 (2016)
- doi:10.1016/j.physletb.2015.12.067
- [arXiv:1509.07491 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2015.12.067;%%
-
-%\cite{Adam:2015mda}
-\bibitem{Adam:2015mda}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Azimuthal anisotropy of charged jet production in $\sqrt{s_{\rm NN}}$ = 2.76 TeV Pb-Pb collisions,''
- Phys.\ Lett.\ B {\bf 753}, 511 (2016)
- doi:10.1016/j.physletb.2015.12.047
- [arXiv:1509.07334 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2015.12.047;%%
-
-%\cite{Adam:2015lda}
-\bibitem{Adam:2015lda}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Direct photon production in Pb-Pb collisions at $\sqrt{s_\rm{NN}} =$ 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 754}, 235 (2016)
- doi:10.1016/j.physletb.2016.01.020
- [arXiv:1509.07324 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2016.01.020;%%
-
-%\cite{Adam:2015kda}
-\bibitem{Adam:2015kda}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality evolution of the charged-particle pseudorapidity density over a broad pseudorapidity range in Pb-Pb collisions at $\sqrt{s_{\rm NN}} =$ 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 754}, 373 (2016)
- doi:10.1016/j.physletb.2015.12.082
- [arXiv:1509.07299 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2015.12.082;%%
-
-%\cite{Adam:2015jda}
-\bibitem{Adam:2015jda}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of D$_{s}^{+}$ production and nuclear modification factor in Pb-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=$ 2.76 TeV,''
- JHEP {\bf 1603}, 082 (2016)
- doi:10.1007/JHEP03(2016)082
- [arXiv:1509.07287 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP03(2016)082;%%
-
-%\cite{Adam:2015gda}
-\bibitem{Adam:2015gda}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Multiplicity and transverse momentum evolution of charge-dependent correlations in pp, p?Pb, and Pb?Pb collisions at the LHC,''
- Eur.\ Phys.\ J.\ C {\bf 76}, no. 2, 86 (2016)
- doi:10.1140/epjc/s10052-016-3915-1
- [arXiv:1509.07255 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-016-3915-1;%%
-
-%\cite{Adam:2015sza}
-\bibitem{Adam:2015sza}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Transverse momentum dependence of D-meson production in Pb-Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}}=$ 2.76 TeV,''
- JHEP {\bf 1603}, 081 (2016)
- doi:10.1007/JHEP03(2016)081
- [arXiv:1509.06888 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP03(2016)081;%%
-
-%\cite{Adam:2015sia}
-\bibitem{Adam:2015sia}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Coherent $\psi$(2S) photo-production in ultra-peripheral Pb Pb collisions at $\sqrt{s}_{\rm NN}$ = 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 751}, 358 (2015)
- doi:10.1016/j.physletb.2015.10.040
- [arXiv:1508.05076 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2015.10.040;%%
-
-%\cite{Adam:2015pna}
-\bibitem{Adam:2015pna}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Precision measurement of the mass difference between light nuclei and anti-nuclei,''
- Nature Phys.\ {\bf 11}, no. 10, 811 (2015)
- doi:10.1038/nphys3432
- [arXiv:1508.03986 [nucl-ex]].
- %%CITATION = doi:10.1038/nphys3432;%%
-
-%\cite{ALICE:2015wfa}
-\bibitem{ALICE:2015wfa}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Study of cosmic ray events with high muon multiplicity using the ALICE detector at the CERN Large Hadron Collider,''
- JCAP {\bf 1601}, 032 (2016)
- doi:10.1088/1475-7516/2016/01/032
- [arXiv:1507.07577 [astro-ph.HE]].
- %%CITATION = doi:10.1088/1475-7516/2016/01/032;%%
-
-%\cite{Adam:2015vna}
-\bibitem{Adam:2015vna}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of pion freeze-out radii in Pb-Pb collisions at $\sqrt{s}_{NN}=$ 2.76 TeV,''
- Phys.\ Rev.\ C {\bf 93}, no. 2, 024905 (2016)
- doi:10.1103/PhysRevC.93.024905
- [arXiv:1507.06842 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.93.024905;%%
-
-%\cite{Adam:2015eta}
-\bibitem{Adam:2015eta}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Event shape engineering for inclusive spectra and elliptic flow in Pb-Pb collisions at $\sqrt{s_\rm{NN}}=2.76$ TeV,''
- Phys.\ Rev.\ C {\bf 93}, no. 3, 034916 (2016)
- doi:10.1103/PhysRevC.93.034916
- [arXiv:1507.06194 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.93.034916;%%
-
-%\cite{Adam:2015pga}
-\bibitem{Adam:2015pga}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Elliptic flow of muons from heavy-flavour hadron decays at forward rapidity in Pb?Pb collisions at $\sqrt{s_{\rm NN}}= 2.76$ TeV,''
- Phys.\ Lett.\ B {\bf 753}, 41 (2016)
- doi:10.1016/j.physletb.2015.11.059
- [arXiv:1507.03134 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2015.11.059;%%
-
-%\cite{Adam:2015jca}
-\bibitem{Adam:2015jca}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``$\phi$-meson production at forward rapidity in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV and in pp collisions at $\sqrt{s}$ = 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 768}, 203 (2017)
- doi:10.1016/j.physletb.2017.01.074
- [arXiv:1506.09206 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2017.01.074;%%
-
-%\cite{Adam:2015vda}
-\bibitem{Adam:2015vda}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Production of light nuclei and anti-nuclei in pp and Pb-Pb collisions at energies available at the CERN Large Hadron Collider,''
- Phys.\ Rev.\ C {\bf 93}, no. 2, 024917 (2016)
- doi:10.1103/PhysRevC.93.024917
- [arXiv:1506.08951 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.93.024917;%%
-
-%\cite{Adam:2015jsa}
-\bibitem{Adam:2015jsa}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of inclusive J/? production in p-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=5.02 $ TeV,''
- JHEP {\bf 1511}, 127 (2015)
- doi:10.1007/JHEP11(2015)127
- [arXiv:1506.08808 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP11(2015)127;%%
-
-%\cite{Adam:2015isa}
-\bibitem{Adam:2015isa}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Differential studies of inclusive J/? and ?(2S) production at forward rapidity in Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
- JHEP {\bf 1605}, 179 (2016)
- doi:10.1007/JHEP05(2016)179
- [arXiv:1506.08804 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP05(2016)179;%%
-
-%\cite{Adam:2015yta}
-\bibitem{Adam:2015yta}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``$^{3}_{\Lambda}\mathrm H$ and $^{3}_{\bar{\Lambda}} \overline{\mathrm H}$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} =$ 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 754}, 360 (2016)
- doi:10.1016/j.physletb.2016.01.040
- [arXiv:1506.08453 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2016.01.040;%%
-
-%\cite{Adam:2015bka}
-\bibitem{Adam:2015bka}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Forward-central two-particle correlations in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- Phys.\ Lett.\ B {\bf 753}, 126 (2016)
- doi:10.1016/j.physletb.2015.12.010
- [arXiv:1506.08032 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2015.12.010;%%
-
-%\cite{Adam:2015vja}
-\bibitem{Adam:2015vja}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``One-dimensional pion, kaon, and proton femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm {NN}}}$ =2.76 TeV,''
- Phys.\ Rev.\ C {\bf 92}, no. 5, 054908 (2015)
- doi:10.1103/PhysRevC.92.054908
- [arXiv:1506.07884 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.92.054908;%%
-
-%\cite{Adam:2015nca}
-\bibitem{Adam:2015nca}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Search for weakly decaying $\overline{\Lambda\mathrm{n}}$ and $\Lambda\Lambda $ exotic bound states in central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
- Phys.\ Lett.\ B {\bf 752}, 267 (2016)
- doi:10.1016/j.physletb.2015.11.048
- [arXiv:1506.07499 [nucl-ex]].
- %%CITATION = doi:10.1016/j.physletb.2015.11.048;%%
-
-%\cite{Adam:2015kca}
-\bibitem{Adam:2015kca}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of the nuclear modification factor of charged pions, kaons, and protons in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV,''
- Phys.\ Rev.\ C {\bf 93}, no. 3, 034913 (2016)
- doi:10.1103/PhysRevC.93.034913
- [arXiv:1506.07287 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.93.034913;%%
-
-%\cite{Adam:2015nna}
-\bibitem{Adam:2015nna}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of high-p$_{T}$ D meson suppression in Pb-Pb collisions at $ \sqrt{s_{\mathrm{N}\mathrm{N}}}=2.76 $ TeV,''
- JHEP {\bf 1511}, 205 (2015)
- Addendum: [JHEP {\bf 1706}, 032 (2017)]
- doi:10.1007/JHEP11(2015)205, 10.1007/JHEP06(2017)032
- [arXiv:1506.06604 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP11(2015)205, 10.1007/JHEP06(2017)032;%%
-
-%\cite{Adam:2015doa}
-\bibitem{Adam:2015doa}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of jet quenching with semi-inclusive hadron-jet distributions in central Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
- JHEP {\bf 1509}, 170 (2015)
- doi:10.1007/JHEP09(2015)170
- [arXiv:1506.03984 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP09(2015)170;%%
-
-%\cite{Adam:2015ota}
-\bibitem{Adam:2015ota}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of charm and beauty production at central rapidity versus charged-particle multiplicity in proton-proton collisions at $ \sqrt{s}=7 $ TeV,''
- JHEP {\bf 1509}, 148 (2015)
- doi:10.1007/JHEP09(2015)148
- [arXiv:1505.00664 [nucl-ex]].
- %%CITATION = doi:10.1007/JHEP09(2015)148;%%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 %\cite{Adam:2015rba}
 \bibitem{Adam:2015rba}

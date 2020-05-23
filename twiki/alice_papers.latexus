@@ -1073,6 +1073,13 @@
  [arXiv:1603.03402 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-016-4107-8;%%
 
+%\cite{Adam:2016ohd}
+\bibitem{Adam:2016ohd}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Centrality dependence of $\mathbf{\psi}$(2S) suppression in p-Pb collisions at $\mathbf{\sqrt{{\textit s}_{\rm NN}}}$ = 5.02 TeV,''
+ JHEP {\bf 1606}, 050 (2016)
+ doi:10.1007/JHEP06(2016)050
+ [arXiv:1603.02816 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP06(2016)050;%%
 
 %\cite{Adam:2016mkz}
 \bibitem{Adam:2016mkz}

@@ -1,6 +1,14 @@
-   * Generated on 2020-May-25 00:37 UTC  .
+   * Generated on 2020-May-25 08:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Transverse-momentum and event-shape dependence of D-meson flow harmonics in Pb-Pb collisions at \(\sqrt{s_{NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11131v1][2005.11131]]|[[http://old.inspirehep.net//record/1797463?ln=en][1797463]]|%RED%Submitted%ENDCOLOR%|292|
+|CF|Elliptic flow of electrons from beauty-hadron decays in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11130v1][2005.11130]]|[[http://old.inspirehep.net//record/1797450?ln=en][1797450]]|%RED%Submitted%ENDCOLOR%|291|
+|DQ|First measurement of quarkonium polarization in nuclear collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11128v1][2005.11128]]|[[http://old.inspirehep.net//record/1797469?ln=en][1797469]]|%RED%Submitted%ENDCOLOR%|290|
+|HF|Z-boson production in p-Pb collisions at \(\sqrt{s_{\mathrm{NN}}}=8.16\) !TeV and Pb-Pb collisions at \(\sqrt{s_{\mathrm{NN}}}=5.02\) !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11126v1][2005.11126]]|[[http://old.inspirehep.net//record/1797444?ln=en][1797444]]|%RED%Submitted%ENDCOLOR%|289|
+|CF|\(\Lambda\rm{K}\) femtoscopy in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11124v1][2005.11124]]|[[http://old.inspirehep.net//record/1797451?ln=en][1797451]]|%RED%Submitted%ENDCOLOR%|288|
+|DQ|Multiplicity dependence of J/\(\psi\) production at midrapidity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11123v1][2005.11123]]|[[http://old.inspirehep.net//record/1797445?ln=en][1797445]]|%RED%Submitted%ENDCOLOR%|287|
+|LF|Measurement of the low-energy antideuteron inelastic cross section|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11122v1][2005.11122]]|[[http://old.inspirehep.net//record/1797442?ln=en][1797442]]|%RED%Submitted%ENDCOLOR%|286|
+|LF|Production of light-flavor hadrons in pp collisions at \(\sqrt{s}\) = 7 and \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11120v1][2005.11120]]|[[http://old.inspirehep.net//record/1797443?ln=en][1797443]]|%RED%Submitted%ENDCOLOR%|285|
 |DQ|J/\(\psi\) production as a function of charged-particle multiplicity in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}}~=~8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2004.12673v1][2004.12673]]|[[http://old.inspirehep.net//record/1792996?ln=en][1792996]]|%RED%Submitted%ENDCOLOR%|284|
 |CF|Search for a common baryon source in high-multiplicity pp collisions at the LHC|pp|[[http://arxiv.org/abs/2004.08018v1][2004.08018]]|[[http://old.inspirehep.net//record/1791631?ln=en][1791631]]|%GREEN%Submitted to: Phys. Lett. %ENDCOLOR%|283|
 |DQ|Measurement of nuclear effects on \(\psi\rm{(2S)}\) production in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}} = 8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v1][2003.06053]]|[[http://old.inspirehep.net//record/1785315?ln=en][1785315]]|%RED%Submitted%ENDCOLOR%|282|

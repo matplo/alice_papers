@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|Dielectron production in proton-proton and proton-lead collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|pp,pPb|[2005.11995](http://arxiv.org/abs/2005.11995v1){: target="_blank"}|[1797621](http://old.inspirehep.net//record/1797621?ln=en){: target="_blank"}|Submitted|294|
+|CF|A new laboratory to study hadron-hadron interactions|pp|[2005.11495](http://arxiv.org/abs/2005.11495v1){: target="_blank"}|[1797617](http://old.inspirehep.net//record/1797617?ln=en){: target="_blank"}|Submitted|293|
 |HF|Transverse-momentum and event-shape dependence of D-meson flow harmonics in Pb-Pb collisions at \\(\sqrt\{s_\{NN\}\} = 5.02\\) TeV|PbPb|[2005.11131](http://arxiv.org/abs/2005.11131v1){: target="_blank"}|[1797463](http://old.inspirehep.net//record/1797463?ln=en){: target="_blank"}|Submitted|292|
 |CF|Elliptic flow of electrons from beauty-hadron decays in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2005.11130](http://arxiv.org/abs/2005.11130v1){: target="_blank"}|[1797450](http://old.inspirehep.net//record/1797450?ln=en){: target="_blank"}|Submitted|291|
 |DQ|First measurement of quarkonium polarization in nuclear collisions at the LHC|PbPb|[2005.11128](http://arxiv.org/abs/2005.11128v1){: target="_blank"}|[1797469](http://old.inspirehep.net//record/1797469?ln=en){: target="_blank"}|Submitted|290|

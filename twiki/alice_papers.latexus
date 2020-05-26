@@ -1,3 +1,15 @@
+%\cite{Acharya:2020rfm}
+\bibitem{Acharya:2020rfm}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Dielectron production in proton-proton and proton-lead collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+ arXiv:2005.11995 [nucl-ex].
+ %%CITATION = ARXIV:2005.11995;%% 
+
+%\cite{Acharya:2020asf}
+\bibitem{Acharya:2020asf}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``A new laboratory to study hadron-hadron interactions,''
+ arXiv:2005.11495 [nucl-ex].
+ %%CITATION = ARXIV:2005.11495;%% 
+
 %\cite{Acharya:2020pnh}
 \bibitem{Acharya:2020pnh}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Transverse-momentum and event-shape dependence of D-meson flow harmonics in Pb-Pb collisions at $\sqrt{s_{NN}} = 5.02$ TeV,''

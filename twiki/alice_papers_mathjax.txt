@@ -1,4 +1,4 @@
-   * Generated on 2020-May-30 16:34 UTC  .
+   * Generated on 2020-May-31 00:36 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Dielectron production in proton-proton and proton-lead collisions at \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11995v1][2005.11995]]|[[http://old.inspirehep.net//record/1797621?ln=en][1797621]]|%RED%Submitted%ENDCOLOR%|294|

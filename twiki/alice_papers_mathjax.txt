@@ -1,4 +1,4 @@
-   * Generated on 2020-Jun-09 08:41 UTC  .
+   * Generated on 2020-Jun-09 16:39 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Constraining the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Pb-Pb collisions at \(\sqrt{\it{s}_{\mathrm{NN}}}\) = 2.76 and 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14640v1][2005.14640]]|[[http://old.inspirehep.net//record/1798528?ln=en][1798528]]|%RED%Submitted%ENDCOLOR%|299|
@@ -21,7 +21,7 @@
 |DQ|Measurement of nuclear effects on \(\psi\rm{(2S)}\) production in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}} = 8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v1][2003.06053]]|[[http://old.inspirehep.net//record/1785315?ln=en][1785315]]|%RED%Submitted%ENDCOLOR%|282|
 |LF|(Anti-)Deuteron production in pp collisions at \(\sqrt{s}=13\) !TeV|pp|[[http://arxiv.org/abs/2003.03184v1][2003.03184]]|[[http://old.inspirehep.net//record/1784203?ln=en][1784203]]|%RED%Submitted%ENDCOLOR%|281|
 |LF|Multiplicity dependence of \(\pi\), K, and p production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2003.02394v1][2003.02394]]|[[http://old.inspirehep.net//record/1784041?ln=en][1784041]]|%RED%Submitted%ENDCOLOR%|280|
-|UD|Coherent photoproduction of \(\rho^{0}\) vector mesons in ultra-peripheral Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2002.10897v1][2002.10897]]|[[http://old.inspirehep.net//record/1782227?ln=en][1782227]]|%RED%Submitted%ENDCOLOR%|279|
+|UD|Coherent photoproduction of \(\rho^{0}\) vector mesons in ultra-peripheral Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2002.10897v1][2002.10897]]|[[http://old.inspirehep.net//record/1782227?ln=en][1782227]]|%GREEN%[[https://doi.org/10.1007/JHEP06(2020)035][JHEP 06]]%ENDCOLOR%|279|
 |CF|Linear and non-linear flow modes of charged hadrons in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2002.00633v1][2002.00633]]|[[http://old.inspirehep.net//record/1778342?ln=en][1778342]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2020)085][JHEP 05]]%ENDCOLOR%|278|
 |CF|Non-linear flow modes of identified particles in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1912.00740v1][1912.00740]]|[[http://old.inspirehep.net//record/1767961?ln=en][1767961]]|%RED%Submitted%ENDCOLOR%|277|
 |LF|Evidence of rescattering effect in Pb-Pb collisions at the LHC through production of \(\rm{K}^{*}(892)^{0}\) and \(\\(\phi(1020)\)\) mesons|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14419v1][1910.14419]]|[[http://old.inspirehep.net//record/1762368?ln=en][1762368]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135225][Phys. Lett. B802]]%ENDCOLOR%|276|

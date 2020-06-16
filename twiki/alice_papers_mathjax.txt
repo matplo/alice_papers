@@ -1,4 +1,4 @@
-   * Generated on 2020-Jun-16 08:38 UTC  .
+   * Generated on 2020-Jun-16 16:48 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Constraining the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Pb-Pb collisions at \(\sqrt{\it{s}_{\mathrm{NN}}}\) = 2.76 and 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14640v1][2005.14640]]|[[http://old.inspirehep.net//record/1798528?ln=en][1798528]]|%RED%Submitted%ENDCOLOR%|299|

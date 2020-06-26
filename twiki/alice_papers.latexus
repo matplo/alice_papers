@@ -177,9 +177,11 @@
 
 %\cite{Acharya:2019lqc}
 \bibitem{Acharya:2019lqc}
-  S.~Acharya {\it et al.} [ALICE Collaboration], %``Inclusive $\Upsilon$ production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 8.16 TeV,''
- arXiv:1910.14405 [nucl-ex].
- %%CITATION = ARXIV:1910.14405;%%
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``$?$ production in p?Pb collisions at $\sqrt{s_{NN}}$=8.16 TeV,''
+ Phys.\ Lett.\ B {\bf 806}, 135486 (2020)
+ doi:10.1016/j.physletb.2020.135486
+ [arXiv:1910.14405 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2020.135486;%%
 
 %\cite{Acharya:2019lkh}
 \bibitem{Acharya:2019lkh}

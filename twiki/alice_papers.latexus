@@ -14,7 +14,7 @@
 \bibitem{Acharya:2020sxs}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of isolated photon-hadron correlations in $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV pp and p-Pb collisions,''
  arXiv:2005.14637 [nucl-ex].
- %%CITATION = ARXIV:2005.14637;%% 
+ %%CITATION = ARXIV:2005.14637;%%
 
 %\cite{Acharya:2020gjz}
 \bibitem{Acharya:2020gjz}
@@ -138,8 +138,10 @@
 %\cite{Acharya:2019uia}
 \bibitem{Acharya:2019uia}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Non-linear flow modes of identified particles in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
- arXiv:1912.00740 [nucl-ex].
- %%CITATION = ARXIV:1912.00740;%%
+ JHEP {\bf 2006}, 147 (2020)
+ doi:10.1007/JHEP06(2020)147
+ [arXiv:1912.00740 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP06(2020)147;%%
 
 %\cite{Acharya:2019qge}
 \bibitem{Acharya:2019qge}
@@ -175,8 +177,8 @@
  arXiv:1910.14406 [nucl-ex].
  %%CITATION = ARXIV:1910.14406;%%
 
-%\cite{Acharya:2019lqc}
-\bibitem{Acharya:2019lqc}
+%\cite{Acharya:2020zuq}
+\bibitem{Acharya:2020zuq}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``$?$ production in p?Pb collisions at $\sqrt{s_{NN}}$=8.16 TeV,''
  Phys.\ Lett.\ B {\bf 806}, 135486 (2020)
  doi:10.1016/j.physletb.2020.135486

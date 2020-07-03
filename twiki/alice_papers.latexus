@@ -26,7 +26,7 @@
 \bibitem{Acharya:2020jil}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``J/$\psi$ elliptic and triangular flow in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
  arXiv:2005.14518 [nucl-ex].
- %%CITATION = ARXIV:2005.14518;%% 
+ %%CITATION = ARXIV:2005.14518;%%
 
 %\cite{Acharya:2020rfm}
 \bibitem{Acharya:2020rfm}
@@ -160,8 +160,10 @@
 %\cite{Acharya:2019vpe}
 \bibitem{Acharya:2019vpe}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Measurement of spin-orbital angular momentum interactions in relativistic heavy-ion collisions,''
- arXiv:1910.14408 [nucl-ex].
- %%CITATION = ARXIV:1910.14408;%%
+ Phys.\ Rev.\ Lett.\ {\bf 125}, no. 1, 012301 (2020)
+ doi:10.1103/PhysRevLett.125.012301
+ [arXiv:1910.14408 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevLett.125.012301;%%
 
 %\cite{Acharya:2019kqn}
 \bibitem{Acharya:2019kqn}

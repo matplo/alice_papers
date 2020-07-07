@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|-|pp|[2007.02208](http://arxiv.org/abs/2007.02208v1){: target="_blank"}|[1805263](http://old.inspirehep.net//record/1805263?ln=en){: target="_blank"}|Submitted|300|
 |CF|Constraining the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Pb-Pb collisions at \\(\sqrt\{\it\{s\}_\{\mathrm\{NN\}\}\}\\) = 2.76 and 5.02 TeV|PbPb|[2005.14640](http://arxiv.org/abs/2005.14640v1){: target="_blank"}|[1798528](http://old.inspirehep.net//record/1798528?ln=en){: target="_blank"}|Submitted|299|
 |LF,CF|Elliptic and triangular flow of (anti)deuterons in Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[2005.14639](http://arxiv.org/abs/2005.14639v1){: target="_blank"}|[1798556](http://old.inspirehep.net//record/1798556?ln=en){: target="_blank"}|Submitted|298|
 |GA|Measurement of isolated photon-hadron correlations in \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV pp and p-Pb collisions|pp,pPb|[2005.14637](http://arxiv.org/abs/2005.14637v1){: target="_blank"}|[1798523](http://old.inspirehep.net//record/1798523?ln=en){: target="_blank"}|Submitted|297|

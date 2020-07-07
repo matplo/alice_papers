@@ -92,7 +92,7 @@
 \bibitem{Acharya:2020uxl}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Production of light-flavor hadrons in pp collisions at $\sqrt{s}$ = 7 and $\sqrt{s}$ = 13 TeV,''
  arXiv:2005.11120 [nucl-ex].
- %%CITATION = ARXIV:2005.11120;%% 
+ %%CITATION = ARXIV:2005.11120;%%
 
 %\cite{Acharya:2020giw}
 \bibitem{Acharya:2020giw}
@@ -242,8 +242,10 @@
 %\cite{Acharya:2019bli}
 \bibitem{Acharya:2019bli}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Multiplicity dependence of K*(892)$^{0}$ and $\phi$(1020) production in pp collisions at $\sqrt{s}$ = 13 TeV,''
- arXiv:1910.14397 [nucl-ex].
- %%CITATION = ARXIV:1910.14397;%%
+ Phys.\ Lett.\ B {\bf 807}, 135501 (2020)
+ doi:10.1016/j.physletb.2020.135501
+ [arXiv:1910.14397 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2020.135501;%%
 
 %\cite{Acharya:2019izy}
 \bibitem{Acharya:2019izy}

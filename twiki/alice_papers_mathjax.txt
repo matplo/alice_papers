@@ -1,4 +1,4 @@
-   * Generated on 2020-Jul-10 00:36 UTC  .
+   * Generated on 2020-Jul-10 08:42 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Production of \(\psi‰\) mesons in pp collisions at \(\sqrt{s}\) = 7 !TeV|pp|[[http://arxiv.org/abs/2007.02208v1][2007.02208]]|[[http://old.inspirehep.net//record/1805263?ln=en][1805263]]|%RED%Submitted%ENDCOLOR%|300|
@@ -29,7 +29,7 @@
 |LF|\(\rm{K}^{*}(\rm{892})^{0}\) and \(\\(\phi(1020)\)\) production at midrapidity in pp collisions at \(\sqrt{s}\) = 8 !TeV|pp|[[http://arxiv.org/abs/1910.14410v1][1910.14410]]|[[http://old.inspirehep.net//record/1762364?ln=en][1762364]]|%RED%Submitted%ENDCOLOR%|275|
 |CF|Measurement of spin-orbital angular momentum interactions in relativistic heavy-ion collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14408v1][1910.14408]]|[[http://old.inspirehep.net//record/1762362?ln=en][1762362]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.125.012301][Phys. Rev. Lett. 125]]%ENDCOLOR%|274|
 |CF|Investigation of the p-\(\Sigma^{0}\) interaction via femtoscopy in pp collisions|pp|[[http://arxiv.org/abs/1910.14407v3][1910.14407]]|[[http://old.inspirehep.net//record/1762369?ln=en][1762369]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135419][Phys. Lett. B805]]%ENDCOLOR%|273|
-|CF|Probing the effects of strong electromagnetic fields with charge-dependent directed flow in Pb-Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14406v1][1910.14406]]|[[http://old.inspirehep.net//record/1762367?ln=en][1762367]]|%RED%Submitted%ENDCOLOR%|272|
+|CF|Probing the effects of strong electromagnetic fields with charge-dependent directed flow in Pb-Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14406v1][1910.14406]]|[[http://old.inspirehep.net//record/1762367?ln=en][1762367]]|%GREEN%Phys. Rev. Lett. 125%ENDCOLOR%|272|
 |DQ|\(\Upsilon\) production in p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14405v2][1910.14405]]|[[http://old.inspirehep.net//record/1762360?ln=en][1762360]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135486][Phys. Lett. B806]]%ENDCOLOR%|271|
 |DQ|Centrality and transverse momentum dependence of inclusive J/\(\psi\) production at midrapidity in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14404v2][1910.14404]]|[[http://old.inspirehep.net//record/1762353?ln=en][1762353]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135434][Phys. Lett. B805]]%ENDCOLOR%|270|
 |HF|Azimuthal correlations of prompt D mesons with charged particles in pp and p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1910.14403v1][1910.14403]]|[[http://old.inspirehep.net//record/1762354?ln=en][1762354]]|%RED%Submitted%ENDCOLOR%|269|

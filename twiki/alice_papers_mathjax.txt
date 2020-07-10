@@ -1,4 +1,4 @@
-   * Generated on 2020-Jul-09 16:39 UTC  .
+   * Generated on 2020-Jul-10 00:36 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Production of \(\psi‰\) mesons in pp collisions at \(\sqrt{s}\) = 7 !TeV|pp|[[http://arxiv.org/abs/2007.02208v1][2007.02208]]|[[http://old.inspirehep.net//record/1805263?ln=en][1805263]]|%RED%Submitted%ENDCOLOR%|300|

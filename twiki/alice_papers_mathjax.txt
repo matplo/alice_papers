@@ -1,4 +1,4 @@
-   * Generated on 2020-Jul-26 16:43 UTC  .
+   * Generated on 2020-Jul-27 00:39 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Pion-kaon femtoscopy and the lifetime of the hadronic phase in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2007.08315v1][2007.08315]]|[[http://old.inspirehep.net//record/1807511?ln=en][1807511]]|%RED%Submitted%ENDCOLOR%|301|

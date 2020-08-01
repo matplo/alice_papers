@@ -2124,6 +2124,14 @@
  [arXiv:1204.0282 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2012.05.011;%%
 
+%\cite{Abelev:2012kr}
+\bibitem{Abelev:2012kr}
+  B.~Abelev {\it et al.} [ALICE Collaboration], %``Inclusive $J/\psi$ production in $pp$ collisions at $\sqrt{s} = 2.76$ TeV,''
+ Phys.\ Lett.\ B {\bf 718}, 295 (2012)
+ Erratum: [Phys.\ Lett.\ B {\bf 748}, 472 (2015)]
+ doi:10.1016/j.physletb.2012.10.078, 10.1016/j.physletb.2015.06.058
+ [arXiv:1203.3641 [hep-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2012.10.078, 10.1016/j.physletb.2015.06.058;%%
 
 %\cite{ALICE:2012aa}
 \bibitem{ALICE:2012aa}

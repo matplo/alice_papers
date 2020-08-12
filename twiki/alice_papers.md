@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|Centrality dependence of J/\\(\psi\\) and \\(\psi\\)(2S) production and nuclear modification in p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} =\\) 8.16 TeV|pPb|[2008.04806](http://arxiv.org/abs/2008.04806v1){: target="_blank"}|[1811102](http://old.inspirehep.net//record/1811102?ln=en){: target="_blank"}|Submitted|302|
 |CF|Pion-kaon femtoscopy and the lifetime of the hadronic phase in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 2.76 TeV|PbPb|[2007.08315](http://arxiv.org/abs/2007.08315v1){: target="_blank"}|[1807511](http://old.inspirehep.net//record/1807511?ln=en){: target="_blank"}|Submitted|301|
 |LF|-|pp|[2007.02208](http://arxiv.org/abs/2007.02208v1){: target="_blank"}|[1805263](http://old.inspirehep.net//record/1805263?ln=en){: target="_blank"}|Submitted|300|
 |CF|Constraining the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Pb-Pb collisions at \\(\sqrt\{\it\{s\}_\{\mathrm\{NN\}\}\}\\) = 2.76 and 5.02 TeV|PbPb|[2005.14640](http://arxiv.org/abs/2005.14640v1){: target="_blank"}|[1798528](http://old.inspirehep.net//record/1798528?ln=en){: target="_blank"}|Submitted|299|

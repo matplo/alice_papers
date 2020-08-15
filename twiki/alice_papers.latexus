@@ -969,6 +969,13 @@
  [arXiv:1705.04377 [nucl-ex]].
  %%CITATION = doi:10.1016/j.physletb.2017.07.060;%%
 
+%\cite{Adamova:2017uhu}
+\bibitem{Adamova:2017uhu}
+  D.~Adamov? {\it et al.} [ALICE Collaboration], %``J/$\psi$ production as a function of charged-particle pseudorapidity density in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
+ Phys.\ Lett.\ B {\bf 776}, 91 (2018)
+ doi:10.1016/j.physletb.2017.11.008
+ [arXiv:1704.00274 [nucl-ex]].
+ %%CITATION = doi:10.1016/j.physletb.2017.11.008;%%
 
 %\cite{Adam:2017ucq}
 \bibitem{Adam:2017ucq}
@@ -1027,8 +1034,30 @@
  [arXiv:1702.00557 [hep-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-017-4940-4;%%
 
+%\cite{Adam:2017zbf}
+\bibitem{Adam:2017zbf}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``K$^{*}(892)^{0}$ and $\phi(1020)$ meson production at high transverse momentum in pp and Pb-Pb collisions at $\sqrt{s_\mathrm{NN}}$ = 2.76 TeV,''
+ Phys.\ Rev.\ C {\bf 95}, no. 6, 064606 (2017)
+ doi:10.1103/PhysRevC.95.064606
+ [arXiv:1702.00555 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.95.064606;%%
 
+%\cite{Adamova:2017elh}
+\bibitem{Adamova:2017elh}
+  D.~Adamova {\it et al.} [ALICE Collaboration], %``Production of $\Sigma(1385)^{\pm}$ and $\Xi(1530)^{0}$ in p-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
+ Eur.\ Phys.\ J.\ C {\bf 77}, no. 6, 389 (2017)
+ doi:10.1140/epjc/s10052-017-4943-1
+ [arXiv:1701.07797 [nucl-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-017-4943-1;%%
 
+%\cite{Adam:2016iwf}
+\bibitem{Adam:2016iwf}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Insight into particle production mechanisms via angular correlations of identified particles in pp collisions at $\sqrt{\mathrm{s}}=7$ TeV,''
+ Eur.\ Phys.\ J.\ C {\bf 77}, no. 8, 569 (2017)
+ Erratum: [Eur.\ Phys.\ J.\ C {\bf 79}, no. 12, 998 (2019)]
+ doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6
+ [arXiv:1612.08975 [nucl-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6;%%
 
 %\cite{Adam:2016ddh}
 \bibitem{Adam:2016ddh}

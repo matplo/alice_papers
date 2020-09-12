@@ -1704,45 +1704,10 @@
  [arXiv:1405.3796 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP12(2014)073;%%
 
-%\cite{Abelev:2014ypa}
-\bibitem{Abelev:2014ypa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Neutral pion production at midrapidity in pp and Pb-Pb collisions at $\sqrt{s_{{\mathrm {NN}}}}= 2.76\,{\mathrm {TeV}}$,''
- Eur.\ Phys.\ J.\ C {\bf 74}, no. 10, 3108 (2014)
- doi:10.1140/epjc/s10052-014-3108-8
- [arXiv:1405.3794 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-014-3108-8;%%
 
-%\cite{Abelev:2014hha}
-\bibitem{Abelev:2014hha}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Measurement of prompt $D$-meson production in $p-Pb$ collisions at $\sqrt{s_{NN}}$ = 5.02 TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 113}, no. 23, 232301 (2014)
- doi:10.1103/PhysRevLett.113.232301
- [arXiv:1405.3452 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.113.232301;%%
 
-%\cite{Abelev:2014dsa}
-\bibitem{Abelev:2014dsa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Transverse momentum dependence of inclusive primary charged-particle production in p-Pb collisions at $\sqrt{s_\mathrm{{NN}}}=5.02~\text {TeV}$,''
- Eur.\ Phys.\ J.\ C {\bf 74}, no. 9, 3054 (2014)
- doi:10.1140/epjc/s10052-014-3054-5
- [arXiv:1405.2737 [nucl-ex]].
- %%CITATION = doi:10.1140/epjc/s10052-014-3054-5;%%
 
-%\cite{Abelev:2014ipa}
-\bibitem{Abelev:2014ipa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Azimuthal anisotropy of D meson production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ TeV,''
- Phys.\ Rev.\ C {\bf 90}, no. 3, 034904 (2014)
- doi:10.1103/PhysRevC.90.034904
- [arXiv:1405.2001 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.90.034904;%%
 
-%\cite{Abelev:2014epa}
-\bibitem{Abelev:2014epa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Measurement of visible cross sections in proton-lead collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV in van der Meer scans with the ALICE detector,''
- JINST {\bf 9}, no. 11, P11003 (2014)
- doi:10.1088/1748-0221/9/11/P11003
- [arXiv:1405.1849 [nucl-ex]].
- %%CITATION = doi:10.1088/1748-0221/9/11/P11003;%%
 
 %\cite{Abelev:2014pja}
 \bibitem{Abelev:2014pja}

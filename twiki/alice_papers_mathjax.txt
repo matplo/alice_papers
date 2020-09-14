@@ -1,4 +1,4 @@
-   * Generated on 2020-Sep-14 08:44 UTC  .
+   * Generated on 2020-Sep-14 16:39 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Centrality dependence of J/\(\psi\) and \(\psi\)(2S) production and nuclear modification in p-Pb collisions at \(\sqrt{s_{\rm NN}} =\) 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2008.04806v1][2008.04806]]|[[http://old.inspirehep.net//record/1811102?ln=en][1811102]]|%RED%Submitted%ENDCOLOR%|302|
@@ -14,7 +14,7 @@
 |HF|Transverse-momentum and event-shape dependence of D-meson flow harmonics in Pb-Pb collisions at \(\sqrt{s_{NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11131v1][2005.11131]]|[[http://old.inspirehep.net//record/1797463?ln=en][1797463]]|%RED%Submitted%ENDCOLOR%|292|
 |CF|Elliptic flow of electrons from beauty-hadron decays in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11130v1][2005.11130]]|[[http://old.inspirehep.net//record/1797450?ln=en][1797450]]|%RED%Submitted%ENDCOLOR%|291|
 |DQ|First measurement of quarkonium polarization in nuclear collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11128v1][2005.11128]]|[[http://old.inspirehep.net//record/1797469?ln=en][1797469]]|%RED%Submitted%ENDCOLOR%|290|
-|HF|Z-boson production in p-Pb collisions at \(\sqrt{s_{\mathrm{NN}}}=8.16\) !TeV and Pb-Pb collisions at \(\sqrt{s_{\mathrm{NN}}}=5.02\) !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11126v1][2005.11126]]|[[http://old.inspirehep.net//record/1797444?ln=en][1797444]]|%RED%Submitted%ENDCOLOR%|289|
+|HF|Z-boson production in p-Pb collisions at \(\sqrt{s_{\mathrm{NN}}}=8.16\) !TeV and Pb-Pb collisions at \(\sqrt{s_{\mathrm{NN}}}=5.02\) !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11126v1][2005.11126]]|[[http://old.inspirehep.net//record/1797444?ln=en][1797444]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2020)076][JHEP 09]]%ENDCOLOR%|289|
 |CF|\(\Lambda\rm{K}\) femtoscopy in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11124v1][2005.11124]]|[[http://old.inspirehep.net//record/1797451?ln=en][1797451]]|%RED%Submitted%ENDCOLOR%|288|
 |DQ|Multiplicity dependence of J/\(\psi\) production at midrapidity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11123v1][2005.11123]]|[[http://old.inspirehep.net//record/1797445?ln=en][1797445]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135758][Phys. Lett. B]]%ENDCOLOR%|287|
 |LF|Measurement of the low-energy antideuteron inelastic cross section|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11122v2][2005.11122]]|[[http://old.inspirehep.net//record/1797442?ln=en][1797442]]|%RED%Submitted%ENDCOLOR%|286|

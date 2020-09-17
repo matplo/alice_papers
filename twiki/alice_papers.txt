@@ -1,4 +1,4 @@
-   * Generated on 2020-Sep-16 16:46 UTC  .
+   * Generated on 2020-Sep-17 00:38 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Centrality dependence of J/$ψ$ and $ψ$(2S) production and nuclear modification in p-Pb collisions at $\sqrt{s_{\rm NN}} =$ 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2008.04806v1][2008.04806]]|[[http://old.inspirehep.net//record/1811102?ln=en][1811102]]|%RED%Submitted%ENDCOLOR%|302|

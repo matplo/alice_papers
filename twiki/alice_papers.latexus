@@ -1,3 +1,9 @@
+%\cite{Acharya:2020kyh}
+\bibitem{Acharya:2020kyh}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Pseudorapidity distributions of charged particles as a function of mid and forward rapidity mutiplicities in pp collisions at $\sqrt{s}$ = 5.02, 7 and 13 TeV,''
+ arXiv:2009.09434 [nucl-ex].
+ %%CITATION = ARXIV:2009.09434;%% 
+
 %\cite{Acharya:2020rvc}
 \bibitem{Acharya:2020rvc}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality dependence of J/$\psi$ and $\psi$(2S) production and nuclear modification in p-Pb collisions at $\sqrt{s_{\rm NN}} =$ 8.16 TeV,''

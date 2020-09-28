@@ -80,7 +80,7 @@
 \bibitem{Acharya:2020xko}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``First measurement of quarkonium polarization in nuclear collisions at the LHC,''
  arXiv:2005.11128 [nucl-ex].
- %%CITATION = ARXIV:2005.11128;%% 
+ %%CITATION = ARXIV:2005.11128;%%
 
 %\cite{Acharya:2020puh}
 \bibitem{Acharya:2020puh}
@@ -140,7 +140,8 @@
 %\cite{Acharya:2020sfy}
 \bibitem{Acharya:2020sfy}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``(Anti-)Deuteron production in pp collisions at $\sqrt{s}=13$ TeV,''
- arXiv:2003.03184 [nucl-ex].
+ Eur.\ Phys.\ J.\ C {\bf 80}, no. 9, 889 (2020)
+ [arXiv:2003.03184 [nucl-ex]].
  %%CITATION = ARXIV:2003.03184;%%
 
 %\cite{Acharya:2020zji}

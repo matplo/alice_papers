@@ -1,4 +1,4 @@
-   * Generated on 2020-Sep-28 08:41 UTC  .
+   * Generated on 2020-Sep-28 16:42 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Pseudorapidity distributions of charged particles as a function of mid and forward rapidity mutiplicities in pp collisions at $\sqrt{s}$ = 5.02, 7 and 13 !TeV|pp|[[http://arxiv.org/abs/2009.09434v1][2009.09434]]|[[http://old.inspirehep.net//record/1818157?ln=en][1818157]]|%RED%Submitted%ENDCOLOR%|303|
@@ -23,7 +23,7 @@
 |DQ|J/$ψ$ production as a function of charged-particle multiplicity in p-Pb collisions at $\sqrt{\textit{s}_{\rm NN}}~=~8.16$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2004.12673v1][2004.12673]]|[[http://old.inspirehep.net//record/1792996?ln=en][1792996]]|%RED%Submitted%ENDCOLOR%|284|
 |CF|Search for a common baryon source in high-multiplicity pp collisions at the LHC|pp|[[http://arxiv.org/abs/2004.08018v1][2004.08018]]|[[http://old.inspirehep.net//record/1791631?ln=en][1791631]]|%GREEN%Submitted to: Phys. Lett. %ENDCOLOR%|283|
 |DQ|Measurement of nuclear effects on $ψ\rm{(2S)}$ production in p-Pb collisions at $\sqrt{\textit{s}_{\rm NN}} = 8.16$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v1][2003.06053]]|[[http://old.inspirehep.net//record/1785315?ln=en][1785315]]|%GREEN%[[https://doi.org/10.1007/JHEP07(2020)237][JHEP 07]]%ENDCOLOR%|282|
-|LF|(Anti-)Deuteron production in pp collisions at $\sqrt{s}=13$ !TeV|pp|[[http://arxiv.org/abs/2003.03184v1][2003.03184]]|[[http://old.inspirehep.net//record/1784203?ln=en][1784203]]|%RED%Submitted%ENDCOLOR%|281|
+|LF|(Anti-)Deuteron production in pp collisions at $\sqrt{s}=13$ !TeV|pp|[[http://arxiv.org/abs/2003.03184v1][2003.03184]]|[[http://old.inspirehep.net//record/1784203?ln=en][1784203]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-020-8256-4][Eur. Phys. J. C80]]%ENDCOLOR%|281|
 |LF|Multiplicity dependence of $π$, K, and p production in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2003.02394v1][2003.02394]]|[[http://old.inspirehep.net//record/1784041?ln=en][1784041]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-020-8125-1][Eur. Phys. J. C80]]%ENDCOLOR%|280|
 |UD|Coherent photoproduction of $ρ^{0}$ vector mesons in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2002.10897v2][2002.10897]]|[[http://old.inspirehep.net//record/1782227?ln=en][1782227]]|%GREEN%[[https://doi.org/10.1007/JHEP06(2020)035][JHEP 06]]%ENDCOLOR%|279|
 |CF|Higher harmonic non-linear flow modes of charged hadrons in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2002.00633v2][2002.00633]]|[[http://old.inspirehep.net//record/1778342?ln=en][1778342]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2020)085][JHEP 05]]%ENDCOLOR%|278|

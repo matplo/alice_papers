@@ -119,8 +119,10 @@
 %\cite{Acharya:2020giw}
 \bibitem{Acharya:2020giw}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``J/$\psi$ production as a function of charged-particle multiplicity in p-Pb collisions at $\sqrt{\textit{s}_{\rm NN}}~=~8.16$ TeV,''
- arXiv:2004.12673 [nucl-ex].
- %%CITATION = ARXIV:2004.12673;%%
+ JHEP {\bf 2009}, 162 (2020)
+ doi:10.1007/JHEP09(2020)162
+ [arXiv:2004.12673 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP09(2020)162;%%
 
 %\cite{Acharya:2020dfb}
 \bibitem{Acharya:2020dfb}

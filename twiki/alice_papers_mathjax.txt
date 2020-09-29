@@ -1,4 +1,4 @@
-   * Generated on 2020-Sep-29 08:39 UTC  .
+   * Generated on 2020-Sep-29 16:40 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Pseudorapidity distributions of charged particles as a function of mid and forward rapidity mutiplicities in pp collisions at \(\sqrt{s}\) = 5.02, 7 and 13 !TeV|pp|[[http://arxiv.org/abs/2009.09434v1][2009.09434]]|[[http://old.inspirehep.net//record/1818157?ln=en][1818157]]|%RED%Submitted%ENDCOLOR%|303|
@@ -20,7 +20,7 @@
 |DQ|Multiplicity dependence of J/\(\psi\) production at midrapidity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11123v1][2005.11123]]|[[http://old.inspirehep.net//record/1797445?ln=en][1797445]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135758][Phys. Lett. B]]%ENDCOLOR%|287|
 |LF|Measurement of the low-energy antideuteron inelastic cross section|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11122v2][2005.11122]]|[[http://old.inspirehep.net//record/1797442?ln=en][1797442]]|%RED%Submitted%ENDCOLOR%|286|
 |LF|Production of light-flavor hadrons in pp collisions at \(\sqrt{s}\) = 7 and \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11120v1][2005.11120]]|[[http://old.inspirehep.net//record/1797443?ln=en][1797443]]|%RED%Submitted%ENDCOLOR%|285|
-|DQ|J/\(\psi\) production as a function of charged-particle multiplicity in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}}~=~8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2004.12673v1][2004.12673]]|[[http://old.inspirehep.net//record/1792996?ln=en][1792996]]|%RED%Submitted%ENDCOLOR%|284|
+|DQ|J/\(\psi\) production as a function of charged-particle multiplicity in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}}~=~8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2004.12673v1][2004.12673]]|[[http://old.inspirehep.net//record/1792996?ln=en][1792996]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2020)162][JHEP 09]]%ENDCOLOR%|284|
 |CF|Search for a common baryon source in high-multiplicity pp collisions at the LHC|pp|[[http://arxiv.org/abs/2004.08018v1][2004.08018]]|[[http://old.inspirehep.net//record/1791631?ln=en][1791631]]|%GREEN%Submitted to: Phys. Lett. %ENDCOLOR%|283|
 |DQ|Measurement of nuclear effects on \(\psi\rm{(2S)}\) production in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}} = 8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v1][2003.06053]]|[[http://old.inspirehep.net//record/1785315?ln=en][1785315]]|%GREEN%[[https://doi.org/10.1007/JHEP07(2020)237][JHEP 07]]%ENDCOLOR%|282|
 |LF|(Anti-)Deuteron production in pp collisions at \(\sqrt{s}=13\) !TeV|pp|[[http://arxiv.org/abs/2003.03184v1][2003.03184]]|[[http://old.inspirehep.net//record/1784203?ln=en][1784203]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-020-8256-4][Eur. Phys. J. C80]]%ENDCOLOR%|281|

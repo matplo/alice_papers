@@ -1068,6 +1068,14 @@
  [arXiv:1701.07797 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-017-4943-1;%%
 
+%\cite{Adam:2016iwf}
+\bibitem{Adam:2016iwf}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Insight into particle production mechanisms via angular correlations of identified particles in pp collisions at $\sqrt{\mathrm{s}}=7$ TeV,''
+ Eur.\ Phys.\ J.\ C {\bf 77}, no. 8, 569 (2017)
+ Erratum: [Eur.\ Phys.\ J.\ C {\bf 79}, no. 12, 998 (2019)]
+ doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6
+ [arXiv:1612.08975 [nucl-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-019-7398-8, 10.1140/epjc/s10052-017-5129-6;%%
 
 %\cite{Adam:2016ddh}
 \bibitem{Adam:2016ddh}

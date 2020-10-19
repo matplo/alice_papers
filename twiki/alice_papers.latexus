@@ -1175,13 +1175,6 @@
  [arXiv:1606.00321 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP09(2016)028;%%
 
-%\cite{Adam:2016ich}
-\bibitem{Adam:2016ich}
-  J.~Adam {\it et al.} [ALICE Collaboration], %``$D$-meson production in $p$-Pb collisions at $\sqrt{s_{\rm NN}}=$5.02 TeV and in pp collisions at $\sqrt{s}=$7 TeV,''
- Phys.\ Rev.\ C {\bf 94}, no. 5, 054908 (2016)
- doi:10.1103/PhysRevC.94.054908
- [arXiv:1605.07569 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevC.94.054908;%%
 
 %\cite{ALICE:2016clc}
 \bibitem{ALICE:2016clc}

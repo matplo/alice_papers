@@ -128,6 +128,12 @@
  [arXiv:2004.12673 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP09(2020)162;%%
 
+%\cite{Acharya:2020dfb}
+\bibitem{Acharya:2020dfb}
+  S.~Acharya {\it et al.} [ALICE Collaboration], %``Search for a common baryon source in high-multiplicity pp collisions at the LHC,''
+ %Submitted to: Phys.Lett.
+ [arXiv:2004.08018 [nucl-ex]].
+ %%CITATION = ARXIV:2004.08018;%%
 
 %\cite{Acharya:2020wwy}
 \bibitem{Acharya:2020wwy}

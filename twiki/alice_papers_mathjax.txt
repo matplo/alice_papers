@@ -1,4 +1,4 @@
-   * Generated on 2020-Oct-22 08:40 UTC  .
+   * Generated on 2020-Oct-22 16:41 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Pseudorapidity distributions of charged particles as a function of mid and forward rapidity mutiplicities in pp collisions at \(\sqrt{s}\) = 5.02, 7 and 13 !TeV|pp|[[http://arxiv.org/abs/2009.09434v1][2009.09434]]|[[http://old.inspirehep.net//record/1818157?ln=en][1818157]]|%RED%Submitted%ENDCOLOR%|303|
@@ -7,7 +7,7 @@
 |LF|Production of \(\psi‰\) mesons in pp collisions at \(\sqrt{s}\) = 7 !TeV|pp|[[http://arxiv.org/abs/2007.02208v1][2007.02208]]|[[http://old.inspirehep.net//record/1805263?ln=en][1805263]]|%RED%Submitted%ENDCOLOR%|300|
 |CF|Constraining the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Pb-Pb collisions at \(\sqrt{\it{s}_{\mathrm{NN}}}\) = 2.76 and 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14640v1][2005.14640]]|[[http://old.inspirehep.net//record/1798528?ln=en][1798528]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2020)160][JHEP 09]]%ENDCOLOR%|299|
 |LF,CF|Elliptic and triangular flow of (anti)deuterons in Pb-Pb collisions at \(\sqrt{s_{\mathrm{NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14639v1][2005.14639]]|[[http://old.inspirehep.net//record/1798556?ln=en][1798556]]|%RED%Submitted%ENDCOLOR%|298|
-|GA|Measurement of isolated photon-hadron correlations in \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV pp and p-Pb collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14637v1][2005.14637]]|[[http://old.inspirehep.net//record/1798523?ln=en][1798523]]|%RED%Submitted%ENDCOLOR%|297|
+|GA|Measurement of isolated photon-hadron correlations in \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV pp and p-Pb collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14637v1][2005.14637]]|[[http://old.inspirehep.net//record/1798523?ln=en][1798523]]|%GREEN%Phys. Rev. C102%ENDCOLOR%|297|
 |DQ|Soft-dielectron excess in proton-proton collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.14522v1][2005.14522]]|[[http://old.inspirehep.net//record/1798514?ln=en][1798514]]|%RED%Submitted%ENDCOLOR%|296|
 |DQ,CF|J/\(\psi\) elliptic and triangular flow in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14518v1][2005.14518]]|[[http://old.inspirehep.net//record/1798507?ln=en][1798507]]|%RED%Submitted%ENDCOLOR%|295|
 |DQ|Dielectron production in proton-proton and proton-lead collisions at \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11995v1][2005.11995]]|[[http://old.inspirehep.net//record/1797621?ln=en][1797621]]|%RED%Submitted%ENDCOLOR%|294|

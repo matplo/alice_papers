@@ -53,8 +53,10 @@
 %\cite{Acharya:2020jil}
 \bibitem{Acharya:2020jil}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``J/$\psi$ elliptic and triangular flow in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- arXiv:2005.14518 [nucl-ex].
- %%CITATION = ARXIV:2005.14518;%%
+ JHEP {\bf 2010}, 141 (2020)
+ doi:10.1007/JHEP10(2020)141
+ [arXiv:2005.14518 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP10(2020)141;%%
 
 %\cite{Acharya:2020rfm}
 \bibitem{Acharya:2020rfm}
@@ -133,9 +135,10 @@
 %\cite{Acharya:2020dfb}
 \bibitem{Acharya:2020dfb}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Search for a common baryon source in high-multiplicity pp collisions at the LHC,''
- %Submitted to: Phys.Lett.
+ Phys.\ Lett.\ B {\bf 811}, 135849 (2020)
+ doi:10.1016/j.physletb.2020.135849
  [arXiv:2004.08018 [nucl-ex]].
- %%CITATION = ARXIV:2004.08018;%%
+ %%CITATION = doi:10.1016/j.physletb.2020.135849;%%
 
 %\cite{Acharya:2020wwy}
 \bibitem{Acharya:2020wwy}
@@ -244,8 +247,10 @@
 %\cite{Acharya:2019icl}
 \bibitem{Acharya:2019icl}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Azimuthal correlations of prompt D mesons with charged particles in pp and p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
- arXiv:1910.14403 [nucl-ex].
- %%CITATION = ARXIV:1910.14403;%%
+ Eur.\ Phys.\ J.\ C {\bf 80}, no. 10, 979 (2020)
+ doi:10.1140/epjc/s10052-020-8118-0
+ [arXiv:1910.14403 [nucl-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-020-8118-0;%%
 
 %\cite{Acharya:2019xmu}
 \bibitem{Acharya:2019xmu}

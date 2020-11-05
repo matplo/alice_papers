@@ -8,7 +8,7 @@
 \bibitem{Acharya:2020rvc}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Centrality dependence of J/$\psi$ and $\psi$(2S) production and nuclear modification in p-Pb collisions at $\sqrt{s_{\rm NN}} =$ 8.16 TeV,''
  arXiv:2008.04806 [nucl-ex].
- %%CITATION = ARXIV:2008.04806;%% 
+ %%CITATION = ARXIV:2008.04806;%%
 
 %\cite{Acharya:2020nyr}
 \bibitem{Acharya:2020nyr}
@@ -1655,13 +1655,6 @@
  [arXiv:1407.5530 [nucl-ex]].
  %%CITATION = doi:10.1140/epjc/s10052-014-3077-y;%%
 
-%\cite{TheALICE:2014dwa}
-\bibitem{TheALICE:2014dwa}
-  B.~B.~Abelev {\it et al.} [ALICE Collaboration], %``Exclusive $\mathrm{J/}\psi$ photoproduction off protons in ultra-peripheral p-Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
- Phys.\ Rev.\ Lett.\ {\bf 113}, no. 23, 232504 (2014)
- doi:10.1103/PhysRevLett.113.232504
- [arXiv:1406.7819 [nucl-ex]].
- %%CITATION = doi:10.1103/PhysRevLett.113.232504;%%
 
 %\cite{Abelev:2014mva}
 \bibitem{Abelev:2014mva}

@@ -1,4 +1,4 @@
-   * Generated on 2020-Nov-12 16:38 UTC  .
+   * Generated on 2020-Nov-13 00:33 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Jet fragmentation transverse momentum distributions in pp and p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2011.05904v1][2011.05904]]|[[http://old.inspirehep.net//record/1829411?ln=en][1829411]]|%RED%Submitted%ENDCOLOR%|307|

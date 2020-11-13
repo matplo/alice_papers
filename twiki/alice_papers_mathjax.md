@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|\\(\mathrm\{\Lambda_\{c\}^\{+\}\}\\) production in pp and in p-Pb collisions at \\(\sqrt\{s_\{\rm \{NN\}\}\} = 5.02\\) TeV|pp,pPb|[2011.06079](http://arxiv.org/abs/2011.06079v1){: target="_blank"}|[1829741](http://old.inspirehep.net//record/1829741?ln=en){: target="_blank"}|Submitted|309|
+|HF|\\(\rm \Lambda_\{c\}^\{+\}\\) production and baryon-to-meson ratios in pp and p-Pb collisions at \\(\sqrt\{s_\mathrm\{NN\}\} = 5.02\\) TeV at the LHC|pp,pPb|[2011.06078](http://arxiv.org/abs/2011.06078v1){: target="_blank"}|[1829739](http://old.inspirehep.net//record/1829739?ln=en){: target="_blank"}|Submitted|308|
 |JE|Jet fragmentation transverse momentum distributions in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|pp,pPb|[2011.05904](http://arxiv.org/abs/2011.05904v1){: target="_blank"}|[1829411](http://old.inspirehep.net//record/1829411?ln=en){: target="_blank"}|Submitted|307|
 |LF|Jet-associated deuteron production in pp collisions at \\(\sqrt\{s\}=13\\) TeV|pp|[2011.05898](http://arxiv.org/abs/2011.05898v1){: target="_blank"}|[1829410](http://old.inspirehep.net//record/1829410?ln=en){: target="_blank"}|Submitted|306|
 |DQ|\\(\Upsilon\\) production and nuclear modification at forward rapidity in Pb-Pb collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{\textbf\{NN\}\}\}=5.02\}\\) TeV|PbPb|[2011.05758](http://arxiv.org/abs/2011.05758v1){: target="_blank"}|[1829413](http://old.inspirehep.net//record/1829413?ln=en){: target="_blank"}|Submitted|305|

@@ -1298,6 +1298,13 @@
  [arXiv:1602.01119 [nucl-ex]].
  %%CITATION = doi:10.1103/PhysRevLett.116.132302;%%
 
+%\cite{Adam:2016bpr}
+\bibitem{Adam:2016bpr}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Production of K$^{*}$ (892)$^{0}$ and $\phi $ (1020) in p?Pb collisions at $\sqrt{s_{{\text {NN}}}}$ = 5.02 TeV,''
+ Eur.\ Phys.\ J.\ C {\bf 76}, no. 5, 245 (2016)
+ doi:10.1140/epjc/s10052-016-4088-7
+ [arXiv:1601.07868 [nucl-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-016-4088-7;%%
 
 %\cite{Adam:2016dau}
 \bibitem{Adam:2016dau}

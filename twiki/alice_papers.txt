@@ -1,4 +1,4 @@
-   * Generated on 2020-Nov-16 16:45 UTC  .
+   * Generated on 2020-Nov-17 00:40 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|$\mathrm{Λ_{c}^{+}}$ production in pp and in p-Pb collisions at $\sqrt{s_{\rm {NN}}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2011.06079v1][2011.06079]]|[[http://old.inspirehep.net//record/1829741?ln=en][1829741]]|%RED%Submitted%ENDCOLOR%|309|

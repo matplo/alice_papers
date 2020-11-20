@@ -69,8 +69,10 @@
 %\cite{Acharya:2020lus}
 \bibitem{Acharya:2020lus}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Elliptic and triangular flow of (anti)deuterons in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 5.02 TeV,''
- arXiv:2005.14639 [nucl-ex].
- %%CITATION = ARXIV:2005.14639;%%
+ Phys.\ Rev.\ C {\bf 102}, no. 5, 055203 (2020)
+ doi:10.1103/PhysRevC.102.055203
+ [arXiv:2005.14639 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.102.055203;%%
 
 %\cite{Acharya:2020sxs}
 \bibitem{Acharya:2020sxs}

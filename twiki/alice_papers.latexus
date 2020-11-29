@@ -99,8 +99,10 @@
 %\cite{Acharya:2020rfm}
 \bibitem{Acharya:2020rfm}
   S.~Acharya {\it et al.} [ALICE Collaboration], %``Dielectron production in proton-proton and proton-lead collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
- arXiv:2005.11995 [nucl-ex].
- %%CITATION = ARXIV:2005.11995;%%
+ Phys.\ Rev.\ C {\bf 102}, 055204 (2020)
+ doi:10.1103/PhysRevC.102.055204
+ [arXiv:2005.11995 [nucl-ex]].
+ %%CITATION = doi:10.1103/PhysRevC.102.055204;%%
 
 %\cite{Acharya:2020asf}
 \bibitem{Acharya:2020asf}

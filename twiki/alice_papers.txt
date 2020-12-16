@@ -1,4 +1,4 @@
-   * Generated on 2020-Dec-15 16:37 UTC  .
+   * Generated on 2020-Dec-16 00:34 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|$\mathrm{Λ_{c}^{+}}$ production in pp and in p-Pb collisions at $\sqrt{s_{\rm {NN}}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2011.06079v1][2011.06079]]|[[http://old.inspirehep.net//record/1829741?ln=en][1829741]]|%RED%Submitted%ENDCOLOR%|309|
@@ -224,7 +224,7 @@
 |CF|Elliptic flow of identified hadrons in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1405.4632v2][1405.4632]]|[[http://old.inspirehep.net//record/1297103?ln=en][1297103]]|%GREEN%[[https://doi.org/10.1007/JHEP06(2015)190][JHEP 06]]%ENDCOLOR%|89|
 |DQ|Suppression of $Υ$(1S) at forward rapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1405.4493v3][1405.4493]]|[[http://old.inspirehep.net//record/1297101?ln=en][1297101]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2014.10.001][Phys. Lett. B738]]%ENDCOLOR%|88|
 |HF|Beauty production in pp collisions at $\sqrt{s}$ = 2.76 !TeV measured via semi-electronic decays|pp|[[http://arxiv.org/abs/1405.4144v2][1405.4144]]|[[http://old.inspirehep.net//record/1296861?ln=en][1296861]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2014.09.026][Phys. Lett. B738]]%ENDCOLOR%|87|
-|HF|Measurement of electrons from semileptonic heavy-flavor hadron decays in pp collisions at $\sqrt{s} = 2.76$ !TeV|pp|[[http://arxiv.org/abs/1405.4117v2][1405.4117]]|[[No Link Found][]]|%RED%Submitted%ENDCOLOR%|86|
+|HF|Measurement of electrons from semileptonic heavy-flavor hadron decays in pp collisions at $\sqrt{s} = 2.76$ !TeV|pp|[[http://arxiv.org/abs/1405.4117v2][1405.4117]]|[[http://old.inspirehep.net//record/1296860?ln=en][1296860]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.91.012001][Phys. Rev. D91]]%ENDCOLOR%|86|
 |DQ|Suppression of $ψ$(2S) production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1405.3796v3][1405.3796]]|[[http://old.inspirehep.net//record/1296307?ln=en][1296307]]|%GREEN%[[https://doi.org/10.1007/JHEP12(2014)073][JHEP 12]]%ENDCOLOR%|85|
 |GA|Neutral pion production at midrapidity in pp and Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/1405.3794v2][1405.3794]]|[[http://old.inspirehep.net//record/1296306?ln=en][1296306]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-014-3108-8][Eur. Phys. J. C74]]%ENDCOLOR%|84|
 |HF|Measurement of prompt D-meson production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/1405.3452v2][1405.3452]]|[[http://old.inspirehep.net//record/1296081?ln=en][1296081]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.113.232301][Phys. Rev. Lett. 113]]%ENDCOLOR%|83|

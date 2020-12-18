@@ -1,4 +1,4 @@
-   * Generated on 2020-Dec-18 00:34 UTC  .
+   * Generated on 2020-Dec-18 08:32 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|$\mathrm{Λ_{c}^{+}}$ production in pp and in p-Pb collisions at $\sqrt{s_{\rm {NN}}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2011.06079v1][2011.06079]]|[[http://old.inspirehep.net//record/1829741?ln=en][1829741]]|%RED%Submitted%ENDCOLOR%|309|
@@ -17,7 +17,7 @@
 |DQ|Soft-dielectron excess in proton-proton collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2005.14522v1][2005.14522]]|[[http://old.inspirehep.net//record/1798514?ln=en][1798514]]|%RED%Submitted%ENDCOLOR%|296|
 |DQ,CF|J/$ψ$ elliptic and triangular flow in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14518v1][2005.14518]]|[[http://old.inspirehep.net//record/1798507?ln=en][1798507]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2020)141][JHEP 10]]%ENDCOLOR%|295|
 |DQ|Dielectron production in proton-proton and proton-lead collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11995v1][2005.11995]]|[[http://old.inspirehep.net//record/1797621?ln=en][1797621]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.102.055204][Phys. Rev. C102]]%ENDCOLOR%|294|
-|CF|A new laboratory to study hadron-hadron interactions|pp|[[http://arxiv.org/abs/2005.11495v1][2005.11495]]|[[http://old.inspirehep.net//record/1797617?ln=en][1797617]]|%RED%Submitted%ENDCOLOR%|293|
+|CF|Unveiling the strong interaction among hadrons at the LHC|pp|[[http://arxiv.org/abs/2005.11495v2][2005.11495]]|[[http://old.inspirehep.net//record/1797617?ln=en][1797617]]|%RED%Submitted%ENDCOLOR%|293|
 |HF|Transverse-momentum and event-shape dependence of D-meson flow harmonics in Pb-Pb collisions at $\sqrt{s_{NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11131v1][2005.11131]]|[[http://old.inspirehep.net//record/1797463?ln=en][1797463]]|%RED%Submitted%ENDCOLOR%|292|
 |CF|Elliptic flow of electrons from beauty-hadron decays in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11130v1][2005.11130]]|[[http://old.inspirehep.net//record/1797450?ln=en][1797450]]|%RED%Submitted%ENDCOLOR%|291|
 |DQ|First measurement of quarkonium polarization in nuclear collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11128v1][2005.11128]]|[[http://old.inspirehep.net//record/1797469?ln=en][1797469]]|%RED%Submitted%ENDCOLOR%|290|

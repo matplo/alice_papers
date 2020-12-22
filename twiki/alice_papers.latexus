@@ -1593,8 +1593,29 @@
  [arXiv:1504.07151 [nucl-ex]].
  %%CITATION = doi:10.1007/JHEP07(2015)051;%%
 
+%\cite{Adam:2015qaa}
+\bibitem{Adam:2015qaa}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Measurement of pion, kaon and proton production in proton?proton collisions at $\sqrt{s} = 7$ TeV,''
+ Eur.\ Phys.\ J.\ C {\bf 75}, no. 5, 226 (2015)
+ doi:10.1140/epjc/s10052-015-3422-9
+ [arXiv:1504.00024 [nucl-ex]].
+ %%CITATION = doi:10.1140/epjc/s10052-015-3422-9;%%
 
+%\cite{Adam:2015gsa}
+\bibitem{Adam:2015gsa}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Coherent ?$^{0}$ photoproduction in ultra-peripheral Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
+ JHEP {\bf 1509}, 095 (2015)
+ doi:10.1007/JHEP09(2015)095
+ [arXiv:1503.09177 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP09(2015)095;%%
 
+%\cite{Adam:2015iga}
+\bibitem{Adam:2015iga}
+  J.~Adam {\it et al.} [ALICE Collaboration], %``Rapidity and transverse-momentum dependence of the inclusive J/$\psi$ nuclear modification factor in p-Pb collisions at $ \sqrt{s_{N\ N}} =$ 5.02 TeV,''
+ JHEP {\bf 1506}, 055 (2015)
+ doi:10.1007/JHEP06(2015)055
+ [arXiv:1503.07179 [nucl-ex]].
+ %%CITATION = doi:10.1007/JHEP06(2015)055;%%
 
 %\cite{Adam:2015xea}
 \bibitem{Adam:2015xea}

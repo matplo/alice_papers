@@ -1,4 +1,4 @@
-   * Generated on 2021-Jan-09 00:43 UTC  .
+   * Generated on 2021-Jan-09 08:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|First measurement of coherent \(\rho^{0}\) photoproduction in ultra-peripheral Xe-Xe collisions at \(\mathbf{\sqrt{s_{\rm {\scriptscriptstyle \mathbf{NN}}}} = 5.44}\) !TeV|%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2101.02581v1][2101.02581]]|[[https://inspirehep.net/literature/1839719][1839719]]|%RED%Submitted%ENDCOLOR%|311|

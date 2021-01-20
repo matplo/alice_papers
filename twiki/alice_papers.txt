@@ -1,4 +1,4 @@
-   * Generated on 2021-Jan-19 16:45 UTC  .
+   * Generated on 2021-Jan-20 00:49 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|First measurement of the ${\mathbf{|\textit t|}}$-dependence of coherent $\mathbf{\rm{J/ψ}}$ photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2101.04623v1][2101.04623]]|[[https://inspirehep.net/literature/1840600][1840600]]|%RED%Submitted%ENDCOLOR%|315|

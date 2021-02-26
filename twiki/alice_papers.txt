@@ -1,7 +1,7 @@
-   * Generated on 2021-Feb-26 08:42 UTC  .
+   * Generated on 2021-Feb-26 11:34 UTC - offline
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
-|UD|First measurement of the ${\mathbf{|\textit t|}}$-dependence of coherent $\mathbf{\rm{J/ψ}}$ photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2101.04623v1][2101.04623]]|[[https://inspirehep.net/literature/1840600][1840600]]|%RED%Submitted%ENDCOLOR%|315|
+|UD|First measurement of the ${\mathbf{%VBAR%\textit t%VBAR%}}$-dependence of coherent $\mathbf{\rm{J/ψ}}$ photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2101.04623v1][2101.04623]]|[[https://inspirehep.net/literature/1840600][1840600]]|%RED%Submitted%ENDCOLOR%|315|
 |UD|Coherent $\rm{J/ψ}$ and $\rm{ψ'}$ photoproduction at midrapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2101.04577v1][2101.04577]]|[[https://inspirehep.net/literature/1840601][1840601]]|%RED%Submitted%ENDCOLOR%|314|
 |CF|Long- and short-range correlations and their event-scale dependence in high-multiplicity pp collisions at $\boldsymbol{\sqrt{\textit s}}=13$ !TeV|pp|[[http://arxiv.org/abs/2101.03110v1][2101.03110]]|[[https://inspirehep.net/literature/1840098][1840098]]|%RED%Submitted%ENDCOLOR%|313|
 |LF|Production of pions, kaons, (anti-)protons and $φ$ mesons in Xe-Xe collisions at $\sqrt{s_{\rm NN}} = 5.44$ !TeV|%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2101.03100v1][2101.03100]]|[[https://inspirehep.net/literature/1840099][1840099]]|%RED%Submitted%ENDCOLOR%|312|

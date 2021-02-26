@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|UD|First measurement of the \\(\{\mathbf\{|\textit t|\}\}\\)-dependence of coherent \\(\mathbf\{\rm\{J/\psi\}\}\\) photonuclear production|PbPb|[2101.04623](http://arxiv.org/abs/2101.04623v1){: target="_blank"}|[1840600](https://inspirehep.net/literature/1840600){: target="_blank"}|Submitted|315|
+|UD|First measurement of the \\(\{\mathbf\{%VBAR%\textit t%VBAR%\}\}\\)-dependence of coherent \\(\mathbf\{\rm\{J/\psi\}\}\\) photonuclear production|PbPb|[2101.04623](http://arxiv.org/abs/2101.04623v1){: target="_blank"}|[1840600](https://inspirehep.net/literature/1840600){: target="_blank"}|Submitted|315|
 |UD|Coherent \\(\rm\{J/\psi\}\\) and \\(\rm\{\psi'\}\\) photoproduction at midrapidity in ultra-peripheral Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}~=~5.02\\) TeV|PbPb|[2101.04577](http://arxiv.org/abs/2101.04577v1){: target="_blank"}|[1840601](https://inspirehep.net/literature/1840601){: target="_blank"}|Submitted|314|
 |CF|Long- and short-range correlations and their event-scale dependence in high-multiplicity pp collisions at \\(\boldsymbol\{\sqrt\{\textit s\}\}=13\\) TeV|pp|[2101.03110](http://arxiv.org/abs/2101.03110v1){: target="_blank"}|[1840098](https://inspirehep.net/literature/1840098){: target="_blank"}|Submitted|313|
 |LF|Production of pions, kaons, (anti-)protons and \\(\phi\\) mesons in Xe-Xe collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.44\\) TeV|XeXe|[2101.03100](http://arxiv.org/abs/2101.03100v1){: target="_blank"}|[1840099](https://inspirehep.net/literature/1840099){: target="_blank"}|Submitted|312|

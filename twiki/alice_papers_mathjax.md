@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Measurement of beauty and charm production in pp collisions at \\(\sqrt\{s\}=5.02\\) TeV via non-prompt and prompt D mesons|pp|[2102.13601](http://arxiv.org/abs/2102.13601v1){: target="_blank"}|[1848990](https://inspirehep.net/literature/1848990){: target="_blank"}|Submitted|317|
 |CF|Measurements of mixed harmonic cumulants in Pb-Pb collisions at \\(\mathbf\{\sqrt\{\{\textit s\}_\{\rm NN\}\}\}=5.02\\) TeV|PbPb|[2102.12180](http://arxiv.org/abs/2102.12180v1){: target="_blank"}|[1848215](https://inspirehep.net/literature/1848215){: target="_blank"}|Submitted|316|
 |UD|First measurement of the \\(\{\mathbf\{ &#124; \textit t &#124; \}\}\\)-dependence of coherent \\(\mathbf\{\rm\{J/\psi\}\}\\) photonuclear production|PbPb|[2101.04623](http://arxiv.org/abs/2101.04623v1){: target="_blank"}|[1840600](https://inspirehep.net/literature/1840600){: target="_blank"}|Submitted|315|
 |UD|Coherent \\(\rm\{J/\psi\}\\) and \\(\rm\{\psi'\}\\) photoproduction at midrapidity in ultra-peripheral Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}~=~5.02\\) TeV|PbPb|[2101.04577](http://arxiv.org/abs/2101.04577v1){: target="_blank"}|[1840601](https://inspirehep.net/literature/1840601){: target="_blank"}|Submitted|314|

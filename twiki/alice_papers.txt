@@ -1,4 +1,4 @@
-   * Generated on 2021-Mar-02 08:45 UTC  .
+   * Generated on 2021-Mar-02 16:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of beauty and charm production in pp collisions at $\sqrt{s}=5.02$ !TeV via non-prompt and prompt D mesons|pp|[[http://arxiv.org/abs/2102.13601v1][2102.13601]]|[[https://inspirehep.net/literature/1848990][1848990]]|%RED%Submitted%ENDCOLOR%|317|
@@ -28,7 +28,7 @@
 |CF|Unveiling the strong interaction among hadrons at the LHC|pp|[[http://arxiv.org/abs/2005.11495v2][2005.11495]]|[[https://inspirehep.net/literature/1797617][1797617]]|%GREEN%[[https://doi.org/10.1038/s41586-020-3001-6][Nature 588]]%ENDCOLOR%|293|
 |HF|Transverse-momentum and event-shape dependence of D-meson flow harmonics in Pb-Pb collisions at $\sqrt{s_{NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11131v1][2005.11131]]|[[https://inspirehep.net/literature/1797463][1797463]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.136054][Phys. Lett. B 813]]%ENDCOLOR%|292|
 |CF|Elliptic flow of electrons from beauty-hadron decays in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11130v1][2005.11130]]|[[https://inspirehep.net/literature/1797450][1797450]]|%RED%Submitted%ENDCOLOR%|291|
-|DQ|First measurement of quarkonium polarization in nuclear collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11128v1][2005.11128]]|[[https://inspirehep.net/literature/1797469][1797469]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136146][j. physletb. 2021. 136146]]%ENDCOLOR%|290|
+|DQ|First measurement of quarkonium polarization in nuclear collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11128v1][2005.11128]]|[[https://inspirehep.net/literature/1797469][1797469]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136146][Phys. Lett. B 815]]%ENDCOLOR%|290|
 |HF|Z-boson production in p-Pb collisions at $\sqrt{s_{\mathrm{NN}}}=8.16$ !TeV and Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$ !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11126v1][2005.11126]]|[[https://inspirehep.net/literature/1797444][1797444]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2020)076][JHEP 09]]%ENDCOLOR%|289|
 |CF|$Λ\rm{K}$ femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11124v1][2005.11124]]|[[https://inspirehep.net/literature/1797451][1797451]]|%RED%Submitted%ENDCOLOR%|288|
 |DQ|Multiplicity dependence of J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11123v1][2005.11123]]|[[https://inspirehep.net/literature/1797445][1797445]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135758][Phys. Lett. B 810]]%ENDCOLOR%|287|

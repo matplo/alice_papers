@@ -1,4 +1,4 @@
-   * Generated on 2021-Mar-19 16:43 UTC  .
+   * Generated on 2021-Mar-20 00:43 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of beauty and charm production in pp collisions at $\sqrt{s}=5.02$ !TeV via non-prompt and prompt D mesons|pp|[[http://arxiv.org/abs/2102.13601v1][2102.13601]]|[[https://inspirehep.net/literature/1848990][1848990]]|%RED%Submitted%ENDCOLOR%|317|

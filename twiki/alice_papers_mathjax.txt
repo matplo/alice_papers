@@ -1,4 +1,4 @@
-   * Generated on 2021-Mar-29 08:24 UTC  .
+   * Generated on 2021-Mar-29 16:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of beauty and charm production in pp collisions at \(\sqrt{s}=5.02\) !TeV via non-prompt and prompt D mesons|pp|[[http://arxiv.org/abs/2102.13601v1][2102.13601]]|[[https://inspirehep.net/literature/1848990][1848990]]|%RED%Submitted%ENDCOLOR%|317|
@@ -33,7 +33,7 @@
 |CF|\(\Lambda\rm{K}\) femtoscopy in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11124v1][2005.11124]]|[[https://inspirehep.net/literature/1797451][1797451]]|%RED%Submitted%ENDCOLOR%|288|
 |DQ|Multiplicity dependence of J/\(\psi\) production at midrapidity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11123v2][2005.11123]]|[[https://inspirehep.net/literature/1797445][1797445]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135758][Phys. Lett. B 810]]%ENDCOLOR%|287|
 |LF|Measurement of the low-energy antideuteron inelastic cross section|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11122v2][2005.11122]]|[[https://inspirehep.net/literature/1797442][1797442]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.125.162001][Phys. Rev. Lett. 125]]%ENDCOLOR%|286|
-|LF|Production of light-flavor hadrons in pp collisions at \(\sqrt{s}\) = 7 and \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11120v1][2005.11120]]|[[https://inspirehep.net/literature/1797443][1797443]]|%RED%Submitted%ENDCOLOR%|285|
+|LF|Production of light-flavor hadrons in pp collisions at \(\sqrt{s}\) = 7 and \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11120v1][2005.11120]]|[[https://inspirehep.net/literature/1797443][1797443]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-020-08690-5][Eur. Phys. J. C 81]]%ENDCOLOR%|285|
 |DQ|J/\(\psi\) production as a function of charged-particle multiplicity in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}}~=~8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2004.12673v1][2004.12673]]|[[https://inspirehep.net/literature/1792996][1792996]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2020)162][JHEP 09]]%ENDCOLOR%|284|
 |CF|Search for a common baryon source in high-multiplicity pp collisions at the LHC|pp|[[http://arxiv.org/abs/2004.08018v2][2004.08018]]|[[https://inspirehep.net/literature/1791631][1791631]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135849][Phys. Lett. B 811]]%ENDCOLOR%|283|
 |DQ|Measurement of nuclear effects on \(\psi\rm{(2S)}\) production in p-Pb collisions at \(\sqrt{\textit{s}_{\rm NN}} = 8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2003.06053v2][2003.06053]]|[[https://inspirehep.net/literature/1785315][1785315]]|%GREEN%[[https://doi.org/10.1007/JHEP07(2020)237][JHEP 07]]%ENDCOLOR%|282|

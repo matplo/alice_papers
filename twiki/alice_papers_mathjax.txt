@@ -1,6 +1,7 @@
-   * Generated on 2021-Apr-08 16:52 UTC  .
+   * Generated on 2021-Apr-08 17:34 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|LF|Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at \(\sqrt{s_{NN}}\) = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2104.03116v1][2104.03116]]|[[https://inspirehep.net/literature/1856529][1856529]]|%RED%Submitted%ENDCOLOR%|318|
 |HF|Measurement of beauty and charm production in pp collisions at \(\sqrt{s}=5.02\) !TeV via non-prompt and prompt D mesons|pp|[[http://arxiv.org/abs/2102.13601v1][2102.13601]]|[[https://inspirehep.net/literature/1848990][1848990]]|%RED%Submitted%ENDCOLOR%|317|
 |CF|Measurements of mixed harmonic cumulants in Pb-Pb collisions at \(\mathbf{\sqrt{{\textit s}_{\rm NN}}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2102.12180v1][2102.12180]]|[[https://inspirehep.net/literature/1848215][1848215]]|%RED%Submitted%ENDCOLOR%|316|
 |UD|First measurement of the \({\mathbf{ &#124; \textit t &#124; }}\)-dependence of coherent \(\mathbf{\rm{J/\psi}}\) photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2101.04623v1][2101.04623]]|[[https://inspirehep.net/literature/1840600][1840600]]|%RED%Submitted%ENDCOLOR%|315|

@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Exploring the N\\(\Lambda\\)-N\\(\Sigma\\) coupled system with high precision correlation techniques at the LHC|pp|[2104.04427](http://arxiv.org/abs/2104.04427v1){: target="_blank"}|[1857549](https://inspirehep.net/literature/1857549){: target="_blank"}|Submitted|319|
 |GA|Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at \\(\sqrt\{s_\{NN\}\}\\) = 8.16 TeV|pPb|[2104.03116](http://arxiv.org/abs/2104.03116v1){: target="_blank"}|[1856529](https://inspirehep.net/literature/1856529){: target="_blank"}|Submitted|318|
 |HF|Measurement of beauty and charm production in pp collisions at \\(\sqrt\{s\}=5.02\\) TeV via non-prompt and prompt D mesons|pp|[2102.13601](http://arxiv.org/abs/2102.13601v1){: target="_blank"}|[1848990](https://inspirehep.net/literature/1848990){: target="_blank"}|Submitted|317|
 |CF|Measurements of mixed harmonic cumulants in Pb-Pb collisions at \\(\mathbf\{\sqrt\{\{\textit s\}_\{\rm NN\}\}\}=5.02\\) TeV|PbPb|[2102.12180](http://arxiv.org/abs/2102.12180v1){: target="_blank"}|[1848215](https://inspirehep.net/literature/1848215){: target="_blank"}|Submitted|316|

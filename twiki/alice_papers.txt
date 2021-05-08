@@ -1,4 +1,4 @@
-   * Generated on 2021-May-08 08:46 UTC  .
+   * Generated on 2021-May-08 16:47 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Energy dependence of $φ$ meson production at forward rapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.00713v1][2105.00713]]|[[https://inspirehep.net/literature/1861688][1861688]]|%RED%Submitted%ENDCOLOR%|320|

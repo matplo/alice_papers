@@ -1,4 +1,4 @@
-   * Generated on 2021-May-09 08:48 UTC  .
+   * Generated on 2021-May-09 16:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Energy dependence of $φ$ meson production at forward rapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.00713v1][2105.00713]]|[[https://inspirehep.net/literature/1861688][1861688]]|%RED%Submitted%ENDCOLOR%|320|
@@ -33,7 +33,7 @@
 |CF|Elliptic flow of electrons from beauty-hadron decays in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11130v1][2005.11130]]|[[https://inspirehep.net/literature/1797450][1797450]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.126.162001][Phys. Rev. Lett. 126]]%ENDCOLOR%|291|
 |DQ|First measurement of quarkonium polarization in nuclear collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11128v1][2005.11128]]|[[https://inspirehep.net/literature/1797469][1797469]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136146][Phys. Lett. B 815]]%ENDCOLOR%|290|
 |HF|Z-boson production in p-Pb collisions at $\sqrt{s_{\mathrm{NN}}}=8.16$ !TeV and Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$ !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11126v2][2005.11126]]|[[https://inspirehep.net/literature/1797444][1797444]]|%GREEN%[[https://doi.org/10.1007/JHEP09(2020)076][JHEP 09]]%ENDCOLOR%|289|
-|CF|$Λ\rm{K}$ femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11124v1][2005.11124]]|[[https://inspirehep.net/literature/1797451][1797451]]|%RED%Submitted%ENDCOLOR%|288|
+|CF|$Λ\rm{K}$ femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11124v1][2005.11124]]|[[https://inspirehep.net/literature/1797451][1797451]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.103.055201][Phys. Rev. C 103]]%ENDCOLOR%|288|
 |DQ|Multiplicity dependence of J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11123v2][2005.11123]]|[[https://inspirehep.net/literature/1797445][1797445]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2020.135758][Phys. Lett. B 810]]%ENDCOLOR%|287|
 |LF|Measurement of the low-energy antideuteron inelastic cross section|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11122v2][2005.11122]]|[[https://inspirehep.net/literature/1797442][1797442]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.125.162001][Phys. Rev. Lett. 125]]%ENDCOLOR%|286|
 |LF|Production of light-flavor hadrons in pp collisions at $\sqrt{s}$ = 7 and $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2005.11120v1][2005.11120]]|[[https://inspirehep.net/literature/1797443][1797443]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-020-08690-5][Eur. Phys. J. C 81]]%ENDCOLOR%|285|

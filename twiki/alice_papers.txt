@@ -1,4 +1,4 @@
-   * Generated on 2021-May-13 16:49 UTC  .
+   * Generated on 2021-May-14 00:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Measurement of K$^{*}$(892)$^{\mathrm{\pm}}$ production in inelastic pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.05760v1][2105.05760]]|[[https://inspirehep.net/literature/1863048][1863048]]|%RED%Submitted%ENDCOLOR%|330|

@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[2105.06335](http://arxiv.org/abs/2105.06335v1){: target="_blank"}|[1863128](https://inspirehep.net/literature/1863128){: target="_blank"}|Submitted|331|
 |LF|Measurement of K\\(^\{*\}\\)(892)\\(^\{\mathrm\{\pm\}\}\\) production in inelastic pp collisions at the LHC|pp|[2105.05760](http://arxiv.org/abs/2105.05760v1){: target="_blank"}|[1863048](https://inspirehep.net/literature/1863048){: target="_blank"}|Submitted|330|
 |CF|Charged-particle multiplicity fluctuations in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 2.76 TeV|PbPb|[2105.05745](http://arxiv.org/abs/2105.05745v1){: target="_blank"}|[1863044](https://inspirehep.net/literature/1863044){: target="_blank"}|Submitted|329|
 |CF|Kaon-proton strong interaction at low relative momentum via femtoscopy in Pb-Pb collisions at the LHC|PbPb|[2105.05683](http://arxiv.org/abs/2105.05683v1){: target="_blank"}|[1863041](https://inspirehep.net/literature/1863041){: target="_blank"}|Submitted|328|

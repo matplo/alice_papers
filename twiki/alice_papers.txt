@@ -1,4 +1,4 @@
-   * Generated on 2021-Jun-07 00:44 UTC  .
+   * Generated on 2021-Jun-07 08:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.06335v1][2105.06335]]|[[https://inspirehep.net/literature/1863128][1863128]]|%RED%Submitted%ENDCOLOR%|331|

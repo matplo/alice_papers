@@ -1,4 +1,4 @@
-   * Generated on 2021-Jun-27 00:45 UTC  .
+   * Generated on 2021-Jun-27 08:44 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Direct observation of the dead-cone effect in QCD|pp|[[http://arxiv.org/abs/2106.05713v1][2106.05713]]|[[https://inspirehep.net/literature/1867966][1867966]]|%RED%Submitted%ENDCOLOR%|332|

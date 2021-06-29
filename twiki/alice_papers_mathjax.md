@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Production of K\\(^\{*\}(892)^\{0\}\\) and \\(\\\(\\(\phi(1020)\)\\)\\) in pp and Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,PbPb|[2106.13113](http://arxiv.org/abs/2106.13113v1){: target="_blank"}|[1870141](https://inspirehep.net/literature/1870141){: target="_blank"}|Submitted|334|
+|HF|Measurement of prompt D\\(^\{0\}\\), \\(\Lambda_\{c\}^\{+\}\\), and \\(\Sigma_\{c\}^\{0,++\}\\)(2455) production in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2106.08278](http://arxiv.org/abs/2106.08278v1){: target="_blank"}|[1868463](https://inspirehep.net/literature/1868463){: target="_blank"}|Submitted|333|
 |JE|Direct observation of the dead-cone effect in QCD|pp|[2106.05713](http://arxiv.org/abs/2106.05713v1){: target="_blank"}|[1867966](https://inspirehep.net/literature/1867966){: target="_blank"}|Submitted|332|
 |HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[2105.06335](http://arxiv.org/abs/2105.06335v1){: target="_blank"}|[1863128](https://inspirehep.net/literature/1863128){: target="_blank"}|Submitted|331|
 |LF|Measurement of K\\(^\{*\}\\)(892)\\(^\{\mathrm\{\pm\}\}\\) production in inelastic pp collisions at the LHC|pp|[2105.05760](http://arxiv.org/abs/2105.05760v1){: target="_blank"}|[1863048](https://inspirehep.net/literature/1863048){: target="_blank"}|Submitted|330|

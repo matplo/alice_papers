@@ -1,4 +1,4 @@
-   * Generated on 2021-Jul-14 00:46 UTC  .
+   * Generated on 2021-Jul-14 08:48 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Production of K\(^{*}(892)^{0}\) and \(\\(\phi(1020)\)\) in pp and Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2106.13113v1][2106.13113]]|[[https://inspirehep.net/literature/1870141][1870141]]|%RED%Submitted%ENDCOLOR%|334|

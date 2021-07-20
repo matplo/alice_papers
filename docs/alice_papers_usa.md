@@ -1,4 +1,4 @@
-[//]: # (Title: Marketing Meeting Notes) 
+# ALICE USA
 
 Table of publications
 ===

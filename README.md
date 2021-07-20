@@ -1,1 +1,1 @@
-# alice_papers
+# Automated ALICE publication record repository 

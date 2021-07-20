@@ -7,3 +7,4 @@ kramdown:
   input: GFM
 minima:
   skin: dark
+is_project_page: false

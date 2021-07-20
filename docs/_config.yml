@@ -1,6 +1,9 @@
 # theme: jekyll-theme-cayman
+theme: minima
 name: ALICE Collaboration 
 title: ALICE Collaboration
 markdown: kramdown
 kramdown:
   input: GFM
+minima:
+  skin: dark

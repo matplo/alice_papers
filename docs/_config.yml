@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 name: ALICE Papers 
 title: ALICE Papers
 markdown: kramdown

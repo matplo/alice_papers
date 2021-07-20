@@ -1,7 +1,7 @@
 # theme: jekyll-theme-cayman
 theme: minima
-name: ALICE Collaboration Publications
-title: ALICE Collaboration Publications
+name: [ALICE Collaboration Publications](https://alice-collaboration.web.cern.ch)
+title: [ALICE Collaboration Publications](https://alice-collaboration.web.cern.ch)
 markdown: kramdown
 kramdown:
   input: GFM

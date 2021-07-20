@@ -1,6 +1,6 @@
 # theme: jekyll-theme-cayman
-name: ALICE Papers 
-title: ALICE Papers
+name: ALICE Collaboration 
+title: ALICE Collaboration
 markdown: kramdown
 kramdown:
   input: GFM

@@ -1,7 +1,7 @@
 # theme: jekyll-theme-cayman
 # theme: minima
 name: ALICE Collaboration Publications
-title: alice_papers
+title: 
 markdown: kramdown
 kramdown:
   input: GFM

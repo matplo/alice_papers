@@ -1,6 +1,4 @@
----
-title: ALICE USA Publications
----
+[//]: # (Title: Marketing Meeting Notes) 
 
 Table of publications
 ===

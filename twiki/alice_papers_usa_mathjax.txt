@@ -1,4 +1,4 @@
-   * Generated on 2021-Jul-19 23:15 PDT - offline
+   * Generated on 2021-Jul-20 00:53 PDT - offline
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Direct observation of the dead-cone effect in QCD|pp|[[http://arxiv.org/abs/2106.05713v1][2106.05713]]|[[https://inspirehep.net/literature/1867966][1867966]]|%RED%Submitted%ENDCOLOR%|81|
@@ -7,7 +7,7 @@
 |JE|Production of \(\Lambda\) and \({\rm K}^{0}_{\rm S}\) in jets in p-Pb collisions at \(\sqrt{s_{\rm NN}} = 5\) !TeV and pp collisions at \(\sqrt{s} = 7\) !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.04890v1][2105.04890]]|[[https://inspirehep.net/literature/1862789][1862789]]|%RED%Submitted%ENDCOLOR%|78|
 |GA|Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at \(\sqrt{s_{NN}}\) = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2104.03116v1][2104.03116]]|[[https://inspirehep.net/literature/1856529][1856529]]|%RED%Submitted%ENDCOLOR%|77|
 |LF|Jet-associated deuteron production in pp collisions at \(\sqrt{s}=13\) !TeV|pp|[[http://arxiv.org/abs/2011.05898v1][2011.05898]]|[[https://inspirehep.net/literature/1829410][1829410]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136440][Phys. Lett. B 819]]%ENDCOLOR%|76|
-|LF|Production of \(\psi‰\) mesons in pp collisions at \(\sqrt{s}\) = 7 !TeV|pp|[[http://arxiv.org/abs/2007.02208v2][2007.02208]]|[[https://inspirehep.net/literature/1805263][1805263]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-020-08651-y][Eur. Phys. J. C 80]]%ENDCOLOR%|75|
+|LF|Production of \(\omega\) mesons in pp collisions at \(\sqrt{s}\) = 7 !TeV|pp|[[http://arxiv.org/abs/2007.02208v2][2007.02208]]|[[https://inspirehep.net/literature/1805263][1805263]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-020-08651-y][Eur. Phys. J. C 80]]%ENDCOLOR%|75|
 |GA|Measurement of isolated photon-hadron correlations in \(\sqrt{s_{\rm{NN}}}\) = 5.02 !TeV pp and p-Pb collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.14637v1][2005.14637]]|[[https://inspirehep.net/literature/1798523][1798523]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.102.044908][Phys. Rev. C 102]]%ENDCOLOR%|74|
 |CF|\(\Lambda\rm{K}\) femtoscopy in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2005.11124v1][2005.11124]]|[[https://inspirehep.net/literature/1797451][1797451]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.103.055201][Phys. Rev. C 103]]%ENDCOLOR%|73|
 |LF|\(\rm{K}^{*}(\rm{892})^{0}\) and \(\\(\phi(1020)\)\) production at midrapidity in pp collisions at \(\sqrt{s}\) = 8 !TeV|pp|[[http://arxiv.org/abs/1910.14410v2][1910.14410]]|[[https://inspirehep.net/literature/1762364][1762364]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.102.024912][Phys. Rev. C 102]]%ENDCOLOR%|72|

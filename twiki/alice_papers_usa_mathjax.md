@@ -1,5 +1,3 @@
-# ALICE-USA Publications
- 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
 |JE|Direct observation of the dead-cone effect in QCD|pp|[2106.05713](http://arxiv.org/abs/2106.05713v1)|[1867966](https://inspirehep.net/literature/1867966)|Submitted|81|

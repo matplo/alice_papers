@@ -261,6 +261,17 @@ doi:10.1016/j.physletb.2021.136481
 [arXiv:2101.02579 [nucl-ex]].
 %4 citations counted in INSPIRE as of 23 Jul 2021
 
+\cite{ALICETPC:2020ann}
+
+\bibitem{ALICETPC:2020ann}
+
+ J.~Adolfsson \textit{et al.} [ALICE TPC],
+%``The upgrade of the ALICE TPC with GEMs and continuous readout,''
+JINST \textbf{16}, no.03, P03022 (2021)
+doi:10.1088/1748-0221/16/03/P03022
+[arXiv:2012.09518 [physics.ins-det]].
+%1 citations counted in INSPIRE as of 23 Jul 2021
+
 \cite{ALICE:2020wla}
 
 \bibitem{ALICE:2020wla}
@@ -398,6 +409,7 @@ doi:10.1103/PhysRevC.102.044908
 
  S.~Acharya \textit{et al.} [ALICE],
 %``Soft-dielectron excess in proton-proton collisions at $\sqrt{s}$ = 13 TeV,''
+doi:10.1103/PhysRevLett.127.042302
 [arXiv:2005.14522 [nucl-ex]].
 %6 citations counted in INSPIRE as of 23 Jul 2021
 

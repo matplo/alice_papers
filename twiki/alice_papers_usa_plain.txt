@@ -382,6 +382,12 @@ Link: http://arxiv.org/abs/1904.13118v2
 Inspire: https://inspirehep.net/literature/1732232
 DOI link: https://doi.org/10.1016/j.physletb.2019.07.020
  
+Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $\sqrt{s}$= 7 TeV
+Date on arXiv: 2019.05.07
+Link: http://arxiv.org/abs/1905.02510v2
+Inspire: https://inspirehep.net/literature/1733683
+DOI link: https://doi.org/10.1007/JHEP08(2019)133
+ 
 Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies
 Date on arXiv: 2019.05.07
 Link: http://arxiv.org/abs/1905.02512v2
@@ -418,6 +424,12 @@ Link: http://arxiv.org/abs/1910.14397v1
 Inspire: https://inspirehep.net/literature/1762348
 DOI link: https://doi.org/10.1016/j.physletb.2020.135501
  
+Jet-hadron correlations measured relative to the second order event plane in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 TeV
+Date on arXiv: 2019.10.31
+Link: http://arxiv.org/abs/1910.14398v2
+Inspire: https://inspirehep.net/literature/1762358
+DOI link: https://doi.org/10.1103/PhysRevC.101.064901
+ 
 Probing the effects of strong electromagnetic fields with charge-dependent directed flow in Pb-Pb collisions at the LHC
 Date on arXiv: 2019.10.31
 Link: http://arxiv.org/abs/1910.14406v2
@@ -453,6 +465,12 @@ Date on arXiv: 2020.11.11
 Link: http://arxiv.org/abs/2011.05898v1
 Inspire: https://inspirehep.net/literature/1829410
 DOI link: https://doi.org/10.1016/j.physletb.2021.136440
+ 
+The upgrade of the ALICE TPC with GEMs and continuous readout
+Date on arXiv: 2020.12.17
+Link: http://arxiv.org/abs/2012.09518v2
+Inspire: https://inspirehep.net/literature/1837171
+DOI link: https://doi.org/10.1088/1748-0221/16/03/P03022
  
 Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at $\sqrt{s_{NN}}$ = 8.16 TeV
 Date on arXiv: 2021.04.07

@@ -702,6 +702,17 @@ doi:10.1016/j.physletb.2019.07.020
 [arXiv:1904.13118 [nucl-ex]].
 %9 citations counted in INSPIRE as of 23 Jul 2021
 
+\cite{ALICE:2019cbr}
+
+\bibitem{ALICE:2019cbr}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $ \sqrt{\mathrm{s}}=7 $ TeV,''
+JHEP \textbf{08}, 133 (2019)
+doi:10.1007/JHEP08(2019)133
+[arXiv:1905.02510 [nucl-ex]].
+%18 citations counted in INSPIRE as of 23 Jul 2021
+
 \cite{ALICE:2019ykw}
 
 \bibitem{ALICE:2019ykw}
@@ -768,6 +779,17 @@ doi:10.1016/j.physletb.2020.135501
 [arXiv:1910.14397 [nucl-ex]].
 %15 citations counted in INSPIRE as of 23 Jul 2021
 
+\cite{ALICE:2019sqi}
+
+\bibitem{ALICE:2019sqi}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Jet-hadron correlations measured relative to the second order event plane in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 TeV,''
+Phys. Rev. C \textbf{101}, no.6, 064901 (2020)
+doi:10.1103/PhysRevC.101.064901
+[arXiv:1910.14398 [nucl-ex]].
+%1 citations counted in INSPIRE as of 23 Jul 2021
+
 \cite{ALICE:2019sgg}
 
 \bibitem{ALICE:2019sgg}
@@ -833,6 +855,17 @@ Phys. Lett. B \textbf{819}, 136440 (2021)
 doi:10.1016/j.physletb.2021.136440
 [arXiv:2011.05898 [nucl-ex]].
 %0 citations counted in INSPIRE as of 23 Jul 2021
+
+\cite{ALICETPC:2020ann}
+
+\bibitem{ALICETPC:2020ann}
+
+ J.~Adolfsson \textit{et al.} [ALICE TPC],
+%``The upgrade of the ALICE TPC with GEMs and continuous readout,''
+JINST \textbf{16}, no.03, P03022 (2021)
+doi:10.1088/1748-0221/16/03/P03022
+[arXiv:2012.09518 [physics.ins-det]].
+%1 citations counted in INSPIRE as of 23 Jul 2021
 
 \cite{ALICE:2021est}
 

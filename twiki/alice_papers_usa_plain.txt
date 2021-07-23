@@ -280,7 +280,7 @@ Link: http://arxiv.org/abs/1702.00804v2
 Inspire: https://inspirehep.net/literature/1512107
 DOI link: https://doi.org/10.1016/j.physletb.2017.11.044
  
-Production of $π^0$ and $\eta$ mesons up to high transverse momentum in pp collisions at 2.76 TeV
+Production of $π^0$ and $η$ mesons up to high transverse momentum in pp collisions at 2.76 TeV
 Date on arXiv: 2017.02.03
 Link: http://arxiv.org/abs/1702.00917v2
 Inspire: https://inspirehep.net/literature/1512110

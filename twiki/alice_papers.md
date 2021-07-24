@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|MM|Measurement of very forward energy and particle production at midrapidity in pp and p-Pb collisions at the LHC|pp,|[2107.10757](http://arxiv.org/abs/2107.10757v1){: target="_blank"}|[1890061](https://inspirehep.net/literature/1890061){: target="_blank"}|Submitted|338|
+|MM|Measurement of very forward energy and particle production at midrapidity in pp and p-Pb collisions at the LHC|pp,pPb|[2107.10757](http://arxiv.org/abs/2107.10757v1){: target="_blank"}|[1890061](https://inspirehep.net/literature/1890061){: target="_blank"}|Submitted|338|
 |LF|Hypertriton production in p-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\}\}\\) = 5.02 TeV|pPb|[2107.10627](http://arxiv.org/abs/2107.10627v1){: target="_blank"}|[1889905](https://inspirehep.net/literature/1889905){: target="_blank"}|Submitted|337|
 |CF|Anisotropic flow of identified hadrons in Xe-Xe collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.44TeV|XeXe|[2107.10592](http://arxiv.org/abs/2107.10592v1){: target="_blank"}|[1889989](https://inspirehep.net/literature/1889989){: target="_blank"}|Submitted|336|
 |LF|Production of K\\(^\{*\}(892)^\{0\}\\) and \\(\\\(\phi(1020)\\)\\) in pp and Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,PbPb|[2106.13113](http://arxiv.org/abs/2106.13113v1){: target="_blank"}|[1870141](https://inspirehep.net/literature/1870141){: target="_blank"}|Submitted|335|

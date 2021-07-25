@@ -1,4 +1,4 @@
-   * Generated on 2021-Jul-25 00:49 UTC  .
+   * Generated on 2021-Jul-25 08:50 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |MM|Measurement of very forward energy and particle production at midrapidity in pp and p-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.10757v1][2107.10757]]|[[https://inspirehep.net/literature/1890061][1890061]]|%RED%Submitted%ENDCOLOR%|338|

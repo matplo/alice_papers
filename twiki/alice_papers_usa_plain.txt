@@ -292,12 +292,6 @@ Link: http://arxiv.org/abs/1702.01612v2
 Inspire: https://inspirehep.net/literature/1512303
 DOI link: https://doi.org/10.1103/PhysRevLett.118.222301
  
-Azimuthally differential pion femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV
-Date on arXiv: 2017.02.06
-Link: http://arxiv.org/abs/1702.01612v2
-Inspire: https://inspirehep.net/literature/1512303
-DOI link: https://doi.org/10.1103/PhysRevLett.118.222301
- 
 Flow dominance and factorization of transverse momentum correlations in Pb-Pb collisions at the LHC
 Date on arXiv: 2017.02.09
 Link: http://arxiv.org/abs/1702.02665v2
@@ -327,6 +321,12 @@ Date on arXiv: 2018.03.27
 Link: http://arxiv.org/abs/1803.09857v2
 Inspire: https://inspirehep.net/literature/1664312
 DOI link: https://doi.org/10.1103/PhysRevC.99.024912
+ 
+Azimuthally-differential pion femtoscopy relative to the third harmonic event plane in Pb-Pb collisions at $\sqrt{\textit{s}_{_{\rm NN}}}$ = 2.76 TeV
+Date on arXiv: 2018.03.28
+Link: http://arxiv.org/abs/1803.10594v2
+Inspire: https://inspirehep.net/literature/1664538
+DOI link: https://doi.org/10.1016/j.physletb.2018.06.042
  
 Anisotropic flow in Xe-Xe collisions at $\mathbf{\sqrt{s_{\rm{NN}}} = 5.44}$ TeV
 Date on arXiv: 2018.05.04
@@ -500,6 +500,12 @@ Direct observation of the dead-cone effect in QCD
 Date on arXiv: 2021.06.10
 Link: http://arxiv.org/abs/2106.05713v1
 Inspire: https://inspirehep.net/literature/1867966
+DOI link: N/A
+ 
+Polarization of $Λ$ and $\overlineΛ$ hyperons along the beam direction in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV
+Date on arXiv: 2021.07.23
+Link: http://arxiv.org/abs/2107.11183v1
+Inspire: https://inspirehep.net/literature/1891389
 DOI link: N/A
  
 Measurements of the groomed and ungroomed jet angularities in pp collisions at $\sqrt{s} = 5.02$ TeV

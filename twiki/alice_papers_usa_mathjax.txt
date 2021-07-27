@@ -1,4 +1,4 @@
-   * Generated on 2021-Jul-27 03:05 PDT  .
+   * Generated on 2021-Jul-27 10:47 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at \(\sqrt{s} = 5.02\) !TeV|pp|[[http://arxiv.org/abs/2107.11303v1][2107.11303]]|[[https://inspirehep.net/literature/1891385][1891385]]|%RED%Submitted%ENDCOLOR%|85|

@@ -334,6 +334,12 @@ Link: http://arxiv.org/abs/1805.01832v2
 Inspire: https://inspirehep.net/literature/1671792
 DOI link: https://doi.org/10.1016/j.physletb.2018.06.059
  
+Production of the $ρ$(770)${^{0}}$ meson in pp and Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV
+Date on arXiv: 2018.05.11
+Link: http://arxiv.org/abs/1805.04365v2
+Inspire: https://inspirehep.net/literature/1672860
+DOI link: https://doi.org/10.1103/PhysRevC.99.064901
+ 
 Azimuthal anisotropy of heavy-flavour decay electrons in p-Pb collisions at $ \sqrt{s_{\rm NN}}$ = 5.02 TeV
 Date on arXiv: 2018.05.11
 Link: http://arxiv.org/abs/1805.04367v2

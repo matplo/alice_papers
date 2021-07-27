@@ -382,17 +382,17 @@ Link: http://arxiv.org/abs/1904.13118v2
 Inspire: https://inspirehep.net/literature/1732232
 DOI link: https://doi.org/10.1016/j.physletb.2019.07.020
  
-Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $\sqrt{s}$= 7 TeV
-Date on arXiv: 2019.05.07
-Link: http://arxiv.org/abs/1905.02510v2
-Inspire: https://inspirehep.net/literature/1733683
-DOI link: https://doi.org/10.1007/JHEP08(2019)133
- 
 Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies
 Date on arXiv: 2019.05.07
 Link: http://arxiv.org/abs/1905.02512v2
 Inspire: https://inspirehep.net/literature/1733684
 DOI link: https://doi.org/10.1016/j.physletb.2020.135227
+ 
+Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $\sqrt{s}$= 7 TeV
+Date on arXiv: 2019.05.07
+Link: http://arxiv.org/abs/1905.02510v2
+Inspire: https://inspirehep.net/literature/1733683
+DOI link: https://doi.org/10.1007/JHEP08(2019)133
  
 Global polarization of $Λ$ and $\overlineΛ$ hyperons in Pb-Pb collisions at the LHC
 Date on arXiv: 2019.09.03
@@ -500,5 +500,11 @@ Direct observation of the dead-cone effect in QCD
 Date on arXiv: 2021.06.10
 Link: http://arxiv.org/abs/2106.05713v1
 Inspire: https://inspirehep.net/literature/1867966
+DOI link: N/A
+ 
+Measurements of the groomed and ungroomed jet angularities in pp collisions at $\sqrt{s} = 5.02$ TeV
+Date on arXiv: 2021.07.23
+Link: http://arxiv.org/abs/2107.11303v1
+Inspire: https://inspirehep.net/literature/1891385
 DOI link: N/A
  

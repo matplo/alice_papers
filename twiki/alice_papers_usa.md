@@ -1,5 +1,6 @@
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2107.11303](http://arxiv.org/abs/2107.11303v1)|[1891385](https://inspirehep.net/literature/1891385)|Submitted|85|
 |JE|Direct observation of the dead-cone effect in QCD|pp|[2106.05713](http://arxiv.org/abs/2106.05713v1)|[1867966](https://inspirehep.net/literature/1867966)|Submitted|84|
 |HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[2105.06335](http://arxiv.org/abs/2105.06335v1)|[1863128](https://inspirehep.net/literature/1863128)|Submitted|83|
 |JE|First measurements of \\(N\\)-subjettiness in central Pb\\(-\\)Pb collisions at \\(\{\sqrt\{\it\{s\}_\{\rm \{NN\}\}\}\} = 2.76\\) TeV|PbPb|[2105.04936](http://arxiv.org/abs/2105.04936v1)|[1862792](https://inspirehep.net/literature/1862792)|Submitted|82|

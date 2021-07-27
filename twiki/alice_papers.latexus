@@ -1,3 +1,12 @@
+\cite{ALICE:2021njq}
+
+\bibitem{ALICE:2021njq}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurements of the groomed and ungroomed jet angularities in pp collisions at $\sqrt{s} = 5.02$ TeV,''
+[arXiv:2107.11303 [nucl-ex]].
+%0 citations counted in INSPIRE as of 27 Jul 2021
+
 \cite{ALICE:2021poe}
 
 \bibitem{ALICE:2021poe}
@@ -333,7 +342,9 @@ doi:10.1016/j.physletb.2021.136440
 \bibitem{ALICE:2020swj}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Pseudorapidity distributions of charged particles as a function of mid and forward rapidity mutiplicities in pp collisions at $\sqrt{s}$ = 5.02, 7 and 13 TeV,''
+%``Pseudorapidity distributions of charged particles as a function of mid- and forward rapidity multiplicities in pp collisions at $\sqrt{s}$~=~5.02, 7 and 13 TeV,''
+Eur. Phys. J. C \textbf{81}, no.7, 630 (2021)
+doi:10.1140/epjc/s10052-021-09349-5
 [arXiv:2009.09434 [nucl-ex]].
 %3 citations counted in INSPIRE as of 27 Jul 2021
 
@@ -408,7 +419,8 @@ doi:10.1103/PhysRevC.102.044908
 \bibitem{ALICE:2020umb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Soft-dielectron excess in proton-proton collisions at $\sqrt{s}$ = 13 TeV,''
+%``Soft-Dielectron Excess in Proton-Proton Collisions at $\sqrt{s}$ = 13 TeV,''
+Phys. Rev. Lett. \textbf{127}, no.4, 042302 (2021)
 doi:10.1103/PhysRevLett.127.042302
 [arXiv:2005.14522 [nucl-ex]].
 %6 citations counted in INSPIRE as of 27 Jul 2021
@@ -587,7 +599,7 @@ doi:10.1140/epjc/s10052-020-8256-4
 Eur. Phys. J. C \textbf{80}, no.8, 693 (2020)
 doi:10.1140/epjc/s10052-020-8125-1
 [arXiv:2003.02394 [nucl-ex]].
-%10 citations counted in INSPIRE as of 27 Jul 2021
+%11 citations counted in INSPIRE as of 27 Jul 2021
 
 \cite{ALICE:2020ugp}
 

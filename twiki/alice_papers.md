@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,PbPb|[2107.12984](http://arxiv.org/abs/2107.12984v1){: target="_blank"}|[1893479](https://inspirehep.net/literature/1893479){: target="_blank"}|Submitted|342|
 |JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2107.11303](http://arxiv.org/abs/2107.11303v1){: target="_blank"}|[1891385](https://inspirehep.net/literature/1891385){: target="_blank"}|Submitted|341|
 |CF|Polarization of \\(\Lambda\\) and \\(\overline\Lambda\\) hyperons along the beam direction in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2107.11183](http://arxiv.org/abs/2107.11183v1){: target="_blank"}|[1891389](https://inspirehep.net/literature/1891389){: target="_blank"}|Submitted|340|
 |MM|Measurement of very forward energy and particle production at midrapidity in pp and p-Pb collisions at the LHC|pp,pPb|[2107.10757](http://arxiv.org/abs/2107.10757v1){: target="_blank"}|[1890061](https://inspirehep.net/literature/1890061){: target="_blank"}|Submitted|339|

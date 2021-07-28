@@ -1,5 +1,6 @@
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,PbPb|[2107.12984](http://arxiv.org/abs/2107.12984v1)|[1893479](https://inspirehep.net/literature/1893479)|Submitted|88|
 |JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2107.11303](http://arxiv.org/abs/2107.11303v1)|[1891385](https://inspirehep.net/literature/1891385)|Submitted|87|
 |CF|Polarization of \\(\Lambda\\) and \\(\overline\Lambda\\) hyperons along the beam direction in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2107.11183](http://arxiv.org/abs/2107.11183v1)|[1891389](https://inspirehep.net/literature/1891389)|Submitted|86|
 |JE|Direct observation of the dead-cone effect in QCD|pp|[2106.05713](http://arxiv.org/abs/2106.05713v1)|[1867966](https://inspirehep.net/literature/1867966)|Submitted|85|

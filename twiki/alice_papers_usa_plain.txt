@@ -450,7 +450,7 @@ DOI link: https://doi.org/10.1103/PhysRevC.102.024912
  
 $Λ\rm{K}$ femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 2.76 TeV
 Date on arXiv: 2020.05.22
-Link: http://arxiv.org/abs/2005.11124v1
+Link: http://arxiv.org/abs/2005.11124v2
 Inspire: https://inspirehep.net/literature/1797451
 DOI link: https://doi.org/10.1103/PhysRevC.103.055201
  

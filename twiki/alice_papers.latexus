@@ -733,7 +733,7 @@ doi:10.1016/j.physletb.2020.135486
 \bibitem{ALICE:2019nrq}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Centrality and transverse momentum dependence of inclusive J/$\psi$ production at midrapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
+%``Centrality and transverse momentum dependence of inclusive J/\ensuremath{\psi} production at midrapidity in Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{805}, 135434 (2020)
 doi:10.1016/j.physletb.2020.135434
 [arXiv:1910.14404 [nucl-ex]].
@@ -832,7 +832,7 @@ doi:10.1016/j.physletb.2020.135375
 \bibitem{ALICE:2019ikx}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the (anti-)$^{3}$He elliptic flow in Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+%``Measurement of the (anti-)3He elliptic flow in Pb\textendash{}Pb collisions at sNN=5.02TeV,''
 Phys. Lett. B \textbf{805}, 135414 (2020)
 doi:10.1016/j.physletb.2020.135414
 [arXiv:1910.09718 [nucl-ex]].
@@ -2333,7 +2333,7 @@ doi:10.1140/epjc/s10052-016-3915-1
 JHEP \textbf{03}, 081 (2016)
 doi:10.1007/JHEP03(2016)081
 [arXiv:1509.06888 [nucl-ex]].
-%188 citations counted in INSPIRE as of 13 Aug 2021
+%187 citations counted in INSPIRE as of 13 Aug 2021
 
 \cite{ALICE:2015nmy}
 
@@ -2828,7 +2828,7 @@ doi:10.1140/epjc/s10052-014-3054-5
 Phys. Rev. C \textbf{90}, no.3, 034904 (2014)
 doi:10.1103/PhysRevC.90.034904
 [arXiv:1405.2001 [nucl-ex]].
-%179 citations counted in INSPIRE as of 13 Aug 2021
+%178 citations counted in INSPIRE as of 13 Aug 2021
 
 \cite{ALICE:2014gvw}
 
@@ -2883,7 +2883,7 @@ doi:10.1140/epjc/s10052-014-2974-4
 Int. J. Mod. Phys. A \textbf{29}, 1430044 (2014)
 doi:10.1142/S0217751X14300440
 [arXiv:1402.4476 [nucl-ex]].
-%709 citations counted in INSPIRE as of 13 Aug 2021
+%708 citations counted in INSPIRE as of 13 Aug 2021
 
 \cite{ALICE:2014juv}
 
@@ -3403,7 +3403,7 @@ doi:10.1016/j.physletb.2012.10.078
 Phys. Rev. Lett. \textbf{109}, 252302 (2012)
 doi:10.1103/PhysRevLett.109.252302
 [arXiv:1203.2436 [nucl-ex]].
-%102 citations counted in INSPIRE as of 13 Aug 2021
+%101 citations counted in INSPIRE as of 13 Aug 2021
 
 \cite{ALICE:2012ab}
 

@@ -1,4 +1,4 @@
-   * Generated on 2021-Aug-26 16:50 UTC  .
+   * Generated on 2021-Aug-27 00:48 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Inclusive J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s}~=~13$ !TeV|pp|[[http://arxiv.org/abs/2108.01906v1][2108.01906]]|[[https://inspirehep.net/literature/1898832][1898832]]|%RED%Submitted%ENDCOLOR%|343|
@@ -25,7 +25,7 @@
 |LF|Energy dependence of $φ$ meson production at forward rapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.00713v1][2105.00713]]|[[https://inspirehep.net/literature/1861688][1861688]]|%RED%Submitted%ENDCOLOR%|322|
 |CF|Exploring the N$Λ$-N$Σ$ coupled system with high precision correlation techniques at the LHC|pp|[[http://arxiv.org/abs/2104.04427v1][2104.04427]]|[[https://inspirehep.net/literature/1857549][1857549]]|%RED%Submitted%ENDCOLOR%|321|
 |GA|Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at $\sqrt{s_{NN}}$ = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2104.03116v1][2104.03116]]|[[https://inspirehep.net/literature/1856529][1856529]]|%RED%Submitted%ENDCOLOR%|320|
-|HF|Measurement of beauty and charm production in pp collisions at $\sqrt{s}=5.02$ !TeV via non-prompt and prompt D mesons|pp|[[http://arxiv.org/abs/2102.13601v1][2102.13601]]|[[https://inspirehep.net/literature/1848990][1848990]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2021)220][JHEP 05]]%ENDCOLOR%|319|
+|HF|Measurement of beauty and charm production in pp collisions at $\sqrt{s}=5.02$ !TeV via non-prompt and prompt D mesons|pp|[[http://arxiv.org/abs/2102.13601v2][2102.13601]]|[[https://inspirehep.net/literature/1848990][1848990]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2021)220][JHEP 05]]%ENDCOLOR%|319|
 |CF|Measurements of mixed harmonic cumulants in Pb-Pb collisions at $\mathbf{\sqrt{{\textit s}_{\rm NN}}}=5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2102.12180v1][2102.12180]]|[[https://inspirehep.net/literature/1848215][1848215]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136354][Phys. Lett. B 818]]%ENDCOLOR%|318|
 |UD|First measurement of the ${\mathbf{ &#124; \textit t &#124; }}$-dependence of coherent $\mathbf{\rm{J/ψ}}$ photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2101.04623v2][2101.04623]]|[[https://inspirehep.net/literature/1840600][1840600]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136280][Phys. Lett. B 817]]%ENDCOLOR%|317|
 |UD|Coherent $\rm{J/ψ}$ and $\rm{ψ'}$ photoproduction at midrapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2101.04577v1][2101.04577]]|[[https://inspirehep.net/literature/1840601][1840601]]|%RED%Submitted%ENDCOLOR%|316|

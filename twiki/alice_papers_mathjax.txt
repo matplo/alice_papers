@@ -1,4 +1,4 @@
-   * Generated on 2021-Sep-16 08:45 UTC  .
+   * Generated on 2021-Sep-16 16:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Inclusive J/\(\psi\) production at midrapidity in pp collisions at \(\sqrt{s}~=~13\) !TeV|pp|[[http://arxiv.org/abs/2108.01906v1][2108.01906]]|[[https://inspirehep.net/literature/1898832][1898832]]|%RED%Submitted%ENDCOLOR%|343|

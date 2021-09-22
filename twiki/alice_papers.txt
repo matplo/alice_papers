@@ -1,6 +1,7 @@
-   * Generated on 2021-Sep-22 16:46 UTC  .
+   * Generated on 2021-Sep-22 17:02 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|DQ|Prompt and non-prompt J/$ψ$ production cross sections at midrapidity in proton-proton collisions at $\sqrt{s}$ = 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2108.02523v1][2108.02523]]|[[https://inspirehep.net/literature/1899703][1899703]]|%RED%Submitted%ENDCOLOR%|344|
 |DQ|Inclusive J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s}~=~13$ !TeV|pp|[[http://arxiv.org/abs/2108.01906v1][2108.01906]]|[[https://inspirehep.net/literature/1898832][1898832]]|%RED%Submitted%ENDCOLOR%|343|
 |JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.12984v1][2107.12984]]|[[https://inspirehep.net/literature/1893479][1893479]]|%RED%Submitted%ENDCOLOR%|342|
 |JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at $\sqrt{s} = 5.02$ !TeV|pp|[[http://arxiv.org/abs/2107.11303v1][2107.11303]]|[[https://inspirehep.net/literature/1891385][1891385]]|%RED%Submitted%ENDCOLOR%|341|

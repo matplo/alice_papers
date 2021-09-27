@@ -1,4 +1,4 @@
-   * Generated on 2021-Sep-27 00:45 UTC  .
+   * Generated on 2021-Sep-27 08:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Prompt and non-prompt J/$ψ$ production cross sections at midrapidity in proton-proton collisions at $\sqrt{s}$ = 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2108.02523v1][2108.02523]]|[[https://inspirehep.net/literature/1899703][1899703]]|%RED%Submitted%ENDCOLOR%|344|

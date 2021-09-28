@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Production of light (anti)nuclei in pp collisions at \\(\sqrt\{s\} = 13\\)TeV|pp|[2109.13026](http://arxiv.org/abs/2109.13026v1){: target="_blank"}|[1928822](https://inspirehep.net/literature/1928822){: target="_blank"}|Submitted|345|
 |DQ|Prompt and non-prompt J/\\(\psi\\) production cross sections at midrapidity in proton-proton collisions at \\(\sqrt\{s\}\\) = 5.02 and 13 TeV|pp|[2108.02523](http://arxiv.org/abs/2108.02523v1){: target="_blank"}|[1899703](https://inspirehep.net/literature/1899703){: target="_blank"}|Submitted|344|
 |DQ|Inclusive J/\\(\psi\\) production at midrapidity in pp collisions at \\(\sqrt\{s\}~=~13\\) TeV|pp|[2108.01906](http://arxiv.org/abs/2108.01906v1){: target="_blank"}|[1898832](https://inspirehep.net/literature/1898832){: target="_blank"}|Submitted|343|
 |JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,PbPb|[2107.12984](http://arxiv.org/abs/2107.12984v1){: target="_blank"}|[1893479](https://inspirehep.net/literature/1893479){: target="_blank"}|Submitted|342|

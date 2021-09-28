@@ -402,7 +402,7 @@ DOI link: https://doi.org/10.1007/JHEP08(2019)133
  
 Global polarization of $Λ$ and $\overlineΛ$ hyperons in Pb-Pb collisions at the LHC
 Date on arXiv: 2019.09.03
-Link: http://arxiv.org/abs/1909.01281v2
+Link: http://arxiv.org/abs/1909.01281v3
 Inspire: https://inspirehep.net/literature/1752507
 DOI link: https://doi.org/10.1103/PhysRevC.101.044611
  

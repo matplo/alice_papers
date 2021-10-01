@@ -1,3 +1,12 @@
+\cite{ALICE:2021qlw}
+
+\bibitem{ALICE:2021qlw}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Inclusive quarkonium production in pp collisions at $\sqrt{s} = 5.02$ TeV,''
+[arXiv:2109.15240 [nucl-ex]].
+%0 citations counted in INSPIRE as of 01 Oct 2021
+
 \cite{ALICE:2021mfm}
 
 \bibitem{ALICE:2021mfm}
@@ -272,7 +281,9 @@ doi:10.1016/j.physletb.2021.136280
 \bibitem{ALICE:2021gpt}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Coherent $\rm{J/\psi}$ and $\rm{\psi'}$ photoproduction at midrapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ TeV,''
+%``Coherent $J/ \psi$ and $\phi$' photoproduction at midrapidity in ultra-peripheral Pb\textendash{}Pb ~collisions at~$\sqrt {s_{NN}}$ = 5.02 TeV,''
+Eur. Phys. J. C \textbf{81}, no.8, 712 (2021)
+doi:10.1140/epjc/s10052-021-09437-6
 [arXiv:2101.04577 [nucl-ex]].
 %8 citations counted in INSPIRE as of 01 Oct 2021
 

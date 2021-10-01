@@ -1,4 +1,4 @@
-   * Generated on 2021-Oct-01 00:25 UTC  .
+   * Generated on 2021-Oct-01 08:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Production of light (anti)nuclei in pp collisions at \(\sqrt{s} = 13\)!TeV|pp|[[http://arxiv.org/abs/2109.13026v1][2109.13026]]|[[https://inspirehep.net/literature/1928822][1928822]]|%RED%Submitted%ENDCOLOR%|345|

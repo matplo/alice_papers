@@ -1,4 +1,4 @@
-   * Generated on 2021-Oct-05 16:45 UTC  .
+   * Generated on 2021-Oct-06 00:44 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Inclusive quarkonium production in pp collisions at \(\sqrt{s} = 5.02\) !TeV|pp|[[http://arxiv.org/abs/2109.15240v1][2109.15240]]|[[https://inspirehep.net/literature/1935680][1935680]]|%RED%Submitted%ENDCOLOR%|346|

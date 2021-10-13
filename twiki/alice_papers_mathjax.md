@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,pPb|[2110.06104](http://arxiv.org/abs/2110.06104v1){: target="_blank"}|[1942023](https://inspirehep.net/literature/1942023){: target="_blank"}|Submitted|347|
 |DQ|Inclusive quarkonium production in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2109.15240](http://arxiv.org/abs/2109.15240v1){: target="_blank"}|[1935680](https://inspirehep.net/literature/1935680){: target="_blank"}|Submitted|346|
 |LF|Production of light (anti)nuclei in pp collisions at \\(\sqrt\{s\} = 13\\)TeV|pp|[2109.13026](http://arxiv.org/abs/2109.13026v1){: target="_blank"}|[1928822](https://inspirehep.net/literature/1928822){: target="_blank"}|Submitted|345|
 |DQ|Prompt and non-prompt J/\\(\psi\\) production cross sections at midrapidity in proton-proton collisions at \\(\sqrt\{s\}\\) = 5.02 and 13 TeV|pp|[2108.02523](http://arxiv.org/abs/2108.02523v1){: target="_blank"}|[1899703](https://inspirehep.net/literature/1899703){: target="_blank"}|Submitted|344|

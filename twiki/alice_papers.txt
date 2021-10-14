@@ -1,4 +1,4 @@
-   * Generated on 2021-Oct-14 00:48 UTC  .
+   * Generated on 2021-Oct-14 08:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06104v1][2110.06104]]|[[https://inspirehep.net/literature/1942023][1942023]]|%RED%Submitted%ENDCOLOR%|347|

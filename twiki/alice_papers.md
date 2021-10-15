@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|General balance functions of identified charged hadron pairs of \\((\pi,\{\rm K\},\{\rm p\})\\) in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 2.76\\) TeV|PbPb|[2110.06566](http://arxiv.org/abs/2110.06566v1){: target="_blank"}|[1943964](https://inspirehep.net/literature/1943964){: target="_blank"}|Submitted|348|
 |HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,pPb|[2110.06104](http://arxiv.org/abs/2110.06104v1){: target="_blank"}|[1942023](https://inspirehep.net/literature/1942023){: target="_blank"}|Submitted|347|
 |DQ|Inclusive quarkonium production in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2109.15240](http://arxiv.org/abs/2109.15240v1){: target="_blank"}|[1935680](https://inspirehep.net/literature/1935680){: target="_blank"}|Submitted|346|
 |LF|Production of light (anti)nuclei in pp collisions at \\(\sqrt\{s\} = 13\\)TeV|pp|[2109.13026](http://arxiv.org/abs/2109.13026v1){: target="_blank"}|[1928822](https://inspirehep.net/literature/1928822){: target="_blank"}|Submitted|345|

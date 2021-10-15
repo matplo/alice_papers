@@ -1,4 +1,4 @@
-   * Generated on 2021-Oct-14 16:43 UTC  .
+   * Generated on 2021-Oct-15 00:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06104v1][2110.06104]]|[[https://inspirehep.net/literature/1942023][1942023]]|%RED%Submitted%ENDCOLOR%|347|
@@ -18,7 +18,7 @@
 |HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.06335v1][2105.06335]]|[[https://inspirehep.net/literature/1863128][1863128]]|%RED%Submitted%ENDCOLOR%|333|
 |LF|Measurement of K\(^{*}\)(892)\(^{\mathrm{\pm}}\) production in inelastic pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.05760v1][2105.05760]]|[[https://inspirehep.net/literature/1863048][1863048]]|%RED%Submitted%ENDCOLOR%|332|
 |CF|Charged-particle multiplicity fluctuations in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.05745v1][2105.05745]]|[[https://inspirehep.net/literature/1863044][1863044]]|%RED%Submitted%ENDCOLOR%|331|
-|CF|Kaon-proton strong interaction at low relative momentum via femtoscopy in Pb-Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.05683v1][2105.05683]]|[[https://inspirehep.net/literature/1863041][1863041]]|%RED%Submitted%ENDCOLOR%|330|
+|CF|Kaon-proton strong interaction at low relative momentum via femtoscopy in Pb-Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.05683v1][2105.05683]]|[[https://inspirehep.net/literature/1863041][1863041]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136708][Phys. Lett. B 822]]%ENDCOLOR%|330|
 |HF|Measurement of the production cross section of prompt \(\Xi^0_{\rm c}\) baryons at midrapidity in pp collisions at \(\sqrt{s}\) = 5.02 !TeV|pp|[[http://arxiv.org/abs/2105.05616v1][2105.05616]]|[[https://inspirehep.net/literature/1863039][1863039]]|%RED%Submitted%ENDCOLOR%|329|
 |CF|Experimental evidence for an attractive p-\(\phi\) interaction|pp|[[http://arxiv.org/abs/2105.05578v1][2105.05578]]|[[https://inspirehep.net/literature/1863040][1863040]]|%RED%Submitted%ENDCOLOR%|328|
 |CF|Investigating the role of strangeness in baryon\(-\)antibaryon annihilation at the LHC|pp|[[http://arxiv.org/abs/2105.05190v1][2105.05190]]|[[https://inspirehep.net/literature/1862795][1862795]]|%RED%Submitted%ENDCOLOR%|327|

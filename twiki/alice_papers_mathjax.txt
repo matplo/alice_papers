@@ -1,4 +1,4 @@
-   * Generated on 2021-Oct-18 08:45 UTC  .
+   * Generated on 2021-Oct-18 16:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|General balance functions of identified charged hadron pairs of \((\pi,{\rm K},{\rm p})\) in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 2.76\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06566v1][2110.06566]]|[[https://inspirehep.net/literature/1943964][1943964]]|%RED%Submitted%ENDCOLOR%|348|

@@ -1,6 +1,7 @@
-   * Generated on 2021-Oct-19 16:47 UTC  .
+   * Generated on 2021-Oct-19 23:02 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Prompt D$^{0}$, D$^{+}$, and D$^{*+}$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.09420v1][2110.09420]]|[[https://inspirehep.net/literature/1946131][1946131]]|%RED%Submitted%ENDCOLOR%|349|
 |CF|General balance functions of identified charged hadron pairs of $(π,{\rm K},{\rm p})$ in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06566v1][2110.06566]]|[[https://inspirehep.net/literature/1943964][1943964]]|%RED%Submitted%ENDCOLOR%|348|
 |HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06104v1][2110.06104]]|[[https://inspirehep.net/literature/1942023][1942023]]|%RED%Submitted%ENDCOLOR%|347|
 |DQ|Inclusive quarkonium production in pp collisions at $\sqrt{s} = 5.02$ !TeV|pp|[[http://arxiv.org/abs/2109.15240v1][2109.15240]]|[[https://inspirehep.net/literature/1935680][1935680]]|%RED%Submitted%ENDCOLOR%|346|

@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Prompt D\\(^\{0\}\\), D\\(^\{+\}\\), and D\\(^\{*+\}\\) production in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2110.09420](http://arxiv.org/abs/2110.09420v1){: target="_blank"}|[1946131](https://inspirehep.net/literature/1946131){: target="_blank"}|Submitted|349|
 |CF|General balance functions of identified charged hadron pairs of \\((\pi,\{\rm K\},\{\rm p\})\\) in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 2.76\\) TeV|PbPb|[2110.06566](http://arxiv.org/abs/2110.06566v1){: target="_blank"}|[1943964](https://inspirehep.net/literature/1943964){: target="_blank"}|Submitted|348|
 |HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,pPb|[2110.06104](http://arxiv.org/abs/2110.06104v1){: target="_blank"}|[1942023](https://inspirehep.net/literature/1942023){: target="_blank"}|Submitted|347|
 |DQ|Inclusive quarkonium production in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2109.15240](http://arxiv.org/abs/2109.15240v1){: target="_blank"}|[1935680](https://inspirehep.net/literature/1935680){: target="_blank"}|Submitted|346|

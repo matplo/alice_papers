@@ -1,6 +1,9 @@
-   * Generated on 2021-Oct-20 16:50 UTC  .
+   * Generated on 2021-Oct-20 22:00 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Investigating charm production and fragmentation via azimuthal correlations of prompt D mesons with charged particles in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2110.10043v1][2110.10043]]|[[https://inspirehep.net/literature/1946828][1946828]]|%RED%Submitted%ENDCOLOR%|352|
+|LF|$\mathrm{K}^{*}(\mathrm{892})^{0}$ and $\mathrm{φ(1020)}$ production in p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.10042v1][2110.10042]]|[[https://inspirehep.net/literature/1946970][1946970]]|%RED%Submitted%ENDCOLOR%|351|
+|HF|Measurement of prompt $\rm{D_{s}^{+}}$-meson production and azimuthal anisotropy in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.10006v1][2110.10006]]|[[https://inspirehep.net/literature/1946931][1946931]]|%RED%Submitted%ENDCOLOR%|350|
 |HF|Prompt D$^{0}$, D$^{+}$, and D$^{*+}$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.09420v1][2110.09420]]|[[https://inspirehep.net/literature/1946131][1946131]]|%RED%Submitted%ENDCOLOR%|349|
 |CF|General balance functions of identified charged hadron pairs of $(π,{\rm K},{\rm p})$ in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06566v1][2110.06566]]|[[https://inspirehep.net/literature/1943964][1943964]]|%RED%Submitted%ENDCOLOR%|348|
 |HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06104v1][2110.06104]]|[[https://inspirehep.net/literature/1942023][1942023]]|%RED%Submitted%ENDCOLOR%|347|

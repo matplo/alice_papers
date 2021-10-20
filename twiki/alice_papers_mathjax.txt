@@ -1,4 +1,4 @@
-   * Generated on 2021-Oct-20 08:46 UTC  .
+   * Generated on 2021-Oct-20 16:50 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Prompt D\(^{0}\), D\(^{+}\), and D\(^{*+}\) production in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.09420v1][2110.09420]]|[[https://inspirehep.net/literature/1946131][1946131]]|%RED%Submitted%ENDCOLOR%|349|

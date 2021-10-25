@@ -95,7 +95,7 @@
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
 [arXiv:2107.12984 [nucl-ex]].
-%2 citations counted in INSPIRE as of 25 Oct 2021
+%3 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2021njq}
 
@@ -104,7 +104,7 @@
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurements of the groomed and ungroomed jet angularities in pp collisions at $\sqrt{s} = 5.02$ TeV,''
 [arXiv:2107.11303 [nucl-ex]].
-%3 citations counted in INSPIRE as of 25 Oct 2021
+%4 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2021pzu}
 
@@ -158,7 +158,7 @@
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurement of prompt D$^{0}$, $\Lambda_{c}^{+}$, and $\Sigma_{c}^{0,++}$(2455) production in pp collisions at $\sqrt{s} = 13$ TeV,''
 [arXiv:2106.08278 [hep-ex]].
-%5 citations counted in INSPIRE as of 25 Oct 2021
+%6 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2021aqk}
 
@@ -167,7 +167,7 @@
  S.~Acharya \textit{et al.} [ALICE],
 %``Direct observation of the dead-cone effect in QCD,''
 [arXiv:2106.05713 [nucl-ex]].
-%1 citations counted in INSPIRE as of 25 Oct 2021
+%2 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2021dhb}
 
@@ -212,7 +212,9 @@ doi:10.1016/j.physletb.2021.136708
 \bibitem{ALICE:2021psx}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the production cross section of prompt $\Xi^0_{\rm c}$ baryons at midrapidity in pp collisions at $\sqrt{s}$ = 5.02 TeV,''
+%``Measurement of the production cross section of prompt $ {\Xi}_{\mathrm{c}}^0 $ baryons at midrapidity in pp collisions at $ \sqrt{s} $ = 5.02 TeV,''
+JHEP \textbf{10}, 159 (2021)
+doi:10.1007/JHEP10(2021)159
 [arXiv:2105.05616 [nucl-ex]].
 %6 citations counted in INSPIRE as of 25 Oct 2021
 
@@ -243,7 +245,7 @@ doi:10.1103/PhysRevLett.127.172301
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurement of the cross sections of $\Xi^0_{\rm c}$ and $\Xi^+_{\rm c}$ baryons and branching-fraction ratio BR($\Xi^0_{\rm c} \rightarrow \Xi^-{\rm e}^+\nu_{\rm e}$)/BR($\Xi^0_{\rm c} \rightarrow \Xi^-\pi^+$) in pp collisions at 13 TeV,''
 [arXiv:2105.05187 [nucl-ex]].
-%12 citations counted in INSPIRE as of 25 Oct 2021
+%13 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2021lmn}
 
@@ -261,7 +263,7 @@ doi:10.1103/PhysRevLett.127.172301
  S.~Acharya \textit{et al.} [ALICE],
 %``First measurements of $N$-subjettiness in central Pb$-$Pb collisions at ${\sqrt{\it{s}_{\rm {NN}}}} = 2.76$ TeV,''
 [arXiv:2105.04936 [nucl-ex]].
-%2 citations counted in INSPIRE as of 25 Oct 2021
+%3 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2021cvd}
 
@@ -416,7 +418,7 @@ doi:10.1088/1748-0221/16/03/P03022
  S.~Acharya \textit{et al.} [ALICE],
 %``$\rm \Lambda_{c}^{+}$ production and baryon-to-meson ratios in pp and p-Pb collisions at $\sqrt{s_\mathrm{NN}} = 5.02$ TeV at the LHC,''
 [arXiv:2011.06078 [nucl-ex]].
-%16 citations counted in INSPIRE as of 25 Oct 2021
+%17 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2020pga}
 
@@ -1118,7 +1120,7 @@ doi:10.1103/PhysRevD.100.092004
 Phys. Lett. B \textbf{802}, 135227 (2020)
 doi:10.1016/j.physletb.2020.135227
 [arXiv:1905.02512 [nucl-ex]].
-%55 citations counted in INSPIRE as of 25 Oct 2021
+%56 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2019cbr}
 
@@ -1635,7 +1637,7 @@ doi:10.1103/PhysRevC.98.044901
 JHEP \textbf{11}, 013 (2018)
 doi:10.1007/JHEP11(2018)013
 [arXiv:1802.09145 [nucl-ex]].
-%144 citations counted in INSPIRE as of 25 Oct 2021
+%142 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2018szk}
 
@@ -2296,7 +2298,7 @@ doi:10.1016/j.physletb.2016.05.027
 Phys. Rev. Lett. \textbf{116}, no.22, 222302 (2016)
 doi:10.1103/PhysRevLett.116.222302
 [arXiv:1512.06104 [nucl-ex]].
-%232 citations counted in INSPIRE as of 25 Oct 2021
+%230 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2015cjr}
 
@@ -2692,7 +2694,7 @@ doi:10.1016/j.physletb.2015.05.033
 Phys. Lett. B \textbf{749}, 68-81 (2015)
 doi:10.1016/j.physletb.2015.07.054
 [arXiv:1503.00681 [nucl-ex]].
-%78 citations counted in INSPIRE as of 25 Oct 2021
+%76 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2015mjv}
 
@@ -2703,7 +2705,7 @@ doi:10.1016/j.physletb.2015.07.054
 Phys. Lett. B \textbf{746}, 1-14 (2015)
 doi:10.1016/j.physletb.2015.04.039
 [arXiv:1502.01689 [nucl-ex]].
-%173 citations counted in INSPIRE as of 25 Oct 2021
+%171 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2015hav}
 
@@ -2978,7 +2980,7 @@ doi:10.1140/epjc/s10052-014-2974-4
 Int. J. Mod. Phys. A \textbf{29}, 1430044 (2014)
 doi:10.1142/S0217751X14300440
 [arXiv:1402.4476 [nucl-ex]].
-%745 citations counted in INSPIRE as of 25 Oct 2021
+%744 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2014juv}
 
@@ -3000,7 +3002,7 @@ doi:10.1016/j.physletb.2014.07.011
 JHEP \textbf{03}, 013 (2014)
 doi:10.1007/JHEP03(2014)013
 [arXiv:1311.0633 [nucl-ex]].
-%177 citations counted in INSPIRE as of 25 Oct 2021
+%175 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2013osk}
 
@@ -3133,7 +3135,7 @@ doi:10.1103/PhysRevLett.111.232302
 JINST \textbf{8}, P10016 (2013)
 doi:10.1088/1748-0221/8/10/P10016
 [arXiv:1306.3130 [nucl-ex]].
-%272 citations counted in INSPIRE as of 25 Oct 2021
+%270 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2013wjo}
 
@@ -3320,7 +3322,7 @@ doi:10.1140/epjc/s10052-013-2456-0
 Phys. Lett. B \textbf{720}, 52-62 (2013)
 doi:10.1016/j.physletb.2013.01.051
 [arXiv:1208.2711 [hep-ex]].
-%417 citations counted in INSPIRE as of 25 Oct 2021
+%415 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2012ovd}
 
@@ -3697,7 +3699,7 @@ doi:10.1140/epjc/s10052-011-1594-5
 Phys. Rev. Lett. \textbf{106}, 032301 (2011)
 doi:10.1103/PhysRevLett.106.032301
 [arXiv:1012.1657 [nucl-ex]].
-%709 citations counted in INSPIRE as of 25 Oct 2021
+%707 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2010yje}
 
@@ -3796,7 +3798,7 @@ doi:10.1140/epjc/s10052-010-1339-x
 JINST \textbf{5}, P03003 (2010)
 doi:10.1088/1748-0221/5/03/P03003
 [arXiv:1001.0502 [physics.ins-det]].
-%287 citations counted in INSPIRE as of 25 Oct 2021
+%285 citations counted in INSPIRE as of 25 Oct 2021
 
 \cite{ALICE:2009wpl}
 

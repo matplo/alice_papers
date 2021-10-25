@@ -1,4 +1,4 @@
-   * Generated on 2021-Oct-25 00:47 UTC  .
+   * Generated on 2021-Oct-25 08:47 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Investigating charm production and fragmentation via azimuthal correlations of prompt D mesons with charged particles in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2110.10043v1][2110.10043]]|[[https://inspirehep.net/literature/1946828][1946828]]|%RED%Submitted%ENDCOLOR%|352|
@@ -24,7 +24,7 @@
 |LF|Measurement of K\(^{*}\)(892)\(^{\mathrm{\pm}}\) production in inelastic pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.05760v1][2105.05760]]|[[https://inspirehep.net/literature/1863048][1863048]]|%RED%Submitted%ENDCOLOR%|332|
 |CF|Charged-particle multiplicity fluctuations in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.05745v1][2105.05745]]|[[https://inspirehep.net/literature/1863044][1863044]]|%RED%Submitted%ENDCOLOR%|331|
 |CF|Kaon-proton strong interaction at low relative momentum via femtoscopy in Pb-Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.05683v1][2105.05683]]|[[https://inspirehep.net/literature/1863041][1863041]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136708][Phys. Lett. B 822]]%ENDCOLOR%|330|
-|HF|Measurement of the production cross section of prompt \(\Xi^0_{\rm c}\) baryons at midrapidity in pp collisions at \(\sqrt{s}\) = 5.02 !TeV|pp|[[http://arxiv.org/abs/2105.05616v1][2105.05616]]|[[https://inspirehep.net/literature/1863039][1863039]]|%RED%Submitted%ENDCOLOR%|329|
+|HF|Measurement of the production cross section of prompt \(\Xi^0_{\rm c}\) baryons at midrapidity in pp collisions at \(\sqrt{s}\) = 5.02 !TeV|pp|[[http://arxiv.org/abs/2105.05616v1][2105.05616]]|[[https://inspirehep.net/literature/1863039][1863039]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2021)159][JHEP 10]]%ENDCOLOR%|329|
 |CF|Experimental evidence for an attractive p-\(\phi\) interaction|pp|[[http://arxiv.org/abs/2105.05578v1][2105.05578]]|[[https://inspirehep.net/literature/1863040][1863040]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.127.172301][Phys. Rev. Lett. 127]]%ENDCOLOR%|328|
 |CF|Investigating the role of strangeness in baryon\(-\)antibaryon annihilation at the LHC|pp|[[http://arxiv.org/abs/2105.05190v1][2105.05190]]|[[https://inspirehep.net/literature/1862795][1862795]]|%RED%Submitted%ENDCOLOR%|327|
 |HF|Measurement of the cross sections of \(\Xi^0_{\rm c}\) and \(\Xi^+_{\rm c}\) baryons and branching-fraction ratio BR(\(\Xi^0_{\rm c} \rightarrow \Xi^-{\rm e}^+ν_{\rm e}\))/BR(\(\Xi^0_{\rm c} \rightarrow \Xi^-\pi^+\)) in pp collisions at 13 !TeV|pp|[[http://arxiv.org/abs/2105.05187v1][2105.05187]]|[[https://inspirehep.net/literature/1862793][1862793]]|%RED%Submitted%ENDCOLOR%|326|

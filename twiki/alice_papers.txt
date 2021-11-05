@@ -1,4 +1,4 @@
-   * Generated on 2021-Nov-04 16:46 UTC  .
+   * Generated on 2021-Nov-05 00:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Investigating charm production and fragmentation via azimuthal correlations of prompt D mesons with charged particles in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2110.10043v1][2110.10043]]|[[https://inspirehep.net/literature/1946828][1946828]]|%RED%Submitted%ENDCOLOR%|352|

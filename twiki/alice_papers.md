@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Characterizing the initial conditions of heavy-ion collisions at the LHC with mean transverse momentum and anisotropic flow correlations|PbPb,XeXe|[2111.06106](http://arxiv.org/abs/2111.06106v1){: target="_blank"}|[1966120](https://inspirehep.net/literature/1966120){: target="_blank"}|Submitted|353|
 |HF|Investigating charm production and fragmentation via azimuthal correlations of prompt D mesons with charged particles in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2110.10043](http://arxiv.org/abs/2110.10043v1){: target="_blank"}|[1946828](https://inspirehep.net/literature/1946828){: target="_blank"}|Submitted|352|
 |LF|\\(\mathrm\{K\}^\{*\}(\mathrm\{892\})^\{0\}\\) and \\(\mathrm\{\\\(\phi(1020)\\)\}\\) production in p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 8.16 TeV|pPb|[2110.10042](http://arxiv.org/abs/2110.10042v1){: target="_blank"}|[1946970](https://inspirehep.net/literature/1946970){: target="_blank"}|Submitted|351|
 |HF|Measurement of prompt \\(\rm\{D_\{s\}^\{+\}\}\\)-meson production and azimuthal anisotropy in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2110.10006](http://arxiv.org/abs/2110.10006v1){: target="_blank"}|[1946931](https://inspirehep.net/literature/1946931){: target="_blank"}|Submitted|350|

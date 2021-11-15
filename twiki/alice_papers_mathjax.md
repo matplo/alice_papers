@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|K\\(^0_\{\rm S\}\\)K\\(^0_\{\rm S\}\\) and K\\(^0_\{\rm S\}\\)K\\(^\pm\\) femtoscopy in pp collisions at \\(\sqrt\{s\}=\\) 5.02 and 13 TeV|pp|[2111.06611](http://arxiv.org/abs/2111.06611v1){: target="_blank"}|[1967109](https://inspirehep.net/literature/1967109){: target="_blank"}|Submitted|354|
 |CF|Characterizing the initial conditions of heavy-ion collisions at the LHC with mean transverse momentum and anisotropic flow correlations|PbPb,XeXe|[2111.06106](http://arxiv.org/abs/2111.06106v1){: target="_blank"}|[1966120](https://inspirehep.net/literature/1966120){: target="_blank"}|Submitted|353|
 |HF|Investigating charm production and fragmentation via azimuthal correlations of prompt D mesons with charged particles in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2110.10043](http://arxiv.org/abs/2110.10043v1){: target="_blank"}|[1946828](https://inspirehep.net/literature/1946828){: target="_blank"}|Submitted|352|
 |LF|\\(\mathrm\{K\}^\{*\}(\mathrm\{892\})^\{0\}\\) and \\(\mathrm\{\\\(\\(\phi(1020)\)\\)\}\\) production in p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 8.16 TeV|pPb|[2110.10042](http://arxiv.org/abs/2110.10042v1){: target="_blank"}|[1946970](https://inspirehep.net/literature/1946970){: target="_blank"}|Submitted|351|

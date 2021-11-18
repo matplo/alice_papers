@@ -480,7 +480,7 @@ DOI link: https://doi.org/10.1088/1748-0221/16/03/P03022
  
 Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at $\sqrt{s_{NN}}$ = 8.16 TeV
 Date on arXiv: 2021.04.07
-Link: http://arxiv.org/abs/2104.03116v1
+Link: http://arxiv.org/abs/2104.03116v2
 Inspire: https://inspirehep.net/literature/1856529
 DOI link: N/A
  

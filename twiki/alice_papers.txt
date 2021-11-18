@@ -1,4 +1,4 @@
-   * Generated on 2021-Nov-18 00:46 UTC  .
+   * Generated on 2021-Nov-18 08:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|K$^0_{\rm S}$K$^0_{\rm S}$ and K$^0_{\rm S}$K$^\pm$ femtoscopy in pp collisions at $\sqrt{s}=$ 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2111.06611v1][2111.06611]]|[[https://inspirehep.net/literature/1967109][1967109]]|%RED%Submitted%ENDCOLOR%|354|
@@ -35,7 +35,7 @@
 |JE|Production of $Λ$ and ${\rm K}^{0}_{\rm S}$ in jets in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5$ !TeV and pp collisions at $\sqrt{s} = 7$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.04890v1][2105.04890]]|[[https://inspirehep.net/literature/1862789][1862789]]|%RED%Submitted%ENDCOLOR%|323|
 |LF|Energy dependence of $φ$ meson production at forward rapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.00713v1][2105.00713]]|[[https://inspirehep.net/literature/1861688][1861688]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-021-09545-3][Eur. Phys. J. C 81]]%ENDCOLOR%|322|
 |CF|Exploring the N$Λ$-N$Σ$ coupled system with high precision correlation techniques at the LHC|pp|[[http://arxiv.org/abs/2104.04427v1][2104.04427]]|[[https://inspirehep.net/literature/1857549][1857549]]|%RED%Submitted%ENDCOLOR%|321|
-|GA|Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at $\sqrt{s_{NN}}$ = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2104.03116v1][2104.03116]]|[[https://inspirehep.net/literature/1856529][1856529]]|%RED%Submitted%ENDCOLOR%|320|
+|GA|Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at $\sqrt{s_{NN}}$ = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2104.03116v2][2104.03116]]|[[https://inspirehep.net/literature/1856529][1856529]]|%RED%Submitted%ENDCOLOR%|320|
 |HF|Measurement of beauty and charm production in pp collisions at $\sqrt{s}=5.02$ !TeV via non-prompt and prompt D mesons|pp|[[http://arxiv.org/abs/2102.13601v2][2102.13601]]|[[https://inspirehep.net/literature/1848990][1848990]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2021)220][JHEP 05]]%ENDCOLOR%|319|
 |CF|Measurements of mixed harmonic cumulants in Pb-Pb collisions at $\mathbf{\sqrt{{\textit s}_{\rm NN}}}=5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2102.12180v2][2102.12180]]|[[https://inspirehep.net/literature/1848215][1848215]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136354][Phys. Lett. B 818]]%ENDCOLOR%|318|
 |UD|First measurement of the ${\mathbf{ &#124; \textit t &#124; }}$-dependence of coherent $\mathbf{\rm{J/ψ}}$ photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2101.04623v2][2101.04623]]|[[https://inspirehep.net/literature/1840600][1840600]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136280][Phys. Lett. B 817]]%ENDCOLOR%|317|

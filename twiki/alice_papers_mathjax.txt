@@ -1,4 +1,4 @@
-   * Generated on 2021-Nov-24 00:45 UTC  .
+   * Generated on 2021-Nov-24 08:45 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|K\(^0_{\rm S}\)K\(^0_{\rm S}\) and K\(^0_{\rm S}\)K\(^\pm\) femtoscopy in pp collisions at \(\sqrt{s}=\) 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2111.06611v1][2111.06611]]|[[https://inspirehep.net/literature/1967109][1967109]]|%RED%Submitted%ENDCOLOR%|354|
@@ -24,7 +24,7 @@
 |JE|Direct observation of the dead-cone effect in QCD|pp|[[http://arxiv.org/abs/2106.05713v1][2106.05713]]|[[https://inspirehep.net/literature/1867966][1867966]]|%RED%Submitted%ENDCOLOR%|334|
 |HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.06335v1][2105.06335]]|[[https://inspirehep.net/literature/1863128][1863128]]|%RED%Submitted%ENDCOLOR%|333|
 |LF|Measurement of K\(^{*}\)(892)\(^{\mathrm{\pm}}\) production in inelastic pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.05760v1][2105.05760]]|[[https://inspirehep.net/literature/1863048][1863048]]|%RED%Submitted%ENDCOLOR%|332|
-|CF|Charged-particle multiplicity fluctuations in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.05745v1][2105.05745]]|[[https://inspirehep.net/literature/1863044][1863044]]|%RED%Submitted%ENDCOLOR%|331|
+|CF|Charged-particle multiplicity fluctuations in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.05745v1][2105.05745]]|[[https://inspirehep.net/literature/1863044][1863044]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-021-09784-4][Eur. Phys. J. C 81]]%ENDCOLOR%|331|
 |CF|Kaon-proton strong interaction at low relative momentum via femtoscopy in Pb-Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.05683v1][2105.05683]]|[[https://inspirehep.net/literature/1863041][1863041]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136708][Phys. Lett. B 822]]%ENDCOLOR%|330|
 |HF|Measurement of the production cross section of prompt \(\Xi^0_{\rm c}\) baryons at midrapidity in pp collisions at \(\sqrt{s}\) = 5.02 !TeV|pp|[[http://arxiv.org/abs/2105.05616v2][2105.05616]]|[[https://inspirehep.net/literature/1863039][1863039]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2021)159][JHEP 10]]%ENDCOLOR%|329|
 |CF|Experimental evidence for an attractive p-\(\phi\) interaction|pp|[[http://arxiv.org/abs/2105.05578v1][2105.05578]]|[[https://inspirehep.net/literature/1863040][1863040]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.127.172301][Phys. Rev. Lett. 127]]%ENDCOLOR%|328|

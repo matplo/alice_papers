@@ -41,7 +41,7 @@
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurement of prompt $\rm{D_{s}^{+}}$-meson production and azimuthal anisotropy in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
 [arXiv:2110.10006 [nucl-ex]].
-%0 citations counted in INSPIRE as of 24 Nov 2021
+%1 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2021rxa}
 
@@ -50,7 +50,7 @@
  S.~Acharya \textit{et al.} [ALICE],
 %``Prompt D$^{0}$, D$^{+}$, and D$^{*+}$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
 [arXiv:2110.09420 [nucl-ex]].
-%1 citations counted in INSPIRE as of 24 Nov 2021
+%2 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2021hjb}
 
@@ -178,7 +178,7 @@ doi:10.1007/JHEP10(2021)152
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurement of prompt D$^{0}$, $\Lambda_{c}^{+}$, and $\Sigma_{c}^{0,++}$(2455) production in pp collisions at $\sqrt{s} = 13$ TeV,''
 [arXiv:2106.08278 [hep-ex]].
-%6 citations counted in INSPIRE as of 24 Nov 2021
+%8 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2021aqk}
 
@@ -196,7 +196,7 @@ doi:10.1007/JHEP10(2021)152
  S.~Acharya \textit{et al.} [ALICE],
 %``Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC,''
 [arXiv:2105.06335 [nucl-ex]].
-%14 citations counted in INSPIRE as of 24 Nov 2021
+%16 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2021xyh}
 
@@ -212,7 +212,9 @@ doi:10.1007/JHEP10(2021)152
 \bibitem{ALICE:2021hkc}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Charged-particle multiplicity fluctuations in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV,''
+%``Charged-particle multiplicity fluctuations in Pb\textendash{}Pb collisions at $\sqrt{s_{\mathrm {NN}}}$ ~=~2.76~TeV,''
+Eur. Phys. J. C \textbf{81}, no.11, 1012 (2021)
+doi:10.1140/epjc/s10052-021-09784-4
 [arXiv:2105.05745 [nucl-ex]].
 %0 citations counted in INSPIRE as of 24 Nov 2021
 
@@ -236,7 +238,7 @@ doi:10.1016/j.physletb.2021.136708
 JHEP \textbf{10}, 159 (2021)
 doi:10.1007/JHEP10(2021)159
 [arXiv:2105.05616 [nucl-ex]].
-%6 citations counted in INSPIRE as of 24 Nov 2021
+%8 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2021cpv}
 
@@ -265,7 +267,7 @@ doi:10.1103/PhysRevLett.127.172301
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurement of the cross sections of $\Xi^0_{\rm c}$ and $\Xi^+_{\rm c}$ baryons and branching-fraction ratio BR($\Xi^0_{\rm c} \rightarrow \Xi^-{\rm e}^+\nu_{\rm e}$)/BR($\Xi^0_{\rm c} \rightarrow \Xi^-\pi^+$) in pp collisions at 13 TeV,''
 [arXiv:2105.05187 [nucl-ex]].
-%14 citations counted in INSPIRE as of 24 Nov 2021
+%16 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2021lmn}
 
@@ -332,7 +334,7 @@ doi:10.1140/epjc/s10052-021-09545-3
 JHEP \textbf{05}, 220 (2021)
 doi:10.1007/JHEP05(2021)220
 [arXiv:2102.13601 [nucl-ex]].
-%20 citations counted in INSPIRE as of 24 Nov 2021
+%22 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2021adw}
 
@@ -431,7 +433,7 @@ doi:10.1088/1748-0221/16/03/P03022
 Phys. Rev. C \textbf{104}, no.5, 054905 (2021)
 doi:10.1103/PhysRevC.104.054905
 [arXiv:2011.06079 [nucl-ex]].
-%16 citations counted in INSPIRE as of 24 Nov 2021
+%18 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2020wfu}
 
@@ -442,7 +444,7 @@ doi:10.1103/PhysRevC.104.054905
 Phys. Rev. Lett. \textbf{127}, no.20, 202301 (2021)
 doi:10.1103/PhysRevLett.127.202301
 [arXiv:2011.06078 [nucl-ex]].
-%19 citations counted in INSPIRE as of 24 Nov 2021
+%20 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2020pga}
 
@@ -495,7 +497,7 @@ doi:10.1016/j.physletb.2021.136558
 Eur. Phys. J. C \textbf{81}, no.7, 630 (2021)
 doi:10.1140/epjc/s10052-021-09349-5
 [arXiv:2009.09434 [nucl-ex]].
-%5 citations counted in INSPIRE as of 24 Nov 2021
+%6 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2020tsj}
 
@@ -748,7 +750,7 @@ doi:10.1140/epjc/s10052-020-8256-4
 Eur. Phys. J. C \textbf{80}, no.8, 693 (2020)
 doi:10.1140/epjc/s10052-020-8125-1
 [arXiv:2003.02394 [nucl-ex]].
-%20 citations counted in INSPIRE as of 24 Nov 2021
+%21 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2020ugp}
 
@@ -1012,7 +1014,7 @@ doi:10.1007/JHEP02(2020)041
 Eur. Phys. J. C \textbf{80}, no.2, 167 (2020)
 doi:10.1140/epjc/s10052-020-7673-8
 [arXiv:1908.01861 [nucl-ex]].
-%39 citations counted in INSPIRE as of 24 Nov 2021
+%40 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2019onw}
 
@@ -1100,7 +1102,7 @@ doi:10.1007/JHEP10(2019)084
 Phys. Lett. B \textbf{797}, 134822 (2019)
 doi:10.1016/j.physletb.2019.134822
 [arXiv:1905.07209 [nucl-ex]].
-%37 citations counted in INSPIRE as of 24 Nov 2021
+%38 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2019dfi}
 
@@ -1243,7 +1245,7 @@ doi:10.1088/1748-0221/14/05/P05025
 Eur. Phys. J. C \textbf{79}, no.5, 388 (2019)
 doi:10.1140/epjc/s10052-019-6873-6
 [arXiv:1901.07979 [nucl-ex]].
-%49 citations counted in INSPIRE as of 24 Nov 2021
+%50 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2019bdw}
 
@@ -1309,7 +1311,7 @@ doi:10.1007/JHEP03(2019)169
 Phys. Lett. B \textbf{793}, 212-223 (2019)
 doi:10.1016/j.physletb.2019.04.046
 [arXiv:1809.10922 [nucl-ex]].
-%53 citations counted in INSPIRE as of 24 Nov 2021
+%54 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2018gif}
 
@@ -1364,7 +1366,7 @@ doi:10.1103/PhysRevD.99.012016
 Phys. Rev. C \textbf{99}, no.2, 024906 (2019)
 doi:10.1103/PhysRevC.99.024906
 [arXiv:1807.11321 [nucl-ex]].
-%113 citations counted in INSPIRE as of 24 Nov 2021
+%114 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2018dxf}
 
@@ -1595,7 +1597,7 @@ doi:10.1016/j.physletb.2018.06.059
 JHEP \textbf{10}, 174 (2018)
 doi:10.1007/JHEP10(2018)174
 [arXiv:1804.09083 [nucl-ex]].
-%121 citations counted in INSPIRE as of 24 Nov 2021
+%122 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2018afp}
 
@@ -1694,7 +1696,7 @@ doi:10.1140/epjc/s10052-018-6013-8
 JHEP \textbf{04}, 108 (2018)
 doi:10.1007/JHEP04(2018)108
 [arXiv:1712.09581 [nucl-ex]].
-%102 citations counted in INSPIRE as of 24 Nov 2021
+%103 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2017jsh}
 
@@ -2135,7 +2137,7 @@ doi:10.1016/j.physletb.2016.12.064
 Nature Phys. \textbf{13}, 535-539 (2017)
 doi:10.1038/nphys4111
 [arXiv:1606.07424 [nucl-ex]].
-%452 citations counted in INSPIRE as of 24 Nov 2021
+%453 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2016cti}
 
@@ -2245,7 +2247,7 @@ doi:10.1007/JHEP06(2016)050
 JHEP \textbf{08}, 078 (2016)
 doi:10.1007/JHEP08(2016)078
 [arXiv:1602.07240 [nucl-ex]].
-%48 citations counted in INSPIRE as of 24 Nov 2021
+%49 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2016zzl}
 
@@ -2377,7 +2379,7 @@ doi:10.1140/epjc/s10052-016-3987-y
 Eur. Phys. J. C \textbf{77}, no.1, 33 (2017)
 doi:10.1140/epjc/s10052-016-4571-1
 [arXiv:1509.07541 [nucl-ex]].
-%115 citations counted in INSPIRE as of 24 Nov 2021
+%116 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2015zhm}
 
@@ -2652,7 +2654,7 @@ doi:10.1007/JHEP09(2015)170
 JHEP \textbf{09}, 148 (2015)
 doi:10.1007/JHEP09(2015)148
 [arXiv:1505.00664 [nucl-ex]].
-%109 citations counted in INSPIRE as of 24 Nov 2021
+%110 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2015nvt}
 
@@ -2795,7 +2797,7 @@ doi:10.1103/PhysRevD.91.112012
 Phys. Lett. B \textbf{740}, 105-117 (2015)
 doi:10.1016/j.physletb.2014.11.041
 [arXiv:1410.2234 [nucl-ex]].
-%95 citations counted in INSPIRE as of 24 Nov 2021
+%94 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2014gvd}
 
@@ -3004,7 +3006,7 @@ doi:10.1140/epjc/s10052-014-2974-4
 Int. J. Mod. Phys. A \textbf{29}, 1430044 (2014)
 doi:10.1142/S0217751X14300440
 [arXiv:1402.4476 [nucl-ex]].
-%753 citations counted in INSPIRE as of 24 Nov 2021
+%754 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2014juv}
 
@@ -3093,7 +3095,7 @@ doi:10.1016/j.physletb.2014.05.052
 Phys. Rev. Lett. \textbf{111}, 222301 (2013)
 doi:10.1103/PhysRevLett.111.222301
 [arXiv:1307.5530 [nucl-ex]].
-%344 citations counted in INSPIRE as of 24 Nov 2021
+%345 citations counted in INSPIRE as of 24 Nov 2021
 
 \cite{ALICE:2013snk}
 

@@ -1,6 +1,7 @@
-   * Generated on 2021-Dec-19 08:46 UTC  .
+   * Generated on 2021-Dec-19 10:13 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Constraining hadronization mechanisms with $\rm Λ_{\rm c}^{+}$/D$^0$ production ratios in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2112.08156v1][2112.08156]]|[[https://inspirehep.net/literature/1990765][1990765]]|%RED%Submitted%ENDCOLOR%|357|
 |LF|Production of light (anti)nuclei in pp collisions at $\sqrt{s}~=~5.02$ !TeV|pp|[[http://arxiv.org/abs/2112.00610v1][2112.00610]]|[[https://inspirehep.net/literature/1981685][1981685]]|%RED%Submitted%ENDCOLOR%|356|
 |HF|Observation of a multiplicity dependence in the $p_{\rm T}$-differential charm baryon-to-meson ratios in proton-proton collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2111.11948v1][2111.11948]]|[[https://inspirehep.net/literature/1973854][1973854]]|%RED%Submitted%ENDCOLOR%|355|
 |CF|K$^0_{\rm S}$K$^0_{\rm S}$ and K$^0_{\rm S}$K$^\pm$ femtoscopy in pp collisions at $\sqrt{s}=$ 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2111.06611v1][2111.06611]]|[[https://inspirehep.net/literature/1967109][1967109]]|%RED%Submitted%ENDCOLOR%|354|

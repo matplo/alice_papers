@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Constraining hadronization mechanisms with \\(\rm \Lambda_\{\rm c\}^\{+\}\\)/D\\(^0\\) production ratios in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2112.08156](http://arxiv.org/abs/2112.08156v1){: target="_blank"}|[1990765](https://inspirehep.net/literature/1990765){: target="_blank"}|Submitted|357|
 |LF|Production of light (anti)nuclei in pp collisions at \\(\sqrt\{s\}~=~5.02\\) TeV|pp|[2112.00610](http://arxiv.org/abs/2112.00610v1){: target="_blank"}|[1981685](https://inspirehep.net/literature/1981685){: target="_blank"}|Submitted|356|
 |HF|Observation of a multiplicity dependence in the \\(p_\{\rm T\}\\)-differential charm baryon-to-meson ratios in proton-proton collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2111.11948](http://arxiv.org/abs/2111.11948v1){: target="_blank"}|[1973854](https://inspirehep.net/literature/1973854){: target="_blank"}|Submitted|355|
 |CF|K\\(^0_\{\rm S\}\\)K\\(^0_\{\rm S\}\\) and K\\(^0_\{\rm S\}\\)K\\(^\pm\\) femtoscopy in pp collisions at \\(\sqrt\{s\}=\\) 5.02 and 13 TeV|pp|[2111.06611](http://arxiv.org/abs/2111.06611v1){: target="_blank"}|[1967109](https://inspirehep.net/literature/1967109){: target="_blank"}|Submitted|354|

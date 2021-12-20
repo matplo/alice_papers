@@ -1,4 +1,4 @@
-   * Generated on 2021-Dec-19 16:47 UTC  .
+   * Generated on 2021-Dec-20 00:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Constraining hadronization mechanisms with \(\rm \Lambda_{\rm c}^{+}\)/D\(^0\) production ratios in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2112.08156v1][2112.08156]]|[[https://inspirehep.net/literature/1990765][1990765]]|%RED%Submitted%ENDCOLOR%|357|

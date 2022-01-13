@@ -500,7 +500,7 @@ Charm-quark fragmentation fractions and production cross section at midrapidity 
 Date on arXiv: 2021.05.13
 Link: http://arxiv.org/abs/2105.06335v1
 Inspire: https://inspirehep.net/literature/1863128
-DOI link: N/A
+DOI link: https://doi.org/10.1103/PhysRevD.105.L011103
  
 Direct observation of the dead-cone effect in QCD
 Date on arXiv: 2021.06.10

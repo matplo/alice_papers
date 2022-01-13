@@ -1,4 +1,4 @@
-   * Generated on 2022-Jan-13 00:46 UTC  .
+   * Generated on 2022-Jan-13 08:46 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Neutral to charged kaon yield fluctuations in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76!TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2112.09482v1][2112.09482]]|[[https://inspirehep.net/literature/1993200][1993200]]|%RED%Submitted%ENDCOLOR%|359|
@@ -17,7 +17,7 @@
 |DQ|Inclusive quarkonium production in pp collisions at $\sqrt{s} = 5.02$ !TeV|pp|[[http://arxiv.org/abs/2109.15240v1][2109.15240]]|[[https://inspirehep.net/literature/1935680][1935680]]|%RED%Submitted%ENDCOLOR%|346|
 |LF|Production of light (anti)nuclei in pp collisions at $\sqrt{s} = 13$!TeV|pp|[[http://arxiv.org/abs/2109.13026v1][2109.13026]]|[[https://inspirehep.net/literature/1928822][1928822]]|%RED%Submitted%ENDCOLOR%|345|
 |DQ|Prompt and non-prompt J/$ψ$ production cross sections at midrapidity in proton-proton collisions at $\sqrt{s}$ = 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2108.02523v1][2108.02523]]|[[https://inspirehep.net/literature/1899703][1899703]]|%RED%Submitted%ENDCOLOR%|344|
-|DQ|Inclusive J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s}~=~13$ !TeV|pp|[[http://arxiv.org/abs/2108.01906v1][2108.01906]]|[[https://inspirehep.net/literature/1898832][1898832]]|%RED%Submitted%ENDCOLOR%|343|
+|DQ|Inclusive J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s}~=~13$ !TeV|pp|[[http://arxiv.org/abs/2108.01906v2][2108.01906]]|[[https://inspirehep.net/literature/1898832][1898832]]|%RED%Submitted%ENDCOLOR%|343|
 |JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.12984v1][2107.12984]]|[[https://inspirehep.net/literature/1893479][1893479]]|%RED%Submitted%ENDCOLOR%|342|
 |JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at $\sqrt{s} = 5.02$ !TeV|pp|[[http://arxiv.org/abs/2107.11303v1][2107.11303]]|[[https://inspirehep.net/literature/1891385][1891385]]|%RED%Submitted%ENDCOLOR%|341|
 |CF|Polarization of $Λ$ and $\overlineΛ$ hyperons along the beam direction in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.11183v1][2107.11183]]|[[https://inspirehep.net/literature/1891389][1891389]]|%RED%Submitted%ENDCOLOR%|340|
@@ -25,7 +25,7 @@
 |LF|Hypertriton production in p-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.10627v1][2107.10627]]|[[https://inspirehep.net/literature/1889905][1889905]]|%RED%Submitted%ENDCOLOR%|338|
 |CF|Anisotropic flow of identified hadrons in Xe-Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44!TeV|%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2107.10592v1][2107.10592]]|[[https://inspirehep.net/literature/1889989][1889989]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2021)152][JHEP 10]]%ENDCOLOR%|337|
 |LF|Production of K$^{*}(892)^{0}$ and $φ(1020)$ in pp and Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2106.13113v1][2106.13113]]|[[https://inspirehep.net/literature/1870141][1870141]]|%RED%Submitted%ENDCOLOR%|336|
-|HF|Measurement of prompt D$^{0}$, $Λ_{c}^{+}$, and $Σ_{c}^{0,++}$(2455) production in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2106.08278v1][2106.08278]]|[[https://inspirehep.net/literature/1868463][1868463]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.128.012001][Phys. Rev. Lett. 128]]%ENDCOLOR%|335|
+|HF|Measurement of prompt D$^{0}$, $Λ_{c}^{+}$, and $Σ_{c}^{0,++}$(2455) production in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2106.08278v2][2106.08278]]|[[https://inspirehep.net/literature/1868463][1868463]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.128.012001][Phys. Rev. Lett. 128]]%ENDCOLOR%|335|
 |JE|Direct observation of the dead-cone effect in QCD|pp|[[http://arxiv.org/abs/2106.05713v1][2106.05713]]|[[https://inspirehep.net/literature/1867966][1867966]]|%RED%Submitted%ENDCOLOR%|334|
 |HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.06335v1][2105.06335]]|[[https://inspirehep.net/literature/1863128][1863128]]|%RED%Submitted%ENDCOLOR%|333|
 |LF|Measurement of K$^{*}$(892)$^{\mathrm{\pm}}$ production in inelastic pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.05760v1][2105.05760]]|[[https://inspirehep.net/literature/1863048][1863048]]|%RED%Submitted%ENDCOLOR%|332|

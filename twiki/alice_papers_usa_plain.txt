@@ -492,13 +492,13 @@ DOI link: N/A
  
 First measurements of $N$-subjettiness in central Pb$-$Pb collisions at ${\sqrt{\it{s}_{\rm {NN}}}} = 2.76$ TeV
 Date on arXiv: 2021.05.11
-Link: http://arxiv.org/abs/2105.04936v1
+Link: http://arxiv.org/abs/2105.04936v2
 Inspire: https://inspirehep.net/literature/1862792
-DOI link: N/A
+DOI link: https://doi.org/10.1007/JHEP10(2021)003
  
 Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC
 Date on arXiv: 2021.05.13
-Link: http://arxiv.org/abs/2105.06335v1
+Link: http://arxiv.org/abs/2105.06335v2
 Inspire: https://inspirehep.net/literature/1863128
 DOI link: https://doi.org/10.1103/PhysRevD.105.L011103
  

@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|First study of the two-body scattering involving charm hadrons|pp|[2201.05352](http://arxiv.org/abs/2201.05352v1){: target="_blank"}|[2011222](https://inspirehep.net/literature/2011222){: target="_blank"}|Submitted|360|
 |CF|Neutral to charged kaon yield fluctuations in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 2.76TeV|PbPb|[2112.09482](http://arxiv.org/abs/2112.09482v1){: target="_blank"}|[1993200](https://inspirehep.net/literature/1993200){: target="_blank"}|Submitted|359|
 |DQ|Forward rapidity J/\\(\psi\\) production as a function of charged-particle multiplicity in pp collisions at \\(\sqrt\{s\} =\\) 5.02 and 13 TeV|pp|[2112.09433](http://arxiv.org/abs/2112.09433v1){: target="_blank"}|[1992719](https://inspirehep.net/literature/1992719){: target="_blank"}|Submitted|358|
 |HF|Constraining hadronization mechanisms with \\(\rm \Lambda_\{\rm c\}^\{+\}\\)/D\\(^0\\) production ratios in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2112.08156](http://arxiv.org/abs/2112.08156v1){: target="_blank"}|[1990765](https://inspirehep.net/literature/1990765){: target="_blank"}|Submitted|357|

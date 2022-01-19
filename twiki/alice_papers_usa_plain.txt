@@ -408,7 +408,7 @@ DOI link: https://doi.org/10.1103/PhysRevC.101.044611
  
 Measurements of inclusive jet spectra in pp and central Pb-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV
 Date on arXiv: 2019.09.20
-Link: http://arxiv.org/abs/1909.09718v1
+Link: http://arxiv.org/abs/1909.09718v2
 Inspire: https://inspirehep.net/literature/1755387
 DOI link: https://doi.org/10.1103/PhysRevC.101.034911
  
@@ -468,7 +468,7 @@ DOI link: https://doi.org/10.1140/epjc/s10052-020-08651-y
  
 Jet-associated deuteron production in pp collisions at $\sqrt{s}=13$ TeV
 Date on arXiv: 2020.11.11
-Link: http://arxiv.org/abs/2011.05898v1
+Link: http://arxiv.org/abs/2011.05898v2
 Inspire: https://inspirehep.net/literature/1829410
 DOI link: https://doi.org/10.1016/j.physletb.2021.136440
  

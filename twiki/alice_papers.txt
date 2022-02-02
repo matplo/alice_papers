@@ -1,4 +1,4 @@
-   * Generated on 2022-Feb-02 08:48 UTC  .
+   * Generated on 2022-Feb-02 16:49 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|First study of the two-body scattering involving charm hadrons|pp|[[http://arxiv.org/abs/2201.05352v1][2201.05352]]|[[https://inspirehep.net/literature/2011222][2011222]]|%RED%Submitted%ENDCOLOR%|360|
@@ -14,7 +14,7 @@
 |HF|Measurement of prompt $\rm{D_{s}^{+}}$-meson production and azimuthal anisotropy in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.10006v1][2110.10006]]|[[https://inspirehep.net/literature/1946931][1946931]]|%RED%Submitted%ENDCOLOR%|350|
 |HF|Prompt D$^{0}$, D$^{+}$, and D$^{*+}$ production in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.09420v2][2110.09420]]|[[https://inspirehep.net/literature/1946131][1946131]]|%RED%Submitted%ENDCOLOR%|349|
 |CF|General balance functions of identified charged hadron pairs of $(π,{\rm K},{\rm p})$ in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06566v1][2110.06566]]|[[https://inspirehep.net/literature/1943964][1943964]]|%RED%Submitted%ENDCOLOR%|348|
-|HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06104v1][2110.06104]]|[[https://inspirehep.net/literature/1942023][1942023]]|%RED%Submitted%ENDCOLOR%|347|
+|HF|Measurement of inclusive charged-particle b-jet production in pp and p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2110.06104v1][2110.06104]]|[[https://inspirehep.net/literature/1942023][1942023]]|%GREEN%[[https://doi.org/10.1007/JHEP01(2022)178][JHEP 01]]%ENDCOLOR%|347|
 |DQ|Inclusive quarkonium production in pp collisions at $\sqrt{s} = 5.02$ !TeV|pp|[[http://arxiv.org/abs/2109.15240v1][2109.15240]]|[[https://inspirehep.net/literature/1935680][1935680]]|%RED%Submitted%ENDCOLOR%|346|
 |LF|Production of light (anti)nuclei in pp collisions at $\sqrt{s} = 13$!TeV|pp|[[http://arxiv.org/abs/2109.13026v1][2109.13026]]|[[https://inspirehep.net/literature/1928822][1928822]]|%GREEN%[[https://doi.org/10.1007/JHEP01(2022)106][JHEP 01]]%ENDCOLOR%|345|
 |DQ|Prompt and non-prompt J/$ψ$ production cross sections at midrapidity in proton-proton collisions at $\sqrt{s}$ = 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2108.02523v1][2108.02523]]|[[https://inspirehep.net/literature/1899703][1899703]]|%RED%Submitted%ENDCOLOR%|344|

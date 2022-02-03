@@ -1,7 +1,7 @@
-   * Generated on 2022-Feb-03 10:38 UTC  .
+   * Generated on 2022-Feb-03 16:49 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
-|HF|Measurement of beauty production via non-prompt ${\rm D}^{0}$ mesons in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2202.00815v1][2202.00815]]|[[-][0]]|%RED%Submitted%ENDCOLOR%|361|
+|HF|Measurement of beauty production via non-prompt ${\rm D}^{0}$ mesons in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2202.00815v1][2202.00815]]|[[https://inspirehep.net/literature/2025044][2025044]]|%RED%Submitted%ENDCOLOR%|361|
 |CF|First study of the two-body scattering involving charm hadrons|pp|[[http://arxiv.org/abs/2201.05352v1][2201.05352]]|[[https://inspirehep.net/literature/2011222][2011222]]|%RED%Submitted%ENDCOLOR%|360|
 |CF|Neutral to charged kaon yield fluctuations in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76!TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2112.09482v1][2112.09482]]|[[https://inspirehep.net/literature/1993200][1993200]]|%RED%Submitted%ENDCOLOR%|359|
 |DQ|Forward rapidity J/$ψ$ production as a function of charged-particle multiplicity in pp collisions at $\sqrt{s} =$ 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2112.09433v1][2112.09433]]|[[https://inspirehep.net/literature/1992719][1992719]]|%RED%Submitted%ENDCOLOR%|358|

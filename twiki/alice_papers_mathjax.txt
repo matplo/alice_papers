@@ -1,4 +1,4 @@
-   * Generated on 2022-Feb-02 16:49 UTC  .
+   * Generated on 2022-Feb-03 00:48 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|First study of the two-body scattering involving charm hadrons|pp|[[http://arxiv.org/abs/2201.05352v1][2201.05352]]|[[https://inspirehep.net/literature/2011222][2011222]]|%RED%Submitted%ENDCOLOR%|360|

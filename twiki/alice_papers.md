@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|First measurement of the absorption of \\(^\{3\}\overline\{\rm He\}\\) nuclei in matter and impact on their propagation in the galaxy|pp,PbPb|[2202.01549](http://arxiv.org/abs/2202.01549v1){: target="_blank"}|[2026264](https://inspirehep.net/literature/2026264){: target="_blank"}|Submitted|363|
+|JE|Multiplicity dependence of charged-particle jet production in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2202.01548](http://arxiv.org/abs/2202.01548v1){: target="_blank"}|[2026265](https://inspirehep.net/literature/2026265){: target="_blank"}|Submitted|362|
 |HF|Measurement of beauty production via non-prompt \\(\{\rm D\}^\{0\}\\) mesons in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2202.00815](http://arxiv.org/abs/2202.00815v1){: target="_blank"}|[2025044](https://inspirehep.net/literature/2025044){: target="_blank"}|Submitted|361|
 |CF|First study of the two-body scattering involving charm hadrons|pp|[2201.05352](http://arxiv.org/abs/2201.05352v1){: target="_blank"}|[2011222](https://inspirehep.net/literature/2011222){: target="_blank"}|Submitted|360|
 |CF|Neutral to charged kaon yield fluctuations in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 2.76TeV|PbPb|[2112.09482](http://arxiv.org/abs/2112.09482v1){: target="_blank"}|[1993200](https://inspirehep.net/literature/1993200){: target="_blank"}|Submitted|359|

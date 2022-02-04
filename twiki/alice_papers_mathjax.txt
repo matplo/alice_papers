@@ -1,4 +1,4 @@
-   * Generated on 2022-Feb-04 00:58 UTC  .
+   * Generated on 2022-Feb-04 08:49 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of beauty production via non-prompt \({\rm D}^{0}\) mesons in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2202.00815v1][2202.00815]]|[[https://inspirehep.net/literature/2025044][2025044]]|%RED%Submitted%ENDCOLOR%|361|

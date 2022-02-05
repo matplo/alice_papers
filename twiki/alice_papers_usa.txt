@@ -1,4 +1,4 @@
-   * Generated on 2022-Feb-04 17:15 UTC  .
+   * Generated on 2022-Feb-05 01:16 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.12984v1][2107.12984]]|[[https://inspirehep.net/literature/1893479][1893479]]|%RED%Submitted%ENDCOLOR%|88|
@@ -8,7 +8,7 @@
 |HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2105.06335v2][2105.06335]]|[[https://inspirehep.net/literature/1863128][1863128]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.105.L011103][Phys. Rev. D 105]]%ENDCOLOR%|84|
 |JE|First measurements of $N$-subjettiness in central Pb$-$Pb collisions at ${\sqrt{\it{s}_{\rm {NN}}}} = 2.76$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.04936v2][2105.04936]]|[[https://inspirehep.net/literature/1862792][1862792]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2021)003][JHEP 10]]%ENDCOLOR%|83|
 |JE|Production of $Λ$ and ${\rm K}^{0}_{\rm S}$ in jets in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5$ !TeV and pp collisions at $\sqrt{s} = 7$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2105.04890v1][2105.04890]]|[[https://inspirehep.net/literature/1862789][1862789]]|%RED%Submitted%ENDCOLOR%|82|
-|GA|Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at $\sqrt{s_{NN}}$ = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2104.03116v2][2104.03116]]|[[https://inspirehep.net/literature/1856529][1856529]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2022.136943][j. physletb. 2022. 136943]]%ENDCOLOR%|81|
+|GA|Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p-Pb collisions at $\sqrt{s_{NN}}$ = 8.16 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2104.03116v2][2104.03116]]|[[https://inspirehep.net/literature/1856529][1856529]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2022.136943][Phys. Lett. B 827]]%ENDCOLOR%|81|
 |MM|The upgrade of the ALICE TPC with GEMs and continuous readout|n/a|[[http://arxiv.org/abs/2012.09518v2][2012.09518]]|[[https://inspirehep.net/literature/1837171][1837171]]|%GREEN%[[https://doi.org/10.1088/1748-0221/16/03/P03022][JINST 16]]%ENDCOLOR%|80|
 |LF|Jet-associated deuteron production in pp collisions at $\sqrt{s}=13$ !TeV|pp|[[http://arxiv.org/abs/2011.05898v2][2011.05898]]|[[https://inspirehep.net/literature/1829410][1829410]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2021.136440][Phys. Lett. B 819]]%ENDCOLOR%|79|
 |LF|Production of $ω$ mesons in pp collisions at $\sqrt{s}$ = 7 !TeV|pp|[[http://arxiv.org/abs/2007.02208v2][2007.02208]]|[[https://inspirehep.net/literature/1805263][1805263]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-020-08651-y][Eur. Phys. J. C 80]]%ENDCOLOR%|78|

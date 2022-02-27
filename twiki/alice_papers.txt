@@ -1,4 +1,4 @@
-   * Generated on 2022-Feb-27 00:48 UTC  .
+   * Generated on 2022-Feb-27 08:48 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|First measurement of the absorption of $^{3}\overline{\rm He}$ nuclei in matter and impact on their propagation in the galaxy|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2202.01549v1][2202.01549]]|[[https://inspirehep.net/literature/2026264][2026264]]|%RED%Submitted%ENDCOLOR%|363|

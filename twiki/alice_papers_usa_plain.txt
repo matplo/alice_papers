@@ -484,9 +484,9 @@ Link: http://arxiv.org/abs/2104.03116v2
 Inspire: https://inspirehep.net/literature/1856529
 DOI link: https://doi.org/10.1016/j.physletb.2022.136943
  
-Production of $Λ$ and ${\rm K}^{0}_{\rm S}$ in jets in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5$ TeV and pp collisions at $\sqrt{s} = 7$ TeV
+Production of $Λ$ and ${\rm K}^{0}_{\rm S}$ in jets in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV and pp collisions at $\sqrt{s} = 7$ TeV
 Date on arXiv: 2021.05.11
-Link: http://arxiv.org/abs/2105.04890v1
+Link: http://arxiv.org/abs/2105.04890v2
 Inspire: https://inspirehep.net/literature/2048607
 DOI link: https://doi.org/10.1016/j.physletb.2022.136984
  

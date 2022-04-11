@@ -522,7 +522,7 @@ DOI link: N/A
  
 Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV
 Date on arXiv: 2021.07.27
-Link: http://arxiv.org/abs/2107.12984v1
+Link: http://arxiv.org/abs/2107.12984v2
 Inspire: https://inspirehep.net/literature/1893479
 DOI link: https://doi.org/10.1103/PhysRevLett.128.102001
  

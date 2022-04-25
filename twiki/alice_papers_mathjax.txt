@@ -1,6 +1,10 @@
-   * Generated on 2022-Apr-25 08:47 UTC  .
+   * Generated on 2022-Apr-25 12:10 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|DQ|Photoproduction of low-\(p_{\rm T}\) J/\(\psi\) from peripheral to central Pb\(-\)Pb collisions at 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10684v1][2204.10684]]|[[https://inspirehep.net/literature/2071183][2071183]]|%RED%Submitted%ENDCOLOR%|367|
+|HF|W\(^\pm\)-boson production in p\(-\)Pb collisions at \(\sqrt{s_{NN}} = 8.16\) !TeV and !PbPb collisions at \(\sqrt{s_{NN}} = 5.02\) !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10640v1][2204.10640]]|[[https://inspirehep.net/literature/2071184][2071184]]|%RED%Submitted%ENDCOLOR%|366|
+|MM|Underlying-event properties in pp and p\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10389v1][2204.10389]]|[[https://inspirehep.net/literature/2071174][2071174]]|%RED%Submitted%ENDCOLOR%|365|
+|HF|Measurement of beauty-strange meson production in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV via non-prompt \(\mathrm{D_s}^{+}\) mesons|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10386v1][2204.10386]]|[[https://inspirehep.net/literature/2071181][2071181]]|%RED%Submitted%ENDCOLOR%|364|
 |LF|First measurement of the absorption of \(^{3}\overline{\rm He}\) nuclei in matter and impact on their propagation in the galaxy|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2202.01549v1][2202.01549]]|[[https://inspirehep.net/literature/2026264][2026264]]|%RED%Submitted%ENDCOLOR%|363|
 |JE|Multiplicity dependence of charged-particle jet production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2202.01548v1][2202.01548]]|[[https://inspirehep.net/literature/2026265][2026265]]|%RED%Submitted%ENDCOLOR%|362|
 |HF|Measurement of beauty production via non-prompt \({\rm D}^{0}\) mesons in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2202.00815v1][2202.00815]]|[[https://inspirehep.net/literature/2025044][2025044]]|%RED%Submitted%ENDCOLOR%|361|

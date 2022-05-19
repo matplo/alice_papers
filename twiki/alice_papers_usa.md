@@ -1,7 +1,7 @@
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
 |JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,PbPb|[2107.12984](http://arxiv.org/abs/2107.12984v2)|[1893479](https://inspirehep.net/literature/1893479)|[Phys. Rev. Lett. 128](https://doi.org/10.1103/PhysRevLett.128.102001)|88|
-|JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2107.11303](http://arxiv.org/abs/2107.11303v1)|[1891385](https://inspirehep.net/literature/1891385)|Submitted|87|
+|JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2107.11303](http://arxiv.org/abs/2107.11303v1)|[1891385](https://inspirehep.net/literature/1891385)|[JHEP 05](https://doi.org/10.1007/JHEP05(2022)061)|87|
 |CF|Polarization of \\(\Lambda\\) and \\(\overline\Lambda\\) hyperons along the beam direction in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2107.11183](http://arxiv.org/abs/2107.11183v1)|[1891389](https://inspirehep.net/literature/1891389)|[Phys. Rev. Lett. 128](https://doi.org/10.1103/PhysRevLett.128.172005)|86|
 |JE|Direct observation of the dead-cone effect in QCD|pp|[2106.05713](http://arxiv.org/abs/2106.05713v1)|[1867966](https://inspirehep.net/literature/1867966)|Submitted|85|
 |HF|Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC|pp|[2105.06335](http://arxiv.org/abs/2105.06335v2)|[1863128](https://inspirehep.net/literature/1863128)|[Phys. Rev. D 105](https://doi.org/10.1103/PhysRevD.105.L011103)|84|

@@ -518,7 +518,7 @@ Measurements of the groomed and ungroomed jet angularities in pp collisions at $
 Date on arXiv: 2021.07.23
 Link: http://arxiv.org/abs/2107.11303v1
 Inspire: https://inspirehep.net/literature/1891385
-DOI link: N/A
+DOI link: https://doi.org/10.1007/JHEP05(2022)061
  
 Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV
 Date on arXiv: 2021.07.27

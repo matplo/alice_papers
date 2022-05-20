@@ -506,7 +506,7 @@ Direct observation of the dead-cone effect in QCD
 Date on arXiv: 2021.06.10
 Link: http://arxiv.org/abs/2106.05713v2
 Inspire: https://inspirehep.net/literature/1867966
-DOI link: N/A
+DOI link: https://doi.org/10.1038/s41586-022-04572-w
  
 Polarization of $Λ$ and $\overlineΛ$ hyperons along the beam direction in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV
 Date on arXiv: 2021.07.23

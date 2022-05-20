@@ -504,7 +504,7 @@ DOI link: https://doi.org/10.1103/PhysRevD.105.L011103
  
 Direct observation of the dead-cone effect in QCD
 Date on arXiv: 2021.06.10
-Link: http://arxiv.org/abs/2106.05713v1
+Link: http://arxiv.org/abs/2106.05713v2
 Inspire: https://inspirehep.net/literature/1867966
 DOI link: N/A
  

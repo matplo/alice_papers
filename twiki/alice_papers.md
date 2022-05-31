@@ -10,6 +10,9 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Constraining the \\(\{\rm\overline\{K\}N\}\\) coupled channel dynamics using femtoscopic correlations at the LHC|pp,pPb,PbPb|[2205.15176](http://arxiv.org/abs/2205.15176v1){: target="_blank"}|[2088954](https://inspirehep.net/literature/2088954){: target="_blank"}|Submitted|383|
+|LF|\\(\Sigma(1385)^\{\pm\}\\) resonance production in Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}=5.02\\) TeV|PbPb|[2205.13998](http://arxiv.org/abs/2205.13998v1){: target="_blank"}|[2088201](https://inspirehep.net/literature/2088201){: target="_blank"}|Submitted|382|
+|HF|First measurement of \\(\rm Ω_c^0\\) production in pp collisions at \\(\sqrt\{s\}=13\\) TeV|pp|[2205.13993](http://arxiv.org/abs/2205.13993v1){: target="_blank"}|[2088206](https://inspirehep.net/literature/2088206){: target="_blank"}|Submitted|381|
 |DQ|Dielectron production at midrapidity at low transverse momentum in peripheral and semi-peripheral Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2204.11732](http://arxiv.org/abs/2204.11732v1){: target="_blank"}|[2071861](https://inspirehep.net/literature/2071861){: target="_blank"}|Submitted|380|
 |DQ|Photoproduction of low-\\(p_\{\rm T\}\\) J/\\(\psi\\) from peripheral to central Pb\\(-\\)Pb collisions at 5.02 TeV|PbPb|[2204.10684](http://arxiv.org/abs/2204.10684v1){: target="_blank"}|[2071183](https://inspirehep.net/literature/2071183){: target="_blank"}|Submitted|379|
 |HF|W\\(^\pm\\)-boson production in p\\(-\\)Pb collisions at \\(\sqrt\{s_\{NN\}\} = 8.16\\) TeV and PbPb collisions at \\(\sqrt\{s_\{NN\}\} = 5.02\\) TeV|pPb,PbPb|[2204.10640](http://arxiv.org/abs/2204.10640v1){: target="_blank"}|[2071184](https://inspirehep.net/literature/2071184){: target="_blank"}|Submitted|378|

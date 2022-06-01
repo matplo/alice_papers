@@ -1,4 +1,4 @@
-   * Generated on 2022-Jun-01 00:49 UTC  .
+   * Generated on 2022-Jun-01 08:54 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Constraining the \({\rm\overline{K}N}\) coupled channel dynamics using femtoscopic correlations at the LHC|pp,%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2205.15176v1][2205.15176]]|[[https://inspirehep.net/literature/2088954][2088954]]|%RED%Submitted%ENDCOLOR%|383|

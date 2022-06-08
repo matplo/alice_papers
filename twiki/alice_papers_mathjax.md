@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Towards the understanding of the genuine three-body interaction for p\\(-\\)p\\(-\\)p and p\\(-\\)p\\(-\Lambda\\)|pp|[2206.03344](http://arxiv.org/abs/2206.03344v1){: target="_blank"}|[2092560](https://inspirehep.net/literature/2092560){: target="_blank"}|Submitted|385|
+|CF|Closing in on critical net-baryon fluctuations at LHC energies: cumulants up to third order in Pb\\(-\\)Pb collisions|PbPb|[2206.03343](http://arxiv.org/abs/2206.03343v1){: target="_blank"}|[2092559](https://inspirehep.net/literature/2092559){: target="_blank"}|Submitted|384|
 |CF|Constraining the \\(\{\rm\overline\{K\}N\}\\) coupled channel dynamics using femtoscopic correlations at the LHC|pp,pPb,PbPb|[2205.15176](http://arxiv.org/abs/2205.15176v1){: target="_blank"}|[2088954](https://inspirehep.net/literature/2088954){: target="_blank"}|Submitted|383|
 |LF|\\(\Sigma(1385)^\{\pm\}\\) resonance production in Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}=5.02\\) TeV|PbPb|[2205.13998](http://arxiv.org/abs/2205.13998v1){: target="_blank"}|[2088201](https://inspirehep.net/literature/2088201){: target="_blank"}|Submitted|382|
 |HF|First measurement of \\(\rm Ω_c^0\\) production in pp collisions at \\(\sqrt\{s\}=13\\) TeV|pp|[2205.13993](http://arxiv.org/abs/2205.13993v1){: target="_blank"}|[2088206](https://inspirehep.net/literature/2088206){: target="_blank"}|Submitted|381|

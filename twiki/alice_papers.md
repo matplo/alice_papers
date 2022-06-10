@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Anisotropic flow and flow fluctuations of identified hadrons in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[2206.04587](http://arxiv.org/abs/2206.04587v1){: target="_blank"}|[2093750](https://inspirehep.net/literature/2093750){: target="_blank"}|Submitted|387|
+|CF|Observation of flow angle and flow magnitude fluctuations in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV at the LHC|PbPb|[2206.04574](http://arxiv.org/abs/2206.04574v1){: target="_blank"}|[2093738](https://inspirehep.net/literature/2093738){: target="_blank"}|Submitted|386|
 |CF|Towards the understanding of the genuine three-body interaction for p\\(-\\)p\\(-\\)p and p\\(-\\)p\\(-\Lambda\\)|pp|[2206.03344](http://arxiv.org/abs/2206.03344v1){: target="_blank"}|[2092560](https://inspirehep.net/literature/2092560){: target="_blank"}|Submitted|385|
 |CF|Closing in on critical net-baryon fluctuations at LHC energies: cumulants up to third order in Pb\\(-\\)Pb collisions|PbPb|[2206.03343](http://arxiv.org/abs/2206.03343v1){: target="_blank"}|[2092559](https://inspirehep.net/literature/2092559){: target="_blank"}|Submitted|384|
 |CF|Constraining the \\(\{\rm\overline\{K\}N\}\\) coupled channel dynamics using femtoscopic correlations at the LHC|pp,pPb,PbPb|[2205.15176](http://arxiv.org/abs/2205.15176v1){: target="_blank"}|[2088954](https://inspirehep.net/literature/2088954){: target="_blank"}|Submitted|383|

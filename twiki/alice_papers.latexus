@@ -159,7 +159,7 @@ doi:10.1016/j.physletb.2022.137223
   [ALICE],
 %``Elliptic flow of charged particles at midrapidity relative to the spectator plane in Pb-Pb and Xe-Xe collisions,''
 [arXiv:2204.10240 [nucl-ex]].
-%0 citations counted in INSPIRE as of 14 Jun 2022
+%1 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2022imr}
 
@@ -298,7 +298,7 @@ doi:10.1140/epjc/s10052-022-10241-z
 \bibitem{ALICE:2021npz}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Observation of a multiplicity dependence in the pT-differential charm baryon-to-meson ratios in proton\textendash{}proton collisions at s=13 TeV,''
+%``Observation of a multiplicity dependence in the $p_{\rm T}$-differential charm baryon-to-meson ratios in proton-proton collisions at $\sqrt{s} = 13$ TeV,''
 Phys. Lett. B \textbf{829}, 137065 (2022)
 doi:10.1016/j.physletb.2022.137065
 [arXiv:2111.11948 [nucl-ex]].
@@ -320,7 +320,7 @@ doi:10.1016/j.physletb.2022.137065
  S.~Acharya \textit{et al.} [ALICE],
 %``Characterizing the initial conditions of heavy-ion collisions at the LHC with mean transverse momentum and anisotropic flow correlations,''
 [arXiv:2111.06106 [nucl-ex]].
-%8 citations counted in INSPIRE as of 14 Jun 2022
+%9 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2021kpy}
 
@@ -447,6 +447,17 @@ JHEP \textbf{05}, 061 (2022)
 doi:10.1007/JHEP05(2022)061
 [arXiv:2107.11303 [nucl-ex]].
 %20 citations counted in INSPIRE as of 14 Jun 2022
+
+\cite{ALICE:2021nvv}
+
+\bibitem{ALICE:2021nvv}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``$\mathrm {K_S}^{0}$- and (anti-)$\Lambda $-hadron correlations in pp collisions at~${\sqrt{s}} = 13$~TeV,''
+Eur. Phys. J. C \textbf{81}, no.10, 945 (2021)
+doi:10.1140/epjc/s10052-021-09678-5
+[arXiv:2107.11209 [nucl-ex]].
+%1 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2021pzu}
 
@@ -759,17 +770,6 @@ doi:10.1103/PhysRevLett.127.092302
 [arXiv:2101.02579 [nucl-ex]].
 %7 citations counted in INSPIRE as of 14 Jun 2022
 
-\cite{ALICETPC:2020ann}
-
-\bibitem{ALICETPC:2020ann}
-
- J.~Adolfsson \textit{et al.} [ALICE TPC],
-%``The upgrade of the ALICE TPC with GEMs and continuous readout,''
-JINST \textbf{16}, no.03, P03022 (2021)
-doi:10.1088/1748-0221/16/03/P03022
-[arXiv:2012.09518 [physics.ins-det]].
-%15 citations counted in INSPIRE as of 14 Jun 2022
-
 \cite{ALICE:2020wla}
 
 \bibitem{ALICE:2020wla}
@@ -889,7 +889,7 @@ doi:10.1140/epjc/s10052-020-08651-y
 JHEP \textbf{09}, 160 (2020)
 doi:10.1007/JHEP09(2020)160
 [arXiv:2005.14640 [nucl-ex]].
-%12 citations counted in INSPIRE as of 14 Jun 2022
+%13 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2020chv}
 
@@ -1143,7 +1143,7 @@ doi:10.1007/JHEP06(2020)147
 Phys. Lett. B \textbf{802}, 135225 (2020)
 doi:10.1016/j.physletb.2020.135225
 [arXiv:1910.14419 [nucl-ex]].
-%43 citations counted in INSPIRE as of 14 Jun 2022
+%44 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2019hyb}
 
@@ -1275,7 +1275,7 @@ doi:10.1103/PhysRevC.101.064901
 Phys. Lett. B \textbf{807}, 135501 (2020)
 doi:10.1016/j.physletb.2020.135501
 [arXiv:1910.14397 [nucl-ex]].
-%31 citations counted in INSPIRE as of 14 Jun 2022
+%30 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2019nbs}
 
@@ -1330,7 +1330,7 @@ doi:10.1016/j.physletb.2020.135377
 Phys. Rev. C \textbf{101}, no.4, 044907 (2020)
 doi:10.1103/PhysRevC.101.044907
 [arXiv:1910.07678 [nucl-ex]].
-%112 citations counted in INSPIRE as of 14 Jun 2022
+%113 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2019qyj}
 
@@ -1354,17 +1354,6 @@ doi:10.1007/JHEP02(2020)041
 [arXiv:1909.03158 [nucl-ex]].
 %36 citations counted in INSPIRE as of 14 Jun 2022
 
-\cite{ALICE:2019avo}
-
-\bibitem{ALICE:2019avo}
-
- S.~Acharya \textit{et al.} [ALICE],
-%``Multiplicity dependence of (multi-)strange hadron production in proton-proton collisions at $\sqrt{s}$ = 13 TeV,''
-Eur. Phys. J. C \textbf{80}, no.2, 167 (2020)
-doi:10.1140/epjc/s10052-020-7673-8
-[arXiv:1908.01861 [nucl-ex]].
-%59 citations counted in INSPIRE as of 14 Jun 2022
-
 \cite{ALICE:2019onw}
 
 \bibitem{ALICE:2019onw}
@@ -1374,6 +1363,28 @@ doi:10.1140/epjc/s10052-020-7673-8
 Phys. Rev. C \textbf{101}, no.4, 044611 (2020)
 doi:10.1103/PhysRevC.101.044611
 [arXiv:1909.01281 [nucl-ex]].
+%59 citations counted in INSPIRE as of 14 Jun 2022
+
+\cite{ALICE:2019smg}
+
+\bibitem{ALICE:2019smg}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurement of $\Lambda$(1520) production in pp collisions at $\sqrt{s}$ = 7 TeV and p-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+Eur. Phys. J. C \textbf{80}, no.2, 160 (2020)
+doi:10.1140/epjc/s10052-020-7687-2
+[arXiv:1909.00486 [nucl-ex]].
+%9 citations counted in INSPIRE as of 14 Jun 2022
+
+\cite{ALICE:2019avo}
+
+\bibitem{ALICE:2019avo}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Multiplicity dependence of (multi-)strange hadron production in proton-proton collisions at $\sqrt{s}$ = 13 TeV,''
+Eur. Phys. J. C \textbf{80}, no.2, 167 (2020)
+doi:10.1140/epjc/s10052-020-7673-8
+[arXiv:1908.01861 [nucl-ex]].
 %59 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2019vlx}
@@ -1408,6 +1419,17 @@ JHEP \textbf{12}, 092 (2019)
 doi:10.1007/JHEP12(2019)092
 [arXiv:1906.03425 [nucl-ex]].
 %52 citations counted in INSPIRE as of 14 Jun 2022
+
+\cite{ALICE:2019bnp}
+
+\bibitem{ALICE:2019bnp}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Multiplicity dependence of light (anti-)nuclei production in p-Pb collisions at $\sqrt{s_{\rm{NN}}}$ = 5.02 TeV,''
+Phys. Lett. B \textbf{800}, 135043 (2020)
+doi:10.1016/j.physletb.2019.135043
+[arXiv:1906.03136 [nucl-ex]].
+%29 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2019rtd}
 
@@ -1573,6 +1595,17 @@ Phys. Rev. Lett. \textbf{123}, no.14, 142301 (2019)
 doi:10.1103/PhysRevLett.123.142301
 [arXiv:1903.01790 [nucl-ex]].
 %81 citations counted in INSPIRE as of 14 Jun 2022
+
+\cite{ALICE:2019dgz}
+
+\bibitem{ALICE:2019dgz}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Multiplicity dependence of (anti-)deuteron production in pp collisions at $\sqrt{s}$ = 7 TeV,''
+Phys. Lett. B \textbf{794}, 50-63 (2019)
+doi:10.1016/j.physletb.2019.05.028
+[arXiv:1902.09290 [nucl-ex]].
+%30 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2019cox}
 
@@ -1913,7 +1946,7 @@ doi:10.1103/PhysRevLett.122.072301
 Phys. Rev. C \textbf{99}, no.6, 064901 (2019)
 doi:10.1103/PhysRevC.99.064901
 [arXiv:1805.04365 [nucl-ex]].
-%43 citations counted in INSPIRE as of 14 Jun 2022
+%44 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2018ewo}
 
@@ -1924,7 +1957,7 @@ doi:10.1103/PhysRevC.99.064901
 Phys. Rev. C \textbf{99}, 024905 (2019)
 doi:10.1103/PhysRevC.99.024905
 [arXiv:1805.04361 [nucl-ex]].
-%34 citations counted in INSPIRE as of 14 Jun 2022
+%35 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2018lao}
 
@@ -1935,7 +1968,7 @@ doi:10.1103/PhysRevC.99.024905
 Phys. Lett. B \textbf{784}, 82-95 (2018)
 doi:10.1016/j.physletb.2018.06.059
 [arXiv:1805.01832 [nucl-ex]].
-%85 citations counted in INSPIRE as of 14 Jun 2022
+%86 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2018lyv}
 
@@ -2012,7 +2045,7 @@ doi:10.1103/PhysRevC.98.044901
 JHEP \textbf{11}, 013 (2018)
 doi:10.1007/JHEP11(2018)013
 [arXiv:1802.09145 [nucl-ex]].
-%172 citations counted in INSPIRE as of 14 Jun 2022
+%174 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2018szk}
 
@@ -2068,6 +2101,17 @@ Phys. Lett. B \textbf{783}, 95-113 (2018)
 doi:10.1016/j.physletb.2018.05.059
 [arXiv:1712.05603 [nucl-ex]].
 %55 citations counted in INSPIRE as of 14 Jun 2022
+
+\cite{ALICE:2017dja}
+
+\bibitem{ALICE:2017dja}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``First measurement of $\Xi_{\rm c}^0$ production in pp collisions at $\mathbf{\sqrt{s}}$ = 7 TeV,''
+Phys. Lett. B \textbf{781}, 8-19 (2018)
+doi:10.1016/j.physletb.2018.03.061
+[arXiv:1712.04242 [hep-ex]].
+%27 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2017nwd}
 
@@ -2144,7 +2188,7 @@ doi:10.1103/PhysRevLett.119.242301
 Phys. Lett. B \textbf{777}, 151-162 (2018)
 doi:10.1016/j.physletb.2017.12.021
 [arXiv:1709.04723 [nucl-ex]].
-%66 citations counted in INSPIRE as of 14 Jun 2022
+%67 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2017ymw}
 
@@ -2254,7 +2298,7 @@ doi:10.1016/j.physletb.2017.09.009
 Phys. Lett. B \textbf{773}, 68-80 (2017)
 doi:10.1016/j.physletb.2017.07.060
 [arXiv:1705.04377 [nucl-ex]].
-%57 citations counted in INSPIRE as of 14 Jun 2022
+%58 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2017wet}
 
@@ -2552,7 +2596,7 @@ doi:10.1016/j.physletb.2016.07.017
 Phys. Rev. Lett. \textbf{117}, 182301 (2016)
 doi:10.1103/PhysRevLett.117.182301
 [arXiv:1604.07663 [nucl-ex]].
-%172 citations counted in INSPIRE as of 14 Jun 2022
+%173 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2016igk}
 
@@ -3025,7 +3069,7 @@ doi:10.1007/JHEP07(2015)051
 Eur. Phys. J. C \textbf{75}, no.5, 226 (2015)
 doi:10.1140/epjc/s10052-015-3422-9
 [arXiv:1504.00024 [nucl-ex]].
-%190 citations counted in INSPIRE as of 14 Jun 2022
+%191 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2015nbw}
 
@@ -3036,7 +3080,7 @@ doi:10.1140/epjc/s10052-015-3422-9
 JHEP \textbf{09}, 095 (2015)
 doi:10.1007/JHEP09(2015)095
 [arXiv:1503.09177 [nucl-ex]].
-%77 citations counted in INSPIRE as of 14 Jun 2022
+%78 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2015sru}
 
@@ -3157,7 +3201,7 @@ doi:10.1016/j.physletb.2014.11.041
 Eur. Phys. J. C \textbf{74}, no.10, 3077 (2014)
 doi:10.1140/epjc/s10052-014-3077-y
 [arXiv:1407.5530 [nucl-ex]].
-%72 citations counted in INSPIRE as of 14 Jun 2022
+%73 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2014eof}
 
@@ -3333,7 +3377,7 @@ doi:10.1016/j.physletb.2014.10.034
 Phys. Rev. C \textbf{91}, 024609 (2015)
 doi:10.1103/PhysRevC.91.024609
 [arXiv:1404.0495 [nucl-ex]].
-%270 citations counted in INSPIRE as of 14 Jun 2022
+%271 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2014uja}
 
@@ -3355,7 +3399,7 @@ doi:10.1140/epjc/s10052-014-2974-4
 Int. J. Mod. Phys. A \textbf{29}, 1430044 (2014)
 doi:10.1142/S0217751X14300440
 [arXiv:1402.4476 [nucl-ex]].
-%843 citations counted in INSPIRE as of 14 Jun 2022
+%844 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2014juv}
 
@@ -3510,7 +3554,7 @@ doi:10.1103/PhysRevLett.111.232302
 JINST \textbf{8}, P10016 (2013)
 doi:10.1088/1748-0221/8/10/P10016
 [arXiv:1306.3130 [nucl-ex]].
-%318 citations counted in INSPIRE as of 14 Jun 2022
+%319 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2013wjo}
 
@@ -3753,7 +3797,7 @@ doi:10.1103/PhysRevLett.110.152301
 Phys. Rev. Lett. \textbf{110}, no.1, 012301 (2013)
 doi:10.1103/PhysRevLett.110.012301
 [arXiv:1207.0900 [nucl-ex]].
-%288 citations counted in INSPIRE as of 14 Jun 2022
+%289 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2012yyu}
 
@@ -4007,7 +4051,7 @@ doi:10.1016/j.physletb.2012.01.060
 Phys. Rev. Lett. \textbf{107}, 032301 (2011)
 doi:10.1103/PhysRevLett.107.032301
 [arXiv:1105.3865 [nucl-ex]].
-%674 citations counted in INSPIRE as of 14 Jun 2022
+%675 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2011zqe}
 
@@ -4052,7 +4096,7 @@ doi:10.1103/PhysRevD.84.112004
 Phys. Lett. B \textbf{696}, 328-337 (2011)
 doi:10.1016/j.physletb.2010.12.053
 [arXiv:1012.4035 [nucl-ex]].
-%371 citations counted in INSPIRE as of 14 Jun 2022
+%372 citations counted in INSPIRE as of 14 Jun 2022
 
 \cite{ALICE:2010vtz}
 

@@ -1,3 +1,12 @@
+\cite{ALICE:2022qnb}
+
+\bibitem{ALICE:2022qnb}
+
+  [ALICE],
+%``${\rm f}_{0}(980)$ production in inelastic pp collisions at $\sqrt{s} = 5.02$ TeV,''
+[arXiv:2206.06216 [nucl-ex]].
+%0 citations counted in INSPIRE as of 20 Jun 2022
+
 \cite{ALICE:2022zks}
 
 \bibitem{ALICE:2022zks}
@@ -771,6 +780,17 @@ Phys. Rev. Lett. \textbf{127}, no.9, 092302 (2021)
 doi:10.1103/PhysRevLett.127.092302
 [arXiv:2101.02579 [nucl-ex]].
 %7 citations counted in INSPIRE as of 20 Jun 2022
+
+\cite{ALICE:2020try}
+
+\bibitem{ALICE:2020try}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Inclusive heavy-flavour production at central and forward rapidity in Xe-Xe collisions at $\sqrt {s_{NN}}$=5.44\$ TeV,''
+Phys. Lett. B \textbf{819}, 136437 (2021)
+doi:10.1016/j.physletb.2021.136437
+[arXiv:2011.06970 [nucl-ex]].
+%2 citations counted in INSPIRE as of 20 Jun 2022
 
 \cite{ALICE:2020wla}
 

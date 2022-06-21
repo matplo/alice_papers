@@ -1,4 +1,4 @@
-   * Generated on 2022-Jun-20 16:50 UTC  .
+   * Generated on 2022-Jun-21 00:50 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|\({\rm f}_{0}(980)\) production in inelastic pp collisions at \(\sqrt{s} = 5.02\) !TeV|pp|[[http://arxiv.org/abs/2206.06216v1][2206.06216]]|[[https://inspirehep.net/literature/2094796][2094796]]|%RED%Submitted%ENDCOLOR%|393|

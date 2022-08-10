@@ -1,6 +1,7 @@
-   * Generated on 2022-Aug-10 08:48 UTC  .
+   * Generated on 2022-Aug-10 10:33 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|JE|Measurements of groomed-jet substructure of charm jets tagged by \({\rm D}^0\) mesons in proton-proton collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2208.04857v1][2208.04857]]|[[https://inspirehep.net/literature/2133853][2133853]]|%RED%Submitted%ENDCOLOR%|394|
 |LF|\({\rm f}_{0}(980)\) production in inelastic pp collisions at \(\sqrt{s} = 5.02\) !TeV|pp|[[http://arxiv.org/abs/2206.06216v1][2206.06216]]|[[https://inspirehep.net/literature/2094796][2094796]]|%RED%Submitted%ENDCOLOR%|393|
 |CF|Anisotropic flow and flow fluctuations of identified hadrons in Pb\(-\)Pb collisions at \(\sqrt{s_{\mathrm{NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2206.04587v1][2206.04587]]|[[https://inspirehep.net/literature/2093750][2093750]]|%RED%Submitted%ENDCOLOR%|392|
 |CF|Observation of flow angle and flow magnitude fluctuations in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2206.04574v1][2206.04574]]|[[https://inspirehep.net/literature/2093738][2093738]]|%RED%Submitted%ENDCOLOR%|391|

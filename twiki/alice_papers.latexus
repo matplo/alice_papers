@@ -1,3 +1,12 @@
+\cite{ALICE:2022phr}
+
+\bibitem{ALICE:2022phr}
+
+  [ALICE],
+%``Measurements of groomed-jet substructure of charm jets tagged by ${\rm D}^0$ mesons in proton-proton collisions at $\sqrt{s}$ = 13 TeV,''
+[arXiv:2208.04857 [nucl-ex]].
+%0 citations counted in INSPIRE as of 10 Aug 2022
+
 \cite{ALICE:2022qnb}
 
 \bibitem{ALICE:2022qnb}
@@ -492,7 +501,7 @@ doi:10.1103/PhysRevLett.128.172005
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurement of very forward energy and particle production at midrapidity in pp and p-Pb collisions at the LHC,''
 [arXiv:2107.10757 [nucl-ex]].
-%2 citations counted in INSPIRE as of 10 Aug 2022
+%3 citations counted in INSPIRE as of 10 Aug 2022
 
 \cite{ALargeIonColliderExperiment:2021puh}
 

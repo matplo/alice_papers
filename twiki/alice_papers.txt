@@ -1,4 +1,4 @@
-   * Generated on 2022-Aug-11 00:49 UTC  .
+   * Generated on 2022-Aug-11 08:48 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Measurements of groomed-jet substructure of charm jets tagged by ${\rm D}^0$ mesons in proton-proton collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2208.04857v1][2208.04857]]|[[https://inspirehep.net/literature/2133853][2133853]]|%RED%Submitted%ENDCOLOR%|394|

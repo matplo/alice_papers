@@ -1,4 +1,4 @@
-   * Generated on 2022-Sep-26 00:51 UTC  .
+   * Generated on 2022-Sep-26 08:51 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Measurement of the lifetime and \(\Lambda\) separation energy of \(^{3}_\Lambda\mathrm H\)|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2209.07360v1][2209.07360]]|[[https://inspirehep.net/literature/2152211][2152211]]|%RED%Submitted%ENDCOLOR%|395|
@@ -31,7 +31,7 @@
 |LF|First measurement of the absorption of \(^{3}\overline{\rm He}\) nuclei in matter and impact on their propagation in the galaxy|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2202.01549v1][2202.01549]]|[[https://inspirehep.net/literature/2026264][2026264]]|%RED%Submitted%ENDCOLOR%|368|
 |JE|Multiplicity dependence of charged-particle jet production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2202.01548v1][2202.01548]]|[[https://inspirehep.net/literature/2026265][2026265]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-022-10405-x][Eur. Phys. J. C 82]]%ENDCOLOR%|367|
 |HF|Measurement of beauty production via non-prompt \({\rm D}^{0}\) mesons in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2202.00815v1][2202.00815]]|[[https://inspirehep.net/literature/2025044][2025044]]|%RED%Submitted%ENDCOLOR%|366|
-|CF|First study of the two-body scattering involving charm hadrons|pp|[[http://arxiv.org/abs/2201.05352v1][2201.05352]]|[[https://inspirehep.net/literature/2011222][2011222]]|%RED%Submitted%ENDCOLOR%|365|
+|CF|First study of the two-body scattering involving charm hadrons|pp|[[http://arxiv.org/abs/2201.05352v1][2201.05352]]|[[https://inspirehep.net/literature/2011222][2011222]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.106.052010][Phys. Rev. D 106]]%ENDCOLOR%|365|
 |CF|Neutral to charged kaon yield fluctuations in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 2.76 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2112.09482v1][2112.09482]]|[[https://inspirehep.net/literature/1993200][1993200]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2022.137242][Phys. Lett. B 832]]%ENDCOLOR%|364|
 |DQ|Forward rapidity J/\(\psi\) production as a function of charged-particle multiplicity in pp collisions at \(\sqrt{s} =\) 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2112.09433v1][2112.09433]]|[[https://inspirehep.net/literature/1992719][1992719]]|%GREEN%[[https://doi.org/10.1007/JHEP06(2022)015][JHEP 06]]%ENDCOLOR%|363|
 |HF|Constraining hadronization mechanisms with \(\rm \Lambda_{\rm c}^{+}\)/D\(^0\) production ratios in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2112.08156v1][2112.08156]]|[[https://inspirehep.net/literature/1990765][1990765]]|%RED%Submitted%ENDCOLOR%|362|

@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|LF|Measurement of the lifetime and \\(\Lambda\\) separation energy of \\(^\{3\}_\Lambda\mathrm H\\)|PbPb|[2209.07360](http://arxiv.org/abs/2209.07360v1){: target="_blank"}|[2152211](https://inspirehep.net/literature/2152211){: target="_blank"}|Submitted|395|
+|LF|Measurement of the lifetime and \\(\Lambda\\) separation energy of \\(^\{3\}_\Lambda\mathrm H\\)|PbPb|[2209.07360](http://arxiv.org/abs/2209.07360v2){: target="_blank"}|[2152211](https://inspirehep.net/literature/2152211){: target="_blank"}|Submitted|395|
 |JE|Measurements of groomed-jet substructure of charm jets tagged by \\(\{\rm D\}^0\\) mesons in proton-proton collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2208.04857](http://arxiv.org/abs/2208.04857v1){: target="_blank"}|[2133853](https://inspirehep.net/literature/2133853){: target="_blank"}|Submitted|394|
 |LF|\\(\{\rm f\}_\{0\}(980)\\) production in inelastic pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2206.06216](http://arxiv.org/abs/2206.06216v1){: target="_blank"}|[2094796](https://inspirehep.net/literature/2094796){: target="_blank"}|Submitted|393|
 |CF|Anisotropic flow and flow fluctuations of identified hadrons in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[2206.04587](http://arxiv.org/abs/2206.04587v1){: target="_blank"}|[2093750](https://inspirehep.net/literature/2093750){: target="_blank"}|Submitted|392|

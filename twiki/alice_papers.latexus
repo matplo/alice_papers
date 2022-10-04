@@ -627,6 +627,16 @@ doi:10.1007/JHEP10(2021)159
 [arXiv:2105.05616 [nucl-ex]].
 %15 citations counted in INSPIRE as of 04 Oct 2022
 
+\cite{ALICE:2021cpv}
+
+\bibitem{ALICE:2021cpv}
+
+  [ALICE],
+%``Experimental Evidence for an Attractive p-$\phi$ Interaction,''
+Phys. Rev. Lett. \textbf{127}, no.17, 172301 (2021)
+doi:10.1103/PhysRevLett.127.172301
+[arXiv:2105.05578 [nucl-ex]].
+%11 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2021cyj}
 
@@ -978,7 +988,7 @@ doi:10.1103/PhysRevLett.127.042302
 JHEP \textbf{10}, 141 (2020)
 doi:10.1007/JHEP10(2020)141
 [arXiv:2005.14518 [nucl-ex]].
-%41 citations counted in INSPIRE as of 04 Oct 2022
+%42 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2020mfy}
 
@@ -2024,7 +2034,7 @@ doi:10.1016/j.physletb.2018.06.059
 JHEP \textbf{10}, 174 (2018)
 doi:10.1007/JHEP10(2018)174
 [arXiv:1804.09083 [nucl-ex]].
-%158 citations counted in INSPIRE as of 04 Oct 2022
+%159 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2018afp}
 
@@ -2090,7 +2100,7 @@ doi:10.1103/PhysRevC.98.044901
 JHEP \textbf{11}, 013 (2018)
 doi:10.1007/JHEP11(2018)013
 [arXiv:1802.09145 [nucl-ex]].
-%187 citations counted in INSPIRE as of 04 Oct 2022
+%188 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2018szk}
 
@@ -2476,7 +2486,7 @@ doi:10.1140/epjc/s10052-017-5129-6
 Phys. Lett. B \textbf{772}, 567-577 (2017)
 doi:10.1016/j.physletb.2017.07.017
 [arXiv:1612.08966 [nucl-ex]].
-%99 citations counted in INSPIRE as of 04 Oct 2022
+%100 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2016rzo}
 
@@ -2564,7 +2574,7 @@ doi:10.1016/j.physletb.2016.10.048
 Phys. Lett. B \textbf{766}, 212-224 (2017)
 doi:10.1016/j.physletb.2016.12.064
 [arXiv:1606.08197 [nucl-ex]].
-%166 citations counted in INSPIRE as of 04 Oct 2022
+%167 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2016fzo}
 
@@ -2575,7 +2585,7 @@ doi:10.1016/j.physletb.2016.12.064
 Nature Phys. \textbf{13}, 535-539 (2017)
 doi:10.1038/nphys4111
 [arXiv:1606.07424 [nucl-ex]].
-%556 citations counted in INSPIRE as of 04 Oct 2022
+%557 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2016cti}
 
@@ -2893,7 +2903,7 @@ doi:10.1140/epjc/s10052-016-3915-1
 JHEP \textbf{03}, 081 (2016)
 doi:10.1007/JHEP03(2016)081
 [arXiv:1509.06888 [nucl-ex]].
-%219 citations counted in INSPIRE as of 04 Oct 2022
+%220 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2015nmy}
 
@@ -3003,7 +3013,7 @@ doi:10.1007/JHEP11(2015)127
 JHEP \textbf{05}, 179 (2016)
 doi:10.1007/JHEP05(2016)179
 [arXiv:1506.08804 [nucl-ex]].
-%125 citations counted in INSPIRE as of 04 Oct 2022
+%126 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2015oer}
 
@@ -3290,7 +3300,7 @@ doi:10.1103/PhysRevC.90.054901
 JHEP \textbf{06}, 190 (2015)
 doi:10.1007/JHEP06(2015)190
 [arXiv:1405.4632 [nucl-ex]].
-%274 citations counted in INSPIRE as of 04 Oct 2022
+%275 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2014wnc}
 
@@ -3378,7 +3388,7 @@ doi:10.1140/epjc/s10052-014-3054-5
 Phys. Rev. C \textbf{90}, no.3, 034904 (2014)
 doi:10.1103/PhysRevC.90.034904
 [arXiv:1405.2001 [nucl-ex]].
-%189 citations counted in INSPIRE as of 04 Oct 2022
+%190 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2014gvw}
 
@@ -3643,7 +3653,7 @@ doi:10.1016/j.physletb.2013.09.022
 Phys. Rev. Lett. \textbf{111}, 162301 (2013)
 doi:10.1103/PhysRevLett.111.162301
 [arXiv:1303.5880 [nucl-ex]].
-%126 citations counted in INSPIRE as of 04 Oct 2022
+%127 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2013mez}
 
@@ -3654,7 +3664,7 @@ doi:10.1103/PhysRevLett.111.162301
 Phys. Rev. C \textbf{88}, 044910 (2013)
 doi:10.1103/PhysRevC.88.044910
 [arXiv:1303.0737 [hep-ex]].
-%720 citations counted in INSPIRE as of 04 Oct 2022
+%721 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2013hur}
 
@@ -3720,7 +3730,7 @@ doi:10.1016/j.physletb.2013.01.012
 Phys. Rev. Lett. \textbf{110}, no.8, 082302 (2013)
 doi:10.1103/PhysRevLett.110.082302
 [arXiv:1210.4520 [nucl-ex]].
-%282 citations counted in INSPIRE as of 04 Oct 2022
+%283 citations counted in INSPIRE as of 04 Oct 2022
 
 \cite{ALICE:2012xs}
 

@@ -1,4 +1,4 @@
-   * Generated on 2022-Oct-12 16:51 UTC  .
+   * Generated on 2022-Oct-13 00:50 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Measurement of the lifetime and \(\Lambda\) separation energy of \(^{3}_\Lambda\mathrm H\)|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2209.07360v2][2209.07360]]|[[https://inspirehep.net/literature/2152211][2152211]]|%RED%Submitted%ENDCOLOR%|395|

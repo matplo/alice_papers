@@ -14,7 +14,7 @@
   [ALICE],
 %``Measurements of groomed-jet substructure of charm jets tagged by ${\rm D}^0$ mesons in proton-proton collisions at $\sqrt{s}$ = 13 TeV,''
 [arXiv:2208.04857 [nucl-ex]].
-%0 citations counted in INSPIRE as of 17 Oct 2022
+%1 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2022qnb}
 
@@ -177,7 +177,7 @@ doi:10.1016/j.physletb.2022.137223
   [ALICE],
 %``Measurements of the groomed jet radius and momentum splitting fraction with the soft drop and dynamical grooming algorithms in pp collisions at $\sqrt{s}=5.02$ TeV,''
 [arXiv:2204.10246 [nucl-ex]].
-%1 citations counted in INSPIRE as of 17 Oct 2022
+%2 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2022xhd}
 
@@ -287,7 +287,7 @@ doi:10.1103/PhysRevD.106.052010
 \bibitem{ALICE:2021fpb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Neutral to charged kaon yield fluctuations in Pb \textendash{} Pb collisions at \ensuremath{<}math altimg=''si1.svg''\ensuremath{>}\ensuremath{<}msqrt\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}msub\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi\ensuremath{>}s\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi mathvariant=''normal''\ensuremath{>}NN\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msub\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msqrt\ensuremath{>}\ensuremath{<}mo linebreak=''goodbreak'' linebreakstyle=''after''\ensuremath{>}=\ensuremath{<}/mo\ensuremath{>}\ensuremath{<}mn\ensuremath{>}2.76\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}/math\ensuremath{>} TeV,''
+%``Neutral to charged kaon yield fluctuations in Pb \textendash{} Pb collisions at sNN=2.76 TeV,''
 Phys. Lett. B \textbf{832}, 137242 (2022)
 doi:10.1016/j.physletb.2022.137242
 [arXiv:2112.09482 [nucl-ex]].
@@ -311,7 +311,7 @@ doi:10.1007/JHEP06(2022)015
  S.~Acharya \textit{et al.} [ALICE],
 %``Constraining hadronization mechanisms with $\rm \Lambda_{\rm c}^{+}$/D$^0$ production ratios in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
 [arXiv:2112.08156 [nucl-ex]].
-%12 citations counted in INSPIRE as of 17 Oct 2022
+%13 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2021ovi}
 
@@ -340,7 +340,7 @@ doi:10.1016/j.physletb.2022.137065
 \bibitem{ALICE:2021ovd}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``K\ensuremath{<}math altimg=''si1.svg''\ensuremath{>}\ensuremath{<}msubsup\ensuremath{>}\ensuremath{<}mrow/\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi mathvariant=''normal''\ensuremath{>}S\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mn\ensuremath{>}0\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msubsup\ensuremath{>}\ensuremath{<}/math\ensuremath{>}K\ensuremath{<}math altimg=''si1.svg''\ensuremath{>}\ensuremath{<}msubsup\ensuremath{>}\ensuremath{<}mrow/\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi mathvariant=''normal''\ensuremath{>}S\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mn\ensuremath{>}0\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msubsup\ensuremath{>}\ensuremath{<}/math\ensuremath{>} and K\ensuremath{<}math altimg=''si1.svg''\ensuremath{>}\ensuremath{<}msubsup\ensuremath{>}\ensuremath{<}mrow/\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi mathvariant=''normal''\ensuremath{>}S\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mn\ensuremath{>}0\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msubsup\ensuremath{>}\ensuremath{<}/math\ensuremath{>}K\ensuremath{\pm} femtoscopy in pp collisions at \ensuremath{<}math altimg=''si2.svg''\ensuremath{>}\ensuremath{<}msqrt\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi\ensuremath{>}s\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msqrt\ensuremath{>}\ensuremath{<}mo linebreak=''goodbreak'' linebreakstyle=''after''\ensuremath{>}=\ensuremath{<}/mo\ensuremath{>}\ensuremath{<}mn\ensuremath{>}5.02\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}/math\ensuremath{>} and 13 TeV,''
+%``KS0KS0 and KS0K\ensuremath{\pm} femtoscopy in pp collisions at s=5.02 and 13 TeV,''
 Phys. Lett. B \textbf{833}, 137335 (2022)
 doi:10.1016/j.physletb.2022.137335
 [arXiv:2111.06611 [nucl-ex]].
@@ -386,7 +386,7 @@ doi:10.1140/epjc/s10052-022-10267-3
 Phys. Lett. B \textbf{827}, 136986 (2022)
 doi:10.1016/j.physletb.2022.136986
 [arXiv:2110.10006 [nucl-ex]].
-%19 citations counted in INSPIRE as of 17 Oct 2022
+%20 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2021rxa}
 
@@ -397,14 +397,14 @@ doi:10.1016/j.physletb.2022.136986
 JHEP \textbf{01}, 174 (2022)
 doi:10.1007/JHEP01(2022)174
 [arXiv:2110.09420 [nucl-ex]].
-%26 citations counted in INSPIRE as of 17 Oct 2022
+%27 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2021hjb}
 
 \bibitem{ALICE:2021hjb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``General balance functions of identified charged hadron pairs of (\ensuremath{\pi},K,p) in Pb\textendash{}Pb collisions at \ensuremath{<}math altimg=''si1.svg''\ensuremath{>}\ensuremath{<}msub\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}msqrt\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi\ensuremath{>}s\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msqrt\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}msub\ensuremath{>}\ensuremath{<}mrow/\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi mathvariant=''normal''\ensuremath{>}NN\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msub\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msub\ensuremath{>}\ensuremath{<}mo linebreak=''goodbreak'' linebreakstyle=''after''\ensuremath{>}=\ensuremath{<}/mo\ensuremath{>}\ensuremath{<}/math\ensuremath{>} 2.76 TeV,''
+%``General balance functions of identified charged hadron pairs of (\ensuremath{\pi},K,p) in Pb\textendash{}Pb collisions at sNN= 2.76 TeV,''
 Phys. Lett. B \textbf{833}, 137338 (2022)
 doi:10.1016/j.physletb.2022.137338
 [arXiv:2110.06566 [nucl-ex]].
@@ -472,7 +472,7 @@ doi:10.1140/epjc/s10052-021-09873-4
 Phys. Rev. Lett. \textbf{128}, no.10, 102001 (2022)
 doi:10.1103/PhysRevLett.128.102001
 [arXiv:2107.12984 [nucl-ex]].
-%18 citations counted in INSPIRE as of 17 Oct 2022
+%19 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2021njq}
 
@@ -836,7 +836,7 @@ doi:10.1016/j.physletb.2021.136437
 Phys. Rev. C \textbf{104}, no.5, 054905 (2021)
 doi:10.1103/PhysRevC.104.054905
 [arXiv:2011.06079 [nucl-ex]].
-%39 citations counted in INSPIRE as of 17 Oct 2022
+%40 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2020wfu}
 
@@ -990,7 +990,7 @@ doi:10.1103/PhysRevLett.127.042302
 JHEP \textbf{10}, 141 (2020)
 doi:10.1007/JHEP10(2020)141
 [arXiv:2005.14518 [nucl-ex]].
-%42 citations counted in INSPIRE as of 17 Oct 2022
+%43 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2020mfy}
 
@@ -1024,7 +1024,7 @@ doi:10.1038/s41586-020-3001-6
 Phys. Lett. B \textbf{813}, 136054 (2021)
 doi:10.1016/j.physletb.2020.136054
 [arXiv:2005.11131 [nucl-ex]].
-%39 citations counted in INSPIRE as of 17 Oct 2022
+%40 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2020hdw}
 
@@ -1475,7 +1475,7 @@ doi:10.1103/PhysRevLett.123.192301
 JHEP \textbf{12}, 092 (2019)
 doi:10.1007/JHEP12(2019)092
 [arXiv:1906.03425 [nucl-ex]].
-%55 citations counted in INSPIRE as of 17 Oct 2022
+%56 citations counted in INSPIRE as of 17 Oct 2022
 
 \cite{ALICE:2019bnp}
 

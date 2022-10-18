@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|Measurements of azimuthal anisotropies at forward and backward rapidity with muons in high-multiplicity p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 8.16\\) TeV|PbPb|[2210.08980](http://arxiv.org/abs/2210.08980v1){: target="_blank"}|[2165935](https://inspirehep.net/literature/2165935){: target="_blank"}|Submitted|397|
+|DQ|\\(\psi(2S)\\) suppression in Pb-Pb collisions at the LHC|PbPb|[2210.08893](http://arxiv.org/abs/2210.08893v1){: target="_blank"}|[2165947](https://inspirehep.net/literature/2165947){: target="_blank"}|Submitted|396|
 |LF|Measurement of the lifetime and \\(\Lambda\\) separation energy of \\(^\{3\}_\Lambda\mathrm H\\)|PbPb|[2209.07360](http://arxiv.org/abs/2209.07360v2){: target="_blank"}|[2152211](https://inspirehep.net/literature/2152211){: target="_blank"}|Submitted|395|
 |JE|Measurements of groomed-jet substructure of charm jets tagged by \\(\{\rm D\}^0\\) mesons in proton-proton collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2208.04857](http://arxiv.org/abs/2208.04857v1){: target="_blank"}|[2133853](https://inspirehep.net/literature/2133853){: target="_blank"}|Submitted|394|
 |LF|\\(\{\rm f\}_\{0\}(980)\\) production in inelastic pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2206.06216](http://arxiv.org/abs/2206.06216v1){: target="_blank"}|[2094796](https://inspirehep.net/literature/2094796){: target="_blank"}|Submitted|393|

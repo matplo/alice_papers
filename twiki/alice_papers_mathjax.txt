@@ -1,4 +1,4 @@
-   * Generated on 2022-Oct-21 08:50 UTC  .
+   * Generated on 2022-Oct-21 16:51 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Measurements of azimuthal anisotropies at forward and backward rapidity with muons in high-multiplicity p-Pb collisions at \(\sqrt{s_{\rm NN}} = 8.16\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2210.08980v2][2210.08980]]|[[https://inspirehep.net/literature/2165935][2165935]]|%RED%Submitted%ENDCOLOR%|400|

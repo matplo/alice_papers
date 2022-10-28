@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Search for the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Xe-Xe collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\} = 5.44\\) TeV|XeXe|[2210.15383](http://arxiv.org/abs/2210.15383v1){: target="_blank"}|[2172062](https://inspirehep.net/literature/2172062){: target="_blank"}|Submitted|401|
 |DQ|Measurements of azimuthal anisotropies at forward and backward rapidity with muons in high-multiplicity p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 8.16\\) TeV|PbPb|[2210.08980](http://arxiv.org/abs/2210.08980v2){: target="_blank"}|[2165935](https://inspirehep.net/literature/2165935){: target="_blank"}|Submitted|400|
 |DQ|\\(\psi(2S)\\) suppression in Pb-Pb collisions at the LHC|PbPb|[2210.08893](http://arxiv.org/abs/2210.08893v2){: target="_blank"}|[2165947](https://inspirehep.net/literature/2165947){: target="_blank"}|Submitted|399|
 |LF|Measurement of the lifetime and \\(\Lambda\\) separation energy of \\(^\{3\}_\Lambda\mathrm H\\)|PbPb|[2209.07360](http://arxiv.org/abs/2209.07360v2){: target="_blank"}|[2152211](https://inspirehep.net/literature/2152211){: target="_blank"}|Submitted|398|

@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|n/a|The ALICE experiment - A journey through QCD|pp,pPb,XeXe,PbPb|[2211.04384](http://arxiv.org/abs/2211.04384v1){: target="_blank"}|[2178285](https://inspirehep.net/literature/2178285){: target="_blank"}|Submitted|403|
+|n/a|The ALICE experiment -- A journey through QCD|pp,pPb,XeXe,PbPb|[2211.04384](http://arxiv.org/abs/2211.04384v1){: target="_blank"}|[2178285](https://inspirehep.net/literature/2178285){: target="_blank"}|Submitted|403|
 |CF|Jet-like correlations with respect to K\\(^\{0\}_\{\rm S\}\\) and \\(\Lambda\\) (\\(\bar\Lambda\\)) in pp and Pb-Pb collisions at \\(\mathbf\{\it\sqrt\{s_\mathrm\{NN\}\}\}\\) = 5.02 TeV|pp,PbPb|[2211.01197](http://arxiv.org/abs/2211.01197v1){: target="_blank"}|[2175449](https://inspirehep.net/literature/2175449){: target="_blank"}|Submitted|402|
 |CF|Search for the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Xe-Xe collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\} = 5.44\\) TeV|XeXe|[2210.15383](http://arxiv.org/abs/2210.15383v1){: target="_blank"}|[2172062](https://inspirehep.net/literature/2172062){: target="_blank"}|Submitted|401|
 |DQ|Measurements of azimuthal anisotropies at forward and backward rapidity with muons in high-multiplicity p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 8.16\\) TeV|PbPb|[2210.08980](http://arxiv.org/abs/2210.08980v2){: target="_blank"}|[2165935](https://inspirehep.net/literature/2165935){: target="_blank"}|Submitted|400|

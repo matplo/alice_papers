@@ -1,4 +1,4 @@
-   * Generated on 2022-Nov-17 08:51 UTC  .
+   * Generated on 2022-Nov-17 16:51 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Measurement of the angle between jet axes in pp collisions at \(\sqrt{s} = 5.02\) !TeV|pp|[[http://arxiv.org/abs/2211.08928v1][2211.08928]]|[[https://inspirehep.net/literature/2182727][2182727]]|%RED%Submitted%ENDCOLOR%|404|

@@ -10,6 +10,10 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|J/\\(\psi\\) production at midrapidity in p\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 8.16\\) TeV|pPb|[2211.14153](http://arxiv.org/abs/2211.14153v1){: target="_blank"}|[2593303](https://inspirehep.net/literature/2593303){: target="_blank"}|Submitted|410|
+|HF|First measurement of \\(\Lambda_\mathrm\{c\}^\{+\}\\) production down to \\(p_\mathrm\{T\} = 0\\) in pp and p-Pb collisions at \\(\sqrt\{s_\mathrm\{NN\}\} = 5.02\\) TeV|pp,pPb|[2211.14032](http://arxiv.org/abs/2211.14032v1){: target="_blank"}|[2593302](https://inspirehep.net/literature/2593302){: target="_blank"}|Submitted|409|
+|LF|Light (anti)nuclei production in Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}=5.02\\) TeV|PbPb|[2211.14015](http://arxiv.org/abs/2211.14015v1){: target="_blank"}|[2593310](https://inspirehep.net/literature/2593310){: target="_blank"}|Submitted|408|
+|HF|Measurement of electrons from beauty-hadron decays in pp and Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|pp,PbPb|[2211.13985](http://arxiv.org/abs/2211.13985v1){: target="_blank"}|[2593282](https://inspirehep.net/literature/2593282){: target="_blank"}|Submitted|407|
 |CF|Two-particle transverse momentum correlations in pp and p-Pb collisions at LHC energies|pp,pPb|[2211.08979](http://arxiv.org/abs/2211.08979v1){: target="_blank"}|[2182733](https://inspirehep.net/literature/2182733){: target="_blank"}|Submitted|406|
 |JE|Production of \\(\{\rm K\}^\{0\}_\{\rm\{S\}\}\\), \\(\Lambda\\) (\\(\bar\Lambda\\)), \\(\Xi^\{\pm\}\\) and \\(Ω^\{\pm\}\\) in jets and in the underlying event in pp and p\\(-\\)Pb collisions|pp,pPb|[2211.08936](http://arxiv.org/abs/2211.08936v1){: target="_blank"}|[2182725](https://inspirehep.net/literature/2182725){: target="_blank"}|Submitted|405|
 |JE|Measurement of the angle between jet axes in pp collisions at \\(\sqrt\{s\} = 5.02\\) TeV|pp|[2211.08928](http://arxiv.org/abs/2211.08928v1){: target="_blank"}|[2182727](https://inspirehep.net/literature/2182727){: target="_blank"}|Submitted|404|

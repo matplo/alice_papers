@@ -10,6 +10,10 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|MM|Pseudorapidity densities of charged particles with transverse momentum thresholds in pp collisions at \\(\sqrt\{s\} = 5.02\\) and \\(13\\) TeV|pp|[2211.15364](http://arxiv.org/abs/2211.15364v1){: target="_blank"}|[2601279](https://inspirehep.net/literature/2601279){: target="_blank"}|Submitted|414|
+|LF|Multiplicity dependence of charged-particle production in pp, p-Pb, Xe-Xe and Pb-Pb collisions at the LHC|pp,pPb,XeXe,PbPb|[2211.15326](http://arxiv.org/abs/2211.15326v1){: target="_blank"}|[2601281](https://inspirehep.net/literature/2601281){: target="_blank"}|Submitted|413|
+|LF|Enhanced deuteron coalescence probability in jets|pp|[2211.15204](http://arxiv.org/abs/2211.15204v1){: target="_blank"}|[2601274](https://inspirehep.net/literature/2601274){: target="_blank"}|Submitted|412|
+|CF|Investigation of K\\(^\{+\}\\)K\\(^\{-\}\\) interactions via femtoscopy in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\} =2.76\\) TeV at the LHC|PbPb|[2211.15194](http://arxiv.org/abs/2211.15194v1){: target="_blank"}|[2601388](https://inspirehep.net/literature/2601388){: target="_blank"}|Submitted|411|
 |DQ|J/\\(\psi\\) production at midrapidity in p\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 8.16\\) TeV|pPb|[2211.14153](http://arxiv.org/abs/2211.14153v1){: target="_blank"}|[2593303](https://inspirehep.net/literature/2593303){: target="_blank"}|Submitted|410|
 |HF|First measurement of \\(\Lambda_\mathrm\{c\}^\{+\}\\) production down to \\(p_\mathrm\{T\} = 0\\) in pp and p-Pb collisions at \\(\sqrt\{s_\mathrm\{NN\}\} = 5.02\\) TeV|pp,pPb|[2211.14032](http://arxiv.org/abs/2211.14032v1){: target="_blank"}|[2593302](https://inspirehep.net/literature/2593302){: target="_blank"}|Submitted|409|
 |LF|Light (anti)nuclei production in Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}=5.02\\) TeV|PbPb|[2211.14015](http://arxiv.org/abs/2211.14015v1){: target="_blank"}|[2593310](https://inspirehep.net/literature/2593310){: target="_blank"}|Submitted|408|

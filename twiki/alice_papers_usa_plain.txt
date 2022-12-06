@@ -510,7 +510,7 @@ DOI link: https://doi.org/10.1038/s41586-022-04572-w
  
 Polarization of $Λ$ and $\overlineΛ$ hyperons along the beam direction in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV
 Date on arXiv: 2021.07.23
-Link: http://arxiv.org/abs/2107.11183v1
+Link: http://arxiv.org/abs/2107.11183v2
 Inspire: https://inspirehep.net/literature/1891389
 DOI link: https://doi.org/10.1103/PhysRevLett.128.172005
  

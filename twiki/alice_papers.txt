@@ -1,6 +1,7 @@
-   * Generated on 2022-Dec-12 08:52 UTC  .
+   * Generated on 2022-Dec-12 15:56 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|LF|Measurement of (anti)nuclei production in p-Pb collisions at $\sqrt{s_{\rm NN}} = 8.16$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2212.04777v1][2212.04777]]|[[https://inspirehep.net/literature/2612635][2612635]]|%RED%Submitted%ENDCOLOR%|415|
 |MM|Pseudorapidity densities of charged particles with transverse momentum thresholds in pp collisions at $\sqrt{s} = 5.02$ and $13$ !TeV|pp|[[http://arxiv.org/abs/2211.15364v1][2211.15364]]|[[https://inspirehep.net/literature/2601279][2601279]]|%RED%Submitted%ENDCOLOR%|414|
 |LF|Multiplicity dependence of charged-particle production in pp, p-Pb, Xe-Xe and Pb-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2211.15326v1][2211.15326]]|[[https://inspirehep.net/literature/2601281][2601281]]|%RED%Submitted%ENDCOLOR%|413|
 |LF|Enhanced deuteron coalescence probability in jets|pp|[[http://arxiv.org/abs/2211.15204v1][2211.15204]]|[[https://inspirehep.net/literature/2601274][2601274]]|%RED%Submitted%ENDCOLOR%|412|

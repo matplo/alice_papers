@@ -1,4 +1,4 @@
-   * Generated on 2022-Dec-13 00:52 UTC  .
+   * Generated on 2022-Dec-13 08:51 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Measurement of (anti)nuclei production in p-Pb collisions at $\sqrt{s_{\rm NN}} = 8.16$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2212.04777v1][2212.04777]]|[[https://inspirehep.net/literature/2612635][2612635]]|%RED%Submitted%ENDCOLOR%|415|

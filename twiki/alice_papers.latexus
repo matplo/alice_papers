@@ -1,3 +1,12 @@
+\cite{ALICE:2022pxx}
+
+\bibitem{ALICE:2022pxx}
+
+  [ALICE],
+%``First measurement of prompt and non-prompt ${\rm D^{*+}}$ vector meson spin alignment in pp collisions at $\sqrt{s} = 13$ TeV,''
+[arXiv:2212.06588 [nucl-ex]].
+%0 citations counted in INSPIRE as of 14 Dec 2022
+
 \cite{ALICE:2022weh}
 
 \bibitem{ALICE:2022weh}
@@ -665,7 +674,7 @@ doi:10.1103/PhysRevLett.128.102001
 JHEP \textbf{05}, 061 (2022)
 doi:10.1007/JHEP05(2022)061
 [arXiv:2107.11303 [nucl-ex]].
-%25 citations counted in INSPIRE as of 14 Dec 2022
+%26 citations counted in INSPIRE as of 14 Dec 2022
 
 \cite{ALICE:2021nvv}
 

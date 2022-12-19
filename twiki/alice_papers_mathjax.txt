@@ -1,4 +1,4 @@
-   * Generated on 2022-Dec-19 08:50 UTC  .
+   * Generated on 2022-Dec-19 16:51 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|First measurement of prompt and non-prompt \({\rm D^{*+}}\) vector meson spin alignment in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2212.06588v1][2212.06588]]|[[https://inspirehep.net/literature/2613835][2613835]]|%RED%Submitted%ENDCOLOR%|416|

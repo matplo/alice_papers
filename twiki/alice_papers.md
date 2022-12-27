@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Azimuthal anisotropy of jet particles in p-Pb and Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|pPb,PbPb|[2212.12609](http://arxiv.org/abs/2212.12609v1){: target="_blank"}|[2618175](https://inspirehep.net/literature/2618175){: target="_blank"}|Submitted|417|
 |HF|First measurement of prompt and non-prompt \\(\{\rm D^\{*+\}\}\\) vector meson spin alignment in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2212.06588](http://arxiv.org/abs/2212.06588v1){: target="_blank"}|[2613835](https://inspirehep.net/literature/2613835){: target="_blank"}|Submitted|416|
 |LF|Measurement of (anti)nuclei production in p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 8.16\\) TeV|pPb|[2212.04777](http://arxiv.org/abs/2212.04777v1){: target="_blank"}|[2612635](https://inspirehep.net/literature/2612635){: target="_blank"}|Submitted|415|
 |MM|Pseudorapidity densities of charged particles with transverse momentum thresholds in pp collisions at \\(\sqrt\{s\} = 5.02\\) and \\(13\\) TeV|pp|[2211.15364](http://arxiv.org/abs/2211.15364v1){: target="_blank"}|[2601279](https://inspirehep.net/literature/2601279){: target="_blank"}|Submitted|414|

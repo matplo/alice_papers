@@ -3075,7 +3075,7 @@ doi:10.1016/j.physletb.2016.01.020
 Phys. Lett. B \textbf{754}, 373-385 (2016)
 doi:10.1016/j.physletb.2015.12.082
 [arXiv:1509.07299 [nucl-ex]].
-%57 citations counted in INSPIRE as of 11 Jan 2023
+%58 citations counted in INSPIRE as of 11 Jan 2023
 
 \cite{ALICE:2015dry}
 
@@ -3275,6 +3275,16 @@ doi:10.1103/PhysRevC.93.034913
 [arXiv:1506.07287 [nucl-ex]].
 %152 citations counted in INSPIRE as of 11 Jan 2023
 
+\cite{ALICE:2015ccw}
+
+\bibitem{ALICE:2015ccw}
+
+ J.~Adam \textit{et al.} [ALICE],
+%``Centrality dependence of high-p$_{T}$ D meson suppression in Pb-Pb collisions at $ \sqrt{s_{\mathrm{N}\mathrm{N}}}=2.76 $ TeV,''
+JHEP \textbf{11}, 205 (2015)
+doi:10.1007/JHEP11(2015)205
+[arXiv:1506.06604 [nucl-ex]].
+%90 citations counted in INSPIRE as of 11 Jan 2023
 
 \cite{ALICE:2015mdb}
 

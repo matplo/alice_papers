@@ -1,4 +1,4 @@
-   * Generated on 2023-Jan-24 08:51 UTC  .
+   * Generated on 2023-Jan-24 16:52 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Azimuthal anisotropy of jet particles in p-Pb and Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2212.12609v1][2212.12609]]|[[https://inspirehep.net/literature/2618175][2618175]]|%RED%Submitted%ENDCOLOR%|417|

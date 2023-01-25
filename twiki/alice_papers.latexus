@@ -1,3 +1,12 @@
+\cite{ALICE:2023yuk}
+
+\bibitem{ALICE:2023yuk}
+
+  [ALICE],
+%``Production of pions, kaons and protons as a function of the transverse event activity in pp collisions at $\sqrt{s}=13$ TeV,''
+[arXiv:2301.10120 [nucl-ex]].
+%0 citations counted in INSPIRE as of 25 Jan 2023
+
 \cite{ALICE:2022cwa}
 
 \bibitem{ALICE:2022cwa}
@@ -629,7 +638,9 @@ doi:10.1007/JHEP01(2022)178
 \bibitem{ALICE:2021qlw}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Inclusive quarkonium production in pp collisions at $\sqrt{s} = 5.02$ TeV,''
+%``Inclusive quarkonium production in pp collisions at $\sqrt{s}$ = 5.02~TeV,''
+Eur. Phys. J. C \textbf{83}, no.1, 61 (2023)
+doi:10.1140/epjc/s10052-022-10896-8
 [arXiv:2109.15240 [nucl-ex]].
 %15 citations counted in INSPIRE as of 25 Jan 2023
 
@@ -3494,7 +3505,7 @@ doi:10.1016/j.physletb.2014.11.028
 Eur. Phys. J. C \textbf{75}, no.1, 1 (2015)
 doi:10.1140/epjc/s10052-014-3191-x
 [arXiv:1406.3206 [nucl-ex]].
-%282 citations counted in INSPIRE as of 25 Jan 2023
+%283 citations counted in INSPIRE as of 25 Jan 2023
 
 \cite{ALICE:2014dwt}
 

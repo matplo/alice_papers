@@ -1,6 +1,7 @@
-   * Generated on 2023-Feb-02 16:51 UTC  .
+   * Generated on 2023-Feb-03 00:50 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Exploring the non-universality of charm hadronisation through the measurement of the fraction of jet longitudinal momentum carried by \(\Lambda_{\rm c}^+\) baryons in pp collisions|pp|[[http://arxiv.org/abs/2301.13798v1][2301.13798]]|[[https://inspirehep.net/literature/2628372][2628372]]|%RED%Submitted%ENDCOLOR%|419|
 |MM|Production of pions, kaons and protons as a function of the transverse event activity in pp collisions at \(\sqrt{s}=13\) !TeV|pp|[[http://arxiv.org/abs/2301.10120v1][2301.10120]]|[[https://inspirehep.net/literature/2626034][2626034]]|%RED%Submitted%ENDCOLOR%|418|
 |CF|Azimuthal anisotropy of jet particles in p-Pb and Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2212.12609v1][2212.12609]]|[[https://inspirehep.net/literature/2618175][2618175]]|%RED%Submitted%ENDCOLOR%|417|
 |HF|First measurement of prompt and non-prompt \({\rm D^{*+}}\) vector meson spin alignment in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2212.06588v1][2212.06588]]|[[https://inspirehep.net/literature/2613835][2613835]]|%RED%Submitted%ENDCOLOR%|416|

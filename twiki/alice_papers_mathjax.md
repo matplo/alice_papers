@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Exploring the non-universality of charm hadronisation through the measurement of the fraction of jet longitudinal momentum carried by \\(\Lambda_\{\rm c\}^+\\) baryons in pp collisions|pp|[2301.13798](http://arxiv.org/abs/2301.13798v1){: target="_blank"}|[2628372](https://inspirehep.net/literature/2628372){: target="_blank"}|Submitted|419|
 |MM|Production of pions, kaons and protons as a function of the transverse event activity in pp collisions at \\(\sqrt\{s\}=13\\) TeV|pp|[2301.10120](http://arxiv.org/abs/2301.10120v1){: target="_blank"}|[2626034](https://inspirehep.net/literature/2626034){: target="_blank"}|Submitted|418|
 |CF|Azimuthal anisotropy of jet particles in p-Pb and Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|pPb,PbPb|[2212.12609](http://arxiv.org/abs/2212.12609v1){: target="_blank"}|[2618175](https://inspirehep.net/literature/2618175){: target="_blank"}|Submitted|417|
 |HF|First measurement of prompt and non-prompt \\(\{\rm D^\{*+\}\}\\) vector meson spin alignment in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2212.06588](http://arxiv.org/abs/2212.06588v1){: target="_blank"}|[2613835](https://inspirehep.net/literature/2613835){: target="_blank"}|Submitted|416|

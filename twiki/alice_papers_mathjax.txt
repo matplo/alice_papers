@@ -1,4 +1,4 @@
-   * Generated on 2023-Feb-04 08:51 UTC  .
+   * Generated on 2023-Feb-04 16:50 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Exploring the non-universality of charm hadronisation through the measurement of the fraction of jet longitudinal momentum carried by \(\Lambda_{\rm c}^+\) baryons in pp collisions|pp|[[http://arxiv.org/abs/2301.13798v1][2301.13798]]|[[https://inspirehep.net/literature/2628372][2628372]]|%RED%Submitted%ENDCOLOR%|419|

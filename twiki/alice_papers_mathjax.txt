@@ -1,6 +1,8 @@
-   * Generated on 2023-Feb-06 16:51 UTC  .
+   * Generated on 2023-Feb-06 19:37 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|n/a|ALICE upgrades during the LHC Long Shutdown 2|n/a|[[http://arxiv.org/abs/2302.01238v1][2302.01238]]|[[https://inspirehep.net/literature/2628978][2628978]]|%RED%Submitted%ENDCOLOR%|421|
+|CF|Symmetry plane correlations in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 2.76\)!TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2302.01234v1][2302.01234]]|[[https://inspirehep.net/literature/2628969][2628969]]|%RED%Submitted%ENDCOLOR%|420|
 |HF|Exploring the non-universality of charm hadronisation through the measurement of the fraction of jet longitudinal momentum carried by \(\Lambda_{\rm c}^+\) baryons in pp collisions|pp|[[http://arxiv.org/abs/2301.13798v1][2301.13798]]|[[https://inspirehep.net/literature/2628372][2628372]]|%RED%Submitted%ENDCOLOR%|419|
 |MM|Production of pions, kaons and protons as a function of the transverse event activity in pp collisions at \(\sqrt{s}=13\) !TeV|pp|[[http://arxiv.org/abs/2301.10120v1][2301.10120]]|[[https://inspirehep.net/literature/2626034][2626034]]|%RED%Submitted%ENDCOLOR%|418|
 |CF|Azimuthal anisotropy of jet particles in p-Pb and Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2212.12609v1][2212.12609]]|[[https://inspirehep.net/literature/2618175][2618175]]|%RED%Submitted%ENDCOLOR%|417|

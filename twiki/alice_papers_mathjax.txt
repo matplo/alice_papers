@@ -1,4 +1,4 @@
-   * Generated on 2023-Feb-09 00:53 UTC  .
+   * Generated on 2023-Feb-09 08:54 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |n/a|ALICE upgrades during the LHC Long Shutdown 2|n/a|[[http://arxiv.org/abs/2302.01238v1][2302.01238]]|[[https://inspirehep.net/literature/2628978][2628978]]|%RED%Submitted%ENDCOLOR%|421|
@@ -48,7 +48,7 @@
 |DQ|Measurement of \(\psi\)(2S) production as a function of charged-particle pseudorapidity density in pp collisions at \(\sqrt{s}\) = 13 !TeV and p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 8.16 !TeV with ALICE at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10253v1][2204.10253]]|[[https://inspirehep.net/literature/2070433][2070433]]|%RED%Submitted%ENDCOLOR%|377|
 |JE|Measurements of the groomed jet radius and momentum splitting fraction with the soft drop and dynamical grooming algorithms in pp collisions at \(\sqrt{s}=5.02\) !TeV|pp|[[http://arxiv.org/abs/2204.10246v1][2204.10246]]|[[https://inspirehep.net/literature/2070421][2070421]]|%RED%Submitted%ENDCOLOR%|376|
 |CF|Elliptic flow of charged particles at midrapidity relative to the spectator plane in Pb-Pb and Xe-Xe collisions|%RED%PbPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2204.10240v1][2204.10240]]|[[https://inspirehep.net/literature/2070420][2070420]]|%RED%Submitted%ENDCOLOR%|375|
-|MM|System-size dependence of the charged-particle pseudorapidity density at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV for pp, p-Pb, and Pb-Pb collisions|pp,%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10210v1][2204.10210]]|[[https://inspirehep.net/literature/2070408][2070408]]|%RED%Submitted%ENDCOLOR%|374|
+|MM|System-size dependence of the charged-particle pseudorapidity density at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV for pp, p-Pb, and Pb-Pb collisions|pp,%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10210v1][2204.10210]]|[[https://inspirehep.net/literature/2070408][2070408]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2023.137730][j. physletb. 2023. 137730]]%ENDCOLOR%|374|
 |DQ|Measurement of the J/\(\psi\) polarization with respect to the event plane in Pb-Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10171v1][2204.10171]]|[[https://inspirehep.net/literature/2070399][2070399]]|%RED%Submitted%ENDCOLOR%|373|
 |HF|Measurement of the production of charm jets tagged with \({\rm D^0}\) mesons in pp collisions at \(\sqrt{s}\) = 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2204.10167v1][2204.10167]]|[[https://inspirehep.net/literature/2070667][2070667]]|%RED%Submitted%ENDCOLOR%|372|
 |CF|First measurement of antideuteron number fluctuations at energies available at the Large Hadron Collider|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10166v1][2204.10166]]|[[https://inspirehep.net/literature/2070391][2070391]]|%RED%Submitted%ENDCOLOR%|371|

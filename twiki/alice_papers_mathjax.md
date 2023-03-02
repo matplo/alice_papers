@@ -10,6 +10,11 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Measurement of the \\(\Lambda\\) hyperon lifetime|PbPb|[2303.00606](http://arxiv.org/abs/2303.00606v1){: target="_blank"}|[2637684](https://inspirehep.net/literature/2637684){: target="_blank"}|Submitted|426|
+|JE|Measurement of the radius dependence of charged-particle jet suppression in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2303.00592](http://arxiv.org/abs/2303.00592v1){: target="_blank"}|[2637686](https://inspirehep.net/literature/2637686){: target="_blank"}|Submitted|425|
+|HF|Azimuthal correlations of heavy-flavor hadron decay electrons with charged particles in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|pp,pPb|[2303.00591](http://arxiv.org/abs/2303.00591v1){: target="_blank"}|[2637679](https://inspirehep.net/literature/2637679){: target="_blank"}|Submitted|424|
+|MM|Inclusive photon production at forward rapidities in pp and p\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,pPb|[2303.00590](http://arxiv.org/abs/2303.00590v1){: target="_blank"}|[2637678](https://inspirehep.net/literature/2637678){: target="_blank"}|Submitted|423|
+|HF|Measurement of the non-prompt D-meson fraction as a function of multiplicity in proton\\(-\\)proton collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2302.07783](http://arxiv.org/abs/2302.07783v1){: target="_blank"}|[2632796](https://inspirehep.net/literature/2632796){: target="_blank"}|Submitted|422|
 |n/a|ALICE upgrades during the LHC Long Shutdown 2|n/a|[2302.01238](http://arxiv.org/abs/2302.01238v1){: target="_blank"}|[2628978](https://inspirehep.net/literature/2628978){: target="_blank"}|Submitted|421|
 |CF|Symmetry plane correlations in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 2.76\\)TeV|PbPb|[2302.01234](http://arxiv.org/abs/2302.01234v1){: target="_blank"}|[2628969](https://inspirehep.net/literature/2628969){: target="_blank"}|Submitted|420|
 |HF|Exploring the non-universality of charm hadronisation through the measurement of the fraction of jet longitudinal momentum carried by \\(\Lambda_\{\rm c\}^+\\) baryons in pp collisions|pp|[2301.13798](http://arxiv.org/abs/2301.13798v1){: target="_blank"}|[2628372](https://inspirehep.net/literature/2628372){: target="_blank"}|Submitted|419|

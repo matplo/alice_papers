@@ -1,6 +1,11 @@
-   * Generated on 2023-Mar-02 08:51 UTC  .
+   * Generated on 2023-Mar-02 11:10 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|LF|Measurement of the $Λ$ hyperon lifetime|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.00606v1][2303.00606]]|[[https://inspirehep.net/literature/2637684][2637684]]|%RED%Submitted%ENDCOLOR%|426|
+|JE|Measurement of the radius dependence of charged-particle jet suppression in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.00592v1][2303.00592]]|[[https://inspirehep.net/literature/2637686][2637686]]|%RED%Submitted%ENDCOLOR%|425|
+|HF|Azimuthal correlations of heavy-flavor hadron decay electrons with charged particles in pp and p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.00591v1][2303.00591]]|[[https://inspirehep.net/literature/2637679][2637679]]|%RED%Submitted%ENDCOLOR%|424|
+|MM|Inclusive photon production at forward rapidities in pp and p$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.00590v1][2303.00590]]|[[https://inspirehep.net/literature/2637678][2637678]]|%RED%Submitted%ENDCOLOR%|423|
+|HF|Measurement of the non-prompt D-meson fraction as a function of multiplicity in proton$-$proton collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2302.07783v1][2302.07783]]|[[https://inspirehep.net/literature/2632796][2632796]]|%RED%Submitted%ENDCOLOR%|422|
 |n/a|ALICE upgrades during the LHC Long Shutdown 2|n/a|[[http://arxiv.org/abs/2302.01238v1][2302.01238]]|[[https://inspirehep.net/literature/2628978][2628978]]|%RED%Submitted%ENDCOLOR%|421|
 |CF|Symmetry plane correlations in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$!TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2302.01234v1][2302.01234]]|[[https://inspirehep.net/literature/2628969][2628969]]|%RED%Submitted%ENDCOLOR%|420|
 |HF|Exploring the non-universality of charm hadronisation through the measurement of the fraction of jet longitudinal momentum carried by $Λ_{\rm c}^+$ baryons in pp collisions|pp|[[http://arxiv.org/abs/2301.13798v1][2301.13798]]|[[https://inspirehep.net/literature/2628372][2628372]]|%RED%Submitted%ENDCOLOR%|419|

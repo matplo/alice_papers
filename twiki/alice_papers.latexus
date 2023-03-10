@@ -594,7 +594,9 @@ doi:10.1007/JHEP06(2022)015
 \bibitem{ALICE:2021bib}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Constraining hadronization mechanisms with $\rm \Lambda_{\rm c}^{+}$/D$^0$ production ratios in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
+%``Constraining hadronization mechanisms with \ensuremath{\Lambda}c+/D0 production ratios in Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+Phys. Lett. B \textbf{839}, 137796 (2023)
+doi:10.1016/j.physletb.2023.137796
 [arXiv:2112.08156 [nucl-ex]].
 %29 citations counted in INSPIRE as of 10 Mar 2023
 
@@ -1730,7 +1732,7 @@ doi:10.1140/epjc/s10052-020-7687-2
 Eur. Phys. J. C \textbf{80}, no.2, 167 (2020)
 doi:10.1140/epjc/s10052-020-7673-8
 [arXiv:1908.01861 [nucl-ex]].
-%84 citations counted in INSPIRE as of 10 Mar 2023
+%85 citations counted in INSPIRE as of 10 Mar 2023
 
 \cite{ALICE:2019vlx}
 
@@ -2324,7 +2326,7 @@ doi:10.1016/j.physletb.2018.06.059
 JHEP \textbf{10}, 174 (2018)
 doi:10.1007/JHEP10(2018)174
 [arXiv:1804.09083 [nucl-ex]].
-%171 citations counted in INSPIRE as of 10 Mar 2023
+%172 citations counted in INSPIRE as of 10 Mar 2023
 
 \cite{ALICE:2018afp}
 
@@ -2621,7 +2623,7 @@ doi:10.1007/JHEP09(2017)032
 Phys. Rev. Lett. \textbf{120}, no.10, 102301 (2018)
 doi:10.1103/PhysRevLett.120.102301
 [arXiv:1707.01005 [nucl-ex]].
-%133 citations counted in INSPIRE as of 10 Mar 2023
+%134 citations counted in INSPIRE as of 10 Mar 2023
 
 \cite{ALICE:2017jto}
 

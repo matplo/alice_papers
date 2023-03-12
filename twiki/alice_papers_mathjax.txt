@@ -1,4 +1,4 @@
-   * Generated on 2023-Mar-12 00:51 UTC  .
+   * Generated on 2023-Mar-12 08:51 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Measurement of the \(\Lambda\) hyperon lifetime|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.00606v1][2303.00606]]|[[https://inspirehep.net/literature/2637684][2637684]]|%RED%Submitted%ENDCOLOR%|426|

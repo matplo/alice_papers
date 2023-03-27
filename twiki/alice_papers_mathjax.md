@@ -10,6 +10,12 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Study of the p\\(-\\)p\\(-\\)K\\(^+\\) and p\\(-\\)p\\(-\\)K\\(^-\\) dynamics using the femtoscopy technique|pp|[2303.13448](http://arxiv.org/abs/2303.13448v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|432|
+|DQ|Measurement of inclusive J/\\(\psi\\) pair production cross section in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2303.13431](http://arxiv.org/abs/2303.13431v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|431|
+|CF|Higher-order correlations between different moments of two flow amplitudes in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}=5.02\\) TeV|PbPb|[2303.13414](http://arxiv.org/abs/2303.13414v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|430|
+|DQ|Measurements of inclusive J/\\(\psi\\) production at midrapidity and forward rapidity in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[2303.13361](http://arxiv.org/abs/2303.13361v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|429|
+|HF|Inclusive and multiplicity dependent production of electrons from heavy-flavour hadron decays in pp and p\\(-\\)Pb collisions|pp,pPb|[2303.13349](http://arxiv.org/abs/2303.13349v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|428|
+|JE|Measurement of the angle between jet axes in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2303.13347](http://arxiv.org/abs/2303.13347v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|427|
 |LF|Measurement of the \\(\Lambda\\) hyperon lifetime|PbPb|[2303.00606](http://arxiv.org/abs/2303.00606v1){: target="_blank"}|[2637684](https://inspirehep.net/literature/2637684){: target="_blank"}|Submitted|426|
 |JE|Measurement of the radius dependence of charged-particle jet suppression in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2303.00592](http://arxiv.org/abs/2303.00592v1){: target="_blank"}|[2637686](https://inspirehep.net/literature/2637686){: target="_blank"}|Submitted|425|
 |HF|Azimuthal correlations of heavy-flavor hadron decay electrons with charged particles in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|pp,pPb|[2303.00591](http://arxiv.org/abs/2303.00591v1){: target="_blank"}|[2637679](https://inspirehep.net/literature/2637679){: target="_blank"}|Submitted|424|

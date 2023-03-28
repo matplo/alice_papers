@@ -1,4 +1,4 @@
-   * Generated on 2023-Mar-28 00:51 UTC  .
+   * Generated on 2023-Mar-28 08:51 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Study of the p$-$p$-$K$^+$ and p$-$p$-$K$^-$ dynamics using the femtoscopy technique|pp|[[http://arxiv.org/abs/2303.13448v1][2303.13448]]|[[-][0]]|%RED%Submitted%ENDCOLOR%|432|

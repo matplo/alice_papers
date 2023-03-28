@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|EM|Data-driven precision determination of the material budget in ALICE|pp,PbPb|[2303.15317](http://arxiv.org/abs/2303.15317v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|433|
 |CF|Study of the p\\(-\\)p\\(-\\)K\\(^+\\) and p\\(-\\)p\\(-\\)K\\(^-\\) dynamics using the femtoscopy technique|pp|[2303.13448](http://arxiv.org/abs/2303.13448v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|432|
 |DQ|Measurement of inclusive J/\\(\psi\\) pair production cross section in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2303.13431](http://arxiv.org/abs/2303.13431v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|431|
 |CF|Higher-order correlations between different moments of two flow amplitudes in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}=5.02\\) TeV|PbPb|[2303.13414](http://arxiv.org/abs/2303.13414v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|430|

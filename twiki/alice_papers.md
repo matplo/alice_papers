@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|UD|First polarisation measurement of coherently photoproduced J/\\(\psi\\) in ultra-peripheral Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2304.10928](http://arxiv.org/abs/2304.10928v1){: target="_blank"}|[2653626](https://inspirehep.net/literature/2653626){: target="_blank"}|Submitted|434|
 |EM|Data-driven precision determination of the material budget in ALICE|pp,PbPb|[2303.15317](http://arxiv.org/abs/2303.15317v1){: target="_blank"}|[2648548](https://inspirehep.net/literature/2648548){: target="_blank"}|Submitted|433|
 |CF|Study of the p\\(-\\)p\\(-\\)K\\(^+\\) and p\\(-\\)p\\(-\\)K\\(^-\\) dynamics using the femtoscopy technique|pp|[2303.13448](http://arxiv.org/abs/2303.13448v1){: target="_blank"}|[2648608](https://inspirehep.net/literature/2648608){: target="_blank"}|Submitted|432|
 |DQ|Measurement of inclusive J/\\(\psi\\) pair production cross section in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2303.13431](http://arxiv.org/abs/2303.13431v1){: target="_blank"}|[2648593](https://inspirehep.net/literature/2648593){: target="_blank"}|Submitted|431|

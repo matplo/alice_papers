@@ -1,6 +1,7 @@
-   * Generated on 2023-Apr-26 16:53 UTC  .
+   * Generated on 2023-Apr-26 21:53 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|UD|Exclusive and dissociative J/\(\psi\) photoproduction, and exclusive dimuon production, in p\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2304.12403v1][2304.12403]]|[[https://inspirehep.net/literature/2654315][2654315]]|%RED%Submitted%ENDCOLOR%|435|
 |UD|First polarisation measurement of coherently photoproduced J/\(\psi\) in ultra-peripheral Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2304.10928v1][2304.10928]]|[[https://inspirehep.net/literature/2653626][2653626]]|%RED%Submitted%ENDCOLOR%|434|
 |EM|Data-driven precision determination of the material budget in ALICE|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.15317v1][2303.15317]]|[[https://inspirehep.net/literature/2648548][2648548]]|%RED%Submitted%ENDCOLOR%|433|
 |CF|Study of the p\(-\)p\(-\)K\(^+\) and p\(-\)p\(-\)K\(^-\) dynamics using the femtoscopy technique|pp|[[http://arxiv.org/abs/2303.13448v1][2303.13448]]|[[https://inspirehep.net/literature/2648608][2648608]]|%RED%Submitted%ENDCOLOR%|432|

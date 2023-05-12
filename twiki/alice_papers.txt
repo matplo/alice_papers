@@ -1,4 +1,4 @@
-   * Generated on 2023-May-11 16:52 UTC  .
+   * Generated on 2023-May-12 00:52 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|Exclusive and dissociative J/$ψ$ photoproduction, and exclusive dimuon production, in p$-$Pb collisions at $\sqrt{s_{\rm NN}} = 8.16$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2304.12403v1][2304.12403]]|[[https://inspirehep.net/literature/2654315][2654315]]|%RED%Submitted%ENDCOLOR%|435|
@@ -53,7 +53,7 @@
 |HF|First measurement of $\rm Ω_c^0$ production in pp collisions at $\sqrt{s}=13$ !TeV|pp|[[http://arxiv.org/abs/2205.13993v1][2205.13993]]|[[https://inspirehep.net/literature/2088206][2088206]]|%RED%Submitted%ENDCOLOR%|386|
 |DQ|Dielectron production at midrapidity at low transverse momentum in peripheral and semi-peripheral Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.11732v1][2204.11732]]|[[https://inspirehep.net/literature/2071861][2071861]]|%RED%Submitted%ENDCOLOR%|385|
 |DQ|Photoproduction of low-$p_{\rm T}$ J/$ψ$ from peripheral to central Pb$-$Pb collisions at 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10684v1][2204.10684]]|[[https://inspirehep.net/literature/2071183][2071183]]|%RED%Submitted%ENDCOLOR%|384|
-|HF|W$^\pm$-boson production in p$-$Pb collisions at $\sqrt{s_{NN}} = 8.16$ !TeV and !PbPb collisions at $\sqrt{s_{NN}} = 5.02$ !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10640v2][2204.10640]]|[[https://inspirehep.net/literature/2071184][2071184]]|%RED%Submitted%ENDCOLOR%|383|
+|HF|W$^\pm$-boson production in p$-$Pb collisions at $\sqrt{s_{NN}} = 8.16$ !TeV and !PbPb collisions at $\sqrt{s_{NN}} = 5.02$ !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10640v2][2204.10640]]|[[https://inspirehep.net/literature/2071184][2071184]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2023)036][JHEP 05]]%ENDCOLOR%|383|
 |MM|Underlying-event properties in pp and p$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10389v1][2204.10389]]|[[https://inspirehep.net/literature/2071174][2071174]]|%RED%Submitted%ENDCOLOR%|382|
 |HF|Measurement of beauty-strange meson production in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV via non-prompt $\mathrm{D_s}^{+}$ mesons|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10386v1][2204.10386]]|[[https://inspirehep.net/literature/2071181][2071181]]|%RED%Submitted%ENDCOLOR%|381|
 |JE|Measurement of inclusive and leading subjet fragmentation in pp and Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2204.10270v1][2204.10270]]|[[https://inspirehep.net/literature/2070434][2070434]]|%RED%Submitted%ENDCOLOR%|380|

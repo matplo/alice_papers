@@ -1,4 +1,4 @@
-   * Generated on 2023-May-26 16:51 UTC  .
+   * Generated on 2023-May-27 00:51 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|First measurement of the $ &#124; t &#124; $-dependence of incoherent J/$ψ$ photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2305.06169v1][2305.06169]]|[[https://inspirehep.net/literature/2658375][2658375]]|%RED%Submitted%ENDCOLOR%|436|

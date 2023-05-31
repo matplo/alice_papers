@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Accessing the strong interaction between \\(\Lambda\\) baryons and charged kaons with the femtoscopy technique at the LHC|pp|[2305.19093](http://arxiv.org/abs/2305.19093v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|438|
+|UD|Energy dependence of coherent photonuclear production of J/\\(\psi\\) mesons in ultra-peripheral Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\)=5.02 TeV|PbPb|[2305.19060](http://arxiv.org/abs/2305.19060v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|437|
 |UD|First measurement of the \\( &#124; t &#124; \\)-dependence of incoherent J/\\(\psi\\) photonuclear production|PbPb|[2305.06169](http://arxiv.org/abs/2305.06169v1){: target="_blank"}|[2658375](https://inspirehep.net/literature/2658375){: target="_blank"}|Submitted|436|
 |UD|Exclusive and dissociative J/\\(\psi\\) photoproduction, and exclusive dimuon production, in p\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 8.16\\) TeV|pPb|[2304.12403](http://arxiv.org/abs/2304.12403v1){: target="_blank"}|[2654315](https://inspirehep.net/literature/2654315){: target="_blank"}|Submitted|435|
 |UD|First polarisation measurement of coherently photoproduced J/\\(\psi\\) in ultra-peripheral Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2304.10928](http://arxiv.org/abs/2304.10928v1){: target="_blank"}|[2653626](https://inspirehep.net/literature/2653626){: target="_blank"}|Submitted|434|

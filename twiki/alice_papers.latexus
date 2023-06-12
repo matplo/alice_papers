@@ -182,8 +182,10 @@
 
 \bibitem{ALICE:2023yuk}
 
-  [ALICE],
-%``Production of pions, kaons and protons as a function of the transverse event activity in pp collisions at $\sqrt{s}=13$ TeV,''
+ S.~Acharya \textit{et al.} [ALICE],
+%``Production of pions, kaons, and protons as a function of the relative transverse activity classifier in pp collisions at $ \sqrt{s} $ = 13 TeV,''
+JHEP \textbf{06}, 027 (2023)
+doi:10.1007/JHEP06(2023)027
 [arXiv:2301.10120 [nucl-ex]].
 %0 citations counted in INSPIRE as of 12 Jun 2023
 
@@ -521,8 +523,10 @@ doi:10.1007/JHEP05(2023)036
 
 \bibitem{ALICE:2022fnb}
 
-  [ALICE],
-%``Underlying-event properties in pp and p$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
+ S.~Acharya \textit{et al.} [ALICE],
+%``Underlying-event properties in pp and p\textendash{}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
+JHEP \textbf{06}, 023 (2023)
+doi:10.1007/JHEP06(2023)023
 [arXiv:2204.10389 [nucl-ex]].
 %3 citations counted in INSPIRE as of 12 Jun 2023
 
@@ -779,7 +783,7 @@ doi:10.1016/j.physletb.2022.137393
 Eur. Phys. J. C \textbf{82}, no.4, 335 (2022)
 doi:10.1140/epjc/s10052-022-10267-3
 [arXiv:2110.10043 [nucl-ex]].
-%7 citations counted in INSPIRE as of 12 Jun 2023
+%8 citations counted in INSPIRE as of 12 Jun 2023
 
 \cite{ALICE:2021uyz}
 
@@ -1637,7 +1641,7 @@ doi:10.1103/PhysRevC.102.024912
 Phys. Rev. Lett. \textbf{125}, no.1, 012301 (2020)
 doi:10.1103/PhysRevLett.125.012301
 [arXiv:1910.14408 [nucl-ex]].
-%112 citations counted in INSPIRE as of 12 Jun 2023
+%113 citations counted in INSPIRE as of 12 Jun 2023
 
 \cite{ALICE:2019buq}
 
@@ -1836,7 +1840,7 @@ Phys. Rev. C \textbf{101}, no.4, 044611 (2020)
 [erratum: Phys. Rev. C \textbf{105}, no.2, 029902 (2022)]
 doi:10.1103/PhysRevC.101.044611
 [arXiv:1909.01281 [nucl-ex]].
-%89 citations counted in INSPIRE as of 12 Jun 2023
+%90 citations counted in INSPIRE as of 12 Jun 2023
 
 \cite{ALICE:2019smg}
 
@@ -2067,7 +2071,7 @@ doi:10.1016/j.physletb.2020.135223
 Phys. Rev. Lett. \textbf{123}, no.14, 142301 (2019)
 doi:10.1103/PhysRevLett.123.142301
 [arXiv:1903.01790 [nucl-ex]].
-%111 citations counted in INSPIRE as of 12 Jun 2023
+%112 citations counted in INSPIRE as of 12 Jun 2023
 
 \cite{ALICE:2019dgz}
 

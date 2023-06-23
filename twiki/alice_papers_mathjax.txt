@@ -1,4 +1,4 @@
-   * Generated on 2023-Jun-22 16:52 UTC  .
+   * Generated on 2023-Jun-23 00:52 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Accessing the strong interaction between \(\Lambda\) baryons and charged kaons with the femtoscopy technique at the LHC|pp|[[http://arxiv.org/abs/2305.19093v2][2305.19093]]|[[https://inspirehep.net/literature/2666805][2666805]]|%RED%Submitted%ENDCOLOR%|438|

@@ -1,3 +1,12 @@
+\cite{ALICE:2023aod}
+
+\bibitem{ALICE:2023aod}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurement of the low-energy antitriton inelastic cross section,''
+[arXiv:2307.03603 [nucl-ex]].
+%0 citations counted in INSPIRE as of 10 Jul 2023
+
 \cite{ALICE:2023wjz}
 
 \bibitem{ALICE:2023wjz}
@@ -165,7 +174,7 @@
 \bibitem{ALICE:2023wdn}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Symmetry plane correlations in Pb\textendash{}Pb collisions at ${\varvec{\sqrt{s_\text {NN}}}} =2.76$ TeV,''
+%``Symmetry plane correlations in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 2.76$TeV,''
 Eur. Phys. J. C \textbf{83}, no.7, 576 (2023)
 doi:10.1140/epjc/s10052-023-11658-w
 [arXiv:2302.01234 [nucl-ex]].

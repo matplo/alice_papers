@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Measurement of the low-energy antitriton inelastic cross section|pp,PbPb|[2307.03603](http://arxiv.org/abs/2307.03603v1){: target="_blank"}|[2675130](https://inspirehep.net/literature/2675130){: target="_blank"}|Submitted|439|
 |CF|Accessing the strong interaction between \\(\Lambda\\) baryons and charged kaons with the femtoscopy technique at the LHC|pp|[2305.19093](http://arxiv.org/abs/2305.19093v2){: target="_blank"}|[2666805](https://inspirehep.net/literature/2666805){: target="_blank"}|Submitted|438|
 |UD|Energy dependence of coherent photonuclear production of J/\\(\psi\\) mesons in ultra-peripheral Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\)=5.02 TeV|PbPb|[2305.19060](http://arxiv.org/abs/2305.19060v1){: target="_blank"}|[2666011](https://inspirehep.net/literature/2666011){: target="_blank"}|Submitted|437|
 |UD|First measurement of the \\( &#124; t &#124; \\)-dependence of incoherent J/\\(\psi\\) photonuclear production|PbPb|[2305.06169](http://arxiv.org/abs/2305.06169v1){: target="_blank"}|[2658375](https://inspirehep.net/literature/2658375){: target="_blank"}|Submitted|436|

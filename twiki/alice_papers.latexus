@@ -320,8 +320,10 @@ doi:10.1103/PhysRevC.107.054617
 
 \bibitem{ALICE:2022ecr}
 
-  [ALICE],
-%``Production of ${\rm K}^{0}_{\rm{S}}$, $\Lambda$ ($\bar{\Lambda}$), $\Xi^{\pm}$ and $\Omega^{\pm}$ in jets and in the underlying event in pp and p$-$Pb collisions,''
+ S.~Acharya \textit{et al.} [ALICE],
+%``Production of $ {\textrm{K}}_{\textrm{S}}^0 $ , \ensuremath{\Lambda} ($ \overline{\Lambda} $), \ensuremath{\Xi}$^{±}$, and \ensuremath{\Omega}$^{±}$ in jets and in the underlying event in pp and p\textendash{}Pb collisions,''
+JHEP \textbf{07}, 136 (2023)
+doi:10.1007/JHEP07(2023)136
 [arXiv:2211.08936 [nucl-ex]].
 %2 citations counted in INSPIRE as of 21 Jul 2023
 

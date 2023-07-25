@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Pseudorapidity dependence of anisotropic flow and its decorrelations using long-range multiparticle correlations in Pb-Pb and Xe-Xe collisions|PbPb,XeXe|[2307.11116](http://arxiv.org/abs/2307.11116v1){: target="_blank"}|[2679248](https://inspirehep.net/literature/2679248){: target="_blank"}|Submitted|441|
+|JE|Measurement of inclusive charged-particle jet production in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}=5.02\\) TeV|pp,pPb|[2307.10860](http://arxiv.org/abs/2307.10860v1){: target="_blank"}|[2678721](https://inspirehep.net/literature/2678721){: target="_blank"}|Submitted|440|
 |LF|Measurement of the low-energy antitriton inelastic cross section|pp,PbPb|[2307.03603](http://arxiv.org/abs/2307.03603v1){: target="_blank"}|[2675130](https://inspirehep.net/literature/2675130){: target="_blank"}|Submitted|439|
 |CF|Accessing the strong interaction between \\(\Lambda\\) baryons and charged kaons with the femtoscopy technique at the LHC|pp|[2305.19093](http://arxiv.org/abs/2305.19093v2){: target="_blank"}|[2666805](https://inspirehep.net/literature/2666805){: target="_blank"}|Submitted|438|
 |UD|Energy dependence of coherent photonuclear production of J/\\(\psi\\) mesons in ultra-peripheral Pb-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\)=5.02 TeV|PbPb|[2305.19060](http://arxiv.org/abs/2305.19060v1){: target="_blank"}|[2666011](https://inspirehep.net/literature/2666011){: target="_blank"}|Submitted|437|

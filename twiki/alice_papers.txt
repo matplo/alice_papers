@@ -1,4 +1,4 @@
-   * Generated on 2023-Jul-28 00:53 UTC  .
+   * Generated on 2023-Jul-28 07:26 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Pseudorapidity dependence of anisotropic flow and its decorrelations using long-range multiparticle correlations in Pb-Pb and Xe-Xe collisions|%RED%PbPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2307.11116v1][2307.11116]]|[[https://inspirehep.net/literature/2679248][2679248]]|%RED%Submitted%ENDCOLOR%|441|

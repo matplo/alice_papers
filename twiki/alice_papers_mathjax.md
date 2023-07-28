@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|JE|Modification of charged-particle jets in event-shape engineered Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5\\) TeV|PbPb|[2307.14097](http://arxiv.org/abs/2307.14097v1){: target="_blank"}|[2681682](https://inspirehep.net/literature/2681682){: target="_blank"}|Submitted|443|
+|HF|Measurement of Non-prompt \\(\rm D^0\\)-meson Elliptic Flow in Pb-Pb Collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2307.14084](http://arxiv.org/abs/2307.14084v1){: target="_blank"}|[2681666](https://inspirehep.net/literature/2681666){: target="_blank"}|Submitted|442|
 |CF|Pseudorapidity dependence of anisotropic flow and its decorrelations using long-range multiparticle correlations in Pb-Pb and Xe-Xe collisions|PbPb,XeXe|[2307.11116](http://arxiv.org/abs/2307.11116v1){: target="_blank"}|[2679248](https://inspirehep.net/literature/2679248){: target="_blank"}|Submitted|441|
 |JE|Measurement of inclusive charged-particle jet production in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}=5.02\\) TeV|pp,pPb|[2307.10860](http://arxiv.org/abs/2307.10860v1){: target="_blank"}|[2678721](https://inspirehep.net/literature/2678721){: target="_blank"}|Submitted|440|
 |LF|Measurement of the low-energy antitriton inelastic cross section|pp,PbPb|[2307.03603](http://arxiv.org/abs/2307.03603v1){: target="_blank"}|[2675130](https://inspirehep.net/literature/2675130){: target="_blank"}|Submitted|439|

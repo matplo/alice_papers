@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Charm production and fragmentation fractions at midrapidity in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2308.04877](http://arxiv.org/abs/2308.04877v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|445|
+|HF|Study of flavor dependence of the baryon-to-meson ratio in proton-proton collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2308.04873](http://arxiv.org/abs/2308.04873v1){: target="_blank"}|[2686623](https://inspirehep.net/literature/2686623){: target="_blank"}|Submitted|444|
 |JE|Modification of charged-particle jets in event-shape engineered Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5\\) TeV|PbPb|[2307.14097](http://arxiv.org/abs/2307.14097v1){: target="_blank"}|[2681682](https://inspirehep.net/literature/2681682){: target="_blank"}|Submitted|443|
 |HF|Measurement of Non-prompt \\(\rm D^0\\)-meson Elliptic Flow in Pb-Pb Collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2307.14084](http://arxiv.org/abs/2307.14084v1){: target="_blank"}|[2681666](https://inspirehep.net/literature/2681666){: target="_blank"}|Submitted|442|
 |CF|Pseudorapidity dependence of anisotropic flow and its decorrelations using long-range multiparticle correlations in Pb-Pb and Xe-Xe collisions|PbPb,XeXe|[2307.11116](http://arxiv.org/abs/2307.11116v1){: target="_blank"}|[2679248](https://inspirehep.net/literature/2679248){: target="_blank"}|Submitted|441|

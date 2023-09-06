@@ -589,14 +589,16 @@ doi:10.1088/1748-0221/18/08/P08007
 [arXiv:2209.04216 [physics.ins-det]].
 %10 citations counted in INSPIRE as of 06 Sep 2023
 
-\cite{ALICE:2022rib}
+\cite{ALICE:2022sco}
 
-\bibitem{ALICE:2022rib}
+\bibitem{ALICE:2022sco}
 
-  [ALICE],
-%``Measurement of the lifetime and $\Lambda$ separation energy of $^{3}_{\Lambda}\mathrm H$,''
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurement of the Lifetime and \ensuremath{\Lambda} Separation Energy of H\ensuremath{\Lambda}3,''
+Phys. Rev. Lett. \textbf{131}, no.10, 102302 (2023)
+doi:10.1103/PhysRevLett.131.102302
 [arXiv:2209.07360 [nucl-ex]].
-%12 citations counted in INSPIRE as of 06 Sep 2023
+%13 citations counted in INSPIRE as of 06 Sep 2023
 
 \cite{ALICE:2022phr}
 

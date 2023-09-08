@@ -1,4 +1,4 @@
-   * Generated on 2023-Sep-07 16:55 UTC  .
+   * Generated on 2023-Sep-08 00:54 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Studying strangeness and baryon production mechanisms through angular correlations between charged $Ξ$ baryons and identified hadrons in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2308.16706v1][2308.16706]]|[[https://inspirehep.net/literature/2692439][2692439]]|%RED%Submitted%ENDCOLOR%|458|

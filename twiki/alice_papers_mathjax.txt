@@ -1,4 +1,4 @@
-   * Generated on 2023-Sep-08 15:41 UTC  .
+   * Generated on 2023-Sep-08 16:53 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Search for jet quenching effects in high-multiplicity pp collisions at \(\sqrt{s}\) = 13 !TeV via di-jet acoplanarity|pp|[[http://arxiv.org/abs/2309.03788v1][2309.03788]]|[[-][0]]|%RED%Submitted%ENDCOLOR%|459|

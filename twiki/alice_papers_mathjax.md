@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|JE|Search for jet quenching effects in high-multiplicity pp collisions at \\(\sqrt\{s\}\\) = 13 TeV via di-jet acoplanarity|pp|[2309.03788](http://arxiv.org/abs/2309.03788v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|459|
+|JE|Search for jet quenching effects in high-multiplicity pp collisions at \\(\sqrt\{s\}\\) = 13 TeV via di-jet acoplanarity|pp|[2309.03788](http://arxiv.org/abs/2309.03788v1){: target="_blank"}|[2694579](https://inspirehep.net/literature/2694579){: target="_blank"}|Submitted|459|
 |CF|Studying strangeness and baryon production mechanisms through angular correlations between charged \\(\Xi\\) baryons and identified hadrons in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2308.16706](http://arxiv.org/abs/2308.16706v1){: target="_blank"}|[2692439](https://inspirehep.net/literature/2692439){: target="_blank"}|Submitted|458|
 |EM|Dielectron production in central Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\mathrm\{NN\}\}\\) = 5.02 TeV|PbPb|[2308.16704](http://arxiv.org/abs/2308.16704v1){: target="_blank"}|[2693299](https://inspirehep.net/literature/2693299){: target="_blank"}|Submitted|457|
 |CF|Multiplicity and event-scale dependent flow and jet fragmentation in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV and in p\\(-\\)Pb collisions at \\(\sqrt\{s_\mathrm\{NN\}\}\\) = 5.02 TeV|pp,pPb|[2308.16591](http://arxiv.org/abs/2308.16591v1){: target="_blank"}|[2692432](https://inspirehep.net/literature/2692432){: target="_blank"}|Submitted|456|

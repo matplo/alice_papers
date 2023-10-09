@@ -50,7 +50,7 @@
  S.~Acharya \textit{et al.} [ALICE],
 %``Skewness and kurtosis of mean transverse momentum fluctuations at the LHC energies,''
 [arXiv:2308.16217 [nucl-ex]].
-%0 citations counted in INSPIRE as of 09 Oct 2023
+%1 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2023qve}
 
@@ -399,12 +399,14 @@ doi:10.1007/JHEP06(2023)027
 [arXiv:2212.12609 [nucl-ex]].
 %3 citations counted in INSPIRE as of 09 Oct 2023
 
-\cite{ALICE:2022pxx}
+\cite{ALICE:2022byg}
 
-\bibitem{ALICE:2022pxx}
+\bibitem{ALICE:2022byg}
 
   [ALICE],
-%``First measurement of prompt and non-prompt ${\rm D^{*+}}$ vector meson spin alignment in pp collisions at $\sqrt{s} = 13$ TeV,''
+%``First measurement of prompt and non-prompt D\textasteriskcentered{}+ vector meson spin alignment in pp collisions at s=13 TeV,''
+Phys. Lett. B \textbf{846}, 137920 (2023)
+doi:10.1016/j.physletb.2023.137920
 [arXiv:2212.06588 [nucl-ex]].
 %1 citations counted in INSPIRE as of 09 Oct 2023
 
@@ -434,6 +436,8 @@ doi:10.1016/j.physletb.2023.137795
 
   [ALICE],
 %``Multiplicity dependence of charged-particle production in pp, p-Pb, Xe-Xe and Pb-Pb collisions at the LHC,''
+Phys. Lett. B \textbf{845}, 138110 (2023)
+doi:10.1016/j.physletb.2023.138110
 [arXiv:2211.15326 [nucl-ex]].
 %6 citations counted in INSPIRE as of 09 Oct 2023
 
@@ -721,7 +725,7 @@ doi:10.1140/epjc/s10052-023-11475-1
 Phys. Lett. B \textbf{846}, 137625 (2023)
 doi:10.1016/j.physletb.2022.137625
 [arXiv:2205.13993 [nucl-ex]].
-%26 citations counted in INSPIRE as of 09 Oct 2023
+%25 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2022hvk}
 
@@ -732,7 +736,7 @@ doi:10.1016/j.physletb.2022.137625
 JHEP \textbf{06}, 024 (2023)
 doi:10.1007/JHEP06(2023)024
 [arXiv:2204.11732 [nucl-ex]].
-%8 citations counted in INSPIRE as of 09 Oct 2023
+%7 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2022zso}
 
@@ -740,6 +744,8 @@ doi:10.1007/JHEP06(2023)024
 
   [ALICE],
 %``Photoproduction of low-$p_{\rm T}$ J/$\psi$ from peripheral to central Pb$-$Pb collisions at 5.02 TeV,''
+Phys. Lett. B \textbf{846}, 137467 (2023)
+doi:10.1016/j.physletb.2022.137467
 [arXiv:2204.10684 [nucl-ex]].
 %14 citations counted in INSPIRE as of 09 Oct 2023
 
@@ -862,7 +868,7 @@ doi:10.1016/j.physletb.2023.137730
 Phys. Rev. Lett. \textbf{131}, no.4, 042303 (2023)
 doi:10.1103/PhysRevLett.131.042303
 [arXiv:2204.10171 [nucl-ex]].
-%28 citations counted in INSPIRE as of 09 Oct 2023
+%27 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2022mur}
 
@@ -904,7 +910,7 @@ doi:10.1016/j.physletb.2022.137649
   [ALICE],
 %``ALICE luminosity determination for Pb$-$Pb collisions at $\sqrt{s_{\mathrm{NN}}} = 5.02$ TeV,''
 [arXiv:2204.10148 [nucl-ex]].
-%21 citations counted in INSPIRE as of 09 Oct 2023
+%20 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2022zuz}
 
@@ -937,7 +943,7 @@ doi:10.1140/epjc/s10052-022-10405-x
 JHEP \textbf{12}, 126 (2022)
 doi:10.1007/JHEP12(2022)126
 [arXiv:2202.00815 [nucl-ex]].
-%31 citations counted in INSPIRE as of 09 Oct 2023
+%30 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2022enj}
 
@@ -948,7 +954,7 @@ doi:10.1007/JHEP12(2022)126
 Phys. Rev. D \textbf{106}, no.5, 052010 (2022)
 doi:10.1103/PhysRevD.106.052010
 [arXiv:2201.05352 [nucl-ex]].
-%31 citations counted in INSPIRE as of 09 Oct 2023
+%30 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021fpb}
 
@@ -981,7 +987,7 @@ doi:10.1007/JHEP06(2022)015
 Phys. Lett. B \textbf{839}, 137796 (2023)
 doi:10.1016/j.physletb.2023.137796
 [arXiv:2112.08156 [nucl-ex]].
-%55 citations counted in INSPIRE as of 09 Oct 2023
+%54 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021ovi}
 
@@ -1003,7 +1009,7 @@ doi:10.1140/epjc/s10052-022-10241-z
 Phys. Lett. B \textbf{829}, 137065 (2022)
 doi:10.1016/j.physletb.2022.137065
 [arXiv:2111.11948 [nucl-ex]].
-%39 citations counted in INSPIRE as of 09 Oct 2023
+%38 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021ovd}
 
@@ -1058,7 +1064,7 @@ doi:10.1103/PhysRevC.107.055201
 Phys. Lett. B \textbf{827}, 136986 (2022)
 doi:10.1016/j.physletb.2022.136986
 [arXiv:2110.10006 [nucl-ex]].
-%45 citations counted in INSPIRE as of 09 Oct 2023
+%44 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021rxa}
 
@@ -1069,7 +1075,7 @@ doi:10.1016/j.physletb.2022.136986
 JHEP \textbf{01}, 174 (2022)
 doi:10.1007/JHEP01(2022)174
 [arXiv:2110.09420 [nucl-ex]].
-%85 citations counted in INSPIRE as of 09 Oct 2023
+%84 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021hjb}
 
@@ -1102,7 +1108,7 @@ doi:10.1007/JHEP01(2022)178
 Eur. Phys. J. C \textbf{83}, no.1, 61 (2023)
 doi:10.1140/epjc/s10052-022-10896-8
 [arXiv:2109.15240 [nucl-ex]].
-%22 citations counted in INSPIRE as of 09 Oct 2023
+%21 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021mfm}
 
@@ -1257,7 +1263,7 @@ doi:10.1038/s41586-022-04572-w
 Phys. Rev. D \textbf{105}, no.1, L011103 (2022)
 doi:10.1103/PhysRevD.105.L011103
 [arXiv:2105.06335 [nucl-ex]].
-%95 citations counted in INSPIRE as of 09 Oct 2023
+%94 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021xyh}
 
@@ -1411,7 +1417,7 @@ doi:10.1016/j.physletb.2022.136943
 JHEP \textbf{05}, 220 (2021)
 doi:10.1007/JHEP05(2021)220
 [arXiv:2102.13601 [nucl-ex]].
-%79 citations counted in INSPIRE as of 09 Oct 2023
+%78 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021adw}
 
@@ -1433,7 +1439,7 @@ doi:10.1016/j.physletb.2021.136354
 Phys. Lett. B \textbf{817}, 136280 (2021)
 doi:10.1016/j.physletb.2021.136280
 [arXiv:2101.04623 [nucl-ex]].
-%52 citations counted in INSPIRE as of 09 Oct 2023
+%51 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021gpt}
 
@@ -1444,7 +1450,7 @@ doi:10.1016/j.physletb.2021.136280
 Eur. Phys. J. C \textbf{81}, no.8, 712 (2021)
 doi:10.1140/epjc/s10052-021-09437-6
 [arXiv:2101.04577 [nucl-ex]].
-%62 citations counted in INSPIRE as of 09 Oct 2023
+%61 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2021nir}
 
@@ -1698,7 +1704,7 @@ doi:10.1038/s41586-020-3001-6
 Phys. Lett. B \textbf{813}, 136054 (2021)
 doi:10.1016/j.physletb.2020.136054
 [arXiv:2005.11131 [nucl-ex]].
-%65 citations counted in INSPIRE as of 09 Oct 2023
+%64 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2020hdw}
 
@@ -1709,7 +1715,7 @@ doi:10.1016/j.physletb.2020.136054
 Phys. Rev. Lett. \textbf{126}, no.16, 162001 (2021)
 doi:10.1103/PhysRevLett.126.162001
 [arXiv:2005.11130 [nucl-ex]].
-%32 citations counted in INSPIRE as of 09 Oct 2023
+%31 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2020iev}
 
@@ -1830,7 +1836,7 @@ doi:10.1140/epjc/s10052-020-8256-4
 Eur. Phys. J. C \textbf{80}, no.8, 693 (2020)
 doi:10.1140/epjc/s10052-020-8125-1
 [arXiv:2003.02394 [nucl-ex]].
-%83 citations counted in INSPIRE as of 09 Oct 2023
+%82 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2020ugp}
 
@@ -1940,7 +1946,7 @@ doi:10.1016/j.physletb.2020.135486
 Phys. Lett. B \textbf{805}, 135434 (2020)
 doi:10.1016/j.physletb.2020.135434
 [arXiv:1910.14404 [nucl-ex]].
-%61 citations counted in INSPIRE as of 09 Oct 2023
+%60 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2019oyn}
 
@@ -2083,7 +2089,7 @@ doi:10.1103/PhysRevC.101.034911
 JHEP \textbf{02}, 041 (2020)
 doi:10.1007/JHEP02(2020)041
 [arXiv:1909.03158 [nucl-ex]].
-%57 citations counted in INSPIRE as of 09 Oct 2023
+%56 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2019onw}
 
@@ -2117,7 +2123,7 @@ doi:10.1140/epjc/s10052-020-7687-2
 Eur. Phys. J. C \textbf{80}, no.2, 167 (2020)
 doi:10.1140/epjc/s10052-020-7673-8
 [arXiv:1908.01861 [nucl-ex]].
-%103 citations counted in INSPIRE as of 09 Oct 2023
+%102 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2019vlx}
 
@@ -2216,7 +2222,7 @@ doi:10.1016/j.physletb.2019.134822
 Eur. Phys. J. C \textbf{79}, no.10, 857 (2019)
 doi:10.1140/epjc/s10052-019-7350-y
 [arXiv:1905.07208 [nucl-ex]].
-%91 citations counted in INSPIRE as of 09 Oct 2023
+%90 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2019rmo}
 
@@ -2293,7 +2299,7 @@ doi:10.1103/PhysRevLett.123.112002
 Phys. Lett. B \textbf{798}, 134926 (2019)
 doi:10.1016/j.physletb.2019.134926
 [arXiv:1904.06272 [nucl-ex]].
-%88 citations counted in INSPIRE as of 09 Oct 2023
+%87 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2019kno}
 
@@ -2381,7 +2387,7 @@ doi:10.1007/JHEP09(2019)108
 Comput. Phys. Commun. \textbf{242}, 25-48 (2019)
 doi:10.1016/j.cpc.2019.04.011
 [arXiv:1812.08036 [physics.ins-det]].
-%22 citations counted in INSPIRE as of 09 Oct 2023
+%23 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2018wma}
 
@@ -2436,7 +2442,7 @@ doi:10.1016/j.physletb.2019.04.046
 JHEP \textbf{02}, 150 (2019)
 doi:10.1007/JHEP02(2019)150
 [arXiv:1809.09371 [nucl-ex]].
-%42 citations counted in INSPIRE as of 09 Oct 2023
+%41 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2018nnl}
 
@@ -2535,7 +2541,7 @@ doi:10.1016/j.physletb.2019.04.047
 Phys. Lett. B \textbf{790}, 35-48 (2019)
 doi:10.1016/j.physletb.2018.12.048
 [arXiv:1805.04432 [nucl-ex]].
-%118 citations counted in INSPIRE as of 09 Oct 2023
+%117 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2018jco}
 
@@ -2579,7 +2585,7 @@ doi:10.1016/j.physletb.2018.11.039
 Phys. Lett. B \textbf{788}, 166-179 (2019)
 doi:10.1016/j.physletb.2018.10.052
 [arXiv:1805.04399 [nucl-ex]].
-%109 citations counted in INSPIRE as of 09 Oct 2023
+%108 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2018fvj}
 
@@ -2634,7 +2640,7 @@ doi:10.1016/j.physletb.2018.08.047
 JHEP \textbf{07}, 160 (2018)
 doi:10.1007/JHEP07(2018)160
 [arXiv:1805.04381 [nucl-ex]].
-%49 citations counted in INSPIRE as of 09 Oct 2023
+%48 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2018yau}
 
@@ -2777,7 +2783,7 @@ doi:10.1103/PhysRevC.98.044901
 JHEP \textbf{11}, 013 (2018)
 doi:10.1007/JHEP11(2018)013
 [arXiv:1802.09145 [nucl-ex]].
-%236 citations counted in INSPIRE as of 09 Oct 2023
+%235 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2018szk}
 
@@ -2788,7 +2794,7 @@ doi:10.1007/JHEP11(2018)013
 Eur. Phys. J. C \textbf{78}, no.6, 466 (2018)
 doi:10.1140/epjc/s10052-018-5881-2
 [arXiv:1802.00765 [nucl-ex]].
-%36 citations counted in INSPIRE as of 09 Oct 2023
+%35 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2018vhm}
 
@@ -3008,7 +3014,7 @@ doi:10.1007/JHEP09(2017)032
 Phys. Rev. Lett. \textbf{120}, no.10, 102301 (2018)
 doi:10.1103/PhysRevLett.120.102301
 [arXiv:1707.01005 [nucl-ex]].
-%143 citations counted in INSPIRE as of 09 Oct 2023
+%142 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2017jto}
 
@@ -3107,7 +3113,7 @@ doi:10.1016/j.physletb.2017.11.044
 Eur. Phys. J. C \textbf{77}, no.8, 550 (2017)
 doi:10.1140/epjc/s10052-017-5090-4
 [arXiv:1702.00766 [hep-ex]].
-%145 citations counted in INSPIRE as of 09 Oct 2023
+%144 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2017leg}
 
@@ -3118,7 +3124,7 @@ doi:10.1140/epjc/s10052-017-5090-4
 Eur. Phys. J. C \textbf{77}, no.6, 392 (2017)
 doi:10.1140/epjc/s10052-017-4940-4
 [arXiv:1702.00557 [hep-ex]].
-%83 citations counted in INSPIRE as of 09 Oct 2023
+%82 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2017ban}
 
@@ -3251,7 +3257,7 @@ doi:10.1016/j.physletb.2016.10.048
 Phys. Lett. B \textbf{766}, 212-224 (2017)
 doi:10.1016/j.physletb.2016.12.064
 [arXiv:1606.08197 [nucl-ex]].
-%199 citations counted in INSPIRE as of 09 Oct 2023
+%198 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2016fzo}
 
@@ -3262,7 +3268,7 @@ doi:10.1016/j.physletb.2016.12.064
 Nature Phys. \textbf{13}, 535-539 (2017)
 doi:10.1038/nphys4111
 [arXiv:1606.07424 [nucl-ex]].
-%685 citations counted in INSPIRE as of 09 Oct 2023
+%684 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2016cti}
 
@@ -3415,7 +3421,7 @@ doi:10.1140/epjc/s10052-016-4088-7
 Phys. Lett. B \textbf{760}, 720-735 (2016)
 doi:10.1016/j.physletb.2016.07.050
 [arXiv:1601.03658 [nucl-ex]].
-%168 citations counted in INSPIRE as of 09 Oct 2023
+%167 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2015ryj}
 
@@ -3448,7 +3454,7 @@ doi:10.1016/j.physletb.2016.05.027
 Phys. Rev. Lett. \textbf{116}, no.22, 222302 (2016)
 doi:10.1103/PhysRevLett.116.222302
 [arXiv:1512.06104 [nucl-ex]].
-%328 citations counted in INSPIRE as of 09 Oct 2023
+%327 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2015cjr}
 
@@ -3470,7 +3476,7 @@ doi:10.1103/PhysRevC.93.044903
 Phys. Rev. Lett. \textbf{116}, no.22, 222301 (2016)
 doi:10.1103/PhysRevLett.116.222301
 [arXiv:1509.08802 [nucl-ex]].
-%140 citations counted in INSPIRE as of 09 Oct 2023
+%139 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2015qqj}
 
@@ -3481,7 +3487,7 @@ doi:10.1103/PhysRevLett.116.222301
 Phys. Lett. B \textbf{753}, 319-329 (2016)
 doi:10.1016/j.physletb.2015.12.030
 [arXiv:1509.08734 [nucl-ex]].
-%160 citations counted in INSPIRE as of 09 Oct 2023
+%159 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2015pgg}
 
@@ -3690,7 +3696,7 @@ doi:10.1007/JHEP11(2015)127
 JHEP \textbf{05}, 179 (2016)
 doi:10.1007/JHEP05(2016)179
 [arXiv:1506.08804 [nucl-ex]].
-%142 citations counted in INSPIRE as of 09 Oct 2023
+%141 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2015oer}
 
@@ -3745,7 +3751,7 @@ doi:10.1016/j.physletb.2015.11.048
 Phys. Rev. C \textbf{93}, no.3, 034913 (2016)
 doi:10.1103/PhysRevC.93.034913
 [arXiv:1506.07287 [nucl-ex]].
-%163 citations counted in INSPIRE as of 09 Oct 2023
+%162 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2015ccw}
 
@@ -3932,7 +3938,7 @@ doi:10.1016/j.physletb.2014.11.041
 Eur. Phys. J. C \textbf{74}, no.10, 3077 (2014)
 doi:10.1140/epjc/s10052-014-3077-y
 [arXiv:1407.5530 [nucl-ex]].
-%93 citations counted in INSPIRE as of 09 Oct 2023
+%94 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2014eof}
 
@@ -4130,7 +4136,7 @@ doi:10.1140/epjc/s10052-014-2974-4
 Int. J. Mod. Phys. A \textbf{29}, 1430044 (2014)
 doi:10.1142/S0217751X14300440
 [arXiv:1402.4476 [nucl-ex]].
-%1000 citations counted in INSPIRE as of 09 Oct 2023
+%997 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2014juv}
 
@@ -4163,7 +4169,7 @@ doi:10.1007/JHEP03(2014)013
 Phys. Lett. B \textbf{734}, 314-327 (2014)
 doi:10.1016/j.physletb.2014.05.064
 [arXiv:1311.0214 [nucl-ex]].
-%314 citations counted in INSPIRE as of 09 Oct 2023
+%313 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2013uhj}
 
@@ -4196,7 +4202,7 @@ doi:10.1007/JHEP02(2014)073
 Phys. Lett. B \textbf{728}, 25-38 (2014)
 doi:10.1016/j.physletb.2013.11.020
 [arXiv:1307.6796 [nucl-ex]].
-%499 citations counted in INSPIRE as of 09 Oct 2023
+%498 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2013xmt}
 
@@ -4230,7 +4236,7 @@ doi:10.1103/PhysRevLett.111.222301
 Phys. Lett. B \textbf{726}, 164-177 (2013)
 doi:10.1016/j.physletb.2013.08.024
 [arXiv:1307.3237 [nucl-ex]].
-%389 citations counted in INSPIRE as of 09 Oct 2023
+%388 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2013tla}
 
@@ -4263,7 +4269,7 @@ doi:10.1140/epjc/s10052-013-2662-9
 Phys. Lett. B \textbf{727}, 371-380 (2013)
 doi:10.1016/j.physletb.2013.10.054
 [arXiv:1307.1094 [nucl-ex]].
-%225 citations counted in INSPIRE as of 09 Oct 2023
+%224 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2013xri}
 
@@ -4285,7 +4291,7 @@ doi:10.1103/PhysRevLett.111.232302
 JINST \textbf{8}, P10016 (2013)
 doi:10.1088/1748-0221/8/10/P10016
 [arXiv:1306.3130 [nucl-ex]].
-%413 citations counted in INSPIRE as of 09 Oct 2023
+%412 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2013wjo}
 
@@ -4296,7 +4302,7 @@ doi:10.1088/1748-0221/8/10/P10016
 Eur. Phys. J. C \textbf{73}, no.11, 2617 (2013)
 doi:10.1140/epjc/s10052-013-2617-1
 [arXiv:1305.1467 [nucl-ex]].
-%313 citations counted in INSPIRE as of 09 Oct 2023
+%312 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2013olq}
 
@@ -4351,7 +4357,7 @@ doi:10.1103/PhysRevLett.111.162301
 Phys. Rev. C \textbf{88}, 044910 (2013)
 doi:10.1103/PhysRevC.88.044910
 [arXiv:1303.0737 [hep-ex]].
-%811 citations counted in INSPIRE as of 09 Oct 2023
+%810 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2013hur}
 
@@ -4362,7 +4368,7 @@ doi:10.1103/PhysRevC.88.044910
 Phys. Rev. C \textbf{88}, no.4, 044909 (2013)
 doi:10.1103/PhysRevC.88.044909
 [arXiv:1301.4361 [nucl-ex]].
-%612 citations counted in INSPIRE as of 09 Oct 2023
+%611 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2013vrb}
 
@@ -4439,7 +4445,7 @@ doi:10.1103/PhysRevLett.110.032301
 Phys. Lett. B \textbf{718}, 1273-1283 (2013)
 doi:10.1016/j.physletb.2012.11.059
 [arXiv:1209.3715 [nucl-ex]].
-%304 citations counted in INSPIRE as of 09 Oct 2023
+%303 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2012pjb}
 
@@ -4650,7 +4656,7 @@ doi:10.1016/j.physletb.2012.10.078
 Phys. Rev. Lett. \textbf{109}, 252302 (2012)
 doi:10.1103/PhysRevLett.109.252302
 [arXiv:1203.2436 [nucl-ex]].
-%134 citations counted in INSPIRE as of 09 Oct 2023
+%133 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2012ab}
 
@@ -4893,7 +4899,7 @@ doi:10.1103/PhysRevLett.105.252301
 Phys. Lett. B \textbf{693}, 53-68 (2010)
 doi:10.1016/j.physletb.2010.08.026
 [arXiv:1007.0719 [hep-ex]].
-%248 citations counted in INSPIRE as of 09 Oct 2023
+%247 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2010igk}
 
@@ -4948,7 +4954,7 @@ doi:10.1140/epjc/s10052-010-1339-x
 JINST \textbf{5}, P03003 (2010)
 doi:10.1088/1748-0221/5/03/P03003
 [arXiv:1001.0502 [physics.ins-det]].
-%394 citations counted in INSPIRE as of 09 Oct 2023
+%392 citations counted in INSPIRE as of 09 Oct 2023
 
 \cite{ALICE:2009wpl}
 

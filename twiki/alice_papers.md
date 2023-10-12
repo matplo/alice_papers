@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Femtoscopic correlations of identical charged pions and kaons in pp collisions at \\(\sqrt\{s\}=13\\) TeV with event-shape selection|pp|[2310.07509](http://arxiv.org/abs/2310.07509v1){: target="_blank"}|[2709104](https://inspirehep.net/literature/2709104){: target="_blank"}|Submitted|461|
+|MM|Charged-particle production as a function of the relative transverse activity classifier in pp, p\\(-\\)Pb, and Pb\\(-\\)Pb collisions at the LHC|pp,pPb,PbPb|[2310.07490](http://arxiv.org/abs/2310.07490v1){: target="_blank"}|[2709103](https://inspirehep.net/literature/2709103){: target="_blank"}|Submitted|460|
 |JE|Search for jet quenching effects in high-multiplicity pp collisions at \\(\sqrt\{s\}\\) = 13 TeV via di-jet acoplanarity|pp|[2309.03788](http://arxiv.org/abs/2309.03788v1){: target="_blank"}|[2694579](https://inspirehep.net/literature/2694579){: target="_blank"}|Submitted|459|
 |CF|Studying strangeness and baryon production mechanisms through angular correlations between charged \\(\Xi\\) baryons and identified hadrons in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2308.16706](http://arxiv.org/abs/2308.16706v1){: target="_blank"}|[2692439](https://inspirehep.net/literature/2692439){: target="_blank"}|Submitted|458|
 |EM|Dielectron production in central Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\mathrm\{NN\}\}\\) = 5.02 TeV|PbPb|[2308.16704](http://arxiv.org/abs/2308.16704v1){: target="_blank"}|[2693299](https://inspirehep.net/literature/2693299){: target="_blank"}|Submitted|457|

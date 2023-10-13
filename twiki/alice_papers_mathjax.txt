@@ -1,4 +1,4 @@
-   * Generated on 2023-Oct-12 18:30 UTC  .
+   * Generated on 2023-Oct-13 00:55 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Femtoscopic correlations of identical charged pions and kaons in pp collisions at \(\sqrt{s}=13\) !TeV with event-shape selection|pp|[[http://arxiv.org/abs/2310.07509v1][2310.07509]]|[[https://inspirehep.net/literature/2709104][2709104]]|%RED%Submitted%ENDCOLOR%|461|

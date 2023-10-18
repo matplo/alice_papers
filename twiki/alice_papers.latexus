@@ -1,3 +1,12 @@
+\cite{ALICE:2023bga}
+
+\bibitem{ALICE:2023bga}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Light-flavor particle production in high-multiplicity pp collisions at $\mathbf{\sqrt{\textit{s}} = 13}$ TeV as a function of transverse spherocity,''
+[arXiv:2310.10236 [hep-ex]].
+%0 citations counted in INSPIRE as of 18 Oct 2023
+
 \cite{ALICE:2023zbh}
 
 \bibitem{ALICE:2023zbh}
@@ -454,7 +463,7 @@ doi:10.1103/PhysRevD.108.072008
 
 \bibitem{ALICE:2022xip}
 
-  [ALICE],
+ S.~Acharya \textit{et al.} [ALICE],
 %``Multiplicity dependence of charged-particle production in pp, p-Pb, Xe-Xe and Pb-Pb collisions at the LHC,''
 Phys. Lett. B \textbf{845}, 138110 (2023)
 doi:10.1016/j.physletb.2023.138110

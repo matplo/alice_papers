@@ -372,8 +372,10 @@ doi:10.1140/epjc/s10052-023-11729-y
 
 \bibitem{ALICE:2023brx}
 
-  [ALICE],
-%``Measurement of the non-prompt D-meson fraction as a function of multiplicity in proton$-$proton collisions at $\sqrt{s} = 13$ TeV,''
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurement of the non-prompt D-meson fraction as a function of multiplicity in proton-proton collisions at $ \sqrt{s} $ = 13 TeV,''
+JHEP \textbf{10}, 092 (2023)
+doi:10.1007/JHEP10(2023)092
 [arXiv:2302.07783 [nucl-ex]].
 %0 citations counted in INSPIRE as of 22 Oct 2023
 
@@ -576,7 +578,7 @@ doi:10.1007/JHEP07(2023)201
   [ALICE],
 %``The ALICE experiment -- A journey through QCD,''
 [arXiv:2211.04384 [nucl-ex]].
-%74 citations counted in INSPIRE as of 22 Oct 2023
+%73 citations counted in INSPIRE as of 22 Oct 2023
 
 \cite{ALICE:2022rau}
 
@@ -2152,7 +2154,7 @@ doi:10.1140/epjc/s10052-020-7687-2
 Eur. Phys. J. C \textbf{80}, no.2, 167 (2020)
 doi:10.1140/epjc/s10052-020-7673-8
 [arXiv:1908.01861 [nucl-ex]].
-%103 citations counted in INSPIRE as of 22 Oct 2023
+%104 citations counted in INSPIRE as of 22 Oct 2023
 
 \cite{ALICE:2019vlx}
 

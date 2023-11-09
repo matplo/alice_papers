@@ -1,4 +1,4 @@
-   * Generated on 2023-Nov-08 17:00 UTC  .
+   * Generated on 2023-Nov-09 00:59 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Light-flavor particle production in high-multiplicity pp collisions at \(\mathbf{\sqrt{\textit{s}} = 13}\) !TeV as a function of transverse spherocity|pp|[[http://arxiv.org/abs/2310.10236v1][2310.10236]]|[[https://inspirehep.net/literature/2711421][2711421]]|%RED%Submitted%ENDCOLOR%|462|

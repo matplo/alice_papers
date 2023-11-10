@@ -1,4 +1,4 @@
-   * Generated on 2023-Nov-10 00:59 UTC  .
+   * Generated on 2023-Nov-10 08:59 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Light-flavor particle production in high-multiplicity pp collisions at \(\mathbf{\sqrt{\textit{s}} = 13}\) !TeV as a function of transverse spherocity|pp|[[http://arxiv.org/abs/2310.10236v1][2310.10236]]|[[https://inspirehep.net/literature/2711421][2711421]]|%RED%Submitted%ENDCOLOR%|462|
@@ -69,7 +69,7 @@
 |UD|Neutron emission in ultraperipheral Pb-Pb collisions at \(\sqrt{s_{\mathrm{NN}}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2209.04250v2][2209.04250]]|[[https://inspirehep.net/literature/2666398][2666398]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.107.064902][Phys. Rev. C 107]]%ENDCOLOR%|397|
 |DQ|Multiplicity dependence of \(\Upsilon\) production at forward rapidity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2209.04241v1][2209.04241]]|[[https://inspirehep.net/literature/2149692][2149692]]|%RED%Submitted%ENDCOLOR%|396|
 |n/a|Performance of the ALICE Electromagnetic Calorimeter|n/a|[[http://arxiv.org/abs/2209.04216v2][2209.04216]]|[[https://inspirehep.net/literature/2149709][2149709]]|%GREEN%[[https://doi.org/10.1088/1748-0221/18/08/P08007][JINST 18]]%ENDCOLOR%|395|
-|JE|Measurements of groomed-jet substructure of charm jets tagged by \({\rm D}^0\) mesons in proton-proton collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2208.04857v1][2208.04857]]|[[https://inspirehep.net/literature/2133853][2133853]]|%RED%Submitted%ENDCOLOR%|394|
+|JE|Measurements of groomed-jet substructure of charm jets tagged by \({\rm D}^0\) mesons in proton-proton collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2208.04857v1][2208.04857]]|[[https://inspirehep.net/literature/2133853][2133853]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.131.192301][Phys. Rev. Lett. 131]]%ENDCOLOR%|394|
 |LF|\({\rm f}_{0}(980)\) production in inelastic pp collisions at \(\sqrt{s} = 5.02\) !TeV|pp|[[http://arxiv.org/abs/2206.06216v2][2206.06216]]|[[https://inspirehep.net/literature/2094796][2094796]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2022.137644][Phys. Lett. B 846]]%ENDCOLOR%|393|
 |CF|Anisotropic flow and flow fluctuations of identified hadrons in Pb\(-\)Pb collisions at \(\sqrt{s_{\mathrm{NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2206.04587v2][2206.04587]]|[[https://inspirehep.net/literature/2093750][2093750]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2023)243][JHEP 05]]%ENDCOLOR%|392|
 |CF|Observation of flow angle and flow magnitude fluctuations in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV at the CERN Large Hadron Collider|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2206.04574v2][2206.04574]]|[[https://inspirehep.net/literature/2662790][2662790]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.107.L051901][Phys. Rev. C 107]]%ENDCOLOR%|391|

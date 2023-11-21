@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|UPC|Photoproduction of K\\(^\{+\}\\)K\\(^\{-\}\\) pairs in ultra-peripheral collisions|PbPb|[2311.11792](http://arxiv.org/abs/2311.11792v1){: target="_blank"}|[2724212](https://inspirehep.net/literature/2724212){: target="_blank"}|Submitted|463|
 |LF|Light-flavor particle production in high-multiplicity pp collisions at \\(\mathbf\{\sqrt\{\textit\{s\}\} = 13\}\\) TeV as a function of transverse spherocity|pp|[2310.10236](http://arxiv.org/abs/2310.10236v1){: target="_blank"}|[2711421](https://inspirehep.net/literature/2711421){: target="_blank"}|Submitted|462|
 |CF|Femtoscopic correlations of identical charged pions and kaons in pp collisions at \\(\sqrt\{s\}=13\\) TeV with event-shape selection|pp|[2310.07509](http://arxiv.org/abs/2310.07509v1){: target="_blank"}|[2709104](https://inspirehep.net/literature/2709104){: target="_blank"}|Submitted|461|
 |MM|Charged-particle production as a function of the relative transverse activity classifier in pp, p\\(-\\)Pb, and Pb\\(-\\)Pb collisions at the LHC|pp,pPb,PbPb|[2310.07490](http://arxiv.org/abs/2310.07490v1){: target="_blank"}|[2709103](https://inspirehep.net/literature/2709103){: target="_blank"}|Submitted|460|

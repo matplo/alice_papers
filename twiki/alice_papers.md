@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[2311.14527](http://arxiv.org/abs/2311.14527v1){: target="_blank"}|[2725934](https://inspirehep.net/literature/2725934){: target="_blank"}|Submitted|465|
+|CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[2311.14357](http://arxiv.org/abs/2311.14357v1){: target="_blank"}|[2725922](https://inspirehep.net/literature/2725922){: target="_blank"}|Submitted|464|
 |UPC|Photoproduction of K\\(^\{+\}\\)K\\(^\{-\}\\) pairs in ultra-peripheral collisions|PbPb|[2311.11792](http://arxiv.org/abs/2311.11792v1){: target="_blank"}|[2724212](https://inspirehep.net/literature/2724212){: target="_blank"}|Submitted|463|
 |LF|Light-flavor particle production in high-multiplicity pp collisions at \\(\mathbf\{\sqrt\{\textit\{s\}\} = 13\}\\) TeV as a function of transverse spherocity|pp|[2310.10236](http://arxiv.org/abs/2310.10236v1){: target="_blank"}|[2711421](https://inspirehep.net/literature/2711421){: target="_blank"}|Submitted|462|
 |CF|Femtoscopic correlations of identical charged pions and kaons in pp collisions at \\(\sqrt\{s\}=13\\) TeV with event-shape selection|pp|[2310.07509](http://arxiv.org/abs/2310.07509v1){: target="_blank"}|[2709104](https://inspirehep.net/literature/2709104){: target="_blank"}|Submitted|461|

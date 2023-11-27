@@ -1,6 +1,8 @@
-   * Generated on 2023-Nov-27 16:56 UTC  .
+   * Generated on 2023-Nov-27 18:42 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|465|
+|CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[[http://arxiv.org/abs/2311.14357v1][2311.14357]]|[[https://inspirehep.net/literature/2725922][2725922]]|%RED%Submitted%ENDCOLOR%|464|
 |UPC|Photoproduction of K$^{+}$K$^{-}$ pairs in ultra-peripheral collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.11792v1][2311.11792]]|[[https://inspirehep.net/literature/2724212][2724212]]|%RED%Submitted%ENDCOLOR%|463|
 |LF|Light-flavor particle production in high-multiplicity pp collisions at $\mathbf{\sqrt{\textit{s}} = 13}$ !TeV as a function of transverse spherocity|pp|[[http://arxiv.org/abs/2310.10236v1][2310.10236]]|[[https://inspirehep.net/literature/2711421][2711421]]|%RED%Submitted%ENDCOLOR%|462|
 |CF|Femtoscopic correlations of identical charged pions and kaons in pp collisions at $\sqrt{s}=13$ !TeV with event-shape selection|pp|[[http://arxiv.org/abs/2310.07509v1][2310.07509]]|[[https://inspirehep.net/literature/2709104][2709104]]|%RED%Submitted%ENDCOLOR%|461|

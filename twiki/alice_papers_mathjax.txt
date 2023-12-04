@@ -1,4 +1,4 @@
-   * Generated on 2023-Dec-04 08:56 UTC  .
+   * Generated on 2023-Dec-04 16:55 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|467|
@@ -35,7 +35,7 @@
 |UD|First measurement of the \( &#124; t &#124; \)-dependence of incoherent J/\(\psi\) photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2305.06169v1][2305.06169]]|[[https://inspirehep.net/literature/2658375][2658375]]|%RED%Submitted%ENDCOLOR%|436|
 |UD|Exclusive and dissociative J/\(\psi\) photoproduction, and exclusive dimuon production, in p\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 8.16\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2304.12403v1][2304.12403]]|[[https://inspirehep.net/literature/2654315][2654315]]|%RED%Submitted%ENDCOLOR%|435|
 |UD|First polarisation measurement of coherently photoproduced J/\(\psi\) in ultra-peripheral Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2304.10928v1][2304.10928]]|[[https://inspirehep.net/literature/2653626][2653626]]|%RED%Submitted%ENDCOLOR%|434|
-|EM|Data-driven precision determination of the material budget in ALICE|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.15317v1][2303.15317]]|[[https://inspirehep.net/literature/2648548][2648548]]|%RED%Submitted%ENDCOLOR%|433|
+|EM|Data-driven precision determination of the material budget in ALICE|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.15317v1][2303.15317]]|[[https://inspirehep.net/literature/2648548][2648548]]|%GREEN%[[https://doi.org/10.1088/1748-0221/18/11/P11032][JINST 18]]%ENDCOLOR%|433|
 |CF|Study of the p\(-\)p\(-\)K\(^+\) and p\(-\)p\(-\)K\(^-\) dynamics using the femtoscopy technique|pp|[[http://arxiv.org/abs/2303.13448v1][2303.13448]]|[[https://inspirehep.net/literature/2648608][2648608]]|%RED%Submitted%ENDCOLOR%|432|
 |DQ|Measurement of inclusive J/\(\psi\) pair production cross section in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2303.13431v3][2303.13431]]|[[https://inspirehep.net/literature/2648593][2648593]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.108.045203][Phys. Rev. C 108]]%ENDCOLOR%|431|
 |CF|Higher-order correlations between different moments of two flow amplitudes in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2303.13414v2][2303.13414]]|[[https://inspirehep.net/literature/2654313][2654313]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.108.055203][Phys. Rev. C 108]]%ENDCOLOR%|430|

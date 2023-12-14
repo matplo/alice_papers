@@ -292,14 +292,16 @@ doi:10.1007/JHEP10(2023)119
  S.~Acharya \textit{et al.} [ALICE],
 %``First measurement of the $|t|$-dependence of incoherent J/$\psi$ photonuclear production,''
 [arXiv:2305.06169 [nucl-ex]].
-%7 citations counted in INSPIRE as of 14 Dec 2023
+%8 citations counted in INSPIRE as of 14 Dec 2023
 
 \cite{ALICE:2023mfc}
 
 \bibitem{ALICE:2023mfc}
 
-  [ALICE],
-%``Exclusive and dissociative J/$\psi$ photoproduction, and exclusive dimuon production, in p$-$Pb collisions at $\sqrt{s_{\rm NN}} = 8.16$ TeV,''
+ S.~Acharya \textit{et al.} [ALICE],
+%``Exclusive and dissociative J/\ensuremath{\psi} photoproduction, and exclusive dimuon production, in p-Pb collisions at sNN=8.16\,\,TeV,''
+Phys. Rev. D \textbf{108}, no.11, 112004 (2023)
+doi:10.1103/PhysRevD.108.112004
 [arXiv:2304.12403 [nucl-ex]].
 %2 citations counted in INSPIRE as of 14 Dec 2023
 
@@ -1530,7 +1532,7 @@ doi:10.1016/j.physletb.2021.136354
 Phys. Lett. B \textbf{817}, 136280 (2021)
 doi:10.1016/j.physletb.2021.136280
 [arXiv:2101.04623 [nucl-ex]].
-%55 citations counted in INSPIRE as of 14 Dec 2023
+%56 citations counted in INSPIRE as of 14 Dec 2023
 
 \cite{ALICE:2021gpt}
 
@@ -1993,7 +1995,7 @@ doi:10.1103/PhysRevC.102.024912
 Phys. Rev. Lett. \textbf{125}, no.1, 012301 (2020)
 doi:10.1103/PhysRevLett.125.012301
 [arXiv:1910.14408 [nucl-ex]].
-%130 citations counted in INSPIRE as of 14 Dec 2023
+%131 citations counted in INSPIRE as of 14 Dec 2023
 
 \cite{ALICE:2019buq}
 

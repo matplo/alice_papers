@@ -1,4 +1,4 @@
-   * Generated on 2023-Dec-18 16:25 UTC  .
+   * Generated on 2023-Dec-19 00:55 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|467|
@@ -26,7 +26,7 @@
 |HF|Charm production and fragmentation fractions at midrapidity in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2308.04877v2][2308.04877]]|[[https://inspirehep.net/literature/2697877][2697877]]|%RED%Submitted%ENDCOLOR%|445|
 |HF|Study of flavor dependence of the baryon-to-meson ratio in proton-proton collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2308.04873v1][2308.04873]]|[[https://inspirehep.net/literature/2686623][2686623]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.108.112003][Phys. Rev. D 108]]%ENDCOLOR%|444|
 |JE|Modification of charged-particle jets in event-shape engineered Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 5\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2307.14097v1][2307.14097]]|[[https://inspirehep.net/literature/2681682][2681682]]|%RED%Submitted%ENDCOLOR%|443|
-|HF|Measurement of Non-prompt \(\rm D^0\)-meson Elliptic Flow in Pb-Pb Collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2307.14084v1][2307.14084]]|[[https://inspirehep.net/literature/2681666][2681666]]|%RED%Submitted%ENDCOLOR%|442|
+|HF|Measurement of Non-prompt \(\rm D^0\)-meson Elliptic Flow in Pb-Pb Collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2307.14084v1][2307.14084]]|[[https://inspirehep.net/literature/2681666][2681666]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-023-12259-3][Eur. Phys. J. C 83]]%ENDCOLOR%|442|
 |CF|Pseudorapidity dependence of anisotropic flow and its decorrelations using long-range multiparticle correlations in Pb-Pb and Xe-Xe collisions|%RED%PbPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2307.11116v1][2307.11116]]|[[https://inspirehep.net/literature/2679248][2679248]]|%RED%Submitted%ENDCOLOR%|441|
 |JE|Measurement of inclusive charged-particle jet production in pp and p-Pb collisions at \(\sqrt{s_{\rm NN}}=5.02\) !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2307.10860v1][2307.10860]]|[[https://inspirehep.net/literature/2678721][2678721]]|%RED%Submitted%ENDCOLOR%|440|
 |LF|Measurement of the low-energy antitriton inelastic cross section|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2307.03603v2][2307.03603]]|[[https://inspirehep.net/literature/2675130][2675130]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2023.138337][Phys. Lett. B 848]]%ENDCOLOR%|439|

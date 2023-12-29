@@ -1,7 +1,7 @@
-   * Generated on 2023-Dec-29 00:56 UTC  .
+   * Generated on 2023-Dec-29 08:58 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
-|CF|Investigating the nature of the K\(^*_0(700)\) state with \(\pi^\pm\)K\(^0_{\rm S}\) correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v1][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%RED%Submitted%ENDCOLOR%|468|
+|CF|Investigating the nature of the K\(^*_0(700)\) state with \(\pi^\pm\)K\(^0_{\rm S}\) correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v2][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%RED%Submitted%ENDCOLOR%|468|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|467|
 |CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[[http://arxiv.org/abs/2311.14357v1][2311.14357]]|[[https://inspirehep.net/literature/2725922][2725922]]|%RED%Submitted%ENDCOLOR%|466|
 |LF|Measurements of chemical potentials in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.13332v1][2311.13332]]|[[https://inspirehep.net/literature/2725426][2725426]]|%RED%Submitted%ENDCOLOR%|465|

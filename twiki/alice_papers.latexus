@@ -75,7 +75,9 @@
 \bibitem{ALICE:2023csm}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Charged-particle production as a function of the relative transverse activity classifier in pp, p$-$Pb, and Pb$-$Pb collisions at the LHC,''
+%``Charged-particle production as a function of the relative transverse activity classifier in pp, p\textendash{}Pb, and Pb\textendash{}Pb collisions at the LHC,''
+JHEP \textbf{01}, 056 (2024)
+doi:10.1007/JHEP01(2024)056
 [arXiv:2310.07490 [nucl-ex]].
 %4 citations counted in INSPIRE as of 15 Jan 2024
 
@@ -462,7 +464,7 @@ doi:10.1007/JHEP10(2023)092
   [ALICE],
 %``ALICE upgrades during the LHC Long Shutdown 2,''
 [arXiv:2302.01238 [physics.ins-det]].
-%21 citations counted in INSPIRE as of 15 Jan 2024
+%20 citations counted in INSPIRE as of 15 Jan 2024
 
 \cite{ALICE:2023wdn}
 
@@ -2111,7 +2113,7 @@ doi:10.1007/JHEP02(2020)077
 Phys. Rev. C \textbf{101}, no.6, 064901 (2020)
 doi:10.1103/PhysRevC.101.064901
 [arXiv:1910.14398 [nucl-ex]].
-%12 citations counted in INSPIRE as of 15 Jan 2024
+%11 citations counted in INSPIRE as of 15 Jan 2024
 
 \cite{ALICE:2019etb}
 
@@ -2409,7 +2411,7 @@ doi:10.1103/PhysRevLett.123.112002
 Phys. Lett. B \textbf{798}, 134926 (2019)
 doi:10.1016/j.physletb.2019.134926
 [arXiv:1904.06272 [nucl-ex]].
-%90 citations counted in INSPIRE as of 15 Jan 2024
+%89 citations counted in INSPIRE as of 15 Jan 2024
 
 \cite{ALICE:2019kno}
 
@@ -2464,7 +2466,7 @@ doi:10.1016/j.physletb.2019.05.028
 JINST \textbf{14}, no.05, P05025 (2019)
 doi:10.1088/1748-0221/14/05/P05025
 [arXiv:1902.06145 [physics.ins-det]].
-%18 citations counted in INSPIRE as of 15 Jan 2024
+%17 citations counted in INSPIRE as of 15 Jan 2024
 
 \cite{ALICE:2019nxm}
 

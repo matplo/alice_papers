@@ -697,8 +697,10 @@ doi:10.1016/j.physletb.2023.137782
 
 \bibitem{ALICE:2022jeh}
 
-  [ALICE],
-%``$\psi(2S)$ suppression in Pb-Pb collisions at the LHC,''
+ S.~Acharya \textit{et al.} [ALICE],
+%``\ensuremath{\psi}(2S) Suppression in Pb-Pb Collisions at the LHC,''
+Phys. Rev. Lett. \textbf{132}, no.4, 042301 (2024)
+doi:10.1103/PhysRevLett.132.042301
 [arXiv:2210.08893 [nucl-ex]].
 %25 citations counted in INSPIRE as of 25 Jan 2024
 
@@ -1059,7 +1061,7 @@ doi:10.1140/epjc/s10052-022-10405-x
 JHEP \textbf{12}, 126 (2022)
 doi:10.1007/JHEP12(2022)126
 [arXiv:2202.00815 [nucl-ex]].
-%30 citations counted in INSPIRE as of 25 Jan 2024
+%31 citations counted in INSPIRE as of 25 Jan 2024
 
 \cite{ALICE:2022enj}
 
@@ -4528,7 +4530,7 @@ doi:10.1103/PhysRevD.87.052016
 Phys. Lett. B \textbf{719}, 29-41 (2013)
 doi:10.1016/j.physletb.2013.01.012
 [arXiv:1212.2001 [nucl-ex]].
-%900 citations counted in INSPIRE as of 25 Jan 2024
+%901 citations counted in INSPIRE as of 25 Jan 2024
 
 \cite{ALICE:2012mj}
 
@@ -5081,5 +5083,5 @@ doi:10.1088/1748-0221/5/03/P03003
 Eur. Phys. J. C \textbf{65}, 111-125 (2010)
 doi:10.1140/epjc/s10052-009-1227-4
 [arXiv:0911.5430 [hep-ex]].
-%241 citations counted in INSPIRE as of 25 Jan 2024
+%242 citations counted in INSPIRE as of 25 Jan 2024
 

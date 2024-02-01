@@ -1,4 +1,4 @@
-   * Generated on 2024-Feb-01 08:55 UTC  .
+   * Generated on 2024-Feb-01 16:56 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Investigating the nature of the K\(^*_0(700)\) state with \(\pi^\pm\)K\(^0_{\rm S}\) correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v2][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%RED%Submitted%ENDCOLOR%|468|
@@ -23,7 +23,7 @@
 |CF|Exploring the strong interaction of three-body systems at the LHC|pp|[[http://arxiv.org/abs/2308.16120v1][2308.16120]]|[[https://inspirehep.net/literature/2691844][2691844]]|%RED%Submitted%ENDCOLOR%|449|
 |LF|K\(^{*}\)(892)\(^{\pm}\) resonance production in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2308.16119v1][2308.16119]]|[[https://inspirehep.net/literature/2692205][2692205]]|%RED%Submitted%ENDCOLOR%|448|
 |LF|Multiplicity-dependent production of \(\Sigma(1385)^{\pm}\) and \(\Xi(1530)^{0}\) in pp collisions at \(\sqrt{s}=13\) !TeV|pp|[[http://arxiv.org/abs/2308.16116v1][2308.16116]]|[[https://inspirehep.net/literature/2692207][2692207]]|%RED%Submitted%ENDCOLOR%|447|
-|LF|System size dependence of the hadronic rescattering effect at energies available at the CERN Large Hadron Collider|pp,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2308.16115v2][2308.16115]]|[[https://inspirehep.net/literature/2691823][2691823]]|%RED%Submitted%ENDCOLOR%|446|
+|LF|System size dependence of the hadronic rescattering effect at energies available at the CERN Large Hadron Collider|pp,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2308.16115v2][2308.16115]]|[[https://inspirehep.net/literature/2753045][2753045]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.109.014911][Phys. Rev. C 109]]%ENDCOLOR%|446|
 |HF|Charm production and fragmentation fractions at midrapidity in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2308.04877v3][2308.04877]]|[[https://inspirehep.net/literature/2697877][2697877]]|%GREEN%[[https://doi.org/10.1007/JHEP12(2023)086][JHEP 12]]%ENDCOLOR%|445|
 |HF|Study of flavor dependence of the baryon-to-meson ratio in proton-proton collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2308.04873v2][2308.04873]]|[[https://inspirehep.net/literature/2686623][2686623]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.108.112003][Phys. Rev. D 108]]%ENDCOLOR%|444|
 |JE|Modification of charged-particle jets in event-shape engineered Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}} = 5\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2307.14097v1][2307.14097]]|[[https://inspirehep.net/literature/2681682][2681682]]|%RED%Submitted%ENDCOLOR%|443|

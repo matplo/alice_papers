@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|HF|Measurement of beauty-quark production in pp collisions at \\(\sqrt\{s\}=13\\) TeV via non-prompt D mesons|pp|[2402.16417](http://arxiv.org/abs/2402.16417v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|469|
+|HF|Measurement of beauty-quark production in pp collisions at \\(\sqrt\{s\}=13\\) TeV via non-prompt D mesons|pp|[2402.16417](http://arxiv.org/abs/2402.16417v1){: target="_blank"}|[2762380](https://inspirehep.net/literature/2762380){: target="_blank"}|Submitted|469|
 |CF|Investigating the nature of the K\\(^*_0(700)\\) state with \\(\pi^\pm\\)K\\(^0_\{\rm S\}\\) correlations at the LHC|pp|[2312.12830](http://arxiv.org/abs/2312.12830v2){: target="_blank"}|[2739149](https://inspirehep.net/literature/2739149){: target="_blank"}|Submitted|468|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[2311.14527](http://arxiv.org/abs/2311.14527v1){: target="_blank"}|[2725934](https://inspirehep.net/literature/2725934){: target="_blank"}|Submitted|467|
 |CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[2311.14357](http://arxiv.org/abs/2311.14357v1){: target="_blank"}|[2725922](https://inspirehep.net/literature/2725922){: target="_blank"}|Submitted|466|

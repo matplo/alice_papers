@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Systematic study of flow vector decorrelation in \\(\mathbf\{\sqrt\{\textit\{s\}_\{_\{\bf NN\}\}\}=5.02\}\\) TeV Pb-Pb collisions|PbPb|[2403.15213](http://arxiv.org/abs/2403.15213v1){: target="_blank"}|[2771093](https://inspirehep.net/literature/2771093){: target="_blank"}|Submitted|470|
 |HF|Measurement of beauty-quark production in pp collisions at \\(\sqrt\{s\}=13\\) TeV via non-prompt D mesons|pp|[2402.16417](http://arxiv.org/abs/2402.16417v1){: target="_blank"}|[2762380](https://inspirehep.net/literature/2762380){: target="_blank"}|Submitted|469|
 |CF|Investigating the nature of the K\\(^*_0(700)\\) state with \\(\pi^\pm\\)K\\(^0_\{\rm S\}\\) correlations at the LHC|pp|[2312.12830](http://arxiv.org/abs/2312.12830v2){: target="_blank"}|[2739149](https://inspirehep.net/literature/2739149){: target="_blank"}|Submitted|468|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[2311.14527](http://arxiv.org/abs/2311.14527v1){: target="_blank"}|[2725934](https://inspirehep.net/literature/2725934){: target="_blank"}|Submitted|467|

@@ -1,4 +1,4 @@
-   * Generated on 2024-Apr-08 00:57 UTC  .
+   * Generated on 2024-Apr-08 08:57 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Systematic study of flow vector decorrelation in \(\mathbf{\sqrt{\textit{s}_{_{\bf NN}}}=5.02}\) !TeV Pb-Pb collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2403.15213v1][2403.15213]]|[[https://inspirehep.net/literature/2771093][2771093]]|%RED%Submitted%ENDCOLOR%|470|
@@ -52,7 +52,7 @@
 |HF|Measurement of the non-prompt D-meson fraction as a function of multiplicity in proton\(-\)proton collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2302.07783v2][2302.07783]]|[[https://inspirehep.net/literature/2632796][2632796]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2023)092][JHEP 10]]%ENDCOLOR%|422|
 |n/a|ALICE upgrades during the LHC Long Shutdown 2|n/a|[[http://arxiv.org/abs/2302.01238v1][2302.01238]]|[[https://inspirehep.net/literature/2628978][2628978]]|%RED%Submitted%ENDCOLOR%|421|
 |CF|Symmetry plane correlations in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 2.76\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2302.01234v2][2302.01234]]|[[https://inspirehep.net/literature/2628969][2628969]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-023-11658-w][Eur. Phys. J. C 83]]%ENDCOLOR%|420|
-|HF|Exploring the non-universality of charm hadronisation through the measurement of the fraction of jet longitudinal momentum carried by \(\Lambda_{\rm c}^+\) baryons in pp collisions|pp|[[http://arxiv.org/abs/2301.13798v1][2301.13798]]|[[https://inspirehep.net/literature/2628372][2628372]]|%RED%Submitted%ENDCOLOR%|419|
+|HF|Exploring the non-universality of charm hadronisation through the measurement of the fraction of jet longitudinal momentum carried by \(\Lambda_{\rm c}^+\) baryons in pp collisions|pp|[[http://arxiv.org/abs/2301.13798v1][2301.13798]]|[[https://inspirehep.net/literature/2628372][2628372]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.109.072005][Phys. Rev. D 109]]%ENDCOLOR%|419|
 |MM|Production of pions, kaons, and protons as a function of the relative transverse activity classifier in pp collisions at \(\sqrt{s}=13\) !TeV|pp|[[http://arxiv.org/abs/2301.10120v3][2301.10120]]|[[https://inspirehep.net/literature/2626034][2626034]]|%GREEN%[[https://doi.org/10.1007/JHEP06(2023)027][JHEP 06]]%ENDCOLOR%|418|
 |CF|Azimuthal anisotropy of jet particles in p-Pb and Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2212.12609v1][2212.12609]]|[[https://inspirehep.net/literature/2618175][2618175]]|%RED%Submitted%ENDCOLOR%|417|
 |HF|First measurement of prompt and non-prompt \({\rm D^{*+}}\) vector meson spin alignment in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2212.06588v2][2212.06588]]|[[https://inspirehep.net/literature/2706178][2706178]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2023.137920][Phys. Lett. B 846]]%ENDCOLOR%|416|

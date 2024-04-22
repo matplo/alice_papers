@@ -1,4 +1,4 @@
-   * Generated on 2024-Apr-21 16:59 UTC  .
+   * Generated on 2024-Apr-22 00:59 UTC  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|Exclusive four pion photoproduction in ultraperipheral Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2404.07542v1][2404.07542]]|[[https://inspirehep.net/literature/2776333][2776333]]|%RED%Submitted%ENDCOLOR%|471|

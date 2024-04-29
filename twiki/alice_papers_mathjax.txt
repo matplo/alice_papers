@@ -1,4 +1,4 @@
-   * Generated on 2024-Apr-29 08:58 CEST  .
+   * Generated on 2024-Apr-29 16:58 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|Exclusive four pion photoproduction in ultraperipheral Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2404.07542v1][2404.07542]]|[[https://inspirehep.net/literature/2776333][2776333]]|%RED%Submitted%ENDCOLOR%|471|
@@ -6,7 +6,7 @@
 |HF|Measurement of beauty-quark production in pp collisions at \(\sqrt{s}=13\) !TeV via non-prompt D mesons|pp|[[http://arxiv.org/abs/2402.16417v1][2402.16417]]|[[https://inspirehep.net/literature/2762380][2762380]]|%RED%Submitted%ENDCOLOR%|469|
 |CF|Investigating the nature of the K\(^*_0(700)\) state with \(\pi^\pm\)K\(^0_{\rm S}\) correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v2][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%RED%Submitted%ENDCOLOR%|468|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|467|
-|CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[[http://arxiv.org/abs/2311.14357v1][2311.14357]]|[[https://inspirehep.net/literature/2725922][2725922]]|%RED%Submitted%ENDCOLOR%|466|
+|CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[[http://arxiv.org/abs/2311.14357v1][2311.14357]]|[[https://inspirehep.net/literature/2725922][2725922]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.132.172302][Phys. Rev. Lett. 132]]%ENDCOLOR%|466|
 |LF|Measurements of chemical potentials in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.13332v2][2311.13332]]|[[https://inspirehep.net/literature/2725426][2725426]]|%RED%Submitted%ENDCOLOR%|465|
 |JE|Multiplicity dependence of charged-particle intra-jet properties in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2311.13322v1][2311.13322]]|[[https://inspirehep.net/literature/2725603][2725603]]|%RED%Submitted%ENDCOLOR%|464|
 |UPC|Photoproduction of K\(^{+}\)K\(^{-}\) pairs in ultra-peripheral collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.11792v1][2311.11792]]|[[https://inspirehep.net/literature/2724212][2724212]]|%RED%Submitted%ENDCOLOR%|463|

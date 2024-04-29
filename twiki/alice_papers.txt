@@ -1,6 +1,7 @@
-   * Generated on 2024-Apr-29 16:58 CEST  .
+   * Generated on 2024-Apr-29 22:29 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Measurement of $Ω^0_{\rm c}$ baryon production and branching-fraction ratio ${\rm BR(Ω^0_c \rightarrow Ω^- e^+ν_e)} / {\rm BR(Ω^0_c \rightarrow Ω^- π^+)}$ in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2404.17272v1][2404.17272]]|[[https://inspirehep.net/literature/2781241][2781241]]|%RED%Submitted%ENDCOLOR%|472|
 |UD|Exclusive four pion photoproduction in ultraperipheral Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2404.07542v1][2404.07542]]|[[https://inspirehep.net/literature/2776333][2776333]]|%RED%Submitted%ENDCOLOR%|471|
 |CF|Systematic study of flow vector decorrelation in $\mathbf{\sqrt{\textit{s}_{_{\bf NN}}}=5.02}$ !TeV Pb-Pb collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2403.15213v1][2403.15213]]|[[https://inspirehep.net/literature/2771093][2771093]]|%RED%Submitted%ENDCOLOR%|470|
 |HF|Measurement of beauty-quark production in pp collisions at $\sqrt{s}=13$ !TeV via non-prompt D mesons|pp|[[http://arxiv.org/abs/2402.16417v1][2402.16417]]|[[https://inspirehep.net/literature/2762380][2762380]]|%RED%Submitted%ENDCOLOR%|469|

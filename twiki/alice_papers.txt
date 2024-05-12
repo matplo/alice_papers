@@ -1,4 +1,4 @@
-   * Generated on 2024-May-12 16:57 CEST  .
+   * Generated on 2024-May-13 00:58 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of $Ω^0_{\rm c}$ baryon production and branching-fraction ratio ${\rm BR(Ω^0_c \rightarrow Ω^- e^+ν_e)} / {\rm BR(Ω^0_c \rightarrow Ω^- π^+)}$ in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2404.17272v1][2404.17272]]|[[https://inspirehep.net/literature/2781241][2781241]]|%RED%Submitted%ENDCOLOR%|472|

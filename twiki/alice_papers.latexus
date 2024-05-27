@@ -140,7 +140,9 @@ doi:10.1103/PhysRevLett.132.172302
 \bibitem{ALICE:2023bga}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Light-flavor particle production in high-multiplicity pp collisions at $\mathbf{\sqrt{\textit{s}} = 13}$ TeV as a function of transverse spherocity,''
+%``Light-flavor particle production in high-multiplicity pp collisions at $ \sqrt{\textrm{s}} $= 13 TeV as a function of transverse spherocity,''
+JHEP \textbf{05}, 184 (2024)
+doi:10.1007/JHEP05(2024)184
 [arXiv:2310.10236 [hep-ex]].
 %2 citations counted in INSPIRE as of 27 May 2024
 
@@ -171,7 +173,9 @@ doi:10.1007/JHEP01(2024)056
 \bibitem{ALICE:2023plt}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Search for jet quenching effects in high-multiplicity pp collisions at $\sqrt{s}$ = 13 TeV via di-jet acoplanarity,''
+%``Search for jet quenching effects in high-multiplicity pp collisions at $ \sqrt{s} $ = 13 TeV via di-jet acoplanarity,''
+JHEP \textbf{05}, 229 (2024)
+doi:10.1007/JHEP05(2024)229
 [arXiv:2309.03788 [hep-ex]].
 %2 citations counted in INSPIRE as of 27 May 2024
 
@@ -233,7 +237,7 @@ doi:10.1016/j.physletb.2024.138541
  S.~Acharya \textit{et al.} [ALICE],
 %``Observation of medium-induced yield enhancement and acoplanarity broadening of low-$p_\mathrm{T}$ jets from measurements in pp and central Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
 [arXiv:2308.16131 [nucl-ex]].
-%2 citations counted in INSPIRE as of 27 May 2024
+%3 citations counted in INSPIRE as of 27 May 2024
 
 \cite{ALICE:2023jye}
 
@@ -242,7 +246,7 @@ doi:10.1016/j.physletb.2024.138541
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurements of jet quenching using semi-inclusive hadron+jet distributions in pp and central Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV,''
 [arXiv:2308.16128 [nucl-ex]].
-%3 citations counted in INSPIRE as of 27 May 2024
+%4 citations counted in INSPIRE as of 27 May 2024
 
 \cite{ALICE:2023hou}
 

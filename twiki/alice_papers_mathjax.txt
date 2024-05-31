@@ -1,4 +1,4 @@
-   * Generated on 2024-May-31 16:58 CEST  .
+   * Generated on 2024-Jun-01 00:58 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Charm fragmentation fractions and \({\rm c\overline{c}}\) cross section in p\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}=5.02\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.14571v1][2405.14571]]|[[https://inspirehep.net/literature/2789567][2789567]]|%RED%Submitted%ENDCOLOR%|477|

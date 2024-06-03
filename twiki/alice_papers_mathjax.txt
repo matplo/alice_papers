@@ -1,6 +1,10 @@
-   * Generated on 2024-Jun-03 16:58 CEST  .
+   * Generated on 2024-Jun-03 17:04 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|CF|Probing strangeness hadronization with event-by-event production of multistrange hadrons|pp,%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.19890v1][2405.19890]]|[[https://inspirehep.net/literature/2791623][2791623]]|%RED%Submitted%ENDCOLOR%|481|
+|CF|Investigating \(\Lambda\) baryon production in p-Pb collisions in jets and underlying event using angular correlations|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.19855v1][2405.19855]]|[[https://inspirehep.net/literature/2791853][2791853]]|%RED%Submitted%ENDCOLOR%|480|
+|LF|Measurement of \({}_\Lambda^{3}\mathrm{H}\) production in Pb-Pb collisions at \(\sqrt{s_{\mathrm{NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.19839v1][2405.19839]]|[[https://inspirehep.net/literature/2791616][2791616]]|%RED%Submitted%ENDCOLOR%|479|
+|CF|Measurement of the production and elliptic flow of (anti)nuclei in Xe-Xe collisions at \(\sqrt{s_{\rm NN}}\) = 5.44 !TeV|%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2405.19826v1][2405.19826]]|[[https://inspirehep.net/literature/2791620][2791620]]|%RED%Submitted%ENDCOLOR%|478|
 |HF|Charm fragmentation fractions and \({\rm c\overline{c}}\) cross section in p\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}=5.02\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.14571v1][2405.14571]]|[[https://inspirehep.net/literature/2789567][2789567]]|%RED%Submitted%ENDCOLOR%|477|
 |HF|Measurement of the production cross section of prompt \(\Xi^0_{\rm c}\) baryons in p\(-\)Pb collisions at \(\sqrt{s_{\mathrm{NN}}}~=~5.02\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.14538v1][2405.14538]]|[[https://inspirehep.net/literature/2789570][2789570]]|%RED%Submitted%ENDCOLOR%|476|
 |UD|Measurement of the impact-parameter dependent azimuthal anisotropy in coherent \(\rho^0\) photoproduction in Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.14525v1][2405.14525]]|[[https://inspirehep.net/literature/2789555][2789555]]|%RED%Submitted%ENDCOLOR%|475|

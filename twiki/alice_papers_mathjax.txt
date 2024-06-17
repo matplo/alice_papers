@@ -1,4 +1,4 @@
-   * Generated on 2024-Jun-17 09:00 CEST  .
+   * Generated on 2024-Jun-17 17:00 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Probing strangeness hadronization with event-by-event production of multistrange hadrons|pp,%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.19890v1][2405.19890]]|[[https://inspirehep.net/literature/2791623][2791623]]|%RED%Submitted%ENDCOLOR%|481|
@@ -12,7 +12,7 @@
 |LF|Investigating strangeness enhancement in jet and medium via \(\phi\)(1020) production in p\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.14491v1][2405.14491]]|[[https://inspirehep.net/literature/2789575][2789575]]|%RED%Submitted%ENDCOLOR%|473|
 |HF|Measurement of \(Ω^0_{\rm c}\) baryon production and branching-fraction ratio \({\rm BR(Ω^0_c \rightarrow Ω^- e^+ν_e)} / {\rm BR(Ω^0_c \rightarrow Ω^- \pi^+)}\) in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2404.17272v2][2404.17272]]|[[https://inspirehep.net/literature/2781241][2781241]]|%RED%Submitted%ENDCOLOR%|472|
 |UD|Exclusive four pion photoproduction in ultraperipheral Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2404.07542v1][2404.07542]]|[[https://inspirehep.net/literature/2776333][2776333]]|%RED%Submitted%ENDCOLOR%|471|
-|CF|Systematic study of flow vector decorrelation in \(\mathbf{\sqrt{\textit{s}_{_{\bf NN}}}=5.02}\) !TeV Pb-Pb collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2403.15213v1][2403.15213]]|[[https://inspirehep.net/literature/2771093][2771093]]|%RED%Submitted%ENDCOLOR%|470|
+|CF|Systematic study of flow vector decorrelation in \(\mathbf{\sqrt{\textit{s}_{_{\bf NN}}}=5.02}\) !TeV Pb-Pb collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2403.15213v1][2403.15213]]|[[https://inspirehep.net/literature/2771093][2771093]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.109.065202][Phys. Rev. C 109]]%ENDCOLOR%|470|
 |HF|Measurement of beauty-quark production in pp collisions at \(\sqrt{s}=13\) !TeV via non-prompt D mesons|pp|[[http://arxiv.org/abs/2402.16417v1][2402.16417]]|[[https://inspirehep.net/literature/2762380][2762380]]|%RED%Submitted%ENDCOLOR%|469|
 |CF|Investigating the nature of the K\(^*_0(700)\) state with \(\pi^\pm\)K\(^0_{\rm S}\) correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v2][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%RED%Submitted%ENDCOLOR%|468|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|467|

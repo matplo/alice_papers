@@ -1,6 +1,7 @@
-   * Generated on 2024-Jul-02 08:59 CEST  .
+   * Generated on 2024-Jul-02 16:59 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|JE|Measurement of the inclusive isolated-photon production cross section in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2407.01165v1][2407.01165]]|[[https://inspirehep.net/literature/2803487][2803487]]|%RED%Submitted%ENDCOLOR%|482|
 |CF|Probing strangeness hadronization with event-by-event production of multistrange hadrons|pp,%BLUE%pPb%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.19890v1][2405.19890]]|[[https://inspirehep.net/literature/2791623][2791623]]|%RED%Submitted%ENDCOLOR%|481|
 |CF|Investigating $Λ$ baryon production in p-Pb collisions in jets and underlying event using angular correlations|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.19855v1][2405.19855]]|[[https://inspirehep.net/literature/2791853][2791853]]|%RED%Submitted%ENDCOLOR%|480|
 |LF|Measurement of ${}_Λ^{3}\mathrm{H}$ production in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2405.19839v1][2405.19839]]|[[https://inspirehep.net/literature/2791616][2791616]]|%RED%Submitted%ENDCOLOR%|479|

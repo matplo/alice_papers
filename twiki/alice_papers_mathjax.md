@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Measurement of beauty production via non-prompt charm hadrons in p-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\} = 5.02\\) TeV|pPb|[2407.10593](http://arxiv.org/abs/2407.10593v1){: target="_blank"}|[2808020](https://inspirehep.net/literature/2808020){: target="_blank"}|Submitted|484|
+|LF|Rapidity dependence of antideuteron coalescence in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV with ALICE|pp|[2407.10527](http://arxiv.org/abs/2407.10527v1){: target="_blank"}|[2807680](https://inspirehep.net/literature/2807680){: target="_blank"}|Submitted|483|
 |JE|Measurement of the inclusive isolated-photon production cross section in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2407.01165](http://arxiv.org/abs/2407.01165v1){: target="_blank"}|[2803487](https://inspirehep.net/literature/2803487){: target="_blank"}|Submitted|482|
 |CF|Probing strangeness hadronization with event-by-event production of multistrange hadrons|pp,pPb,PbPb|[2405.19890](http://arxiv.org/abs/2405.19890v1){: target="_blank"}|[2791623](https://inspirehep.net/literature/2791623){: target="_blank"}|Submitted|481|
 |CF|Investigating \\(\Lambda\\) baryon production in p-Pb collisions in jets and underlying event using angular correlations|pPb|[2405.19855](http://arxiv.org/abs/2405.19855v1){: target="_blank"}|[2791853](https://inspirehep.net/literature/2791853){: target="_blank"}|Submitted|480|

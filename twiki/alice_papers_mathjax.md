@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|MM|Particle production as a function of charged-particle flattenicity in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2407.20037](http://arxiv.org/abs/2407.20037v1){: target="_blank"}|[2811647](https://inspirehep.net/literature/2811647){: target="_blank"}|Submitted|485|
 |HF|Measurement of beauty production via non-prompt charm hadrons in p-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\} = 5.02\\) TeV|pPb|[2407.10593](http://arxiv.org/abs/2407.10593v1){: target="_blank"}|[2808020](https://inspirehep.net/literature/2808020){: target="_blank"}|Submitted|484|
 |LF|Rapidity dependence of antideuteron coalescence in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV with ALICE|pp|[2407.10527](http://arxiv.org/abs/2407.10527v1){: target="_blank"}|[2807680](https://inspirehep.net/literature/2807680){: target="_blank"}|Submitted|483|
 |JE|Measurement of the inclusive isolated-photon production cross section in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2407.01165](http://arxiv.org/abs/2407.01165v1){: target="_blank"}|[2803487](https://inspirehep.net/literature/2803487){: target="_blank"}|Submitted|482|

@@ -1,4 +1,4 @@
-   * Generated on 2024-Aug-08 16:24 CEST  .
+   * Generated on 2024-Aug-09 00:57 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |MM|Particle production as a function of charged-particle flattenicity in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2407.20037v1][2407.20037]]|[[https://inspirehep.net/literature/2811647][2811647]]|%RED%Submitted%ENDCOLOR%|485|
@@ -18,7 +18,7 @@
 |UD|Exclusive four pion photoproduction in ultraperipheral Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2404.07542v1][2404.07542]]|[[https://inspirehep.net/literature/2776333][2776333]]|%RED%Submitted%ENDCOLOR%|471|
 |CF|Systematic study of flow vector decorrelation in $\mathbf{\sqrt{\textit{s}_{_{\bf NN}}}=5.02}$ !TeV Pb-Pb collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2403.15213v1][2403.15213]]|[[https://inspirehep.net/literature/2771093][2771093]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.109.065202][Phys. Rev. C 109]]%ENDCOLOR%|470|
 |HF|Measurement of beauty-quark production in pp collisions at $\sqrt{s}=13$ !TeV via non-prompt D mesons|pp|[[http://arxiv.org/abs/2402.16417v1][2402.16417]]|[[https://inspirehep.net/literature/2762380][2762380]]|%RED%Submitted%ENDCOLOR%|469|
-|CF|Investigating the nature of the K$^*_0(700)$ state with $π^\pm$K$^0_{\rm S}$ correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v2][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%RED%Submitted%ENDCOLOR%|468|
+|CF|Investigating the nature of the K$^*_0(700)$ state with $π^\pm$K$^0_{\rm S}$ correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v2][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2024.138915][Phys. Lett. B 856]]%ENDCOLOR%|468|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|467|
 |CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[[http://arxiv.org/abs/2311.14357v2][2311.14357]]|[[https://inspirehep.net/literature/2725922][2725922]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.132.172302][Phys. Rev. Lett. 132]]%ENDCOLOR%|466|
 |LF|Measurements of chemical potentials in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.13332v2][2311.13332]]|[[https://inspirehep.net/literature/2725426][2725426]]|%RED%Submitted%ENDCOLOR%|465|

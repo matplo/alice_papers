@@ -120,7 +120,8 @@
 \bibitem{ALICE:2024xjt}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of $\Omega^0_{\rm c}$ baryon production and branching-fraction ratio ${\rm BR(\Omega^0_c \rightarrow \Omega^- e^+\nu_e)} / {\rm BR(\Omega^0_c \rightarrow \Omega^- \pi^+)}$ in pp collisions at $\sqrt{s}$ = 13 TeV,''
+%``Measurement of \ensuremath{\Omega}c0 baryon production and branching-fraction ratio BR(\ensuremath{\Omega}c0\textrightarrow{}\ensuremath{\Omega}-e+\ensuremath{\nu}e)/BR(\ensuremath{\Omega}c0\textrightarrow{}\ensuremath{\Omega}-\ensuremath{\pi}+) in pp collisions at s=13\,\,TeV,''
+Phys. Rev. D \textbf{110}, no.3, 032014 (2024)
 doi:10.1103/PhysRevD.110.032014
 [arXiv:2404.17272 [hep-ex]].
 %1 citations counted in INSPIRE as of 19 Aug 2024

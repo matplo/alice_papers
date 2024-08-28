@@ -1,4 +1,4 @@
-   * Generated on 2024-Aug-28 00:56 CEST  .
+   * Generated on 2024-Aug-28 08:57 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |MM|Particle production as a function of charged-particle flattenicity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2407.20037v1][2407.20037]]|[[https://inspirehep.net/literature/2811647][2811647]]|%RED%Submitted%ENDCOLOR%|485|
@@ -21,7 +21,7 @@
 |CF|Investigating the nature of the K\(^*_0(700)\) state with \(\pi^\pm\)K\(^0_{\rm S}\) correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v2][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2024.138915][Phys. Lett. B 856]]%ENDCOLOR%|468|
 |CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|467|
 |CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[[http://arxiv.org/abs/2311.14357v2][2311.14357]]|[[https://inspirehep.net/literature/2725922][2725922]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.132.172302][Phys. Rev. Lett. 132]]%ENDCOLOR%|466|
-|LF|Measurements of chemical potentials in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.13332v2][2311.13332]]|[[https://inspirehep.net/literature/2725426][2725426]]|%RED%Submitted%ENDCOLOR%|465|
+|LF|Measurements of chemical potentials in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.13332v2][2311.13332]]|[[https://inspirehep.net/literature/2725426][2725426]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.133.092301][Phys. Rev. Lett. 133]]%ENDCOLOR%|465|
 |JE|Multiplicity dependence of charged-particle intra-jet properties in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2311.13322v1][2311.13322]]|[[https://inspirehep.net/literature/2725603][2725603]]|%RED%Submitted%ENDCOLOR%|464|
 |UPC|Photoproduction of K\(^{+}\)K\(^{-}\) pairs in ultra-peripheral collisions|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.11792v2][2311.11792]]|[[https://inspirehep.net/literature/2724212][2724212]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.132.222303][Phys. Rev. Lett. 132]]%ENDCOLOR%|463|
 |LF|Light-flavor particle production in high-multiplicity pp collisions at \(\mathbf{\sqrt{\textit{s}} = 13}\) !TeV as a function of transverse spherocity|pp|[[http://arxiv.org/abs/2310.10236v2][2310.10236]]|[[https://inspirehep.net/literature/2711421][2711421]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2024)184][JHEP 05]]%ENDCOLOR%|462|

@@ -1,4 +1,4 @@
-   * Generated on 2024-Sep-03 00:56 CEST  .
+   * Generated on 2024-Sep-03 08:57 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |MM|Particle production as a function of charged-particle flattenicity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2407.20037v1][2407.20037]]|[[https://inspirehep.net/literature/2811647][2811647]]|%RED%Submitted%ENDCOLOR%|485|

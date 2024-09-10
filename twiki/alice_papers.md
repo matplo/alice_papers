@@ -10,6 +10,9 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|J/\\(\psi\\)-hadron correlations at midrapidity in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2409.04364](http://arxiv.org/abs/2409.04364v1){: target="_blank"}|[2825965](https://inspirehep.net/literature/2825965){: target="_blank"}|Submitted|488|
+|CF|Exploring nuclear structure with multiparticle azimuthal correlations at the LHC|PbPb,XeXe|[2409.04343](http://arxiv.org/abs/2409.04343v1){: target="_blank"}|[2825785](https://inspirehep.net/literature/2825785){: target="_blank"}|Submitted|487|
+|CF|Higher-order symmetry plane correlations in Pb\\(-\\)Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\}\\) = 5.02 TeV|PbPb|[2409.04238](http://arxiv.org/abs/2409.04238v1){: target="_blank"}|[2825788](https://inspirehep.net/literature/2825788){: target="_blank"}|Submitted|486|
 |MM|Particle production as a function of charged-particle flattenicity in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2407.20037](http://arxiv.org/abs/2407.20037v1){: target="_blank"}|[2811647](https://inspirehep.net/literature/2811647){: target="_blank"}|Submitted|485|
 |HF|Measurement of beauty production via non-prompt charm hadrons in p-Pb collisions at \\(\sqrt\{s_\{\mathrm\{NN\}\}\} = 5.02\\) TeV|pPb|[2407.10593](http://arxiv.org/abs/2407.10593v1){: target="_blank"}|[2808020](https://inspirehep.net/literature/2808020){: target="_blank"}|Submitted|484|
 |LF|Rapidity dependence of antideuteron coalescence in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV with ALICE|pp|[2407.10527](http://arxiv.org/abs/2407.10527v1){: target="_blank"}|[2807680](https://inspirehep.net/literature/2807680){: target="_blank"}|Submitted|483|

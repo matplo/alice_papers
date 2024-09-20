@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|JE|Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at \\(\sqrt\{\textit s\}=5.02\\) TeV|pp|[2409.12687](http://arxiv.org/abs/2409.12687v1){: target="_blank"}|[2830401](https://inspirehep.net/literature/2830401){: target="_blank"}|Submitted|495|
 |EM|Addendum: Dielectron production in proton-proton and proton-lead collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|pp,pPb|[2409.12025](http://arxiv.org/abs/2409.12025v1){: target="_blank"}|[2829718](https://inspirehep.net/literature/2829718){: target="_blank"}|Submitted|494|
 |DQ|Coherent J/\\(\psi\\) photoproduction at midrapidity in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2409.11940](http://arxiv.org/abs/2409.11940v1){: target="_blank"}|[2829848](https://inspirehep.net/literature/2829848){: target="_blank"}|Submitted|493|
 |HF|Investigating charm quark energy loss in medium with the nuclear modification factor of D\\(^0\\)-tagged jets|PbPb|[2409.11939](http://arxiv.org/abs/2409.11939v1){: target="_blank"}|[2829716](https://inspirehep.net/literature/2829716){: target="_blank"}|Submitted|492|

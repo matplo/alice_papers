@@ -274,6 +274,17 @@ doi:10.1103/PhysRevC.109.065202
 [arXiv:2402.16417 [hep-ex]].
 %5 citations counted in INSPIRE as of 26 Sep 2024
 
+\cite{ALICE:2024bhk}
+
+\bibitem{ALICE:2024bhk}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Studying the interaction between charm and light-flavor mesons,''
+Phys. Rev. D \textbf{110}, no.3, 032004 (2024)
+doi:10.1103/PhysRevD.110.032004
+[arXiv:2401.13541 [nucl-ex]].
+%4 citations counted in INSPIRE as of 26 Sep 2024
+
 \cite{ALICE:2023eyl}
 
 \bibitem{ALICE:2023eyl}
@@ -335,6 +346,28 @@ Phys. Rev. Lett. \textbf{132}, no.22, 222303 (2024)
 doi:10.1103/PhysRevLett.132.222303
 [arXiv:2311.11792 [nucl-ex]].
 %5 citations counted in INSPIRE as of 26 Sep 2024
+
+\cite{ALICE:2023cxn}
+
+\bibitem{ALICE:2023cxn}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Observation of abnormal suppression of f0(980) production in p\textendash{}Pb collisions at sNN = 5.02 TeV,''
+Phys. Lett. B \textbf{853}, 138665 (2024)
+doi:10.1016/j.physletb.2024.138665
+[arXiv:2311.11786 [nucl-ex]].
+%4 citations counted in INSPIRE as of 26 Sep 2024
+
+\cite{ALICE:2023qyl}
+
+\bibitem{ALICE:2023qyl}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurement of (anti)alpha production in central Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+Phys. Lett. B \textbf{858}, 138943 (2024)
+doi:10.1016/j.physletb.2024.138943
+[arXiv:2311.11758 [nucl-ex]].
+%3 citations counted in INSPIRE as of 26 Sep 2024
 
 \cite{ALICE:2023bga}
 

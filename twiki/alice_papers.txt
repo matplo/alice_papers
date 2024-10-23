@@ -1,4 +1,4 @@
-   * Generated on 2024-Oct-23 09:02 CEST  .
+   * Generated on 2024-Oct-23 17:01 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Search for quasi-particle scattering in the quark-gluon plasma with jet splittings in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.12837v1][2409.12837]]|[[https://inspirehep.net/literature/2831271][2831271]]|%RED%Submitted%ENDCOLOR%|501|

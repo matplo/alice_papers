@@ -1,6 +1,8 @@
-   * Generated on 2024-Oct-24 17:03 CEST  .
+   * Generated on 2024-Oct-24 19:06 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|UD|Multimuons in cosmic-ray events as seen in ALICE at the LHC|c.r.|[[http://arxiv.org/abs/2410.17771v1][2410.17771]]|[[https://inspirehep.net/literature/2842099][2842099]]|%RED%Submitted%ENDCOLOR%|503|
+|LF|First measurement of A = 4 (anti)hypernuclei at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2410.17769v1][2410.17769]]|[[https://inspirehep.net/literature/2842103][2842103]]|%RED%Submitted%ENDCOLOR%|502|
 |JE|Search for quasi-particle scattering in the quark-gluon plasma with jet splittings in pp and Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.12837v1][2409.12837]]|[[https://inspirehep.net/literature/2831271][2831271]]|%RED%Submitted%ENDCOLOR%|501|
 |LF|First observation of strange baryon enhancement with effective energy in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2409.12702v1][2409.12702]]|[[https://inspirehep.net/literature/2830416][2830416]]|%RED%Submitted%ENDCOLOR%|500|
 |JE|Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at \(\sqrt{\textit s}=5.02\) !TeV|pp|[[http://arxiv.org/abs/2409.12687v1][2409.12687]]|[[https://inspirehep.net/literature/2830401][2830401]]|%RED%Submitted%ENDCOLOR%|499|

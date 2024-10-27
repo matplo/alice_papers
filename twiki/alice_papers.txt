@@ -1,4 +1,4 @@
-   * Generated on 2024-Oct-27 09:00 CET  .
+   * Generated on 2024-Oct-27 17:00 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|Multimuons in cosmic-ray events as seen in ALICE at the LHC|c.r.|[[http://arxiv.org/abs/2410.17771v1][2410.17771]]|[[https://inspirehep.net/literature/2842099][2842099]]|%RED%Submitted%ENDCOLOR%|503|

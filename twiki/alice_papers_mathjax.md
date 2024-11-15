@@ -10,6 +10,10 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|EM|Light neutral-meson production in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2411.09560](http://arxiv.org/abs/2411.09560v1){: target="_blank"}|[2848478](https://inspirehep.net/literature/2848478){: target="_blank"}|Submitted|508|
+|EM|Measurement of \\(\omega\\) meson production in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2411.09432](http://arxiv.org/abs/2411.09432v1){: target="_blank"}|[2848263](https://inspirehep.net/literature/2848263){: target="_blank"}|Submitted|507|
+|CF|System size and energy dependence of the mean transverse momentum fluctuations at the LHC|pp,PbPb,XeXe|[2411.09334](http://arxiv.org/abs/2411.09334v1){: target="_blank"}|[2848476](https://inspirehep.net/literature/2848476){: target="_blank"}|Submitted|506|
+|CF|Observation of partonic flow in proton-proton and proton-nucleus collisions|pp,pPb|[2411.09323](http://arxiv.org/abs/2411.09323v1){: target="_blank"}|[2848254](https://inspirehep.net/literature/2848254){: target="_blank"}|Submitted|505|
 |JE|Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2411.03106](http://arxiv.org/abs/2411.03106v1){: target="_blank"}|[2845788](https://inspirehep.net/literature/2845788){: target="_blank"}|Submitted|504|
 |UD|Multimuons in cosmic-ray events as seen in ALICE at the LHC|c.r.|[2410.17771](http://arxiv.org/abs/2410.17771v1){: target="_blank"}|[2842099](https://inspirehep.net/literature/2842099){: target="_blank"}|Submitted|503|
 |LF|First measurement of A = 4 (anti)hypernuclei at the LHC|PbPb|[2410.17769](http://arxiv.org/abs/2410.17769v1){: target="_blank"}|[2842103](https://inspirehep.net/literature/2842103){: target="_blank"}|Submitted|502|

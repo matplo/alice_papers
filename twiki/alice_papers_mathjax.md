@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Studying charm hadronisation into baryons with azimuthal correlations of \\(\Lambda_\{\rm c\}^\{+\}\\) with charged particles in pp collisions at \\(\mathbf\{\sqrt\{s\} = 13\}\\) TeV|pp|[2411.10104](http://arxiv.org/abs/2411.10104v1){: target="_blank"}|[2849184](https://inspirehep.net/literature/2849184){: target="_blank"}|Submitted|509|
 |EM|Light neutral-meson production in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2411.09560](http://arxiv.org/abs/2411.09560v1){: target="_blank"}|[2848478](https://inspirehep.net/literature/2848478){: target="_blank"}|Submitted|508|
 |EM|Measurement of \\(\omega\\) meson production in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2411.09432](http://arxiv.org/abs/2411.09432v1){: target="_blank"}|[2848263](https://inspirehep.net/literature/2848263){: target="_blank"}|Submitted|507|
 |CF|System size and energy dependence of the mean transverse momentum fluctuations at the LHC|pp,PbPb,XeXe|[2411.09334](http://arxiv.org/abs/2411.09334v1){: target="_blank"}|[2848476](https://inspirehep.net/literature/2848476){: target="_blank"}|Submitted|506|

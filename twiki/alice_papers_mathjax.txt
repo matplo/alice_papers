@@ -1,4 +1,4 @@
-   * Generated on 2024-Nov-22 09:01 CET  .
+   * Generated on 2024-Nov-22 17:02 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Studying charm hadronisation into baryons with azimuthal correlations of \(\Lambda_{\rm c}^{+}\) with charged particles in pp collisions at \(\mathbf{\sqrt{s} = 13}\) !TeV|pp|[[http://arxiv.org/abs/2411.10104v1][2411.10104]]|[[https://inspirehep.net/literature/2849184][2849184]]|%RED%Submitted%ENDCOLOR%|509|

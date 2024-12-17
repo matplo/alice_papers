@@ -1,4 +1,4 @@
-   * Generated on 2024-Dec-17 00:58 CET  .
+   * Generated on 2024-Dec-17 08:58 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |EM|Direct-photon production in inelastic and high-multiplicity proton-proton collisions at $\sqrt{s} =$ 13 !TeV|pp|[[http://arxiv.org/abs/2411.14366v1][2411.14366]]|[[https://inspirehep.net/literature/2850920][2850920]]|%RED%Submitted%ENDCOLOR%|510|

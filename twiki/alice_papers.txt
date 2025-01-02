@@ -1,4 +1,4 @@
-   * Generated on 2025-Jan-02 08:36 CET  .
+   * Generated on 2025-Jan-02 13:14 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|First measurement of symmetric cumulants of hexagonal flow harmonics in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2412.15873v1][2412.15873]]|[[-][0]]|%RED%Submitted%ENDCOLOR%|511|

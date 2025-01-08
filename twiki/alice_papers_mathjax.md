@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|CF|First measurement of symmetric cumulants of hexagonal flow harmonics in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2412.15873](http://arxiv.org/abs/2412.15873v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|511|
+|CF|First measurement of symmetric cumulants of hexagonal flow harmonics in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2412.15873](http://arxiv.org/abs/2412.15873v1){: target="_blank"}|[2865181](https://inspirehep.net/literature/2865181){: target="_blank"}|Submitted|511|
 |EM|Direct-photon production in inelastic and high-multiplicity proton-proton collisions at \\(\sqrt\{s\} =\\) 13 TeV|pp|[2411.14366](http://arxiv.org/abs/2411.14366v1){: target="_blank"}|[2850920](https://inspirehep.net/literature/2850920){: target="_blank"}|Submitted|510|
 |HF|Studying charm hadronisation into baryons with azimuthal correlations of \\(\Lambda_\{\rm c\}^\{+\}\\) with charged particles in pp collisions at \\(\mathbf\{\sqrt\{s\} = 13\}\\) TeV|pp|[2411.10104](http://arxiv.org/abs/2411.10104v1){: target="_blank"}|[2849184](https://inspirehep.net/literature/2849184){: target="_blank"}|Submitted|509|
 |EM|Light neutral-meson production in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2411.09560](http://arxiv.org/abs/2411.09560v1){: target="_blank"}|[2848478](https://inspirehep.net/literature/2848478){: target="_blank"}|Submitted|508|

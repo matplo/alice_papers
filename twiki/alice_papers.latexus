@@ -259,8 +259,8 @@ doi:10.1016/j.physletb.2024.139191
 \bibitem{ALICE:2024iqc}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Investigating $\Lambda$ baryon production in p-Pb collisions in jets and the underlying event using angular correlations,''
-Phys. Rev. C \textbf{111}, 015201 (2025)
+%``Investigating \ensuremath{\Lambda} baryon production in p-Pb collisions in jets and the underlying event using angular correlations,''
+Phys. Rev. C \textbf{111}, no.1, 015201 (2025)
 doi:10.1103/PhysRevC.111.015201
 [arXiv:2405.19855 [nucl-ex]].
 %1 citations counted in INSPIRE as of 16 Jan 2025
@@ -4765,7 +4765,7 @@ doi:10.1007/JHEP03(2014)013
 Phys. Lett. B \textbf{734}, 314-327 (2014)
 doi:10.1016/j.physletb.2014.05.064
 [arXiv:1311.0214 [nucl-ex]].
-%330 citations counted in INSPIRE as of 16 Jan 2025
+%331 citations counted in INSPIRE as of 16 Jan 2025
 
 \cite{ALICE:2013uhj}
 

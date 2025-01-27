@@ -1,4 +1,4 @@
-   * Generated on 2025-Jan-27 00:59 CET  .
+   * Generated on 2025-Jan-27 08:59 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|First measurement of symmetric cumulants of hexagonal flow harmonics in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2412.15873v1][2412.15873]]|[[https://inspirehep.net/literature/2865181][2865181]]|%RED%Submitted%ENDCOLOR%|511|
@@ -24,7 +24,7 @@
 |DQ|J/\(\psi\)-hadron correlations at midrapidity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2409.04364v1][2409.04364]]|[[https://inspirehep.net/literature/2825965][2825965]]|%RED%Submitted%ENDCOLOR%|491|
 |CF|Exploring nuclear structure with multiparticle azimuthal correlations at the LHC|%RED%PbPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2409.04343v1][2409.04343]]|[[https://inspirehep.net/literature/2825785][2825785]]|%RED%Submitted%ENDCOLOR%|490|
 |CF|Higher-order symmetry plane correlations in Pb\(-\)Pb collisions at \(\sqrt{s_{\mathrm{NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.04238v1][2409.04238]]|[[https://inspirehep.net/literature/2825788][2825788]]|%RED%Submitted%ENDCOLOR%|489|
-|MM|Particle production as a function of charged-particle flattenicity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2407.20037v1][2407.20037]]|[[https://inspirehep.net/literature/2811647][2811647]]|%RED%Submitted%ENDCOLOR%|488|
+|MM|Particle production as a function of charged-particle flattenicity in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2407.20037v1][2407.20037]]|[[https://inspirehep.net/literature/2811647][2811647]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.111.012010][Phys. Rev. D 111]]%ENDCOLOR%|488|
 |HF|Measurement of beauty production via non-prompt charm hadrons in p-Pb collisions at \(\sqrt{s_{\mathrm{NN}}} = 5.02\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2407.10593v2][2407.10593]]|[[https://inspirehep.net/literature/2808020][2808020]]|%GREEN%[[https://doi.org/10.1007/JHEP11(2024)148][JHEP 11]]%ENDCOLOR%|487|
 |LF|Rapidity dependence of antideuteron coalescence in pp collisions at \(\sqrt{s}\) = 13 !TeV with ALICE|pp|[[http://arxiv.org/abs/2407.10527v2][2407.10527]]|[[https://inspirehep.net/literature/2807680][2807680]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2024.139191][Phys. Lett. B 860]]%ENDCOLOR%|486|
 |JE|Measurement of the inclusive isolated-photon production cross section in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2407.01165v1][2407.01165]]|[[https://inspirehep.net/literature/2803487][2803487]]|%RED%Submitted%ENDCOLOR%|485|

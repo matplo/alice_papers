@@ -10,6 +10,9 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Charged-particle multiplicity distributions over a wide pseudorapidity range in p-Pb collisions at \\(\mathbf\{\sqrt\{s\}_\{\rm NN\} = 5.02\}\\) TeV|pPb|[2502.18081](http://arxiv.org/abs/2502.18081v1){: target="_blank"}|[2895567](https://inspirehep.net/literature/2895567){: target="_blank"}|Submitted|514|
+|LF|Observation of the \\(Ω\\)(2012) baryon at the LHC|pp|[2502.18063](http://arxiv.org/abs/2502.18063v1){: target="_blank"}|[2895566](https://inspirehep.net/literature/2895566){: target="_blank"}|Submitted|513|
+|JE|Measurement of isolated prompt photon production in pp and p-Pb collisions at the LHC|pp,pPb|[2502.18054](http://arxiv.org/abs/2502.18054v1){: target="_blank"}|[2895564](https://inspirehep.net/literature/2895564){: target="_blank"}|Submitted|512|
 |CF|First measurement of symmetric cumulants of hexagonal flow harmonics in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV|PbPb|[2412.15873](http://arxiv.org/abs/2412.15873v1){: target="_blank"}|[2865181](https://inspirehep.net/literature/2865181){: target="_blank"}|Submitted|511|
 |EM|Direct-photon production in inelastic and high-multiplicity proton-proton collisions at \\(\sqrt\{s\} =\\) 13 TeV|pp|[2411.14366](http://arxiv.org/abs/2411.14366v1){: target="_blank"}|[2850920](https://inspirehep.net/literature/2850920){: target="_blank"}|Submitted|510|
 |HF|Studying charm hadronisation into baryons with azimuthal correlations of \\(\Lambda_\{\rm c\}^\{+\}\\) with charged particles in pp collisions at \\(\mathbf\{\sqrt\{s\} = 13\}\\) TeV|pp|[2411.10104](http://arxiv.org/abs/2411.10104v1){: target="_blank"}|[2849184](https://inspirehep.net/literature/2849184){: target="_blank"}|Submitted|509|

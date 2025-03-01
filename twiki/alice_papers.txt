@@ -1,6 +1,8 @@
-   * Generated on 2025-Mar-01 01:03 CET  .
+   * Generated on 2025-Mar-01 09:01 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|CF|Investigating the p-$π^{\pm}$ and p-p-$π^{\pm}$ dynamics with femtoscopy in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2502.20200v1][2502.20200]]|[[https://inspirehep.net/literature/2895576][2895576]]|%RED%Submitted%ENDCOLOR%|516|
+|EM|Measurement of $ω$ meson production in pp and p-Pb collisions at $\mathbf{\sqrt{s_{\rm NN}} = 5.02}$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2502.19956v1][2502.19956]]|[[https://inspirehep.net/literature/2895572][2895572]]|%RED%Submitted%ENDCOLOR%|515|
 |LF|Charged-particle multiplicity distributions over a wide pseudorapidity range in p-Pb collisions at $\mathbf{\sqrt{s}_{\rm NN} = 5.02}$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2502.18081v1][2502.18081]]|[[https://inspirehep.net/literature/2895567][2895567]]|%RED%Submitted%ENDCOLOR%|514|
 |LF|Observation of the $Ω$(2012) baryon at the LHC|pp|[[http://arxiv.org/abs/2502.18063v1][2502.18063]]|[[https://inspirehep.net/literature/2895566][2895566]]|%RED%Submitted%ENDCOLOR%|513|
 |JE|Measurement of isolated prompt photon production in pp and p-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2502.18054v1][2502.18054]]|[[https://inspirehep.net/literature/2895564][2895564]]|%RED%Submitted%ENDCOLOR%|512|

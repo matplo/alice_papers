@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Investigating the p-\\(\pi^\{\pm\}\\) and p-p-\\(\pi^\{\pm\}\\) dynamics with femtoscopy in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2502.20200](http://arxiv.org/abs/2502.20200v1){: target="_blank"}|[2895576](https://inspirehep.net/literature/2895576){: target="_blank"}|Submitted|516|
+|EM|Measurement of \\(\omega\\) meson production in pp and p-Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\} = 5.02\}\\) TeV|pp,pPb|[2502.19956](http://arxiv.org/abs/2502.19956v1){: target="_blank"}|[2895572](https://inspirehep.net/literature/2895572){: target="_blank"}|Submitted|515|
 |LF|Charged-particle multiplicity distributions over a wide pseudorapidity range in p-Pb collisions at \\(\mathbf\{\sqrt\{s\}_\{\rm NN\} = 5.02\}\\) TeV|pPb|[2502.18081](http://arxiv.org/abs/2502.18081v1){: target="_blank"}|[2895567](https://inspirehep.net/literature/2895567){: target="_blank"}|Submitted|514|
 |LF|Observation of the \\(Ω\\)(2012) baryon at the LHC|pp|[2502.18063](http://arxiv.org/abs/2502.18063v1){: target="_blank"}|[2895566](https://inspirehep.net/literature/2895566){: target="_blank"}|Submitted|513|
 |JE|Measurement of isolated prompt photon production in pp and p-Pb collisions at the LHC|pp,pPb|[2502.18054](http://arxiv.org/abs/2502.18054v1){: target="_blank"}|[2895564](https://inspirehep.net/literature/2895564){: target="_blank"}|Submitted|512|

@@ -1,4 +1,4 @@
-   * Generated on 2025-Mar-05 17:01 CET  .
+   * Generated on 2025-Mar-06 01:17 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Investigating the p-$π^{\pm}$ and p-p-$π^{\pm}$ dynamics with femtoscopy in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2502.20200v1][2502.20200]]|[[https://inspirehep.net/literature/2895576][2895576]]|%RED%Submitted%ENDCOLOR%|516|
@@ -170,7 +170,7 @@
 |LF|Production of light (anti)nuclei in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2109.13026v2][2109.13026]]|[[https://inspirehep.net/literature/1928822][1928822]]|%GREEN%[[https://doi.org/10.1007/JHEP01(2022)106][JHEP 01]]%ENDCOLOR%|350|
 |DQ|Prompt and non-prompt J/$ψ$ production cross sections at midrapidity in proton-proton collisions at $\sqrt{s}$ = 5.02 and 13 !TeV|pp|[[http://arxiv.org/abs/2108.02523v2][2108.02523]]|[[https://inspirehep.net/literature/1899703][1899703]]|%GREEN%[[https://doi.org/10.1007/JHEP03(2022)190][JHEP 03]]%ENDCOLOR%|349|
 |DQ|Inclusive J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s}~=~13$ !TeV|pp|[[http://arxiv.org/abs/2108.01906v2][2108.01906]]|[[https://inspirehep.net/literature/1898832][1898832]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-021-09873-4][Eur. Phys. J. C 81]]%ENDCOLOR%|348|
-|JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.12984v2][2107.12984]]|[[https://inspirehep.net/literature/1893479][1893479]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.128.102001][Phys. Rev. Lett. 128]]%ENDCOLOR%|347|
+|JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.12984v2][2107.12984]]|[[-][0]]|%RED%Submitted%ENDCOLOR%|347|
 |JE|Measurements of the groomed and ungroomed jet angularities in pp collisions at $\sqrt{s} = 5.02$ !TeV|pp|[[http://arxiv.org/abs/2107.11303v2][2107.11303]]|[[https://inspirehep.net/literature/1891385][1891385]]|%GREEN%[[https://doi.org/10.1007/JHEP05(2022)061][JHEP 05]]%ENDCOLOR%|346|
 |CF|K$^{0}_{\rm S}$- and (anti-)$Λ$-hadron correlations in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2107.11209v2][2107.11209]]|[[https://inspirehep.net/literature/1891391][1891391]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-021-09678-5][Eur. Phys. J. C 81]]%ENDCOLOR%|345|
 |CF|Polarization of $Λ$ and $\overlineΛ$ hyperons along the beam direction in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.11183v2][2107.11183]]|[[https://inspirehep.net/literature/1891389][1891389]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.128.172005][Phys. Rev. Lett. 128]]%ENDCOLOR%|344|

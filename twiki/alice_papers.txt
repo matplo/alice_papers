@@ -1,4 +1,4 @@
-   * Generated on 2025-Mar-10 09:00 CET  .
+   * Generated on 2025-Mar-10 17:00 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Investigating the p-$π^{\pm}$ and p-p-$π^{\pm}$ dynamics with femtoscopy in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2502.20200v1][2502.20200]]|[[https://inspirehep.net/literature/2895576][2895576]]|%RED%Submitted%ENDCOLOR%|516|
@@ -17,7 +17,7 @@
 |UD|Multimuons in cosmic-ray events as seen in ALICE at the LHC|c.r.|[[http://arxiv.org/abs/2410.17771v1][2410.17771]]|[[https://inspirehep.net/literature/2842099][2842099]]|%RED%Submitted%ENDCOLOR%|503|
 |LF|First measurement of A = 4 (anti)hypernuclei at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2410.17769v1][2410.17769]]|[[https://inspirehep.net/literature/2842103][2842103]]|%RED%Submitted%ENDCOLOR%|502|
 |JE|Search for quasi-particle scattering in the quark-gluon plasma with jet splittings in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.12837v1][2409.12837]]|[[https://inspirehep.net/literature/2831271][2831271]]|%RED%Submitted%ENDCOLOR%|501|
-|LF|First observation of strange baryon enhancement with effective energy in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2409.12702v1][2409.12702]]|[[https://inspirehep.net/literature/2830416][2830416]]|%RED%Submitted%ENDCOLOR%|500|
+|LF|First observation of strange baryon enhancement with effective energy in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2409.12702v1][2409.12702]]|[[https://inspirehep.net/literature/2830416][2830416]]|%GREEN%[[https://doi.org/10.1007/JHEP03(2025)029][JHEP 03]]%ENDCOLOR%|500|
 |JE|Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at $\sqrt{\textit s}=5.02$ !TeV|pp|[[http://arxiv.org/abs/2409.12687v2][2409.12687]]|[[https://inspirehep.net/literature/2830401][2830401]]|%RED%Submitted%ENDCOLOR%|499|
 |JE|Measurement of the inclusive isolated-photon production cross section in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.12641v1][2409.12641]]|[[https://inspirehep.net/literature/2831272][2831272]]|%RED%Submitted%ENDCOLOR%|498|
 |EM|Addendum: Dielectron production in proton-proton and proton-lead collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.12025v1][2409.12025]]|[[https://inspirehep.net/literature/1797621][1797621]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.102.055204][Phys. Rev. C 102]]%ENDCOLOR%|497|

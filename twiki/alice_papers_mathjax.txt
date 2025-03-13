@@ -1,4 +1,4 @@
-   * Generated on 2025-Mar-13 09:07 CET  .
+   * Generated on 2025-Mar-13 17:01 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Investigating the p-\(\pi^{\pm}\) and p-p-\(\pi^{\pm}\) dynamics with femtoscopy in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2502.20200v1][2502.20200]]|[[https://inspirehep.net/literature/2895576][2895576]]|%RED%Submitted%ENDCOLOR%|516|
@@ -48,7 +48,7 @@
 |HF|Measurement of beauty-quark production in pp collisions at \(\sqrt{s}=13\) !TeV via non-prompt D mesons|pp|[[http://arxiv.org/abs/2402.16417v2][2402.16417]]|[[https://inspirehep.net/literature/2762380][2762380]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2024)110][JHEP 10]]%ENDCOLOR%|472|
 |CF|Studying the interaction between charm and light-flavor mesons|pp|[[http://arxiv.org/abs/2401.13541v3][2401.13541]]|[[https://inspirehep.net/literature/2750983][2750983]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.110.032004][Phys. Rev. D 110]]%ENDCOLOR%|471|
 |CF|Investigating the composition of the K\(^*_0(700)\) state with \(\pi^\pm\)K\(^0_{\rm S}\) correlations at the LHC|pp|[[http://arxiv.org/abs/2312.12830v3][2312.12830]]|[[https://inspirehep.net/literature/2739149][2739149]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2024.138915][Phys. Lett. B 856]]%ENDCOLOR%|470|
-|CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%RED%Submitted%ENDCOLOR%|469|
+|CF|Common femtoscopic hadron-emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2311.14527v1][2311.14527]]|[[https://inspirehep.net/literature/2725934][2725934]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-025-13793-y][Eur. Phys. J. C 85]]%ENDCOLOR%|469|
 |CF|Emergence of long-range angular correlations in low-multiplicity proton-proton collisions|pp|[[http://arxiv.org/abs/2311.14357v2][2311.14357]]|[[https://inspirehep.net/literature/2725922][2725922]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.132.172302][Phys. Rev. Lett. 132]]%ENDCOLOR%|468|
 |LF|Measurements of chemical potentials in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2311.13332v3][2311.13332]]|[[https://inspirehep.net/literature/2725426][2725426]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.133.092301][Phys. Rev. Lett. 133]]%ENDCOLOR%|467|
 |JE|Multiplicity dependence of charged-particle intra-jet properties in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2311.13322v2][2311.13322]]|[[https://inspirehep.net/literature/2725603][2725603]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-024-13228-0][Eur. Phys. J. C 84]]%ENDCOLOR%|466|

@@ -1,4 +1,4 @@
-   * Generated on 2025-Mar-18 16:59 CET  .
+   * Generated on 2025-Mar-19 00:58 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Investigating the p-\(\pi^{\pm}\) and p-p-\(\pi^{\pm}\) dynamics with femtoscopy in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2502.20200v1][2502.20200]]|[[https://inspirehep.net/literature/2895576][2895576]]|%RED%Submitted%ENDCOLOR%|516|

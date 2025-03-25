@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Measurement of correlations among net-charge, net-proton, and net-kaon multiplicity distributions in Pb-Pb collisions at \\(\sqrt\{s_\text\{NN\}\}=5.02\\) TeV|PbPb|[2503.18743](http://arxiv.org/abs/2503.18743v1){: target="_blank"}|[2903549](https://inspirehep.net/literature/2903549){: target="_blank"}|Submitted|518|
+|UD|Evidence for J/\\(\psi\\) suppression in incoherent photonuclear production|PbPb|[2503.18708](http://arxiv.org/abs/2503.18708v1){: target="_blank"}|[2903550](https://inspirehep.net/literature/2903550){: target="_blank"}|Submitted|517|
 |CF|Investigating the p-\\(\pi^\{\pm\}\\) and p-p-\\(\pi^\{\pm\}\\) dynamics with femtoscopy in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2502.20200](http://arxiv.org/abs/2502.20200v1){: target="_blank"}|[2895576](https://inspirehep.net/literature/2895576){: target="_blank"}|Submitted|516|
 |EM|Measurement of \\(\omega\\) meson production in pp and p-Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\} = 5.02\}\\) TeV|pp,pPb|[2502.19956](http://arxiv.org/abs/2502.19956v1){: target="_blank"}|[2895572](https://inspirehep.net/literature/2895572){: target="_blank"}|Submitted|515|
 |LF|Charged-particle multiplicity distributions over a wide pseudorapidity range in p-Pb collisions at \\(\mathbf\{\sqrt\{s\}_\{\rm NN\} = 5.02\}\\) TeV|pPb|[2502.18081](http://arxiv.org/abs/2502.18081v1){: target="_blank"}|[2895567](https://inspirehep.net/literature/2895567){: target="_blank"}|Submitted|514|

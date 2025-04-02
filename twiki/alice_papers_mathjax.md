@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|First measurement of D\\(^\{*+\}\\) vector spin alignment in Pb-Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\} = 5.02\}\\) TeV|PbPb|[2504.00714](http://arxiv.org/abs/2504.00714v1){: target="_blank"}|[2906994](https://inspirehep.net/literature/2906994){: target="_blank"}|Submitted|520|
+|DQ|Multiplicity-dependent inclusive J/\\(\psi\\) production at forward rapidity in pp collisions at \\(\mathbf\{\sqrt\{s\} = 13\}\\) TeV|pp|[2504.00686](http://arxiv.org/abs/2504.00686v1){: target="_blank"}|[2906995](https://inspirehep.net/literature/2906995){: target="_blank"}|Submitted|519|
 |CF|Measurement of correlations among net-charge, net-proton, and net-kaon multiplicity distributions in Pb-Pb collisions at \\(\sqrt\{s_\text\{NN\}\}=5.02\\) TeV|PbPb|[2503.18743](http://arxiv.org/abs/2503.18743v1){: target="_blank"}|[2903549](https://inspirehep.net/literature/2903549){: target="_blank"}|Submitted|518|
 |UD|Evidence for J/\\(\psi\\) suppression in incoherent photonuclear production|PbPb|[2503.18708](http://arxiv.org/abs/2503.18708v1){: target="_blank"}|[2903550](https://inspirehep.net/literature/2903550){: target="_blank"}|Submitted|517|
 |CF|Investigating the p-\\(\pi^\{\pm\}\\) and p-p-\\(\pi^\{\pm\}\\) dynamics with femtoscopy in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2502.20200](http://arxiv.org/abs/2502.20200v1){: target="_blank"}|[2895576](https://inspirehep.net/literature/2895576){: target="_blank"}|Submitted|516|

@@ -1,4 +1,4 @@
-   * Generated on 2025-Apr-02 00:58 CEST  .
+   * Generated on 2025-Apr-02 08:59 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Measurement of correlations among net-charge, net-proton, and net-kaon multiplicity distributions in Pb-Pb collisions at \(\sqrt{s_\text{NN}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2503.18743v1][2503.18743]]|[[https://inspirehep.net/literature/2903549][2903549]]|%RED%Submitted%ENDCOLOR%|518|

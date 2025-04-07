@@ -1,4 +1,4 @@
-   * Generated on 2025-Apr-07 01:04 CEST  .
+   * Generated on 2025-Apr-07 09:02 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|D\(^{0}\)-meson-tagged jet axes difference in proton-proton collisions at \(\mathbf{\sqrt{\textit{s}} = 5.02}\) !TeV|pp|[[http://arxiv.org/abs/2504.02571v1][2504.02571]]|[[https://inspirehep.net/literature/2907593][2907593]]|%RED%Submitted%ENDCOLOR%|525|
@@ -22,8 +22,8 @@
 |EM|Measurement of \(\omega\) meson production in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2411.09432v1][2411.09432]]|[[https://inspirehep.net/literature/2848263][2848263]]|%RED%Submitted%ENDCOLOR%|507|
 |CF|System size and energy dependence of the mean transverse momentum fluctuations at the LHC|pp,%RED%PbPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2411.09334v1][2411.09334]]|[[https://inspirehep.net/literature/2848476][2848476]]|%RED%Submitted%ENDCOLOR%|506|
 |CF|Observation of partonic flow in proton-proton and proton-nucleus collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2411.09323v1][2411.09323]]|[[https://inspirehep.net/literature/2848254][2848254]]|%RED%Submitted%ENDCOLOR%|505|
-|JE|Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2411.03106v1][2411.03106]]|[[https://inspirehep.net/literature/2845788][2845788]]|%RED%Submitted%ENDCOLOR%|504|
-|UD|Multimuons in cosmic-ray events as seen in ALICE at the LHC|c.r.|[[http://arxiv.org/abs/2410.17771v1][2410.17771]]|[[https://inspirehep.net/literature/2842099][2842099]]|%RED%Submitted%ENDCOLOR%|503|
+|JE|Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2411.03106v1][2411.03106]]|[[https://inspirehep.net/literature/2845788][2845788]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139409][Phys. Lett. B 864]]%ENDCOLOR%|504|
+|UD|Multimuons in cosmic-ray events as seen in ALICE at the LHC|c.r.|[[http://arxiv.org/abs/2410.17771v1][2410.17771]]|[[https://inspirehep.net/literature/2842099][2842099]]|%GREEN%[[https://doi.org/10.1088/1475-7516/2025/04/009][JCAP 04]]%ENDCOLOR%|503|
 |LF|First measurement of A = 4 (anti)hypernuclei at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2410.17769v1][2410.17769]]|[[https://inspirehep.net/literature/2842103][2842103]]|%RED%Submitted%ENDCOLOR%|502|
 |JE|Search for quasi-particle scattering in the quark-gluon plasma with jet splittings in pp and Pb\(-\)Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.12837v1][2409.12837]]|[[https://inspirehep.net/literature/2831271][2831271]]|%RED%Submitted%ENDCOLOR%|501|
 |LF|First observation of strange baryon enhancement with effective energy in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2409.12702v1][2409.12702]]|[[https://inspirehep.net/literature/2830416][2830416]]|%GREEN%[[https://doi.org/10.1007/JHEP03(2025)029][JHEP 03]]%ENDCOLOR%|500|

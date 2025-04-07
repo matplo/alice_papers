@@ -1,6 +1,7 @@
-   * Generated on 2025-Apr-07 09:02 CEST  .
+   * Generated on 2025-Apr-07 16:01 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Energy-energy correlators in charm-tagged jets in proton-proton collisions at $\mathbf{\sqrt{s} = 13}$ !TeV|pp|[[http://arxiv.org/abs/2504.03431v1][2504.03431]]|[[https://inspirehep.net/literature/2907937][2907937]]|%RED%Submitted%ENDCOLOR%|526|
 |HF|D$^{0}$-meson-tagged jet axes difference in proton-proton collisions at $\mathbf{\sqrt{\textit{s}} = 5.02}$ !TeV|pp|[[http://arxiv.org/abs/2504.02571v1][2504.02571]]|[[https://inspirehep.net/literature/2907593][2907593]]|%RED%Submitted%ENDCOLOR%|525|
 |LF|Centrality dependence of charged-particle pseudorapidity density at midrapidity in Pb-Pb collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.36}$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.02505v1][2504.02505]]|[[https://inspirehep.net/literature/2907584][2907584]]|%RED%Submitted%ENDCOLOR%|524|
 |CF|Revealing the microscopic mechanism of deuteron formation at the LHC|pp|[[http://arxiv.org/abs/2504.02393v1][2504.02393]]|[[https://inspirehep.net/literature/2907586][2907586]]|%RED%Submitted%ENDCOLOR%|523|

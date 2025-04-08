@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Long-range transverse momentum correlations and radial flow in Pb\\(-\\)Pb collisions at the LHC|PbPb|[2504.04796](http://arxiv.org/abs/2504.04796v1){: target="_blank"}|[2908602](https://inspirehep.net/literature/2908602){: target="_blank"}|Submitted|527|
 |HF|Energy-energy correlators in charm-tagged jets in proton-proton collisions at \\(\mathbf\{\sqrt\{s\} = 13\}\\) TeV|pp|[2504.03431](http://arxiv.org/abs/2504.03431v1){: target="_blank"}|[2907937](https://inspirehep.net/literature/2907937){: target="_blank"}|Submitted|526|
 |HF|D\\(^\{0\}\\)-meson-tagged jet axes difference in proton-proton collisions at \\(\mathbf\{\sqrt\{\textit\{s\}\} = 5.02\}\\) TeV|pp|[2504.02571](http://arxiv.org/abs/2504.02571v1){: target="_blank"}|[2907593](https://inspirehep.net/literature/2907593){: target="_blank"}|Submitted|525|
 |LF|Centrality dependence of charged-particle pseudorapidity density at midrapidity in Pb-Pb collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{\rm NN\}\} = 5.36\}\\) TeV|PbPb|[2504.02505](http://arxiv.org/abs/2504.02505v1){: target="_blank"}|[2907584](https://inspirehep.net/literature/2907584){: target="_blank"}|Submitted|524|

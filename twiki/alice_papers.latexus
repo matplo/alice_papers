@@ -183,7 +183,9 @@
 \bibitem{ALICE:2024vxa}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of $\omega$ meson production in pp collisions at $\sqrt{s}$ = 13 TeV,''
+%``Measurement of \ensuremath{\omega} meson production in pp collisions at $ \sqrt{s} $ = 13 TeV,''
+JHEP \textbf{04}, 067 (2025)
+doi:10.1007/JHEP04(2025)067
 [arXiv:2411.09432 [hep-ex]].
 %2 citations counted in INSPIRE as of 17 Apr 2025
 
@@ -2827,7 +2829,7 @@ doi:10.1016/j.physletb.2020.135377
 Phys. Rev. C \textbf{101}, no.4, 044907 (2020)
 doi:10.1103/PhysRevC.101.044907
 [arXiv:1910.07678 [nucl-ex]].
-%316 citations counted in INSPIRE as of 17 Apr 2025
+%317 citations counted in INSPIRE as of 17 Apr 2025
 
 \cite{ALICE:2019qyj}
 
@@ -3532,7 +3534,7 @@ doi:10.1103/PhysRevC.99.024912
 Phys. Rev. C \textbf{98}, no.4, 044901 (2018)
 doi:10.1103/PhysRevC.98.044901
 [arXiv:1803.05490 [nucl-ex]].
-%44 citations counted in INSPIRE as of 17 Apr 2025
+%45 citations counted in INSPIRE as of 17 Apr 2025
 
 \cite{ALICE:2018vuu}
 
@@ -3543,7 +3545,7 @@ doi:10.1103/PhysRevC.98.044901
 JHEP \textbf{11}, 013 (2018)
 doi:10.1007/JHEP11(2018)013
 [arXiv:1802.09145 [nucl-ex]].
-%298 citations counted in INSPIRE as of 17 Apr 2025
+%299 citations counted in INSPIRE as of 17 Apr 2025
 
 \cite{ALICE:2018szk}
 
@@ -3697,7 +3699,7 @@ doi:10.1016/j.physletb.2017.12.021
 Nucl. Instrum. Meth. A \textbf{881}, 88-127 (2018)
 doi:10.1016/j.nima.2017.09.028
 [arXiv:1709.02743 [physics.ins-det]].
-%77 citations counted in INSPIRE as of 17 Apr 2025
+%78 citations counted in INSPIRE as of 17 Apr 2025
 
 \cite{ALICE:2017iga}
 
@@ -4511,7 +4513,7 @@ doi:10.1016/j.physletb.2015.11.048
 Phys. Rev. C \textbf{93}, no.3, 034913 (2016)
 doi:10.1103/PhysRevC.93.034913
 [arXiv:1506.07287 [nucl-ex]].
-%184 citations counted in INSPIRE as of 17 Apr 2025
+%185 citations counted in INSPIRE as of 17 Apr 2025
 
 \cite{ALICE:2015ccw}
 
@@ -4808,7 +4810,7 @@ doi:10.1007/JHEP12(2014)073
 Eur. Phys. J. C \textbf{74}, no.10, 3108 (2014)
 doi:10.1140/epjc/s10052-014-3108-8
 [arXiv:1405.3794 [nucl-ex]].
-%112 citations counted in INSPIRE as of 17 Apr 2025
+%113 citations counted in INSPIRE as of 17 Apr 2025
 
 \cite{ALICE:2014xjz}
 
@@ -4907,7 +4909,7 @@ doi:10.1142/S0217751X14300440
 Phys. Lett. B \textbf{736}, 196-207 (2014)
 doi:10.1016/j.physletb.2014.07.011
 [arXiv:1401.1250 [nucl-ex]].
-%321 citations counted in INSPIRE as of 17 Apr 2025
+%322 citations counted in INSPIRE as of 17 Apr 2025
 
 \cite{ALICE:2013dpt}
 

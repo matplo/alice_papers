@@ -1,4 +1,4 @@
-   * Generated on 2025-Apr-17 08:59 CEST  .
+   * Generated on 2025-Apr-17 17:01 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Long-range transverse momentum correlations and radial flow in Pb$-$Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.04796v1][2504.04796]]|[[https://inspirehep.net/literature/2908602][2908602]]|%RED%Submitted%ENDCOLOR%|527|
@@ -21,7 +21,7 @@
 |EM|Direct-photon production in inelastic and high-multiplicity proton-proton collisions at $\sqrt{s} =$ 13 !TeV|pp|[[http://arxiv.org/abs/2411.14366v1][2411.14366]]|[[https://inspirehep.net/literature/2850920][2850920]]|%RED%Submitted%ENDCOLOR%|510|
 |HF|Studying charm hadronisation into baryons with azimuthal correlations of $Λ_{\rm c}^{+}$ with charged particles in pp collisions at $\mathbf{\sqrt{s} = 13}$ !TeV|pp|[[http://arxiv.org/abs/2411.10104v1][2411.10104]]|[[https://inspirehep.net/literature/2849184][2849184]]|%RED%Submitted%ENDCOLOR%|509|
 |EM|Light neutral-meson production in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2411.09560v1][2411.09560]]|[[https://inspirehep.net/literature/2848478][2848478]]|%RED%Submitted%ENDCOLOR%|508|
-|EM|Measurement of $ω$ meson production in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2411.09432v1][2411.09432]]|[[https://inspirehep.net/literature/2848263][2848263]]|%RED%Submitted%ENDCOLOR%|507|
+|EM|Measurement of $ω$ meson production in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2411.09432v1][2411.09432]]|[[https://inspirehep.net/literature/2848263][2848263]]|%GREEN%[[https://doi.org/10.1007/JHEP04(2025)067][JHEP 04]]%ENDCOLOR%|507|
 |CF|System size and energy dependence of the mean transverse momentum fluctuations at the LHC|pp,%RED%PbPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2411.09334v1][2411.09334]]|[[https://inspirehep.net/literature/2848476][2848476]]|%RED%Submitted%ENDCOLOR%|506|
 |CF|Observation of partonic flow in proton-proton and proton-nucleus collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2411.09323v1][2411.09323]]|[[https://inspirehep.net/literature/2848254][2848254]]|%RED%Submitted%ENDCOLOR%|505|
 |JE|Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2411.03106v1][2411.03106]]|[[https://inspirehep.net/literature/2845788][2845788]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139409][Phys. Lett. B 864]]%ENDCOLOR%|504|

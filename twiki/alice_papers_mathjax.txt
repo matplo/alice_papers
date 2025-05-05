@@ -1,6 +1,7 @@
-   * Generated on 2025-May-05 09:01 CEST  .
+   * Generated on 2025-May-05 12:38 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|CF|Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2505.01061v1][2505.01061]]|[[https://inspirehep.net/literature/2917986][2917986]]|%RED%Submitted%ENDCOLOR%|528|
 |CF|Long-range transverse momentum correlations and radial flow in Pb\(-\)Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.04796v1][2504.04796]]|[[https://inspirehep.net/literature/2908602][2908602]]|%RED%Submitted%ENDCOLOR%|527|
 |HF|Energy-energy correlators in charm-tagged jets in proton-proton collisions at \(\mathbf{\sqrt{s} = 13}\) !TeV|pp|[[http://arxiv.org/abs/2504.03431v1][2504.03431]]|[[https://inspirehep.net/literature/2907937][2907937]]|%RED%Submitted%ENDCOLOR%|526|
 |HF|D\(^{0}\)-meson-tagged jet axes difference in proton-proton collisions at \(\mathbf{\sqrt{\textit{s}} = 5.02}\) !TeV|pp|[[http://arxiv.org/abs/2504.02571v1][2504.02571]]|[[https://inspirehep.net/literature/2907593][2907593]]|%RED%Submitted%ENDCOLOR%|525|

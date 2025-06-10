@@ -1,4 +1,4 @@
-   * Generated on 2025-Jun-10 01:02 CEST  .
+   * Generated on 2025-Jun-10 09:05 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2505.01061v1][2505.01061]]|[[https://inspirehep.net/literature/2917986][2917986]]|%RED%Submitted%ENDCOLOR%|528|

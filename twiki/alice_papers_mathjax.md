@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LG|Study of \\(\langle p_\{\rm T\} \rangle\\) and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE|PbPb|[2506.10394](http://arxiv.org/abs/2506.10394v1){: target="_blank"}|[2933773](https://inspirehep.net/literature/2933773){: target="_blank"}|Submitted|529|
 |CF|Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC|PbPb|[2505.01061](http://arxiv.org/abs/2505.01061v1){: target="_blank"}|[2917986](https://inspirehep.net/literature/2917986){: target="_blank"}|Submitted|528|
 |CF|Long-range transverse momentum correlations and radial flow in Pb\\(-\\)Pb collisions at the LHC|PbPb|[2504.04796](http://arxiv.org/abs/2504.04796v1){: target="_blank"}|[2908602](https://inspirehep.net/literature/2908602){: target="_blank"}|Submitted|527|
 |HF|Energy-energy correlators in charm-tagged jets in proton-proton collisions at \\(\mathbf\{\sqrt\{s\} = 13\}\\) TeV|pp|[2504.03431](http://arxiv.org/abs/2504.03431v1){: target="_blank"}|[2907937](https://inspirehep.net/literature/2907937){: target="_blank"}|Submitted|526|

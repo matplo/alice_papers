@@ -1,4 +1,4 @@
-   * Generated on 2025-Jun-17 01:09 CEST  .
+   * Generated on 2025-Jun-17 09:09 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |JE|Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2107.12984v2][2107.12984]]|[[https://inspirehep.net/literature/1893479][1893479]]|%GREEN%[[https://doi.org/10.1103/PhysRevLett.128.102001][Phys. Rev. Lett. 128]]%ENDCOLOR%|88|

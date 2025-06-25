@@ -62,7 +62,7 @@ doi:10.1103/PhysRevLett.106.032301
 Phys. Rev. D \textbf{84}, 112004 (2011)
 doi:10.1103/PhysRevD.84.112004
 [arXiv:1101.3665 [hep-ex]].
-%196 citations counted in INSPIRE as of 25 Jun 2025
+%197 citations counted in INSPIRE as of 25 Jun 2025
 
 \cite{ALICE:2011ab}
 
@@ -124,7 +124,7 @@ doi:10.1016/j.physletb.2012.05.011
 \bibitem{ALICE:2012mzy}
 
  B.~Abelev \textit{et al.} [ALICE],
-%``Measurement of electrons from semileptonic heavy-flavour hadron decays in pp collisions at \textbackslash{}sqrt{s} = 7 TeV,''
+%``Measurement of electrons from semileptonic heavy-flavour hadron decays in pp collisions at {\textbackslash}sqrt{s} = 7 TeV,''
 Phys. Rev. D \textbf{86}, 112007 (2012)
 doi:10.1103/PhysRevD.86.112007
 [arXiv:1205.5423 [hep-ex]].
@@ -256,7 +256,7 @@ doi:10.1103/PhysRevC.91.024609
 \bibitem{ALICE:2014xrc}
 
  B.~B.~Abelev \textit{et al.} [ALICE],
-%``Freeze-out radii extracted from three-pion cumulants in pp, p\textendash{}Pb and Pb\textendash{}Pb collisions at the LHC,''
+%``Freeze-out radii extracted from three-pion cumulants in pp, p{\textendash}Pb and Pb{\textendash}Pb collisions at the LHC,''
 Phys. Lett. B \textbf{739}, 139-151 (2014)
 doi:10.1016/j.physletb.2014.10.034
 [arXiv:1404.1194 [nucl-ex]].
@@ -311,7 +311,7 @@ doi:10.1016/j.physletb.2015.04.039
 \bibitem{ALICE:2015ppz}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Measurement of dijet $k_T$ in p\textendash{}Pb collisions at $\sqrt{s}_{NN}$=5.02 TeV,''
+%``Measurement of dijet $k_T$ in p{\textendash}Pb collisions at $\sqrt{s}_{NN}$=5.02 TeV,''
 Phys. Lett. B \textbf{746}, 385-395 (2015)
 doi:10.1016/j.physletb.2015.05.033
 [arXiv:1503.03050 [nucl-ex]].
@@ -322,7 +322,7 @@ doi:10.1016/j.physletb.2015.05.033
 \bibitem{ALICE:2015nbw}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Coherent \ensuremath{\rho}$^{0}$ photoproduction in ultra-peripheral Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
+%``Coherent {\ensuremath{\rho}}$^{0}$ photoproduction in ultra-peripheral Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
 JHEP \textbf{09}, 095 (2015)
 doi:10.1007/JHEP09(2015)095
 [arXiv:1503.09177 [nucl-ex]].
@@ -476,7 +476,7 @@ doi:10.1038/nphys4111
 \bibitem{ALICE:2016gso}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Jet-like correlations with neutral pion triggers in pp and central Pb\textendash{}Pb collisions at 2.76 TeV,''
+%``Jet-like correlations with neutral pion triggers in pp and central Pb{\textendash}Pb collisions at 2.76 TeV,''
 Phys. Lett. B \textbf{763}, 238-250 (2016)
 doi:10.1016/j.physletb.2016.10.048
 [arXiv:1608.07201 [nucl-ex]].
@@ -509,7 +509,7 @@ doi:10.1103/PhysRevC.95.064606
 \bibitem{ALICE:2017nij}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First measurement of jet mass in Pb\textendash{}Pb and p\textendash{}Pb collisions at the LHC,''
+%``First measurement of jet mass in Pb{\textendash}Pb and p{\textendash}Pb collisions at the LHC,''
 Phys. Lett. B \textbf{776}, 249-264 (2018)
 doi:10.1016/j.physletb.2017.11.044
 [arXiv:1702.00804 [nucl-ex]].
@@ -652,7 +652,7 @@ doi:10.1103/PhysRevC.100.044903
 \bibitem{ALICE:2018ekf}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Analysis of the apparent nuclear modification in peripheral Pb\textendash{}Pb collisions at 5.02 TeV,''
+%``Analysis of the apparent nuclear modification in peripheral Pb{\textendash}Pb collisions at 5.02 TeV,''
 Phys. Lett. B \textbf{793}, 420-432 (2019)
 doi:10.1016/j.physletb.2019.04.047
 [arXiv:1805.05212 [nucl-ex]].
@@ -718,7 +718,7 @@ doi:10.1016/j.physletb.2019.07.020
 \bibitem{ALICE:2019ykw}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Exploration of jet substructure using iterative declustering in pp and Pb\textendash{}Pb collisions at LHC energies,''
+%``Exploration of jet substructure using iterative declustering in pp and Pb{\textendash}Pb collisions at LHC energies,''
 Phys. Lett. B \textbf{802}, 135227 (2020)
 doi:10.1016/j.physletb.2020.135227
 [arXiv:1905.02512 [nucl-ex]].
@@ -745,7 +745,7 @@ Phys. Rev. C \textbf{101}, no.4, 044611 (2020)
 [erratum: Phys. Rev. C \textbf{105}, no.2, 029902 (2022)]
 doi:10.1103/PhysRevC.101.044611
 [arXiv:1909.01281 [nucl-ex]].
-%145 citations counted in INSPIRE as of 25 Jun 2025
+%146 citations counted in INSPIRE as of 25 Jun 2025
 
 \cite{ALICE:2019qyj}
 
@@ -774,7 +774,7 @@ doi:10.1016/j.physletb.2020.135375
 \bibitem{ALICE:2019nbs}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Global baryon number conservation encoded in net-proton fluctuations measured in Pb\textendash{}Pb collisions at sNN=2.76 TeV,''
+%``Global baryon number conservation encoded in net-proton fluctuations measured in Pb{\textendash}Pb collisions at sNN=2.76 TeV,''
 Phys. Lett. B \textbf{807}, 135564 (2020)
 doi:10.1016/j.physletb.2020.135564
 [arXiv:1910.14396 [nucl-ex]].
@@ -785,7 +785,7 @@ doi:10.1016/j.physletb.2020.135564
 \bibitem{ALICE:2019etb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Multiplicity dependence of K*(892)0 and \ensuremath{\phi}(1020) production in pp collisions at s=13 TeV,''
+%``Multiplicity dependence of K*(892)0 and {\ensuremath{\phi}}(1020) production in pp collisions at s=13 TeV,''
 Phys. Lett. B \textbf{807}, 135501 (2020)
 doi:10.1016/j.physletb.2020.135501
 [arXiv:1910.14397 [nucl-ex]].
@@ -884,7 +884,7 @@ doi:10.1088/1748-0221/16/03/P03022
 \bibitem{ALICE:2021est}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p\textendash{}Pb collisions at sNN=8.16 TeV,''
+%``Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p{\textendash}Pb collisions at sNN=8.16 TeV,''
 Phys. Lett. B \textbf{827}, 136943 (2022)
 doi:10.1016/j.physletb.2022.136943
 [arXiv:2104.03116 [nucl-ex]].
@@ -895,7 +895,7 @@ doi:10.1016/j.physletb.2022.136943
 \bibitem{ALICE:2021vxl}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Production of $\Lambda$ and $K^0_s$ in jets in p\textendash{}Pb collisions at $\sqrt {s_{NN}}$=5.02 TeV and pp collisions at $\sqrt {s}$=7 TeV,''
+%``Production of $\Lambda$ and $K^0_s$ in jets in p{\textendash}Pb collisions at $\sqrt {s_{NN}}$=5.02 TeV and pp collisions at $\sqrt {s}$=7 TeV,''
 Phys. Lett. B \textbf{827}, 136984 (2022)
 doi:10.1016/j.physletb.2022.136984
 [arXiv:2105.04890 [nucl-ex]].
@@ -940,11 +940,11 @@ doi:10.1038/s41586-022-04572-w
 \bibitem{ALICE:2021pzu}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Polarization of $\Lambda$ and $\bar \Lambda$ Hyperons along the Beam Direction in Pb-Pb Collisions at $\sqrt {s_{NN}}$=5.02\,\,TeV,''
+%``Polarization of $\Lambda$ and $\bar \Lambda$ Hyperons along the Beam Direction in Pb-Pb Collisions at $\sqrt {s_{NN}}$=5.02{\,}{\,}TeV,''
 Phys. Rev. Lett. \textbf{128}, no.17, 172005 (2022)
 doi:10.1103/PhysRevLett.128.172005
 [arXiv:2107.11183 [nucl-ex]].
-%74 citations counted in INSPIRE as of 25 Jun 2025
+%75 citations counted in INSPIRE as of 25 Jun 2025
 
 \cite{ALICE:2021njq}
 
@@ -966,5 +966,5 @@ doi:10.1007/JHEP05(2022)061
 Phys. Rev. Lett. \textbf{128}, no.10, 102001 (2022)
 doi:10.1103/PhysRevLett.128.102001
 [arXiv:2107.12984 [nucl-ex]].
-%102 citations counted in INSPIRE as of 25 Jun 2025
+%103 citations counted in INSPIRE as of 25 Jun 2025
 

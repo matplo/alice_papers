@@ -1,4 +1,4 @@
-   * Generated on 2025-Jun-25 00:58 CEST  .
+   * Generated on 2025-Jun-25 09:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LG|Study of $\langle p_{\rm T} \rangle$ and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2506.10394v1][2506.10394]]|[[https://inspirehep.net/literature/2933773][2933773]]|%RED%Submitted%ENDCOLOR%|529|
@@ -36,7 +36,7 @@
 |EM|Addendum: Dielectron production in proton-proton and proton-lead collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.12025v1][2409.12025]]|[[https://inspirehep.net/literature/1797621][1797621]]|%GREEN%[[https://doi.org/10.1103/PhysRevC.111.024905][Phys. Rev. C 102]]%ENDCOLOR%|497|
 |DQ|Coherent J/$ψ$ photoproduction at midrapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.11940v1][2409.11940]]|[[https://inspirehep.net/literature/2829848][2829848]]|%RED%Submitted%ENDCOLOR%|496|
 |HF|Investigating charm quark energy loss in medium with the nuclear modification factor of D$^0$-tagged jets|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2409.11939v1][2409.11939]]|[[https://inspirehep.net/literature/2829716][2829716]]|%RED%Submitted%ENDCOLOR%|495|
-|HF|First measurement of $\mathrm{D_{s1}}(1^{+})(2536)^+$ and $\mathrm{D_{s2}^{*}(2^{+})(2573)^+}$ production in proton--proton collisions at $\sqrt{s} = 13$ !TeV at the LHC|pp|[[http://arxiv.org/abs/2409.11938v1][2409.11938]]|[[https://inspirehep.net/literature/2829721][2829721]]|%RED%Submitted%ENDCOLOR%|494|
+|HF|First measurement of $\mathrm{D_{s1}}(1^{+})(2536)^+$ and $\mathrm{D_{s2}^{*}(2^{+})(2573)^+}$ production in proton--proton collisions at $\sqrt{s} = 13$ !TeV at the LHC|pp|[[http://arxiv.org/abs/2409.11938v1][2409.11938]]|[[https://inspirehep.net/literature/2829721][2829721]]|%GREEN%[[https://doi.org/10.1103/PhysRevD.111.112005][Phys. Rev. D 111]]%ENDCOLOR%|494|
 |LF|Measurement of f$_{1}$(1285) production in pp collisions at $\mathbf{\sqrt{\textit s}}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2409.11936v2][2409.11936]]|[[https://inspirehep.net/literature/2829849][2829849]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139562][Phys. Lett. B 866]]%ENDCOLOR%|493|
 |CF|Multiplicity-dependent jet modification from di-hadron correlations in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2409.04501v2][2409.04501]]|[[https://inspirehep.net/literature/2826253][2826253]]|%GREEN%[[https://doi.org/10.1007/JHEP03(2025)194][JHEP 03]]%ENDCOLOR%|492|
 |DQ|J/$ψ$-hadron correlations at midrapidity in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2409.04364v1][2409.04364]]|[[https://inspirehep.net/literature/2825965][2825965]]|%RED%Submitted%ENDCOLOR%|491|

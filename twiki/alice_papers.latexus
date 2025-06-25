@@ -174,7 +174,7 @@
 \bibitem{ALICE:2024vwy}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Direct-photon production in inelastic and high-multiplicity proton\textendash{}proton collisions at s= 13 TeV,''
+%``Direct-photon production in inelastic and high-multiplicity proton{\textendash}proton collisions at s= 13 TeV,''
 Phys. Lett. B \textbf{868}, 139645 (2025)
 doi:10.1016/j.physletb.2025.139645
 [arXiv:2411.14366 [hep-ex]].
@@ -203,7 +203,7 @@ doi:10.1016/j.physletb.2025.139645
 \bibitem{ALICE:2024vxa}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of \ensuremath{\omega} meson production in pp collisions at $ \sqrt{s} $ = 13 TeV,''
+%``Measurement of {\ensuremath{\omega}} meson production in pp collisions at $ \sqrt{s} $ = 13 TeV,''
 JHEP \textbf{04}, 067 (2025)
 doi:10.1007/JHEP04(2025)067
 [arXiv:2411.09432 [hep-ex]].
@@ -232,7 +232,7 @@ doi:10.1007/JHEP04(2025)067
 \bibitem{ALICE:2024jtb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+%``Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{864}, 139409 (2025)
 doi:10.1016/j.physletb.2025.139409
 [arXiv:2411.03106 [nucl-ex]].
@@ -294,7 +294,7 @@ doi:10.1007/JHEP03(2025)029
 \bibitem{ALICE:2024yvg}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the inclusive isolated-photon production cross section in pp and Pb\textendash{}Pb collisions at $\mathbf {\sqrt{\textit{s}_{NN }} = 5.02}$~TeV,''
+%``Measurement of the inclusive isolated-photon production cross section in pp and Pb{\textendash}Pb collisions at $\mathbf {\sqrt{\textit{s}_{NN }} = 5.02}$~TeV,''
 Eur. Phys. J. C \textbf{85}, no.5, 553 (2025)
 doi:10.1140/epjc/s10052-025-13971-y
 [arXiv:2409.12641 [nucl-ex]].
@@ -334,7 +334,7 @@ doi:10.1103/PhysRevC.111.024905
 \bibitem{ALICE:2024hkk}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First measurement of Ds1(1+)(2536)+ and Ds2*(2+)(2573)+ production in proton-proton collisions at s=13\,\,TeV at the LHC,''
+%``First measurement of Ds1(1+)(2536)+ and Ds2*(2+)(2573)+ production in proton-proton collisions at s=13{\,}{\,}TeV at the LHC,''
 Phys. Rev. D \textbf{111}, no.11, 112005 (2025)
 doi:10.1103/PhysRevD.111.112005
 [arXiv:2409.11938 [hep-ex]].
@@ -394,7 +394,7 @@ doi:10.1007/JHEP03(2025)194
 \bibitem{ALICE:2024vaf}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Particle production as a function of charged-particle flattenicity in pp collisions at s=13\,TeV,''
+%``Particle production as a function of charged-particle flattenicity in pp collisions at s=13{\,}TeV,''
 Phys. Rev. D \textbf{111}, no.1, 012010 (2025)
 doi:10.1103/PhysRevD.111.012010
 [arXiv:2407.20037 [hep-ex]].
@@ -405,7 +405,7 @@ doi:10.1103/PhysRevD.111.012010
 \bibitem{ALICE:2024oob}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of beauty production via non-prompt charm hadrons in p\textendash{}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
+%``Measurement of beauty production via non-prompt charm hadrons in p{\textendash}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{11}, 148 (2024)
 doi:10.1007/JHEP11(2024)148
 [arXiv:2407.10593 [nucl-ex]].
@@ -449,7 +449,7 @@ doi:10.1103/PhysRevLett.134.022303
 \bibitem{ALICE:2024iqc}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Investigating \ensuremath{\Lambda} baryon production in p-Pb collisions in jets and the underlying event using angular correlations,''
+%``Investigating {\ensuremath{\Lambda}} baryon production in p-Pb collisions in jets and the underlying event using angular correlations,''
 Phys. Rev. C \textbf{111}, no.1, 015201 (2025)
 doi:10.1103/PhysRevC.111.015201
 [arXiv:2405.19855 [nucl-ex]].
@@ -460,7 +460,7 @@ doi:10.1103/PhysRevC.111.015201
 \bibitem{ALICE:2024koa}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of H\ensuremath{\Lambda}3 production in Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+%``Measurement of H{\ensuremath{\Lambda}}3 production in Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{860}, 139066 (2025)
 doi:10.1016/j.physletb.2024.139066
 [arXiv:2405.19839 [nucl-ex]].
@@ -482,7 +482,7 @@ doi:10.1103/PhysRevC.110.064901
 \bibitem{ALICE:2024ocs}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Charm fragmentation fractions and $\mathbf {c\overline{c}}$ cross section in p\textendash{}Pb collisions at $\mathbf {\sqrt{s _{NN}}=5.02 TeV}$,''
+%``Charm fragmentation fractions and $\mathbf {c\overline{c}}$ cross section in p{\textendash}Pb collisions at $\mathbf {\sqrt{s _{NN}}=5.02 TeV}$,''
 Eur. Phys. J. C \textbf{84}, no.12, 1286 (2024)
 doi:10.1140/epjc/s10052-024-13394-1
 [arXiv:2405.14571 [nucl-ex]].
@@ -493,7 +493,7 @@ doi:10.1140/epjc/s10052-024-13394-1
 \bibitem{ALICE:2024ozd}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the production cross section of prompt $\Xi ^0_{\textrm{c}}$ baryons in p\textendash{}Pb collisions at $\sqrt{s_{{\textrm{NN}}}}=5.02$~TeV,''
+%``Measurement of the production cross section of prompt $\Xi ^0_{\textrm{c}}$ baryons in p{\textendash}Pb collisions at $\sqrt{s_{{\textrm{NN}}}}=5.02$~TeV,''
 Eur. Phys. J. C \textbf{85}, no.1, 86 (2025)
 doi:10.1140/epjc/s10052-024-13531-w
 [arXiv:2405.14538 [nucl-ex]].
@@ -504,7 +504,7 @@ doi:10.1140/epjc/s10052-024-13531-w
 \bibitem{ALICE:2024ife}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the impact-parameter dependent azimuthal anisotropy in coherent \ensuremath{\rho}0 photoproduction in Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+%``Measurement of the impact-parameter dependent azimuthal anisotropy in coherent {\ensuremath{\rho}}0 photoproduction in Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{858}, 139017 (2024)
 doi:10.1016/j.physletb.2024.139017
 [arXiv:2405.14525 [nucl-ex]].
@@ -526,7 +526,7 @@ doi:10.1007/JHEP09(2024)204
 \bibitem{ALICE:2024aid}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Investigating strangeness enhancement in jet and medium via \ensuremath{\phi}(1020) production in p-Pb collisions at sNN=5.02TeV,''
+%``Investigating strangeness enhancement in jet and medium via {\ensuremath{\phi}}(1020) production in p-Pb collisions at sNN=5.02TeV,''
 Phys. Rev. C \textbf{110}, no.6, 064912 (2024)
 doi:10.1103/PhysRevC.110.064912
 [arXiv:2405.14491 [nucl-ex]].
@@ -537,7 +537,7 @@ doi:10.1103/PhysRevC.110.064912
 \bibitem{ALICE:2024xjt}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of \ensuremath{\Omega}c0 baryon production and branching-fraction ratio BR(\ensuremath{\Omega}c0\textrightarrow{}\ensuremath{\Omega}-e+\ensuremath{\nu}e)/BR(\ensuremath{\Omega}c0\textrightarrow{}\ensuremath{\Omega}-\ensuremath{\pi}+) in pp collisions at s=13\,\,TeV,''
+%``Measurement of {\ensuremath{\Omega}}c0 baryon production and branching-fraction ratio BR({\ensuremath{\Omega}}c0{\textrightarrow}{\ensuremath{\Omega}}-e+{\ensuremath{\nu}}e)/BR({\ensuremath{\Omega}}c0{\textrightarrow}{\ensuremath{\Omega}}-{\ensuremath{\pi}}+) in pp collisions at s=13{\,}{\,}TeV,''
 Phys. Rev. D \textbf{110}, no.3, 032014 (2024)
 doi:10.1103/PhysRevD.110.032014
 [arXiv:2404.17272 [hep-ex]].
@@ -590,7 +590,7 @@ doi:10.1103/PhysRevD.110.032004
 \bibitem{ALICE:2023eyl}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Investigating the composition of the K0\textasteriskcentered{}(700) state with \ensuremath{\pi}\ensuremath{\pm}KS0 correlations at the LHC,''
+%``Investigating the composition of the K0{\textasteriskcentered}(700) state with {\ensuremath{\pi}}{\ensuremath{\pm}}KS0 correlations at the LHC,''
 Phys. Lett. B \textbf{856}, 138915 (2024)
 doi:10.1016/j.physletb.2024.138915
 [arXiv:2312.12830 [hep-ex]].
@@ -623,7 +623,7 @@ doi:10.1103/PhysRevLett.132.172302
 \bibitem{ALICE:2023ulv}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurements of Chemical Potentials in Pb-Pb Collisions at sNN=5.02\,\,TeV,''
+%``Measurements of Chemical Potentials in Pb-Pb Collisions at sNN=5.02{\,}{\,}TeV,''
 Phys. Rev. Lett. \textbf{133}, no.9, 092301 (2024)
 doi:10.1103/PhysRevLett.133.092301
 [arXiv:2311.13332 [nucl-ex]].
@@ -656,7 +656,7 @@ doi:10.1103/PhysRevLett.132.222303
 \bibitem{ALICE:2023cxn}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Observation of abnormal suppression of f0(980) production in p\textendash{}Pb collisions at sNN = 5.02 TeV,''
+%``Observation of abnormal suppression of f0(980) production in p{\textendash}Pb collisions at sNN = 5.02 TeV,''
 Phys. Lett. B \textbf{853}, 138665 (2024)
 doi:10.1016/j.physletb.2024.138665
 [arXiv:2311.11786 [nucl-ex]].
@@ -667,7 +667,7 @@ doi:10.1016/j.physletb.2024.138665
 \bibitem{ALICE:2023qyl}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of (anti)alpha production in central Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+%``Measurement of (anti)alpha production in central Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{858}, 138943 (2024)
 doi:10.1016/j.physletb.2024.138943
 [arXiv:2311.11758 [nucl-ex]].
@@ -700,7 +700,7 @@ doi:10.1103/PhysRevC.109.024915
 \bibitem{ALICE:2023csm}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Charged-particle production as a function of the relative transverse activity classifier in pp, p\textendash{}Pb, and Pb\textendash{}Pb collisions at the LHC,''
+%``Charged-particle production as a function of the relative transverse activity classifier in pp, p{\textendash}Pb, and Pb{\textendash}Pb collisions at the LHC,''
 JHEP \textbf{01}, 056 (2024)
 doi:10.1007/JHEP01(2024)056
 [arXiv:2310.07490 [nucl-ex]].
@@ -722,7 +722,7 @@ doi:10.1007/JHEP05(2024)229
 \bibitem{ALICE:2023asw}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Studying strangeness and baryon production mechanisms through angular correlations between charged \ensuremath{\Xi} baryons and identified hadrons in pp collisions at $ \sqrt{s} $ = 13 TeV,''
+%``Studying strangeness and baryon production mechanisms through angular correlations between charged {\ensuremath{\Xi}} baryons and identified hadrons in pp collisions at $ \sqrt{s} $ = 13 TeV,''
 JHEP \textbf{09}, 102 (2024)
 doi:10.1007/JHEP09(2024)102
 [arXiv:2308.16706 [hep-ex]].
@@ -742,7 +742,7 @@ doi:10.1007/JHEP09(2024)102
 \bibitem{ALICE:2023lyr}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Multiplicity and event-scale dependent flow and jet fragmentation in pp collisions at $ \sqrt{s} $ = 13 TeV and in p\textendash{}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
+%``Multiplicity and event-scale dependent flow and jet fragmentation in pp collisions at $ \sqrt{s} $ = 13 TeV and in p{\textendash}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{03}, 092 (2024)
 doi:10.1007/JHEP03(2024)092
 [arXiv:2308.16591 [nucl-ex]].
@@ -775,7 +775,7 @@ doi:10.1016/j.physletb.2024.138541
 \bibitem{ALICE:2023qve}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Observation of Medium-Induced Yield Enhancement and Acoplanarity Broadening of Low-pT Jets from Measurements in pp and Central Pb-Pb Collisions at sNN=5.02\,\,TeV,''
+%``Observation of Medium-Induced Yield Enhancement and Acoplanarity Broadening of Low-pT Jets from Measurements in pp and Central Pb-Pb Collisions at sNN=5.02{\,}{\,}TeV,''
 Phys. Rev. Lett. \textbf{133}, no.2, 022301 (2024)
 doi:10.1103/PhysRevLett.133.022301
 [arXiv:2308.16131 [nucl-ex]].
@@ -797,7 +797,7 @@ doi:10.1103/PhysRevC.110.014906
 \bibitem{ALICE:2023hou}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Prompt and non-prompt~J$/\psi$ production at midrapidity in Pb\textendash{}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
+%``Prompt and non-prompt~J$/\psi$ production at midrapidity in Pb{\textendash}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{02}, 066 (2024)
 doi:10.1007/JHEP02(2024)066
 [arXiv:2308.16125 [nucl-ex]].
@@ -830,7 +830,7 @@ doi:10.1103/PhysRevX.14.031051
 \bibitem{ALICE:2023ifn}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``K*(892)\ensuremath{\pm} resonance production in Pb-Pb collisions at sNN=5.02 TeV,''
+%``K*(892){\ensuremath{\pm}} resonance production in Pb-Pb collisions at sNN=5.02 TeV,''
 Phys. Rev. C \textbf{109}, no.4, 044902 (2024)
 doi:10.1103/PhysRevC.109.044902
 [arXiv:2308.16119 [nucl-ex]].
@@ -841,7 +841,7 @@ doi:10.1103/PhysRevC.109.044902
 \bibitem{ALICE:2023egx}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Multiplicity-dependent production of \ensuremath{\Sigma}(1385)$^{±}$ and \ensuremath{\Xi}(1530)$^{0}$ in pp collisions at $ \sqrt{s} $ = 13 TeV,''
+%``Multiplicity-dependent production of {\ensuremath{\Sigma}}(1385)$^{±}$ and {\ensuremath{\Xi}}(1530)$^{0}$ in pp collisions at $ \sqrt{s} $ = 13 TeV,''
 JHEP \textbf{05}, 317 (2024)
 doi:10.1007/JHEP05(2024)317
 [arXiv:2308.16116 [nucl-ex]].
@@ -874,7 +874,7 @@ doi:10.1007/JHEP12(2023)086
 \bibitem{ALICE:2023wbx}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Study of flavor dependence of the baryon-to-meson ratio in proton-proton collisions at s=13\,\,TeV,''
+%``Study of flavor dependence of the baryon-to-meson ratio in proton-proton collisions at s=13{\,}{\,}TeV,''
 Phys. Rev. D \textbf{108}, no.11, 112003 (2023)
 doi:10.1103/PhysRevD.108.112003
 [arXiv:2308.04873 [hep-ex]].
@@ -885,7 +885,7 @@ doi:10.1103/PhysRevD.108.112003
 \bibitem{ALICE:2023dei}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Modification of charged-particle jets in event-shape engineered Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+%``Modification of charged-particle jets in event-shape engineered Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{851}, 138584 (2024)
 doi:10.1016/j.physletb.2024.138584
 [arXiv:2307.14097 [nucl-ex]].
@@ -896,7 +896,7 @@ doi:10.1016/j.physletb.2024.138584
 \bibitem{ALICE:2023gjj}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of non-prompt ${{\textrm{D}}^{0}}$-meson elliptic flow in Pb\textendash{}Pb collisions at $\sqrt{s_{\textrm{NN}}} = 5.02$~TeV,''
+%``Measurement of non-prompt ${{\textrm{D}}^{0}}$-meson elliptic flow in Pb{\textendash}Pb collisions at $\sqrt{s_{\textrm{NN}}} = 5.02$~TeV,''
 Eur. Phys. J. C \textbf{83}, no.12, 1123 (2023)
 doi:10.1140/epjc/s10052-023-12259-3
 [arXiv:2307.14084 [nucl-ex]].
@@ -907,7 +907,7 @@ doi:10.1140/epjc/s10052-023-12259-3
 \bibitem{ALICE:2023tvh}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Pseudorapidity dependence of anisotropic flow and its decorrelations using long-range multiparticle correlations in Pb\textendash{}Pb and Xe\textendash{}Xe collisions,''
+%``Pseudorapidity dependence of anisotropic flow and its decorrelations using long-range multiparticle correlations in Pb{\textendash}Pb and Xe{\textendash}Xe collisions,''
 Phys. Lett. B \textbf{850}, 138477 (2024)
 [erratum: Phys. Lett. B \textbf{853}, 138659 (2024)]
 doi:10.1016/j.physletb.2024.138477
@@ -941,7 +941,7 @@ doi:10.1016/j.physletb.2023.138337
 \bibitem{ALICE:2023wjz}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Accessing the strong interaction between \ensuremath{\Lambda} baryons and charged kaons with the femtoscopy technique at the LHC,''
+%``Accessing the strong interaction between {\ensuremath{\Lambda}} baryons and charged kaons with the femtoscopy technique at the LHC,''
 Phys. Lett. B \textbf{845}, 138145 (2023)
 doi:10.1016/j.physletb.2023.138145
 [arXiv:2305.19093 [nucl-ex]].
@@ -952,7 +952,7 @@ doi:10.1016/j.physletb.2023.138145
 \bibitem{ALICE:2023jgu}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Energy dependence of coherent photonuclear production of J/\ensuremath{\psi} mesons in ultra-peripheral Pb-Pb collisions at $ \sqrt{{\textrm{s}}_{\textrm{NN}}} $ = 5.02 TeV,''
+%``Energy dependence of coherent photonuclear production of J/{\ensuremath{\psi}} mesons in ultra-peripheral Pb-Pb collisions at $ \sqrt{{\textrm{s}}_{\textrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{10}, 119 (2023)
 doi:10.1007/JHEP10(2023)119
 [arXiv:2305.19060 [nucl-ex]].
@@ -963,7 +963,7 @@ doi:10.1007/JHEP10(2023)119
 \bibitem{ALICE:2023gcs}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First Measurement of the |t| Dependence of Incoherent J/\ensuremath{\psi} Photonuclear Production,''
+%``First Measurement of the |t| Dependence of Incoherent J/{\ensuremath{\psi}} Photonuclear Production,''
 Phys. Rev. Lett. \textbf{132}, no.16, 162302 (2024)
 doi:10.1103/PhysRevLett.132.162302
 [arXiv:2305.06169 [nucl-ex]].
@@ -974,7 +974,7 @@ doi:10.1103/PhysRevLett.132.162302
 \bibitem{ALICE:2023mfc}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Exclusive and dissociative J/\ensuremath{\psi} photoproduction, and exclusive dimuon production, in p-Pb collisions at sNN=8.16\,\,TeV,''
+%``Exclusive and dissociative J/{\ensuremath{\psi}} photoproduction, and exclusive dimuon production, in p-Pb collisions at sNN=8.16{\,}{\,}TeV,''
 Phys. Rev. D \textbf{108}, no.11, 112004 (2023)
 doi:10.1103/PhysRevD.108.112004
 [arXiv:2304.12403 [nucl-ex]].
@@ -985,7 +985,7 @@ doi:10.1103/PhysRevD.108.112004
 \bibitem{ALICE:2023svb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First polarisation measurement of coherently photoproduced J/\ensuremath{\psi} in ultra-peripheral Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+%``First polarisation measurement of coherently photoproduced J/{\ensuremath{\psi}} in ultra-peripheral Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{865}, 139466 (2025)
 doi:10.1016/j.physletb.2025.139466
 [arXiv:2304.10928 [nucl-ex]].
@@ -1007,7 +1007,7 @@ doi:10.1088/1748-0221/18/11/P11032
 \bibitem{ALICE:2023gxp}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Study of the p\textendash{}p\textendash{}K$^{+}$ and p\textendash{}p\textendash{}K$^{-}$ dynamics using the femtoscopy technique,''
+%``Study of the p{\textendash}p{\textendash}K$^{+}$ and p{\textendash}p{\textendash}K$^{-}$ dynamics using the femtoscopy technique,''
 Eur. Phys. J. A \textbf{59}, no.12, 298 (2023)
 doi:10.1140/epja/s10050-023-01139-9
 [arXiv:2303.13448 [nucl-ex]].
@@ -1018,7 +1018,7 @@ doi:10.1140/epja/s10050-023-01139-9
 \bibitem{ALICE:2023lsn}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of inclusive J/\ensuremath{\psi} pair production cross section~in pp collisions at s=13 TeV,''
+%``Measurement of inclusive J/{\ensuremath{\psi}} pair production cross section~in pp collisions at s=13 TeV,''
 Phys. Rev. C \textbf{108}, no.4, 045203 (2023)
 doi:10.1103/PhysRevC.108.045203
 [arXiv:2303.13431 [hep-ex]].
@@ -1040,7 +1040,7 @@ doi:10.1103/PhysRevC.108.055203
 \bibitem{ALICE:2023gco}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurements of inclusive J/\ensuremath{\psi} production at midrapidity and forward rapidity in Pb\textendash{}Pb collisions at sNN = 5.02 TeV,''
+%``Measurements of inclusive J/{\ensuremath{\psi}} production at midrapidity and forward rapidity in Pb{\textendash}Pb collisions at sNN = 5.02 TeV,''
 Phys. Lett. B \textbf{849}, 138451 (2024)
 doi:10.1016/j.physletb.2024.138451
 [arXiv:2303.13361 [nucl-ex]].
@@ -1082,7 +1082,7 @@ doi:10.1103/PhysRevD.108.032009
 \bibitem{ALICE:2023waz}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the radius dependence of charged-particle jet suppression in Pb\textendash{}Pb collisions at sNN=5.02TeV,''
+%``Measurement of the radius dependence of charged-particle jet suppression in Pb{\textendash}Pb collisions at sNN=5.02TeV,''
 Phys. Lett. B \textbf{849}, 138412 (2024)
 doi:10.1016/j.physletb.2023.138412
 [arXiv:2303.00592 [nucl-ex]].
@@ -1093,7 +1093,7 @@ doi:10.1016/j.physletb.2023.138412
 \bibitem{ALICE:2023kjg}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Azimuthal correlations of heavy-flavor hadron decay electrons with charged particles in pp and p\textendash{}Pb collisions at $\pmb {\sqrt{s_{\mathrm{{NN}}}}}$ = 5.02 TeV,''
+%``Azimuthal correlations of heavy-flavor hadron decay electrons with charged particles in pp and p{\textendash}Pb collisions at $\pmb {\sqrt{s_{\mathrm{{NN}}}}}$ = 5.02 TeV,''
 Eur. Phys. J. C \textbf{83}, no.8, 741 (2023)
 doi:10.1140/epjc/s10052-023-11835-x
 [arXiv:2303.00591 [nucl-ex]].
@@ -1104,7 +1104,7 @@ doi:10.1140/epjc/s10052-023-11835-x
 \bibitem{ALICE:2023ode}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Inclusive photon production at forward rapidities in pp and p\textendash{}Pb collisions at $\sqrt{{{s}}_{\textrm{NN}}}={5.02}$~TeV,''
+%``Inclusive photon production at forward rapidities in pp and p{\textendash}Pb collisions at $\sqrt{{{s}}_{\textrm{NN}}}={5.02}$~TeV,''
 Eur. Phys. J. C \textbf{83}, no.7, 661 (2023)
 doi:10.1140/epjc/s10052-023-11729-y
 [arXiv:2303.00590 [nucl-ex]].
@@ -1148,7 +1148,7 @@ doi:10.1140/epjc/s10052-023-11658-w
 \bibitem{ALICE:2023jgm}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the fraction of jet longitudinal momentum carried by \ensuremath{\Lambda}c+ baryons in pp collisions,''
+%``Measurement of the fraction of jet longitudinal momentum carried by {\ensuremath{\Lambda}}c+ baryons in pp collisions,''
 Phys. Rev. D \textbf{109}, no.7, 072005 (2024)
 doi:10.1103/PhysRevD.109.072005
 [arXiv:2301.13798 [nucl-ex]].
@@ -1181,7 +1181,7 @@ doi:10.1007/JHEP08(2024)234
 \bibitem{ALICE:2022byg}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First measurement of prompt and non-prompt D\textasteriskcentered{}+ vector meson spin alignment in pp collisions at s=13 TeV,''
+%``First measurement of prompt and non-prompt D{\textasteriskcentered}+ vector meson spin alignment in pp collisions at s=13 TeV,''
 Phys. Lett. B \textbf{846}, 137920 (2023)
 doi:10.1016/j.physletb.2023.137920
 [arXiv:2212.06588 [nucl-ex]].
@@ -1192,7 +1192,7 @@ doi:10.1016/j.physletb.2023.137920
 \bibitem{ALICE:2022pbb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the production of (anti)nuclei in p\textendash{}Pb collisions at sNN=8.16TeV,''
+%``Measurement of the production of (anti)nuclei in p{\textendash}Pb collisions at sNN=8.16TeV,''
 Phys. Lett. B \textbf{846}, 137795 (2023)
 doi:10.1016/j.physletb.2023.137795
 [arXiv:2212.04777 [nucl-ex]].
@@ -1237,7 +1237,7 @@ doi:10.1103/PhysRevLett.131.042301
 \bibitem{ALICE:2022mxo}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Investigation of K+K\ensuremath{-} interactions via femtoscopy in Pb-Pb collisions at sNN=2.76 TeV at the CERN Large Hadron Collider,''
+%``Investigation of K+K{\ensuremath{-}} interactions via femtoscopy in Pb-Pb collisions at sNN=2.76 TeV at the CERN Large Hadron Collider,''
 Phys. Rev. C \textbf{107}, no.5, 054904 (2023)
 doi:10.1103/PhysRevC.107.054904
 [arXiv:2211.15194 [nucl-ex]].
@@ -1259,7 +1259,7 @@ doi:10.1007/JHEP07(2023)137
 \bibitem{ALICE:2022exq}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First measurement of \ensuremath{\Lambda}c+ production down to pT=0 in pp and p-Pb collisions at sNN=5.02 TeV,''
+%``First measurement of {\ensuremath{\Lambda}}c+ production down to pT=0 in pp and p-Pb collisions at sNN=5.02 TeV,''
 Phys. Rev. C \textbf{107}, no.6, 064901 (2023)
 doi:10.1103/PhysRevC.107.064901
 [arXiv:2211.14032 [nucl-ex]].
@@ -1347,7 +1347,7 @@ doi:10.1140/epjc/s10052-023-11614-8
 \bibitem{ALICE:2022ljz}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Search for the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Xe\textendash{}Xe collisions at sNN=5.44 TeV,''
+%``Search for the Chiral Magnetic Effect with charge-dependent azimuthal correlations in Xe{\textendash}Xe collisions at sNN=5.44 TeV,''
 Phys. Lett. B \textbf{856}, 138862 (2024)
 doi:10.1016/j.physletb.2024.138862
 [arXiv:2210.15383 [nucl-ex]].
@@ -1358,7 +1358,7 @@ doi:10.1016/j.physletb.2024.138862
 \bibitem{ALICE:2022ruh}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurements of azimuthal anisotropies at forward and backward rapidity with muons in high-multiplicity p\textendash{}Pb collisions at sNN=8.16 TeV,''
+%``Measurements of azimuthal anisotropies at forward and backward rapidity with muons in high-multiplicity p{\textendash}Pb collisions at sNN=8.16 TeV,''
 Phys. Lett. B \textbf{846}, 137782 (2023)
 doi:10.1016/j.physletb.2023.137782
 [arXiv:2210.08980 [nucl-ex]].
@@ -1369,7 +1369,7 @@ doi:10.1016/j.physletb.2023.137782
 \bibitem{ALICE:2022jeh}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``\ensuremath{\psi}(2S) Suppression in Pb-Pb Collisions at the LHC,''
+%``{\ensuremath{\psi}}(2S) Suppression in Pb-Pb Collisions at the LHC,''
 Phys. Rev. Lett. \textbf{132}, no.4, 042301 (2024)
 doi:10.1103/PhysRevLett.132.042301
 [arXiv:2210.08893 [nucl-ex]].
@@ -1391,7 +1391,7 @@ doi:10.1103/PhysRevC.107.064902
 \bibitem{ALICE:2022yzs}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Multiplicity dependence of \Upsilon{} production at forward rapidity in pp collisions at s=13 TeV,''
+%``Multiplicity dependence of {\Upsilon} production at forward rapidity in pp collisions at s=13 TeV,''
 Nucl. Phys. B \textbf{1011}, 116786 (2025)
 doi:10.1016/j.nuclphysb.2024.116786
 [arXiv:2209.04241 [nucl-ex]].
@@ -1413,7 +1413,7 @@ doi:10.1088/1748-0221/18/08/P08007
 \bibitem{ALICE:2022sco}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the Lifetime and \ensuremath{\Lambda} Separation Energy of H\ensuremath{\Lambda}3,''
+%``Measurement of the Lifetime and {\ensuremath{\Lambda}} Separation Energy of H{\ensuremath{\Lambda}}3,''
 Phys. Rev. Lett. \textbf{131}, no.10, 102302 (2023)
 doi:10.1103/PhysRevLett.131.102302
 [arXiv:2209.07360 [nucl-ex]].
@@ -1424,7 +1424,7 @@ doi:10.1103/PhysRevLett.131.102302
 \bibitem{ALICE:2022phr}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurements of Groomed-Jet Substructure of Charm Jets Tagged by D0 Mesons in Proton-Proton Collisions at s=13\,\,TeV,''
+%``Measurements of Groomed-Jet Substructure of Charm Jets Tagged by D0 Mesons in Proton-Proton Collisions at s=13{\,}{\,}TeV,''
 Phys. Rev. Lett. \textbf{131}, no.19, 192301 (2023)
 doi:10.1103/PhysRevLett.131.192301
 [arXiv:2208.04857 [nucl-ex]].
@@ -1446,7 +1446,7 @@ doi:10.1016/j.physletb.2022.137644
 \bibitem{ALICE:2022zks}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Anisotropic flow and flow fluctuations of identified hadrons in Pb\textendash{}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
+%``Anisotropic flow and flow fluctuations of identified hadrons in Pb{\textendash}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{05}, 243 (2023)
 doi:10.1007/JHEP05(2023)243
 [arXiv:2206.04587 [nucl-ex]].
@@ -1468,7 +1468,7 @@ doi:10.1103/PhysRevC.107.L051901
 \bibitem{ALICE:2022boj}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Towards the understanding of the genuine three-body interaction for p\textendash{}p\textendash{}p and p\textendash{}p\textendash{}$\Lambda $,''
+%``Towards the understanding of the genuine three-body interaction for p{\textendash}p{\textendash}p and p{\textendash}p{\textendash}$\Lambda $,''
 Eur. Phys. J. A \textbf{59}, no.7, 145 (2023)
 doi:10.1140/epja/s10050-023-00998-6
 [arXiv:2206.03344 [nucl-ex]].
@@ -1479,7 +1479,7 @@ doi:10.1140/epja/s10050-023-00998-6
 \bibitem{ALICE:2022xpf}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Closing in on critical net-baryon fluctuations at LHC energies: Cumulants up to third order in Pb\textendash{}Pb collisions,''
+%``Closing in on critical net-baryon fluctuations at LHC energies: Cumulants up to third order in Pb{\textendash}Pb collisions,''
 Phys. Lett. B \textbf{844}, 137545 (2023)
 doi:10.1016/j.physletb.2022.137545
 [arXiv:2206.03343 [nucl-ex]].
@@ -1501,7 +1501,7 @@ doi:10.1140/epjc/s10052-023-11476-0
 \bibitem{ALICE:2022zuc}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``$\Sigma (1385)^{\pm }$ resonance production in Pb\textendash{}Pb collisions at $\sqrt{s_{\textrm{NN}}}~=~5.02$~TeV,''
+%``$\Sigma (1385)^{\pm }$ resonance production in Pb{\textendash}Pb collisions at $\sqrt{s_{\textrm{NN}}}~=~5.02$~TeV,''
 Eur. Phys. J. C \textbf{83}, no.5, 351 (2023)
 doi:10.1140/epjc/s10052-023-11475-1
 [arXiv:2205.13998 [nucl-ex]].
@@ -1512,7 +1512,7 @@ doi:10.1140/epjc/s10052-023-11475-1
 \bibitem{ALICE:2022cop}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First measurement of \ensuremath{\Omega}c0 production in pp collisions at s=13 TeV,''
+%``First measurement of {\ensuremath{\Omega}}c0 production in pp collisions at s=13 TeV,''
 Phys. Lett. B \textbf{846}, 137625 (2023)
 doi:10.1016/j.physletb.2022.137625
 [arXiv:2205.13993 [nucl-ex]].
@@ -1523,7 +1523,7 @@ doi:10.1016/j.physletb.2022.137625
 \bibitem{ALICE:2022hvk}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Dielectron production at midrapidity at low transverse momentum in peripheral and semi-peripheral Pb\textendash{}Pb collisions at $ {\sqrt{s}}_{\textrm{NN}} $ = 5.02 TeV,''
+%``Dielectron production at midrapidity at low transverse momentum in peripheral and semi-peripheral Pb{\textendash}Pb collisions at $ {\sqrt{s}}_{\textrm{NN}} $ = 5.02 TeV,''
 JHEP \textbf{06}, 024 (2023)
 doi:10.1007/JHEP06(2023)024
 [arXiv:2204.11732 [nucl-ex]].
@@ -1556,7 +1556,7 @@ doi:10.1007/JHEP05(2023)036
 \bibitem{ALICE:2022fnb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Underlying-event properties in pp and p\textendash{}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
+%``Underlying-event properties in pp and p{\textendash}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{06}, 023 (2023)
 doi:10.1007/JHEP06(2023)023
 [arXiv:2204.10389 [nucl-ex]].
@@ -1567,7 +1567,7 @@ doi:10.1007/JHEP06(2023)023
 \bibitem{ALICE:2022xrg}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of beauty-strange meson production in Pb\textendash{}Pb collisions at sNN=5.02TeV via non-prompt Ds+ mesons,''
+%``Measurement of beauty-strange meson production in Pb{\textendash}Pb collisions at sNN=5.02TeV via non-prompt Ds+ mesons,''
 Phys. Lett. B \textbf{846}, 137561 (2023)
 doi:10.1016/j.physletb.2022.137561
 [arXiv:2204.10386 [nucl-ex]].
@@ -1578,7 +1578,7 @@ doi:10.1016/j.physletb.2022.137561
 \bibitem{ALICE:2022vsz}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of inclusive and leading subjet fragmentation in pp and Pb\textendash{}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
+%``Measurement of inclusive and leading subjet fragmentation in pp and Pb{\textendash}Pb collisions at $ \sqrt{s_{\textrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{05}, 245 (2023)
 doi:10.1007/JHEP05(2023)245
 [arXiv:2204.10270 [nucl-ex]].
@@ -1589,7 +1589,7 @@ doi:10.1007/JHEP05(2023)245
 \bibitem{ALICE:2022uac}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Multiplicity and rapidity dependence of $\textrm{K}^{*}(\mathrm {{\textbf {892}}})^{0}$ and $\mathrm {\phi ({\textbf {1020}})}$ production in p\textendash{}Pb collisions at $\sqrt{s_{\textrm{NN}}} =$ 5.02 TeV,''
+%``Multiplicity and rapidity dependence of $\textrm{K}^{*}(\mathrm {{\textbf {892}}})^{0}$ and $\mathrm {\phi ({\textbf {1020}})}$ production in p{\textendash}Pb collisions at $\sqrt{s_{\textrm{NN}}} =$ 5.02 TeV,''
 Eur. Phys. J. C \textbf{83}, no.6, 540 (2023)
 doi:10.1140/epjc/s10052-023-11449-3
 [arXiv:2204.10263 [nucl-ex]].
@@ -1600,7 +1600,7 @@ doi:10.1140/epjc/s10052-023-11449-3
 \bibitem{ALICE:2022uso}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First measurement of the \ensuremath{\Lambda}\textendash{}\ensuremath{\Xi} interaction in proton\textendash{}proton collisions at the LHC,''
+%``First measurement of the {\ensuremath{\Lambda}}{\textendash}{\ensuremath{\Xi}} interaction in proton{\textendash}proton collisions at the LHC,''
 Phys. Lett. B \textbf{844}, 137223 (2023)
 doi:10.1016/j.physletb.2022.137223
 [arXiv:2204.10258 [nucl-ex]].
@@ -1633,7 +1633,7 @@ doi:10.1007/JHEP05(2023)244
 \bibitem{ALICE:2022xhd}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Elliptic flow of charged particles at midrapidity relative to the spectator plane in Pb\textendash{}Pb and Xe\textendash{}Xe collisions,''
+%``Elliptic flow of charged particles at midrapidity relative to the spectator plane in Pb{\textendash}Pb and Xe{\textendash}Xe collisions,''
 Phys. Lett. B \textbf{846}, 137453 (2023)
 doi:10.1016/j.physletb.2022.137453
 [arXiv:2204.10240 [nucl-ex]].
@@ -1655,7 +1655,7 @@ doi:10.1016/j.physletb.2023.137730
 \bibitem{ALICE:2022dyy}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the J/\ensuremath{\psi} Polarization with Respect to the Event Plane in Pb-Pb Collisions at the LHC,''
+%``Measurement of the J/{\ensuremath{\psi}} Polarization with Respect to the Event Plane in Pb-Pb Collisions at the LHC,''
 Phys. Rev. Lett. \textbf{131}, no.4, 042303 (2023)
 doi:10.1103/PhysRevLett.131.042303
 [arXiv:2204.10171 [nucl-ex]].
@@ -1688,7 +1688,7 @@ doi:10.1103/PhysRevLett.131.041901
 \bibitem{ALICE:2022qxg}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Study of charged particle production at high pT using event topology in pp, p\textendash{}Pb and Pb\textendash{}Pb collisions at sNN=5.02TeV,''
+%``Study of charged particle production at high pT using event topology in pp, p{\textendash}Pb and Pb{\textendash}Pb collisions at sNN=5.02TeV,''
 Phys. Lett. B \textbf{843}, 137649 (2023)
 doi:10.1016/j.physletb.2022.137649
 [arXiv:2204.10157 [nucl-ex]].
@@ -1754,7 +1754,7 @@ doi:10.1103/PhysRevD.106.052010
 \bibitem{ALICE:2021fpb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Neutral to charged kaon yield fluctuations in Pb \textendash{} Pb collisions at sNN=2.76 TeV,''
+%``Neutral to charged kaon yield fluctuations in Pb {\textendash} Pb collisions at sNN=2.76 TeV,''
 Phys. Lett. B \textbf{832}, 137242 (2022)
 doi:10.1016/j.physletb.2022.137242
 [arXiv:2112.09482 [nucl-ex]].
@@ -1765,7 +1765,7 @@ doi:10.1016/j.physletb.2022.137242
 \bibitem{ALICE:2021zkd}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Forward rapidity J/\ensuremath{\psi} production as a function of charged-particle multiplicity in pp collisions at $ \sqrt{s} $ = 5.02 and 13 TeV,''
+%``Forward rapidity J/{\ensuremath{\psi}} production as a function of charged-particle multiplicity in pp collisions at $ \sqrt{s} $ = 5.02 and 13 TeV,''
 JHEP \textbf{06}, 015 (2022)
 doi:10.1007/JHEP06(2022)015
 [arXiv:2112.09433 [nucl-ex]].
@@ -1776,7 +1776,7 @@ doi:10.1007/JHEP06(2022)015
 \bibitem{ALICE:2021bib}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Constraining hadronization mechanisms with \ensuremath{\Lambda}c+/D0 production ratios in Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+%``Constraining hadronization mechanisms with {\ensuremath{\Lambda}}c+/D0 production ratios in Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{839}, 137796 (2023)
 doi:10.1016/j.physletb.2023.137796
 [arXiv:2112.08156 [nucl-ex]].
@@ -1798,7 +1798,7 @@ doi:10.1140/epjc/s10052-022-10241-z
 \bibitem{ALICE:2021npz}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Observation of a multiplicity dependence in the pT-differential charm baryon-to-meson ratios in proton\textendash{}proton collisions at s=13 TeV,''
+%``Observation of a multiplicity dependence in the pT-differential charm baryon-to-meson ratios in proton{\textendash}proton collisions at s=13 TeV,''
 Phys. Lett. B \textbf{829}, 137065 (2022)
 doi:10.1016/j.physletb.2022.137065
 [arXiv:2111.11948 [nucl-ex]].
@@ -1809,7 +1809,7 @@ doi:10.1016/j.physletb.2022.137065
 \bibitem{ALICE:2021ovd}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``KS0KS0 and KS0K\ensuremath{\pm} femtoscopy in pp collisions at s=5.02 and 13 TeV,''
+%``KS0KS0 and KS0K{\ensuremath{\pm}} femtoscopy in pp collisions at s=5.02 and 13 TeV,''
 Phys. Lett. B \textbf{833}, 137335 (2022)
 doi:10.1016/j.physletb.2022.137335
 [arXiv:2111.06611 [nucl-ex]].
@@ -1842,7 +1842,7 @@ doi:10.1140/epjc/s10052-022-10267-3
 \bibitem{ALICE:2021rpa}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``K*(892)0 and \ensuremath{\phi}(1020) production in p-Pb collisions at sNN=8.16~TeV,''
+%``K*(892)0 and {\ensuremath{\phi}}(1020) production in p-Pb collisions at sNN=8.16~TeV,''
 Phys. Rev. C \textbf{107}, no.5, 055201 (2023)
 doi:10.1103/PhysRevC.107.055201
 [arXiv:2110.10042 [nucl-ex]].
@@ -1853,7 +1853,7 @@ doi:10.1103/PhysRevC.107.055201
 \bibitem{ALICE:2021kfc}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of prompt $D_s^+$-meson production and azimuthal anisotropy in Pb\textendash{}Pb collisions at $\sqrt {s_{NN}}$=5.02TeV,''
+%``Measurement of prompt $D_s^+$-meson production and azimuthal anisotropy in Pb{\textendash}Pb collisions at $\sqrt {s_{NN}}$=5.02TeV,''
 Phys. Lett. B \textbf{827}, 136986 (2022)
 doi:10.1016/j.physletb.2022.136986
 [arXiv:2110.10006 [nucl-ex]].
@@ -1864,7 +1864,7 @@ doi:10.1016/j.physletb.2022.136986
 \bibitem{ALICE:2021rxa}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Prompt D$^{0}$, D$^{+}$, and D$^{*+}$ production in Pb\textendash{}Pb collisions at $ \sqrt{s_{\mathrm{NN}}} $ = 5.02 TeV,''
+%``Prompt D$^{0}$, D$^{+}$, and D$^{*+}$ production in Pb{\textendash}Pb collisions at $ \sqrt{s_{\mathrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{01}, 174 (2022)
 doi:10.1007/JHEP01(2022)174
 [arXiv:2110.09420 [nucl-ex]].
@@ -1875,7 +1875,7 @@ doi:10.1007/JHEP01(2022)174
 \bibitem{ALICE:2021hjb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``General balance functions of identified charged hadron pairs of (\ensuremath{\pi},K,p) in Pb\textendash{}Pb collisions at sNN= 2.76 TeV,''
+%``General balance functions of identified charged hadron pairs of ({\ensuremath{\pi}},K,p) in Pb{\textendash}Pb collisions at sNN= 2.76 TeV,''
 Phys. Lett. B \textbf{833}, 137338 (2022)
 doi:10.1016/j.physletb.2022.137338
 [arXiv:2110.06566 [nucl-ex]].
@@ -1919,7 +1919,7 @@ doi:10.1007/JHEP01(2022)106
 \bibitem{ALICE:2021edd}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Prompt and non-prompt J/\ensuremath{\psi} production cross sections at midrapidity in proton-proton collisions at $ \sqrt{\mathrm{s}} $ = 5.02 and 13 TeV,''
+%``Prompt and non-prompt J/{\ensuremath{\psi}} production cross sections at midrapidity in proton-proton collisions at $ \sqrt{\mathrm{s}} $ = 5.02 and 13 TeV,''
 JHEP \textbf{03}, 190 (2022)
 doi:10.1007/JHEP03(2022)190
 [arXiv:2108.02523 [nucl-ex]].
@@ -1974,7 +1974,7 @@ doi:10.1140/epjc/s10052-021-09678-5
 \bibitem{ALICE:2021pzu}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Polarization of $\Lambda$ and $\bar \Lambda$ Hyperons along the Beam Direction in Pb-Pb Collisions at $\sqrt {s_{NN}}$=5.02\,\,TeV,''
+%``Polarization of $\Lambda$ and $\bar \Lambda$ Hyperons along the Beam Direction in Pb-Pb Collisions at $\sqrt {s_{NN}}$=5.02{\,}{\,}TeV,''
 Phys. Rev. Lett. \textbf{128}, no.17, 172005 (2022)
 doi:10.1103/PhysRevLett.128.172005
 [arXiv:2107.11183 [nucl-ex]].
@@ -1996,7 +1996,7 @@ doi:10.1007/JHEP08(2022)086
 \bibitem{ALargeIonColliderExperiment:2021puh}
 
  S.~Acharya \textit{et al.} [A Large Ion Collider Experiment and ALICE],
-%``Hypertriton Production in p-Pb Collisions at $\sqrt {s_{NN}}$=5.02\,\,TeV,''
+%``Hypertriton Production in p-Pb Collisions at $\sqrt {s_{NN}}$=5.02{\,}{\,}TeV,''
 Phys. Rev. Lett. \textbf{128}, no.25, 252003 (2022)
 doi:10.1103/PhysRevLett.128.252003
 [arXiv:2107.10627 [nucl-ex]].
@@ -2029,7 +2029,7 @@ doi:10.1103/PhysRevC.106.034907
 \bibitem{ALICE:2021rzj}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of Prompt D$^{0}$, $\Lambda_{c}^{+}$, and $\Sigma_{c}^{0,++}$(2455) Production in Proton\textendash{}Proton Collisions at $\sqrt s$ = 13\,\,TeV,''
+%``Measurement of Prompt D$^{0}$, $\Lambda_{c}^{+}$, and $\Sigma_{c}^{0,++}$(2455) Production in Proton{\textendash}Proton Collisions at $\sqrt s$ = 13{\,}{\,}TeV,''
 Phys. Rev. Lett. \textbf{128}, no.1, 012001 (2022)
 doi:10.1103/PhysRevLett.128.012001
 [arXiv:2106.08278 [hep-ex]].
@@ -2074,7 +2074,7 @@ doi:10.1016/j.physletb.2022.137013
 \bibitem{ALICE:2021hkc}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Charged-particle multiplicity fluctuations in Pb\textendash{}Pb collisions at $\sqrt{s_{\mathrm {NN}}}$ ~=~2.76~TeV,''
+%``Charged-particle multiplicity fluctuations in Pb{\textendash}Pb collisions at $\sqrt{s_{\mathrm {NN}}}$ ~=~2.76~TeV,''
 Eur. Phys. J. C \textbf{81}, no.11, 1012 (2021)
 doi:10.1140/epjc/s10052-021-09784-4
 [arXiv:2105.05745 [nucl-ex]].
@@ -2085,7 +2085,7 @@ doi:10.1140/epjc/s10052-021-09784-4
 \bibitem{ALICE:2021szj}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Kaon\textendash{}proton strong interaction at low relative momentum via femtoscopy in Pb\textendash{}Pb collisions at the LHC,''
+%``Kaon{\textendash}proton strong interaction at low relative momentum via femtoscopy in Pb{\textendash}Pb collisions at the LHC,''
 Phys. Lett. B \textbf{822}, 136708 (2021)
 doi:10.1016/j.physletb.2021.136708
 [arXiv:2105.05683 [nucl-ex]].
@@ -2118,7 +2118,7 @@ doi:10.1103/PhysRevLett.127.172301
 \bibitem{ALICE:2021cyj}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Investigating the role of strangeness in baryon\textendash{}antibaryon annihilation at the LHC,''
+%``Investigating the role of strangeness in baryon{\textendash}antibaryon annihilation at the LHC,''
 Phys. Lett. B \textbf{829}, 137060 (2022)
 doi:10.1016/j.physletb.2022.137060
 [arXiv:2105.05190 [nucl-ex]].
@@ -2141,7 +2141,7 @@ doi:10.1103/PhysRevLett.127.272001
 \bibitem{ALICE:2021lmn}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Inclusive, prompt and non-prompt J/\ensuremath{\psi} production at midrapidity in p-Pb collisions at $ \sqrt{s_{\mathrm{NN}}} $ = 5.02 TeV,''
+%``Inclusive, prompt and non-prompt J/{\ensuremath{\psi}} production at midrapidity in p-Pb collisions at $ \sqrt{s_{\mathrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{06}, 011 (2022)
 doi:10.1007/JHEP06(2022)011
 [arXiv:2105.04957 [nucl-ex]].
@@ -2163,7 +2163,7 @@ doi:10.1007/JHEP10(2021)003
 \bibitem{ALICE:2021vxl}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Production of $\Lambda$ and $K^0_s$ in jets in p\textendash{}Pb collisions at $\sqrt {s_{NN}}$=5.02 TeV and pp collisions at $\sqrt {s}$=7 TeV,''
+%``Production of $\Lambda$ and $K^0_s$ in jets in p{\textendash}Pb collisions at $\sqrt {s_{NN}}$=5.02 TeV and pp collisions at $\sqrt {s}$=7 TeV,''
 Phys. Lett. B \textbf{827}, 136984 (2022)
 doi:10.1016/j.physletb.2022.136984
 [arXiv:2105.04890 [nucl-ex]].
@@ -2185,7 +2185,7 @@ doi:10.1140/epjc/s10052-021-09545-3
 \bibitem{ALICE:2021njx}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Exploring the N\ensuremath{\Lambda}\textendash{}N\ensuremath{\Sigma} coupled system with high precision correlation techniques at the LHC,''
+%``Exploring the N{\ensuremath{\Lambda}}{\textendash}N{\ensuremath{\Sigma}} coupled system with high precision correlation techniques at the LHC,''
 Phys. Lett. B \textbf{833}, 137272 (2022)
 doi:10.1016/j.physletb.2022.137272
 [arXiv:2104.04427 [nucl-ex]].
@@ -2196,7 +2196,7 @@ doi:10.1016/j.physletb.2022.137272
 \bibitem{ALICE:2021est}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p\textendash{}Pb collisions at sNN=8.16 TeV,''
+%``Nuclear modification factor of light neutral-meson spectra up to high transverse momentum in p{\textendash}Pb collisions at sNN=8.16 TeV,''
 Phys. Lett. B \textbf{827}, 136943 (2022)
 doi:10.1016/j.physletb.2022.136943
 [arXiv:2104.03116 [nucl-ex]].
@@ -2218,7 +2218,7 @@ doi:10.1007/JHEP05(2021)220
 \bibitem{ALICE:2021adw}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurements of mixed harmonic cumulants in Pb\textendash{}Pb collisions at $\sqrt {s_{NN}}$ = 5.02 TeV,''
+%``Measurements of mixed harmonic cumulants in Pb{\textendash}Pb collisions at $\sqrt {s_{NN}}$ = 5.02 TeV,''
 Phys. Lett. B \textbf{818}, 136354 (2021)
 doi:10.1016/j.physletb.2021.136354
 [arXiv:2102.12180 [nucl-ex]].
@@ -2262,7 +2262,7 @@ doi:10.1007/JHEP05(2021)290
 \bibitem{ALICE:2021lsv}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Production of pions, kaons, (anti-)protons and $\phi $ mesons in Xe\textendash{}Xe collisions at $\sqrt{s_{\mathrm{NN}}}$~=~5.44 TeV,''
+%``Production of pions, kaons, (anti-)protons and $\phi $ mesons in Xe{\textendash}Xe collisions at $\sqrt{s_{\mathrm{NN}}}$~=~5.44 TeV,''
 Eur. Phys. J. C \textbf{81}, no.7, 584 (2021)
 doi:10.1140/epjc/s10052-021-09304-4
 [arXiv:2101.03100 [nucl-ex]].
@@ -2273,7 +2273,7 @@ doi:10.1140/epjc/s10052-021-09304-4
 \bibitem{ALICE:2021jnv}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First measurement of coherent \ensuremath{\rho}0 photoproduction in ultra-peripheral Xe\textendash{}Xe collisions at sNN=5.44 TeV,''
+%``First measurement of coherent {\ensuremath{\rho}}0 photoproduction in ultra-peripheral Xe{\textendash}Xe collisions at sNN=5.44 TeV,''
 Phys. Lett. B \textbf{820}, 136481 (2021)
 doi:10.1016/j.physletb.2021.136481
 [arXiv:2101.02581 [nucl-ex]].
@@ -2284,7 +2284,7 @@ doi:10.1016/j.physletb.2021.136481
 \bibitem{ALICE:2021klf}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Multiharmonic Correlations of Different Flow Amplitudes in Pb-Pb Collisions at $\sqrt{s_{_{NN}}}=2.76$\,\,TeV,''
+%``Multiharmonic Correlations of Different Flow Amplitudes in Pb-Pb Collisions at $\sqrt{s_{_{NN}}}=2.76${\,}{\,}TeV,''
 Phys. Rev. Lett. \textbf{127}, no.9, 092302 (2021)
 doi:10.1103/PhysRevLett.127.092302
 [arXiv:2101.02579 [nucl-ex]].
@@ -2295,7 +2295,7 @@ doi:10.1103/PhysRevLett.127.092302
 \bibitem{ALICE:2020try}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Inclusive heavy-flavour production at central and forward rapidity in Xe\textendash{}Xe collisions at sNN=5.44 TeV,''
+%``Inclusive heavy-flavour production at central and forward rapidity in Xe{\textendash}Xe collisions at sNN=5.44 TeV,''
 Phys. Lett. B \textbf{819}, 136437 (2021)
 doi:10.1016/j.physletb.2021.136437
 [arXiv:2011.06970 [nucl-ex]].
@@ -2317,7 +2317,7 @@ doi:10.1103/PhysRevC.104.054905
 \bibitem{ALICE:2020wfu}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``$\Lambda^+_c$ Production and Baryon-to-Meson Ratios in pp and p-Pb Collisions at $\sqrt {s_{NN}}$=5.02\,\,TeV at the LHC,''
+%``$\Lambda^+_c$ Production and Baryon-to-Meson Ratios in pp and p-Pb Collisions at $\sqrt {s_{NN}}$=5.02{\,}{\,}TeV at the LHC,''
 Phys. Rev. Lett. \textbf{127}, no.20, 202301 (2021)
 doi:10.1103/PhysRevLett.127.202301
 [arXiv:2011.06078 [nucl-ex]].
@@ -2350,7 +2350,7 @@ doi:10.1016/j.physletb.2021.136440
 \bibitem{ALICE:2020wwx}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``\Upsilon{} production and nuclear modification at forward rapidity in Pb\textendash{}Pb collisions at sNN=5.02TeV,''
+%``{\Upsilon} production and nuclear modification at forward rapidity in Pb{\textendash}Pb collisions at sNN=5.02TeV,''
 Phys. Lett. B \textbf{822}, 136579 (2021)
 doi:10.1016/j.physletb.2021.136579
 [arXiv:2011.05758 [nucl-ex]].
@@ -2361,7 +2361,7 @@ doi:10.1016/j.physletb.2021.136579
 \bibitem{ALICE:2020sjb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Production of muons from heavy-flavour hadron decays at high transverse momentum in Pb\textendash{}Pb collisions at sNN=5.02 and 2.76 TeV,''
+%``Production of muons from heavy-flavour hadron decays at high transverse momentum in Pb{\textendash}Pb collisions at sNN=5.02 and 2.76 TeV,''
 Phys. Lett. B \textbf{820}, 136558 (2021)
 doi:10.1016/j.physletb.2021.136558
 [arXiv:2011.05718 [nucl-ex]].
@@ -2494,7 +2494,7 @@ doi:10.1038/s41586-020-3001-6
 \bibitem{ALICE:2020iug}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Transverse-momentum and event-shape dependence of D-meson flow harmonics in Pb\textendash{}Pb collisions at $\sqrt {s_{NN}}$ = 5.02 TeV,''
+%``Transverse-momentum and event-shape dependence of D-meson flow harmonics in Pb{\textendash}Pb collisions at $\sqrt {s_{NN}}$ = 5.02 TeV,''
 Phys. Lett. B \textbf{813}, 136054 (2021)
 doi:10.1016/j.physletb.2020.136054
 [arXiv:2005.11131 [nucl-ex]].
@@ -2703,7 +2703,7 @@ doi:10.1103/PhysRevLett.125.012301
 \bibitem{ALICE:2019buq}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Investigation of the p\textendash{}\ensuremath{\Sigma}0 interaction via femtoscopy in pp collisions,''
+%``Investigation of the p{\textendash}{\ensuremath{\Sigma}}0 interaction via femtoscopy in pp collisions,''
 Phys. Lett. B \textbf{805}, 135419 (2020)
 doi:10.1016/j.physletb.2020.135419
 [arXiv:1910.14407 [nucl-ex]].
@@ -2725,7 +2725,7 @@ doi:10.1103/PhysRevLett.125.022301
 \bibitem{ALICE:2019qie}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``$ϒ$ production in p\textendash{}Pb collisions at $\sqrt{s_{NN}}$=8.16 TeV,''
+%``$ϒ$ production in p{\textendash}Pb collisions at $\sqrt{s_{NN}}$=8.16 TeV,''
 Phys. Lett. B \textbf{806}, 135486 (2020)
 doi:10.1016/j.physletb.2020.135486
 [arXiv:1910.14405 [nucl-ex]].
@@ -2736,7 +2736,7 @@ doi:10.1016/j.physletb.2020.135486
 \bibitem{ALICE:2019nrq}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Centrality and transverse momentum dependence of inclusive J/\ensuremath{\psi} production at midrapidity in Pb\textendash{}Pb collisions at sNN=5.02 TeV,''
+%``Centrality and transverse momentum dependence of inclusive J/{\ensuremath{\psi}} production at midrapidity in Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
 Phys. Lett. B \textbf{805}, 135434 (2020)
 doi:10.1016/j.physletb.2020.135434
 [arXiv:1910.14404 [nucl-ex]].
@@ -2747,7 +2747,7 @@ doi:10.1016/j.physletb.2020.135434
 \bibitem{ALICE:2019oyn}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Azimuthal correlations of prompt D mesons with charged particles in pp and p\textendash{}Pb collisions at $\sqrt{s_{NN}}$ = 5.02 TeV,''
+%``Azimuthal correlations of prompt D mesons with charged particles in pp and p{\textendash}Pb collisions at $\sqrt{s_{NN}}$ = 5.02 TeV,''
 Eur. Phys. J. C \textbf{80}, no.10, 979 (2020)
 doi:10.1140/epjc/s10052-020-8118-0
 [arXiv:1910.14403 [nucl-ex]].
@@ -2802,7 +2802,7 @@ doi:10.1103/PhysRevC.101.064901
 \bibitem{ALICE:2019etb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Multiplicity dependence of K*(892)0 and \ensuremath{\phi}(1020) production in pp collisions at s=13 TeV,''
+%``Multiplicity dependence of K*(892)0 and {\ensuremath{\phi}}(1020) production in pp collisions at s=13 TeV,''
 Phys. Lett. B \textbf{807}, 135501 (2020)
 doi:10.1016/j.physletb.2020.135501
 [arXiv:1910.14397 [nucl-ex]].
@@ -2813,7 +2813,7 @@ doi:10.1016/j.physletb.2020.135501
 \bibitem{ALICE:2019nbs}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Global baryon number conservation encoded in net-proton fluctuations measured in Pb\textendash{}Pb collisions at sNN=2.76 TeV,''
+%``Global baryon number conservation encoded in net-proton fluctuations measured in Pb{\textendash}Pb collisions at sNN=2.76 TeV,''
 Phys. Lett. B \textbf{807}, 135564 (2020)
 doi:10.1016/j.physletb.2020.135564
 [arXiv:1910.14396 [nucl-ex]].
@@ -2835,7 +2835,7 @@ doi:10.1016/j.physletb.2020.135375
 \bibitem{ALICE:2019ikx}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of the (anti-)3He elliptic flow in Pb\textendash{}Pb collisions at sNN=5.02TeV,''
+%``Measurement of the (anti-)3He elliptic flow in Pb{\textendash}Pb collisions at sNN=5.02TeV,''
 Phys. Lett. B \textbf{805}, 135414 (2020)
 doi:10.1016/j.physletb.2020.135414
 [arXiv:1910.09718 [nucl-ex]].
@@ -2946,7 +2946,7 @@ doi:10.1103/PhysRevLett.123.192301
 \bibitem{ALICE:2019fhe}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of prompt D$^{0}$, D$^{+}$, D$^{*+}$, and $ {\mathrm{D}}_{\mathrm{S}}^{+} $ production in p\textendash{}Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}} $ = 5.02 TeV,''
+%``Measurement of prompt D$^{0}$, D$^{+}$, D$^{*+}$, and $ {\mathrm{D}}_{\mathrm{S}}^{+} $ production in p{\textendash}Pb collisions at $ \sqrt{{\mathrm{s}}_{\mathrm{NN}}} $ = 5.02 TeV,''
 JHEP \textbf{12}, 092 (2019)
 doi:10.1007/JHEP12(2019)092
 [arXiv:1906.03425 [nucl-ex]].
@@ -2990,7 +2990,7 @@ doi:10.1103/PhysRevLett.124.092301
 \bibitem{ALICE:2019pid}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Inclusive J/\ensuremath{\psi} production at mid-rapidity in pp collisions at $ \sqrt{s} $ = 5.02 TeV,''
+%``Inclusive J/{\ensuremath{\psi}} production at mid-rapidity in pp collisions at $ \sqrt{s} $ = 5.02 TeV,''
 JHEP \textbf{10}, 084 (2019)
 doi:10.1007/JHEP10(2019)084
 [arXiv:1905.07211 [nucl-ex]].
@@ -3045,7 +3045,7 @@ doi:10.1103/PhysRevD.100.092004
 \bibitem{ALICE:2019ykw}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Exploration of jet substructure using iterative declustering in pp and Pb\textendash{}Pb collisions at LHC energies,''
+%``Exploration of jet substructure using iterative declustering in pp and Pb{\textendash}Pb collisions at LHC energies,''
 Phys. Lett. B \textbf{802}, 135227 (2020)
 doi:10.1016/j.physletb.2020.135227
 [arXiv:1905.02512 [nucl-ex]].
@@ -3111,7 +3111,7 @@ doi:10.1103/PhysRevC.100.024002
 \bibitem{ALICE:2019igo}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of strange baryon\textendash{}antibaryon interactions with femtoscopic correlations,''
+%``Measurement of strange baryon{\textendash}antibaryon interactions with femtoscopic correlations,''
 Phys. Lett. B \textbf{802}, 135223 (2020)
 doi:10.1016/j.physletb.2020.135223
 [arXiv:1903.06149 [nucl-ex]].
@@ -3254,7 +3254,7 @@ doi:10.1016/j.physletb.2018.12.033
 \bibitem{ALICE:2018oyo}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Energy dependence of exclusive $\mathrm {J}/\psi $ photoproduction off protons in ultra-peripheral p\textendash{}Pb collisions at $\sqrt{s_{\mathrm {\scriptscriptstyle NN}}} = 5.02$ TeV,''
+%``Energy dependence of exclusive $\mathrm {J}/\psi $ photoproduction off protons in ultra-peripheral p{\textendash}Pb collisions at $\sqrt{s_{\mathrm {\scriptscriptstyle NN}}} = 5.02$ TeV,''
 Eur. Phys. J. C \textbf{79}, no.5, 402 (2019)
 doi:10.1140/epjc/s10052-019-6816-2
 [arXiv:1809.03235 [nucl-ex]].
@@ -3320,7 +3320,7 @@ doi:10.1103/PhysRevC.99.024001
 \bibitem{ALICE:2018ekf}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Analysis of the apparent nuclear modification in peripheral Pb\textendash{}Pb collisions at 5.02 TeV,''
+%``Analysis of the apparent nuclear modification in peripheral Pb{\textendash}Pb collisions at 5.02 TeV,''
 Phys. Lett. B \textbf{793}, 420-432 (2019)
 doi:10.1016/j.physletb.2019.04.047
 [arXiv:1805.05212 [nucl-ex]].
@@ -3331,7 +3331,7 @@ doi:10.1016/j.physletb.2019.04.047
 \bibitem{ALICE:2018cpu}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe\textendash{}Xe collisions at $\sqrt{s_{\rm NN}}$ =5.44TeV,''
+%``Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe{\textendash}Xe collisions at $\sqrt{s_{\rm NN}}$ =5.44TeV,''
 Phys. Lett. B \textbf{790}, 35-48 (2019)
 doi:10.1016/j.physletb.2018.12.048
 [arXiv:1805.04432 [nucl-ex]].
@@ -3353,7 +3353,7 @@ doi:10.1103/PhysRevC.100.044903
 \bibitem{ALICE:2018gev}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Dielectron and heavy-quark production in inelastic and high-multiplicity proton\textendash{}proton collisions at $\sqrt {s_{NN}}=$ 13TeV,''
+%``Dielectron and heavy-quark production in inelastic and high-multiplicity proton{\textendash}proton collisions at $\sqrt {s_{NN}}=$ 13TeV,''
 Phys. Lett. B \textbf{788}, 505-518 (2019)
 doi:10.1016/j.physletb.2018.11.009
 [arXiv:1805.04407 [hep-ex]].
@@ -3419,7 +3419,7 @@ doi:10.1016/j.physletb.2018.11.067
 \bibitem{ALICE:2018cqy}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Inclusive J/$\psi$ production in Xe\textendash{}Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44 TeV,''
+%``Inclusive J/$\psi$ production in Xe{\textendash}Xe collisions at $\sqrt{s_{\rm NN}}$ = 5.44 TeV,''
 Phys. Lett. B \textbf{785}, 419-428 (2018)
 doi:10.1016/j.physletb.2018.08.047
 [arXiv:1805.04383 [nucl-ex]].
@@ -3584,7 +3584,7 @@ doi:10.1007/JHEP11(2018)013
 \bibitem{ALICE:2018szk}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Prompt and non-prompt $\hbox {J}/\psi $ production and nuclear modification at mid-rapidity in p\textendash{}Pb collisions at $\mathbf{\sqrt{{ s}_{\text {NN}}}= 5.02}$  TeV,''
+%``Prompt and non-prompt $\hbox {J}/\psi $ production and nuclear modification at mid-rapidity in p{\textendash}Pb collisions at $\mathbf{\sqrt{{ s}_{\text {NN}}}= 5.02}$  TeV,''
 Eur. Phys. J. C \textbf{78}, no.6, 466 (2018)
 doi:10.1140/epjc/s10052-018-5881-2
 [arXiv:1802.00765 [nucl-ex]].
@@ -3782,7 +3782,7 @@ doi:10.1140/epjc/s10052-017-5412-6
 \bibitem{ALICE:2017nuf}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Measurement of deuteron spectra and elliptic flow in Pb\textendash{}Pb collisions at $\sqrt{s_{\mathrm {NN}}}$ = 2.76 TeV at the LHC,''
+%``Measurement of deuteron spectra and elliptic flow in Pb{\textendash}Pb collisions at $\sqrt{s_{\mathrm {NN}}}$ = 2.76 TeV at the LHC,''
 Eur. Phys. J. C \textbf{77}, no.10, 658 (2017)
 doi:10.1140/epjc/s10052-017-5222-x
 [arXiv:1707.07304 [nucl-ex]].
@@ -3836,7 +3836,7 @@ doi:10.1016/j.physletb.2017.07.060
 
 \bibitem{ALICE:2017wet}
 
- D.~Adamov\'a \textit{et al.} [ALICE],
+ D.~Adamov{\'a} \textit{et al.} [ALICE],
 %``J/$\psi$ production as a function of charged-particle pseudorapidity density in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
 Phys. Lett. B \textbf{776}, 91-104 (2018)
 doi:10.1016/j.physletb.2017.11.008
@@ -3892,7 +3892,7 @@ doi:10.1140/epjc/s10052-017-4890-x
 \bibitem{ALICE:2017nij}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``First measurement of jet mass in Pb\textendash{}Pb and p\textendash{}Pb collisions at the LHC,''
+%``First measurement of jet mass in Pb{\textendash}Pb and p{\textendash}Pb collisions at the LHC,''
 Phys. Lett. B \textbf{776}, 249-264 (2018)
 doi:10.1016/j.physletb.2017.11.044
 [arXiv:1702.00804 [nucl-ex]].
@@ -4036,7 +4036,7 @@ doi:10.1007/JHEP07(2017)052
 \bibitem{ALICE:2016gso}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Jet-like correlations with neutral pion triggers in pp and central Pb\textendash{}Pb collisions at 2.76 TeV,''
+%``Jet-like correlations with neutral pion triggers in pp and central Pb{\textendash}Pb collisions at 2.76 TeV,''
 Phys. Lett. B \textbf{763}, 238-250 (2016)
 doi:10.1016/j.physletb.2016.10.048
 [arXiv:1608.07201 [nucl-ex]].
@@ -4200,7 +4200,7 @@ doi:10.1103/PhysRevLett.116.132302
 \bibitem{ALICE:2016sak}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Production of K$^{*}$ (892)$^{0}$ and $\phi $ (1020) in p\textendash{}Pb collisions at $\sqrt{s_{{\text {NN}}}}$ = 5.02 TeV,''
+%``Production of K$^{*}$ (892)$^{0}$ and $\phi $ (1020) in p{\textendash}Pb collisions at $\sqrt{s_{{\text {NN}}}}$ = 5.02 TeV,''
 Eur. Phys. J. C \textbf{76}, no.5, 245 (2016)
 doi:10.1140/epjc/s10052-016-4088-7
 [arXiv:1601.07868 [nucl-ex]].
@@ -4277,7 +4277,7 @@ doi:10.1103/PhysRevLett.116.222301
 \bibitem{ALICE:2015qqj}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Pseudorapidity and transverse-momentum distributions of charged particles in proton\textendash{}proton collisions at $\sqrt s=$ 13 TeV,''
+%``Pseudorapidity and transverse-momentum distributions of charged particles in proton{\textendash}proton collisions at $\sqrt s=$ 13 TeV,''
 Phys. Lett. B \textbf{753}, 319-329 (2016)
 doi:10.1016/j.physletb.2015.12.030
 [arXiv:1509.08734 [nucl-ex]].
@@ -4299,7 +4299,7 @@ doi:10.1140/epjc/s10052-016-3987-y
 \bibitem{ALICE:2015olq}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Charged-particle multiplicities in proton\textendash{}proton collisions at $\sqrt{s} = 0.9$ to 8 TeV,''
+%``Charged-particle multiplicities in proton{\textendash}proton collisions at $\sqrt{s} = 0.9$ to 8 TeV,''
 Eur. Phys. J. C \textbf{77}, no.1, 33 (2017)
 doi:10.1140/epjc/s10052-016-4571-1
 [arXiv:1509.07541 [nucl-ex]].
@@ -4343,7 +4343,7 @@ doi:10.1016/j.physletb.2016.01.020
 \bibitem{ALICE:2015bpk}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Centrality evolution of the charged\textendash{}particle pseudorapidity density over a broad pseudorapidity range in Pb\textendash{}Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV,''
+%``Centrality evolution of the charged{\textendash}particle pseudorapidity density over a broad pseudorapidity range in Pb{\textendash}Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV,''
 Phys. Lett. B \textbf{754}, 373-385 (2016)
 doi:10.1016/j.physletb.2015.12.082
 [arXiv:1509.07299 [nucl-ex]].
@@ -4365,7 +4365,7 @@ doi:10.1007/JHEP03(2016)082
 \bibitem{ALICE:2015nuz}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Multiplicity and transverse momentum evolution of charge-dependent correlations in pp, p\textendash{}Pb, and Pb\textendash{}Pb collisions at the LHC,''
+%``Multiplicity and transverse momentum evolution of charge-dependent correlations in pp, p{\textendash}Pb, and Pb{\textendash}Pb collisions at the LHC,''
 Eur. Phys. J. C \textbf{76}, no.2, 86 (2016)
 doi:10.1140/epjc/s10052-016-3915-1
 [arXiv:1509.07255 [nucl-ex]].
@@ -4442,7 +4442,7 @@ doi:10.1103/PhysRevC.93.034916
 \bibitem{ALICE:2015xyt}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Elliptic flow of muons from heavy-flavour hadron decays at forward rapidity in Pb\textendash{}Pb collisions at $\sqrt{s_{\rm NN}}= 2.76$ TeV,''
+%``Elliptic flow of muons from heavy-flavour hadron decays at forward rapidity in Pb{\textendash}Pb collisions at $\sqrt{s_{\rm NN}}= 2.76$ TeV,''
 Phys. Lett. B \textbf{753}, 41-56 (2016)
 doi:10.1016/j.physletb.2015.11.059
 [arXiv:1507.03134 [nucl-ex]].
@@ -4475,7 +4475,7 @@ doi:10.1103/PhysRevC.93.024917
 \bibitem{ALICE:2015kgk}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Centrality dependence of inclusive J/\ensuremath{\psi} production in p-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=5.02 $ TeV,''
+%``Centrality dependence of inclusive J/{\ensuremath{\psi}} production in p-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=5.02 $ TeV,''
 JHEP \textbf{11}, 127 (2015)
 doi:10.1007/JHEP11(2015)127
 [arXiv:1506.08808 [nucl-ex]].
@@ -4486,7 +4486,7 @@ doi:10.1007/JHEP11(2015)127
 \bibitem{ALICE:2015jrl}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Differential studies of inclusive J/\ensuremath{\psi} and \ensuremath{\psi}(2S) production at forward rapidity in Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
+%``Differential studies of inclusive J/{\ensuremath{\psi}} and {\ensuremath{\psi}}(2S) production at forward rapidity in Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
 JHEP \textbf{05}, 179 (2016)
 doi:10.1007/JHEP05(2016)179
 [arXiv:1506.08804 [nucl-ex]].
@@ -4596,7 +4596,7 @@ doi:10.1007/JHEP07(2015)051
 \bibitem{ALICE:2015ial}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Measurement of pion, kaon and proton production in proton\textendash{}proton collisions at $\sqrt{s} = 7$ TeV,''
+%``Measurement of pion, kaon and proton production in proton{\textendash}proton collisions at $\sqrt{s} = 7$ TeV,''
 Eur. Phys. J. C \textbf{75}, no.5, 226 (2015)
 doi:10.1140/epjc/s10052-015-3422-9
 [arXiv:1504.00024 [nucl-ex]].
@@ -4607,7 +4607,7 @@ doi:10.1140/epjc/s10052-015-3422-9
 \bibitem{ALICE:2015nbw}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Coherent \ensuremath{\rho}$^{0}$ photoproduction in ultra-peripheral Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
+%``Coherent {\ensuremath{\rho}}$^{0}$ photoproduction in ultra-peripheral Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV,''
 JHEP \textbf{09}, 095 (2015)
 doi:10.1007/JHEP09(2015)095
 [arXiv:1503.09177 [nucl-ex]].
@@ -4629,7 +4629,7 @@ doi:10.1007/JHEP06(2015)055
 \bibitem{ALICE:2015ppz}
 
  J.~Adam \textit{et al.} [ALICE],
-%``Measurement of dijet $k_T$ in p\textendash{}Pb collisions at $\sqrt{s}_{NN}$=5.02 TeV,''
+%``Measurement of dijet $k_T$ in p{\textendash}Pb collisions at $\sqrt{s}_{NN}$=5.02 TeV,''
 Phys. Lett. B \textbf{746}, 385-395 (2015)
 doi:10.1016/j.physletb.2015.05.033
 [arXiv:1503.03050 [nucl-ex]].

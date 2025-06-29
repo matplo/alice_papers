@@ -1,4 +1,4 @@
-   * Generated on 2025-Jun-29 09:08 CEST  .
+   * Generated on 2025-Jun-29 17:09 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LG|Study of $\langle p_{\rm T} \rangle$ and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2506.10394v1][2506.10394]]|[[https://inspirehep.net/literature/2933773][2933773]]|%RED%Submitted%ENDCOLOR%|529|

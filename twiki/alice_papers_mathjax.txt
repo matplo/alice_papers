@@ -1,6 +1,8 @@
-   * Generated on 2025-Jul-18 09:05 CEST  .
+   * Generated on 2025-Jul-18 17:13 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13197v1][2507.13197]]|[[-][0]]|%RED%Submitted%ENDCOLOR%|531|
+|LF|\(\overline\Sigma^{\pm}\) production in pp and p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV with ALICE|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13183v1][2507.13183]]|[[https://inspirehep.net/literature/2948508][2948508]]|%RED%Submitted%ENDCOLOR%|530|
 |LG|Study of \(\langle p_{\rm T} \rangle\) and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2506.10394v1][2506.10394]]|[[https://inspirehep.net/literature/2933773][2933773]]|%RED%Submitted%ENDCOLOR%|529|
 |CF|Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2505.01061v1][2505.01061]]|[[https://inspirehep.net/literature/2917986][2917986]]|%RED%Submitted%ENDCOLOR%|528|
 |CF|Long-range transverse momentum correlations and radial flow in Pb\(-\)Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.04796v1][2504.04796]]|[[https://inspirehep.net/literature/2908602][2908602]]|%RED%Submitted%ENDCOLOR%|527|

@@ -10,7 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
-|HF|Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\} = 5.02\}\\) TeV|PbPb|[2507.13197](http://arxiv.org/abs/2507.13197v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|531|
+|HF|Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\} = 5.02\}\\) TeV|PbPb|[2507.13197](http://arxiv.org/abs/2507.13197v1){: target="_blank"}|[2951290](https://inspirehep.net/literature/2951290){: target="_blank"}|Submitted|531|
 |LF|\\(\overline\Sigma^\{\pm\}\\) production in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\}\\) = 5.02 TeV with ALICE|pp,pPb|[2507.13183](http://arxiv.org/abs/2507.13183v1){: target="_blank"}|[2948508](https://inspirehep.net/literature/2948508){: target="_blank"}|Submitted|530|
 |LG|Study of \\(\langle p_\{\rm T\} \rangle\\) and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE|PbPb|[2506.10394](http://arxiv.org/abs/2506.10394v1){: target="_blank"}|[2933773](https://inspirehep.net/literature/2933773){: target="_blank"}|Submitted|529|
 |CF|Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC|PbPb|[2505.01061](http://arxiv.org/abs/2505.01061v1){: target="_blank"}|[2917986](https://inspirehep.net/literature/2917986){: target="_blank"}|Submitted|528|

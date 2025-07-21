@@ -1,4 +1,4 @@
-   * Generated on 2025-Jul-21 00:58 CEST  .
+   * Generated on 2025-Jul-21 08:58 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13197v1][2507.13197]]|[[-][0]]|%RED%Submitted%ENDCOLOR%|531|
@@ -26,7 +26,7 @@
 |HF|Studying charm hadronisation into baryons with azimuthal correlations of \(\Lambda_{\rm c}^{+}\) with charged particles in pp collisions at \(\mathbf{\sqrt{s} = 13}\) !TeV|pp|[[http://arxiv.org/abs/2411.10104v1][2411.10104]]|[[https://inspirehep.net/literature/2849184][2849184]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139681][Phys. Lett. B 868]]%ENDCOLOR%|509|
 |EM|Light neutral-meson production in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2411.09560v1][2411.09560]]|[[https://inspirehep.net/literature/2848478][2848478]]|%RED%Submitted%ENDCOLOR%|508|
 |EM|Measurement of \(\omega\) meson production in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2411.09432v2][2411.09432]]|[[https://inspirehep.net/literature/2848263][2848263]]|%GREEN%[[https://doi.org/10.1007/JHEP04(2025)067][JHEP 04]]%ENDCOLOR%|507|
-|CF|System size and energy dependence of the mean transverse momentum fluctuations at the LHC|pp,%RED%PbPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2411.09334v1][2411.09334]]|[[https://inspirehep.net/literature/2848476][2848476]]|%RED%Submitted%ENDCOLOR%|506|
+|CF|System size and energy dependence of the mean transverse momentum fluctuations at the LHC|pp,%RED%PbPb%ENDCOLOR%,%PINK%XeXe%ENDCOLOR%|[[http://arxiv.org/abs/2411.09334v1][2411.09334]]|[[https://inspirehep.net/literature/2848476][2848476]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-025-14325-4][Eur. Phys. J. C 85]]%ENDCOLOR%|506|
 |CF|Observation of partonic flow in proton-proton and proton-nucleus collisions|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2411.09323v1][2411.09323]]|[[https://inspirehep.net/literature/2848254][2848254]]|%RED%Submitted%ENDCOLOR%|505|
 |JE|Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2411.03106v2][2411.03106]]|[[https://inspirehep.net/literature/2845788][2845788]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139409][Phys. Lett. B 864]]%ENDCOLOR%|504|
 |UD|Multimuons in cosmic-ray events as seen in ALICE at the LHC|c.r.|[[http://arxiv.org/abs/2410.17771v2][2410.17771]]|[[https://inspirehep.net/literature/2842099][2842099]]|%GREEN%[[https://doi.org/10.1088/1475-7516/2025/04/009][JCAP 04]]%ENDCOLOR%|503|

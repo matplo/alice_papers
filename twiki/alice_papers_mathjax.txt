@@ -1,4 +1,4 @@
-   * Generated on 2025-Jul-30 16:58 CEST  .
+   * Generated on 2025-Jul-31 00:58 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Multiplicity dependence of f\(_0\)(980) production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2507.19347v1][2507.19347]]|[[https://inspirehep.net/literature/2954608][2954608]]|%RED%Submitted%ENDCOLOR%|533|

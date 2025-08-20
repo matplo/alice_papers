@@ -1,4 +1,4 @@
-   * Generated on 2025-Aug-20 16:55 CEST  .
+   * Generated on 2025-Aug-21 00:59 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Multiplicity dependence of f\(_0\)(980) production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2507.19347v1][2507.19347]]|[[https://inspirehep.net/literature/2954608][2954608]]|%RED%Submitted%ENDCOLOR%|533|
@@ -23,7 +23,7 @@
 |LF|Charged-particle multiplicity distributions over a wide pseudorapidity range in p-Pb collisions at \(\mathbf{\sqrt{s}_{\rm NN} = 5.02}\) !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2502.18081v1][2502.18081]]|[[https://inspirehep.net/literature/2895567][2895567]]|%RED%Submitted%ENDCOLOR%|514|
 |LF|Observation of the \(Ω\)(2012) baryon at the LHC|pp|[[http://arxiv.org/abs/2502.18063v1][2502.18063]]|[[https://inspirehep.net/literature/2895566][2895566]]|%RED%Submitted%ENDCOLOR%|513|
 |JE|Measurement of isolated prompt photon production in pp and p-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2502.18054v1][2502.18054]]|[[https://inspirehep.net/literature/2895564][2895564]]|%RED%Submitted%ENDCOLOR%|512|
-|CF|First measurement of symmetric cumulants of hexagonal flow harmonics in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2412.15873v1][2412.15873]]|[[https://inspirehep.net/literature/2865181][2865181]]|%RED%Submitted%ENDCOLOR%|511|
+|CF|First measurement of symmetric cumulants of hexagonal flow harmonics in Pb-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2412.15873v1][2412.15873]]|[[https://inspirehep.net/literature/2865181][2865181]]|%GREEN%[[https://doi.org/10.1103/4ltm-g1qg][Phys. Rev. C 112]]%ENDCOLOR%|511|
 |EM|Direct-photon production in inelastic and high-multiplicity proton-proton collisions at \(\sqrt{s} =\) 13 !TeV|pp|[[http://arxiv.org/abs/2411.14366v2][2411.14366]]|[[https://inspirehep.net/literature/2850920][2850920]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139645][Phys. Lett. B 868]]%ENDCOLOR%|510|
 |HF|Studying charm hadronisation into baryons with azimuthal correlations of \(\Lambda_{\rm c}^{+}\) with charged particles in pp collisions at \(\mathbf{\sqrt{\it s} = 13}\) !TeV|pp|[[http://arxiv.org/abs/2411.10104v2][2411.10104]]|[[https://inspirehep.net/literature/2849184][2849184]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139681][Phys. Lett. B 868]]%ENDCOLOR%|509|
 |EM|Light neutral-meson production in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2411.09560v1][2411.09560]]|[[https://inspirehep.net/literature/2848478][2848478]]|%GREEN%[[https://doi.org/10.1007/JHEP08(2025)035][JHEP 08]]%ENDCOLOR%|508|

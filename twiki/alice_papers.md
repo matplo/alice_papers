@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|\\(\Sigma^\{+\}\\) production in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2508.20808](http://arxiv.org/abs/2508.20808v1){: target="_blank"}|[2964522](https://inspirehep.net/literature/2964522){: target="_blank"}|Submitted|534|
 |LF|Multiplicity dependence of f\\(_0\\)(980) production in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2507.19347](http://arxiv.org/abs/2507.19347v1){: target="_blank"}|[2954608](https://inspirehep.net/literature/2954608){: target="_blank"}|Submitted|533|
 |LF|Multiplicity dependence of K\\(^*(892)^\{\pm\}\\) production in pp collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2507.19332](http://arxiv.org/abs/2507.19332v1){: target="_blank"}|[2954610](https://inspirehep.net/literature/2954610){: target="_blank"}|Submitted|532|
 |HF|Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb-Pb collisions at \\(\sqrt\{s_\{\rm\{NN\}\} = 5.02\}\\) TeV|PbPb|[2507.13197](http://arxiv.org/abs/2507.13197v1){: target="_blank"}|[2951290](https://inspirehep.net/literature/2951290){: target="_blank"}|Submitted|531|

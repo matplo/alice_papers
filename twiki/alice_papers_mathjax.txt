@@ -1,4 +1,4 @@
-   * Generated on 2025-Sep-07 16:58 CEST  .
+   * Generated on 2025-Sep-08 00:58 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|\(\Sigma^{+}\) production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2508.20808v1][2508.20808]]|[[https://inspirehep.net/literature/2964522][2964522]]|%RED%Submitted%ENDCOLOR%|534|

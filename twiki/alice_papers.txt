@@ -1,4 +1,4 @@
-   * Generated on 2025-Sep-20 16:59 CEST  .
+   * Generated on 2025-Sep-21 01:06 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Evidence of nuclear geometry-driven anisotropic flow in OO and Ne$-$Ne collisions at $\mathbf{\sqrt{{\textit s}_{\rm\mathbf {NN}}}}$ = 5.36 !TeV|NeNe,OO|[[http://arxiv.org/abs/2509.06428v1][2509.06428]]|[[https://inspirehep.net/literature/2967353][2967353]]|%RED%Submitted%ENDCOLOR%|535|

@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Study of the interaction between \\(\Xi\\) baryons and light mesons via femtoscopy at the LHC|pp|[2509.24519](http://arxiv.org/abs/2509.24519v1){: target="_blank"}|[2974295](https://inspirehep.net/literature/2974295){: target="_blank"}|Submitted|536|
 |CF|Evidence of nuclear geometry-driven anisotropic flow in OO and Ne\\(-\\)Ne collisions at \\(\mathbf\{\sqrt\{\{\textit s\}_\{\rm\mathbf \{NN\}\}\}\}\\) = 5.36 TeV|NeNe,OO|[2509.06428](http://arxiv.org/abs/2509.06428v1){: target="_blank"}|[2967353](https://inspirehep.net/literature/2967353){: target="_blank"}|Submitted|535|
 |LF|\\(\Sigma^\{+\}\\) production in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2508.20808](http://arxiv.org/abs/2508.20808v1){: target="_blank"}|[2964522](https://inspirehep.net/literature/2964522){: target="_blank"}|Submitted|534|
 |LF|Multiplicity dependence of f\\(_0\\)(980) production in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2507.19347](http://arxiv.org/abs/2507.19347v1){: target="_blank"}|[2954608](https://inspirehep.net/literature/2954608){: target="_blank"}|Submitted|533|

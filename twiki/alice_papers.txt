@@ -1,4 +1,4 @@
-   * Generated on 2025-Oct-08 00:58 CEST  .
+   * Generated on 2025-Oct-08 08:58 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Study of the interaction between $Ξ$ baryons and light mesons via femtoscopy at the LHC|pp|[[http://arxiv.org/abs/2509.24519v1][2509.24519]]|[[https://inspirehep.net/literature/2974295][2974295]]|%RED%Submitted%ENDCOLOR%|536|

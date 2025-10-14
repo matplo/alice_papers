@@ -1,4 +1,4 @@
-   * Generated on 2025-Oct-14 08:59 CEST  .
+   * Generated on 2025-Oct-14 16:59 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Study of the interaction between \(\Xi\) baryons and light mesons via femtoscopy at the LHC|pp|[[http://arxiv.org/abs/2509.24519v1][2509.24519]]|[[https://inspirehep.net/literature/2974295][2974295]]|%RED%Submitted%ENDCOLOR%|536|
@@ -17,7 +17,7 @@
 |CF|Revealing the microscopic mechanism of deuteron formation at the LHC|pp|[[http://arxiv.org/abs/2504.02393v1][2504.02393]]|[[https://inspirehep.net/literature/2907586][2907586]]|%RED%Submitted%ENDCOLOR%|523|
 |CF|First observation of ultra-long-range azimuthal correlations in low multiplicity pp and p-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.02359v1][2504.02359]]|[[https://inspirehep.net/literature/2907599][2907599]]|%RED%Submitted%ENDCOLOR%|522|
 |CF|Accessing the deuteron source with pion-deuteron femtoscopy in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.02333v1][2504.02333]]|[[https://inspirehep.net/literature/2907579][2907579]]|%RED%Submitted%ENDCOLOR%|521|
-|HF|First measurement of D\(^{*+}\) vector spin alignment in Pb-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.00714v1][2504.00714]]|[[https://inspirehep.net/literature/2906994][2906994]]|%RED%Submitted%ENDCOLOR%|520|
+|HF|First measurement of D\(^{*+}\) vector spin alignment in Pb-Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.00714v1][2504.00714]]|[[https://inspirehep.net/literature/2906994][2906994]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2025)094][JHEP 10]]%ENDCOLOR%|520|
 |DQ|Multiplicity-dependent inclusive J/\(\psi\) production at forward rapidity in pp collisions at \(\mathbf{\sqrt{s} = 13}\) !TeV|pp|[[http://arxiv.org/abs/2504.00686v1][2504.00686]]|[[https://inspirehep.net/literature/2906995][2906995]]|%GREEN%[[https://doi.org/10.1007/JHEP07(2025)238][JHEP 07]]%ENDCOLOR%|519|
 |CF|Measurement of correlations among net-charge, net-proton, and net-kaon multiplicity distributions in Pb-Pb collisions at \(\sqrt{s_\text{NN}}=5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2503.18743v1][2503.18743]]|[[https://inspirehep.net/literature/2903549][2903549]]|%GREEN%[[https://doi.org/10.1007/JHEP08(2025)210][JHEP 08]]%ENDCOLOR%|518|
 |UD|Evidence for J/\(\psi\) suppression in incoherent photonuclear production|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2503.18708v1][2503.18708]]|[[https://inspirehep.net/literature/2903550][2903550]]|%RED%Submitted%ENDCOLOR%|517|

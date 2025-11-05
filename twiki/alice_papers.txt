@@ -1,4 +1,4 @@
-   * Generated on 2025-Nov-05 00:59 CET  .
+   * Generated on 2025-Nov-05 08:59 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Measurement of the p$-Σ^+$ correlation function in pp collisions at $\sqrt{\textit{s}}=13$ !TeV|pp|[[http://arxiv.org/abs/2510.14448v1][2510.14448]]|[[https://inspirehep.net/literature/3070639][3070639]]|%RED%Submitted%ENDCOLOR%|537|

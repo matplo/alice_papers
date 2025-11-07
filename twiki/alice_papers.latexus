@@ -23,7 +23,7 @@
  I.~J.~Abualrob \textit{et al.} [ALICE],
 %``Evidence of nuclear geometry-driven anisotropic flow in OO and Ne$-$Ne collisions at $\mathbf{\sqrt{{\textit s}_{\rm\mathbf {NN}}}}$ = 5.36 TeV,''
 [arXiv:2509.06428 [nucl-ex]].
-%8 citations counted in INSPIRE as of 07 Nov 2025
+%9 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2025hqt}
 
@@ -77,7 +77,7 @@
  I.~J.~Abualrob \textit{et al.} [ALICE],
 %``Study of $\langle p_{\rm T} \rangle$ and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE,''
 [arXiv:2506.10394 [nucl-ex]].
-%4 citations counted in INSPIRE as of 07 Nov 2025
+%5 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2025wuy}
 
@@ -381,7 +381,7 @@ doi:10.1007/JHEP03(2025)029
  S.~Acharya \textit{et al.} [ALICE],
 %``Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at $\sqrt{\textit s}=5.02$ TeV,''
 [arXiv:2409.12687 [hep-ex]].
-%39 citations counted in INSPIRE as of 07 Nov 2025
+%40 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2024yvg}
 
@@ -471,7 +471,7 @@ doi:10.1007/JHEP07(2025)023
 
 \bibitem{ALICE:2024nqd}
 
- S.~Acharya \textit{et al.} [ALICE],
+ A.~Collaboration \textit{et al.} [ALICE],
 %``Exploring nuclear structure with multiparticle azimuthal correlations at the LHC,''
 Phys. Lett. B \textbf{869}, 139855 (2025)
 doi:10.1016/j.physletb.2025.139855
@@ -901,7 +901,7 @@ doi:10.1103/PhysRevC.110.014906
 JHEP \textbf{02}, 066 (2024)
 doi:10.1007/JHEP02(2024)066
 [arXiv:2308.16125 [nucl-ex]].
-%22 citations counted in INSPIRE as of 07 Nov 2025
+%21 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2023weh}
 
@@ -967,7 +967,7 @@ doi:10.1103/PhysRevC.109.014911
 JHEP \textbf{12}, 086 (2023)
 doi:10.1007/JHEP12(2023)086
 [arXiv:2308.04877 [hep-ex]].
-%59 citations counted in INSPIRE as of 07 Nov 2025
+%58 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2023wbx}
 
@@ -1058,6 +1058,16 @@ doi:10.1007/JHEP10(2023)119
 [arXiv:2305.19060 [nucl-ex]].
 %71 citations counted in INSPIRE as of 07 Nov 2025
 
+\cite{ALICE:2023gcs}
+
+\bibitem{ALICE:2023gcs}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``First Measurement of the |t| Dependence of Incoherent J/{\ensuremath{\psi}} Photonuclear Production,''
+Phys. Rev. Lett. \textbf{132}, no.16, 162302 (2024)
+doi:10.1103/PhysRevLett.132.162302
+[arXiv:2305.06169 [nucl-ex]].
+%29 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2023mfc}
 
@@ -1958,7 +1968,7 @@ doi:10.1016/j.physletb.2022.136986
 JHEP \textbf{01}, 174 (2022)
 doi:10.1007/JHEP01(2022)174
 [arXiv:2110.09420 [nucl-ex]].
-%175 citations counted in INSPIRE as of 07 Nov 2025
+%174 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2021hjb}
 
@@ -2013,7 +2023,7 @@ doi:10.1007/JHEP01(2022)106
 JHEP \textbf{03}, 190 (2022)
 doi:10.1007/JHEP03(2022)190
 [arXiv:2108.02523 [nucl-ex]].
-%53 citations counted in INSPIRE as of 07 Nov 2025
+%52 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2021dtt}
 
@@ -2026,7 +2036,27 @@ doi:10.1140/epjc/s10052-021-09873-4
 [arXiv:2108.01906 [nucl-ex]].
 %26 citations counted in INSPIRE as of 07 Nov 2025
 
+\cite{ALargeIonColliderExperiment:2021mqf}
 
+\bibitem{ALargeIonColliderExperiment:2021mqf}
+
+ S.~Acharya \textit{et al.} [A Large Ion Collider Experiment and ALICE],
+%``Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{NN}} = 5.02$ TeV,''
+Phys. Rev. Lett. \textbf{128}, no.10, 102001 (2022)
+doi:10.1103/PhysRevLett.128.102001
+[arXiv:2107.12984 [nucl-ex]].
+%111 citations counted in INSPIRE as of 07 Nov 2025
+
+\cite{ALICE:2021njq}
+
+\bibitem{ALICE:2021njq}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurements of the groomed and ungroomed jet angularities in pp collisions at $ \sqrt{s} $ = 5.02 TeV,''
+JHEP \textbf{05}, 061 (2022)
+doi:10.1007/JHEP05(2022)061
+[arXiv:2107.11303 [nucl-ex]].
+%71 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2021nvv}
 
@@ -2426,6 +2456,16 @@ doi:10.1016/j.physletb.2021.136579
 [arXiv:2011.05758 [nucl-ex]].
 %68 citations counted in INSPIRE as of 07 Nov 2025
 
+\cite{ALICE:2020sjb}
+
+\bibitem{ALICE:2020sjb}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Production of muons from heavy-flavour hadron decays at high transverse momentum in Pb{\textendash}Pb collisions at sNN=5.02 and 2.76 TeV,''
+Phys. Lett. B \textbf{820}, 136558 (2021)
+doi:10.1016/j.physletb.2021.136558
+[arXiv:2011.05718 [nucl-ex]].
+%27 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2020swj}
 
@@ -2669,7 +2709,7 @@ doi:10.1016/j.physletb.2020.135849
 JHEP \textbf{07}, 237 (2020)
 doi:10.1007/JHEP07(2020)237
 [arXiv:2003.06053 [nucl-ex]].
-%39 citations counted in INSPIRE as of 07 Nov 2025
+%38 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2020foi}
 
@@ -2944,7 +2984,7 @@ doi:10.1103/PhysRevC.101.034911
 JHEP \textbf{02}, 041 (2020)
 doi:10.1007/JHEP02(2020)041
 [arXiv:1909.03158 [nucl-ex]].
-%74 citations counted in INSPIRE as of 07 Nov 2025
+%73 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2019onw}
 
@@ -3123,6 +3163,16 @@ doi:10.1007/JHEP08(2019)133
 [arXiv:1905.02510 [nucl-ex]].
 %58 citations counted in INSPIRE as of 07 Nov 2025
 
+\cite{ALICE:2019whv}
+
+\bibitem{ALICE:2019whv}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurement of jet radial profiles in Pb$–$Pb collisions at $\sqrt{s_{\rm NN}}=$ 2.76 TeV,''
+Phys. Lett. B \textbf{796}, 204-219 (2019)
+doi:10.1016/j.physletb.2019.07.020
+[arXiv:1904.13118 [nucl-ex]].
+%21 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2019hdt}
 
@@ -3485,7 +3535,7 @@ doi:10.1016/j.physletb.2018.08.047
 JHEP \textbf{07}, 160 (2018)
 doi:10.1007/JHEP07(2018)160
 [arXiv:1805.04381 [nucl-ex]].
-%61 citations counted in INSPIRE as of 07 Nov 2025
+%60 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2018yau}
 
@@ -4211,7 +4261,7 @@ doi:10.1140/epjc/s10052-016-4107-8
 JHEP \textbf{06}, 050 (2016)
 doi:10.1007/JHEP06(2016)050
 [arXiv:1603.02816 [nucl-ex]].
-%72 citations counted in INSPIRE as of 07 Nov 2025
+%71 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2016cpm}
 
@@ -4673,7 +4723,7 @@ doi:10.1007/JHEP09(2015)095
 JHEP \textbf{06}, 055 (2015)
 doi:10.1007/JHEP06(2015)055
 [arXiv:1503.07179 [nucl-ex]].
-%117 citations counted in INSPIRE as of 07 Nov 2025
+%116 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2015ppz}
 
@@ -4706,7 +4756,7 @@ doi:10.1016/j.physletb.2015.07.054
 Phys. Lett. B \textbf{746}, 1-14 (2015)
 doi:10.1016/j.physletb.2015.04.039
 [arXiv:1502.01689 [nucl-ex]].
-%243 citations counted in INSPIRE as of 07 Nov 2025
+%244 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2015hav}
 
@@ -4882,7 +4932,7 @@ doi:10.1103/PhysRevD.91.012001
 JHEP \textbf{12}, 073 (2014)
 doi:10.1007/JHEP12(2014)073
 [arXiv:1405.3796 [nucl-ex]].
-%166 citations counted in INSPIRE as of 07 Nov 2025
+%165 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2014hpa}
 
@@ -5003,7 +5053,7 @@ doi:10.1016/j.physletb.2014.07.011
 JHEP \textbf{03}, 013 (2014)
 doi:10.1007/JHEP03(2014)013
 [arXiv:1311.0633 [nucl-ex]].
-%241 citations counted in INSPIRE as of 07 Nov 2025
+%242 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2013osk}
 
@@ -5036,7 +5086,7 @@ doi:10.1103/PhysRevC.89.024911
 JHEP \textbf{02}, 073 (2014)
 doi:10.1007/JHEP02(2014)073
 [arXiv:1308.6726 [nucl-ex]].
-%239 citations counted in INSPIRE as of 07 Nov 2025
+%238 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2013wgn}
 
@@ -5611,7 +5661,7 @@ doi:10.1007/JHEP01(2012)128
 Phys. Rev. Lett. \textbf{108}, 092301 (2012)
 doi:10.1103/PhysRevLett.108.092301
 [arXiv:1110.0121 [nucl-ex]].
-%199 citations counted in INSPIRE as of 07 Nov 2025
+%200 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2011svq}
 
@@ -5711,7 +5761,7 @@ doi:10.1103/PhysRevLett.106.032301
 Phys. Lett. B \textbf{696}, 30-39 (2011)
 doi:10.1016/j.physletb.2010.12.020
 [arXiv:1012.1004 [nucl-ex]].
-%806 citations counted in INSPIRE as of 07 Nov 2025
+%807 citations counted in INSPIRE as of 07 Nov 2025
 
 \cite{ALICE:2010suc}
 

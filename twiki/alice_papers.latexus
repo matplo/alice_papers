@@ -231,7 +231,9 @@ doi:10.1140/epjc/s10052-025-14577-0
 \bibitem{ALICE:2025atb}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Observation of the $\Omega$(2012) baryon at the LHC,''
+%``Observation of the {\ensuremath{\Omega}}(2012) baryon at the LHC,''
+Phys. Rev. D \textbf{112}, no.9, 092002 (2025)
+doi:10.1103/v4mh-3r8z
 [arXiv:2502.18063 [hep-ex]].
 %3 citations counted in INSPIRE as of 10 Nov 2025
 
@@ -1913,7 +1915,7 @@ doi:10.1016/j.physletb.2022.137065
 Phys. Lett. B \textbf{833}, 137335 (2022)
 doi:10.1016/j.physletb.2022.137335
 [arXiv:2111.06611 [nucl-ex]].
-%25 citations counted in INSPIRE as of 10 Nov 2025
+%26 citations counted in INSPIRE as of 10 Nov 2025
 
 \cite{ALICE:2021gxt}
 
@@ -2476,7 +2478,7 @@ doi:10.1016/j.physletb.2021.136558
 Eur. Phys. J. C \textbf{81}, no.7, 630 (2021)
 doi:10.1140/epjc/s10052-021-09349-5
 [arXiv:2009.09434 [nucl-ex]].
-%72 citations counted in INSPIRE as of 10 Nov 2025
+%73 citations counted in INSPIRE as of 10 Nov 2025
 
 \cite{ALICE:2020tsj}
 
@@ -3843,7 +3845,7 @@ doi:10.1016/j.nima.2017.09.028
 Phys. Rev. C \textbf{96}, no.6, 064613 (2017)
 doi:10.1103/PhysRevC.96.064613
 [arXiv:1709.01731 [nucl-ex]].
-%59 citations counted in INSPIRE as of 10 Nov 2025
+%60 citations counted in INSPIRE as of 10 Nov 2025
 
 \cite{ALICE:2017kwu}
 
@@ -4064,7 +4066,7 @@ doi:10.1140/epjc/s10052-017-5129-6
 Phys. Lett. B \textbf{772}, 567-577 (2017)
 doi:10.1016/j.physletb.2017.07.017
 [arXiv:1612.08966 [nucl-ex]].
-%160 citations counted in INSPIRE as of 10 Nov 2025
+%161 citations counted in INSPIRE as of 10 Nov 2025
 
 \cite{ALICE:2016rzo}
 
@@ -5097,7 +5099,7 @@ doi:10.1007/JHEP02(2014)073
 Phys. Lett. B \textbf{728}, 25-38 (2014)
 doi:10.1016/j.physletb.2013.11.020
 [arXiv:1307.6796 [nucl-ex]].
-%589 citations counted in INSPIRE as of 10 Nov 2025
+%590 citations counted in INSPIRE as of 10 Nov 2025
 
 \cite{ALICE:2013xmt}
 

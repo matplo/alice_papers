@@ -149,14 +149,16 @@
  S.~Acharya \textit{et al.} [ALICE],
 %``Energy-energy correlators in charm-tagged jets in proton-proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV,''
 [arXiv:2504.03431 [hep-ex]].
-%12 citations counted in INSPIRE as of 20 Nov 2025
+%13 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2025ygv}
 
 \bibitem{ALICE:2025ygv}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``D$^{0}$-meson-tagged jet axes difference in proton-proton collisions at $\mathbf{\sqrt{\textit{s}} = 5.02}$ TeV,''
+%``D0-meson-tagged jet axes difference in proton-proton collisions at s=5.02{\,}{\,}TeV,''
+Phys. Rev. D \textbf{112}, no.9, 092012 (2025)
+doi:10.1103/nt4q-7t77
 [arXiv:2504.02571 [hep-ex]].
 %1 citations counted in INSPIRE as of 20 Nov 2025
 
@@ -880,7 +882,9 @@ doi:10.1007/JHEP09(2024)102
 \bibitem{ALICE:2023jef}
 
  S.~Acharya \textit{et al.} [ALICE],
-%``Dielectron production in central Pb$-$Pb collisions at $\sqrt{s_\mathrm{NN}}$ = 5.02 TeV,''
+%``Dielectron production in central Pb-Pb collisions at sNN=5.02TeV,''
+Phys. Rev. C \textbf{112}, no.5, 054906 (2025)
+doi:10.1103/xl6m-vbqk
 [arXiv:2308.16704 [nucl-ex]].
 %25 citations counted in INSPIRE as of 20 Nov 2025
 
@@ -2634,7 +2638,7 @@ Nature \textbf{588}, 232-238 (2020)
 [erratum: Nature \textbf{590}, E13 (2021)]
 doi:10.1038/s41586-020-3001-6
 [arXiv:2005.11495 [nucl-ex]].
-%195 citations counted in INSPIRE as of 20 Nov 2025
+%196 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2020iug}
 
@@ -2855,7 +2859,7 @@ doi:10.1103/PhysRevLett.125.012301
 Phys. Lett. B \textbf{805}, 135419 (2020)
 doi:10.1016/j.physletb.2020.135419
 [arXiv:1910.14407 [nucl-ex]].
-%106 citations counted in INSPIRE as of 20 Nov 2025
+%107 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2019sgg}
 
@@ -3043,7 +3047,7 @@ Phys. Rev. C \textbf{101}, no.4, 044611 (2020)
 [erratum: Phys. Rev. C \textbf{105}, no.2, 029902 (2022)]
 doi:10.1103/PhysRevC.101.044611
 [arXiv:1909.01281 [nucl-ex]].
-%161 citations counted in INSPIRE as of 20 Nov 2025
+%162 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2019smg}
 
@@ -3153,7 +3157,7 @@ doi:10.1007/JHEP10(2019)084
 Phys. Lett. B \textbf{797}, 134822 (2019)
 doi:10.1016/j.physletb.2019.134822
 [arXiv:1905.07209 [nucl-ex]].
-%138 citations counted in INSPIRE as of 20 Nov 2025
+%139 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2019dfi}
 
@@ -3461,7 +3465,7 @@ doi:10.1103/PhysRevC.99.024002
 Phys. Rev. C \textbf{99}, no.2, 024001 (2019)
 doi:10.1103/PhysRevC.99.024001
 [arXiv:1805.12455 [nucl-ex]].
-%174 citations counted in INSPIRE as of 20 Nov 2025
+%175 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2018ekf}
 
@@ -5156,7 +5160,7 @@ Phys. Lett. B \textbf{728}, 216-227 (2014)
 [erratum: Phys. Lett. B \textbf{734}, 409-410 (2014)]
 doi:10.1016/j.physletb.2014.05.052
 [arXiv:1307.5543 [nucl-ex]].
-%482 citations counted in INSPIRE as of 20 Nov 2025
+%483 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2013cdo}
 
@@ -5167,7 +5171,7 @@ doi:10.1016/j.physletb.2014.05.052
 Phys. Rev. Lett. \textbf{111}, 222301 (2013)
 doi:10.1103/PhysRevLett.111.222301
 [arXiv:1307.5530 [nucl-ex]].
-%455 citations counted in INSPIRE as of 20 Nov 2025
+%456 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2013snk}
 
@@ -5299,7 +5303,7 @@ doi:10.1103/PhysRevLett.111.162301
 Phys. Rev. C \textbf{88}, 044910 (2013)
 doi:10.1103/PhysRevC.88.044910
 [arXiv:1303.0737 [hep-ex]].
-%947 citations counted in INSPIRE as of 20 Nov 2025
+%948 citations counted in INSPIRE as of 20 Nov 2025
 
 \cite{ALICE:2013hur}
 

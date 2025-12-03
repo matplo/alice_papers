@@ -29,22 +29,22 @@
 </head>
 <body>
   <h1>ALICE Publications</h1>
-  <div class="meta">Generated from arXiv + Inspire data. 542 entries. Built on 2025-12-03 00:47 UTC.</div>
+  <div class="meta">Generated from arXiv + Inspire data. 542 entries. Built on 2025-12-03 00:51 UTC.</div>
 
   <div class="panel controls">
     <label>Filter <input id="filter-text" type="search" placeholder="Title, arXiv, group, system" /></label>
     <label>System
-      <select id="filter-system">
+      <select id="filter-system" onchange="applyFilters()">
         <option value="">All</option>
       </select>
     </label>
     <label>Group
-      <select id="filter-group">
+      <select id="filter-group" onchange="applyFilters()">
         <option value="">All</option>
       </select>
     </label>
     <label>Sort
-      <select id="sort-mode">
+      <select id="sort-mode" onchange="applyFilters()">
         <option value="arxiv_desc" selected>arXiv (largest first)</option>
         <option value="arxiv_asc">arXiv (smallest first)</option>
         <option value="date_desc">Date (newest first)</option>
@@ -57,6 +57,7 @@
   <div class="chart-wrap">
     <canvas id="pub-chart" class="chart"></canvas>
     <div class="chart-legend">Publications per year (based on published date when available).</div>
+    <div class="meta" id="summary"></div>
   </div>
 
   <table id="papers-table">
@@ -101,15 +102,23 @@
       const frag = document.createDocumentFragment();
       rows.forEach(r => {
         const tr = document.createElement('tr');
-        tr.innerHTML = `
-          <td>${r.n}</td>
-          <td>${r.title}</td>
-          <td><a href="${r.arxiv_url}" target="_blank">${r.arxiv_id}</a></td>
-          <td>${r.inspire_id ? `<a href="${r.inspire_url}" target="_blank">${r.inspire_id}</a>` : 'n/a'}</td>
-          <td>${r.journal ? (r.doi_url ? `<a href="${r.doi_url}" target="_blank">${r.journal}</a>` : r.journal) : 'n/a'}</td>
-          <td>${r.group || 'n/a'}</td>
-          <td>${r.system || 'n/a'}</td>
-        `;
+        const numCell = '<td>' + r.n + '</td>';
+        const inspireCell = r.inspire_id
+          ? '<a href="' + r.inspire_url + '" target="_blank">' + r.inspire_id + '</a>'
+          : 'n/a';
+        const journalCell = r.journal
+          ? (r.doi_url ? '<a href="' + r.doi_url + '" target="_blank">' + r.journal + '</a>' : r.journal)
+          : 'n/a';
+        const groupCell = r.group || 'n/a';
+        const sysCell = r.system || 'n/a';
+        tr.innerHTML =
+          numCell +
+          '<td>' + r.title + '</td>' +
+          '<td><a href="' + r.arxiv_url + '" target="_blank">' + r.arxiv_id + '</a></td>' +
+          '<td>' + inspireCell + '</td>' +
+          '<td>' + journalCell + '</td>' +
+          '<td>' + groupCell + '</td>' +
+          '<td>' + sysCell + '</td>';
         frag.appendChild(tr);
       });
       body.appendChild(frag);
@@ -162,14 +171,29 @@
     }
 
     function renderChart(rows) {
-      const yearCounts = {};
+      const totalSelected = rows.length;
+      const totalAll = data.length;
+      const selectedCounts = {};
       rows.forEach(r => {
         const d = parseDate(r.published);
         if (!d) return;
         const y = d.getUTCFullYear();
-        yearCounts[y] = (yearCounts[y] || 0) + 1;
+        selectedCounts[y] = (selectedCounts[y] || 0) + 1;
       });
-      const years = Object.keys(yearCounts).map(Number).sort((a,b)=>a-b);
+      const totalCounts = {};
+      data.forEach(r => {
+        const d = parseDate(r.published);
+        if (!d) return;
+        const y = d.getUTCFullYear();
+        totalCounts[y] = (totalCounts[y] || 0) + 1;
+      });
+      const rawYears = Array.from(new Set([...Object.keys(totalCounts), ...Object.keys(selectedCounts)])).map(Number).sort((a,b)=>a-b);
+      const years = [];
+      if (rawYears.length) {
+        const minY = Math.min(...rawYears);
+        const maxY = Math.max(...rawYears);
+        for (let y = minY; y <= maxY; y++) years.push(y);
+      }
       const canvas = document.getElementById('pub-chart');
       const ctx = canvas.getContext('2d');
       const width = canvas.width = canvas.clientWidth;
@@ -178,23 +202,36 @@
       if (!years.length) {
         ctx.fillStyle = '#888';
         ctx.fillText('No date data available', 10, 20);
+        const pctOverall = totalAll ? ((totalSelected / totalAll) * 100).toFixed(1) : '0.0';
+        document.getElementById('summary').textContent = "Selected: " + totalSelected + " / " + totalAll + " (" + pctOverall + "%)";
         return;
       }
-      const maxVal = Math.max(...years.map(y => yearCounts[y]));
-      const barWidth = Math.max(12, Math.floor(width / (years.length * 1.8)));
+      const maxVal = Math.max(...years.map(y => Math.max(totalCounts[y] || 0, selectedCounts[y] || 0)));
+      const barWidth = Math.max(12, Math.floor(width / (years.length * 2.2)));
       const gap = Math.max(8, Math.floor((width - barWidth * years.length) / years.length));
       years.forEach((y, idx) => {
-        const val = yearCounts[y];
+        const totalVal = totalCounts[y] || 0;
+        const selVal = selectedCounts[y] || 0;
         const x = idx * (barWidth + gap) + 20;
-        const h = Math.round((val / maxVal) * (height - 40));
-        const yPos = height - h - 20;
+        const totalH = Math.round(maxVal ? (totalVal / maxVal) * (height - 40) : 0);
+        const selH = Math.round(maxVal ? (selVal / maxVal) * (height - 40) : 0);
+        const baseY = height - 20;
+        // total bar (background)
+        ctx.fillStyle = '#d9e2f5';
+        ctx.fillRect(x, baseY - totalH, barWidth, totalH);
+        // selected bar (foreground, narrower)
         ctx.fillStyle = '#1f7aec';
-        ctx.fillRect(x, yPos, barWidth, h);
+        ctx.fillRect(x + Math.floor(barWidth * 0.15), baseY - selH, Math.floor(barWidth * 0.7), selH);
         ctx.fillStyle = '#333';
         ctx.font = '12px Arial';
         ctx.fillText(String(y), x, height - 5);
-        ctx.fillText(String(val), x, yPos - 4);
+        const pctTotal = totalVal ? ((selVal / totalVal) * 100).toFixed(1) : '0.0';
+        const pctAll = totalAll ? ((selVal / totalAll) * 100).toFixed(1) : '0.0';
+        ctx.fillText(selVal + "/" + totalVal + " (" + pctTotal + "%)", x, baseY - selH - 4);
+        ctx.fillText(selVal + "/" + totalAll + " (" + pctAll + "% of all)", x, baseY - selH - 18);
       });
+      const pctOverall = totalAll ? ((totalSelected / totalAll) * 100).toFixed(1) : '0.0';
+      document.getElementById('summary').textContent = "Selected: " + totalSelected + " / " + totalAll + " (" + pctOverall + "%)";
     }
 
     document.addEventListener('DOMContentLoaded', () => {

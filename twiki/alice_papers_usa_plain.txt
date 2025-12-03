@@ -526,3 +526,57 @@ Link: http://arxiv.org/abs/2107.12984v2
 Inspire: https://inspirehep.net/literature/1893479
 DOI link: https://doi.org/10.1103/PhysRevLett.128.102001
  
+Measurements of jet quenching using semi-inclusive hadron+jet distributions in pp and central Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV
+Date on arXiv: 2023.08.30
+Link: http://arxiv.org/abs/2308.16128v3
+Inspire: https://inspirehep.net/literature/2693247
+DOI link: https://doi.org/10.1103/PhysRevC.110.014906
+ 
+Observation of medium-induced yield enhancement and acoplanarity broadening of low-$p_\mathrm{T}$ jets from measurements in pp and central Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV
+Date on arXiv: 2023.08.30
+Link: http://arxiv.org/abs/2308.16131v3
+Inspire: https://inspirehep.net/literature/2693336
+DOI link: https://doi.org/10.1103/PhysRevLett.133.022301
+ 
+Search for jet quenching effects in high-multiplicity pp collisions at $\sqrt{s}$ = 13 TeV via di-jet acoplanarity
+Date on arXiv: 2023.08.30
+Link: http://arxiv.org/abs/2309.03788v2
+Inspire: https://inspirehep.net/literature/2694579
+DOI link: https://doi.org/10.1007/JHEP05(2024)229
+ 
+Photoproduction of K$^{+}$K$^{-}$ pairs in ultra-peripheral collisions
+Date on arXiv: 2023.11.20
+Link: http://arxiv.org/abs/2311.11792v2
+Inspire: https://inspirehep.net/literature/2724212
+DOI link: https://doi.org/10.1103/PhysRevLett.132.222303
+ 
+Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at $\sqrt{\textit s}=5.02$ TeV
+Date on arXiv: 2024.09.19
+Link: http://arxiv.org/abs/2409.12687v2
+Inspire: https://inspirehep.net/literature/2830401
+DOI link: N/A
+ 
+Search for quasi-particle scattering in the quark-gluon plasma with jet splittings in pp and Pb$-$Pb collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.02}$ TeV
+Date on arXiv: 2024.09.19
+Link: http://arxiv.org/abs/2409.12837v2
+Inspire: https://inspirehep.net/literature/2831271
+DOI link: https://doi.org/10.1103/PhysRevLett.135.031901
+ 
+Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV
+Date on arXiv: 2024.11.05
+Link: http://arxiv.org/abs/2411.03106v2
+Inspire: https://inspirehep.net/literature/2845788
+DOI link: https://doi.org/10.1016/j.physletb.2025.139409
+ 
+Measurement of isolated prompt photon production in pp and p-Pb collisions at the LHC
+Date on arXiv: 2025.02.25
+Link: http://arxiv.org/abs/2502.18054v1
+Inspire: https://inspirehep.net/literature/2895564
+DOI link: N/A
+ 
+Energy-energy correlators in charm-tagged jets in proton-proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV
+Date on arXiv: 2025.04.04
+Link: http://arxiv.org/abs/2504.03431v1
+Inspire: https://inspirehep.net/literature/2907937
+DOI link: N/A
+ 

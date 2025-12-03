@@ -921,7 +921,7 @@ doi:10.1007/JHEP10(2021)003
 Phys. Rev. D \textbf{105}, no.1, L011103 (2022)
 doi:10.1103/PhysRevD.105.L011103
 [arXiv:2105.06335 [nucl-ex]].
-%152 citations counted in INSPIRE as of 03 Dec 2025
+%153 citations counted in INSPIRE as of 03 Dec 2025
 
 \cite{ALICE:2021aqk}
 
@@ -967,4 +967,97 @@ Phys. Rev. Lett. \textbf{128}, no.10, 102001 (2022)
 doi:10.1103/PhysRevLett.128.102001
 [arXiv:2107.12984 [nucl-ex]].
 %113 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2023jye}
+
+\bibitem{ALICE:2023jye}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurements of jet quenching using semi-inclusive hadron+jet distributions in pp and central Pb-Pb collisions at sNN=5.02 TeV,''
+Phys. Rev. C \textbf{110}, no.1, 014906 (2024)
+doi:10.1103/PhysRevC.110.014906
+[arXiv:2308.16128 [nucl-ex]].
+%24 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2023qve}
+
+\bibitem{ALICE:2023qve}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Observation of Medium-Induced Yield Enhancement and Acoplanarity Broadening of Low-pT Jets from Measurements in pp and Central Pb-Pb Collisions at sNN=5.02{\,}{\,}TeV,''
+Phys. Rev. Lett. \textbf{133}, no.2, 022301 (2024)
+doi:10.1103/PhysRevLett.133.022301
+[arXiv:2308.16131 [nucl-ex]].
+%24 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2023plt}
+
+\bibitem{ALICE:2023plt}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Search for jet quenching effects in high-multiplicity pp collisions at $ \sqrt{s} $ = 13 TeV via di-jet acoplanarity,''
+JHEP \textbf{05}, 229 (2024)
+doi:10.1007/JHEP05(2024)229
+[arXiv:2309.03788 [hep-ex]].
+%25 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2023kgv}
+
+\bibitem{ALICE:2023kgv}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Photoproduction of K+K- Pairs in Ultraperipheral Collisions,''
+Phys. Rev. Lett. \textbf{132}, no.22, 222303 (2024)
+doi:10.1103/PhysRevLett.132.222303
+[arXiv:2311.11792 [nucl-ex]].
+%16 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2024dfl}
+
+\bibitem{ALICE:2024dfl}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at $\sqrt{\textit s}=5.02$ TeV,''
+[arXiv:2409.12687 [hep-ex]].
+%42 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2024fip}
+
+\bibitem{ALICE:2024fip}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Search for quasi-particle scattering in the quark-gluon plasma with jet splittings in pp and Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV,''
+Phys. Rev. Lett. \textbf{135}, no.3, 031901 (2025)
+doi:10.1103/PhysRevLett.135.031901
+[arXiv:2409.12837 [nucl-ex]].
+%7 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2024jtb}
+
+\bibitem{ALICE:2024jtb}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb{\textendash}Pb collisions at sNN=5.02 TeV,''
+Phys. Lett. B \textbf{864}, 139409 (2025)
+doi:10.1016/j.physletb.2025.139409
+[arXiv:2411.03106 [nucl-ex]].
+%6 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2025bnc}
+
+\bibitem{ALICE:2025bnc}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Measurement of isolated prompt photon production in pp and p-Pb collisions at the LHC,''
+[arXiv:2502.18054 [nucl-ex]].
+%3 citations counted in INSPIRE as of 03 Dec 2025
+
+\cite{ALICE:2025igw}
+
+\bibitem{ALICE:2025igw}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Energy-energy correlators in charm-tagged jets in proton-proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV,''
+[arXiv:2504.03431 [hep-ex]].
+%13 citations counted in INSPIRE as of 03 Dec 2025
 

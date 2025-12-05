@@ -526,6 +526,12 @@ Link: http://arxiv.org/abs/2107.12984v2
 Inspire: https://inspirehep.net/literature/1893479
 DOI link: https://doi.org/10.1103/PhysRevLett.128.102001
  
+The ALICE experiment: a journey through QCD
+Date on arXiv: 2022.11.08
+Link: http://arxiv.org/abs/2211.04384v2
+Inspire: https://inspirehep.net/literature/2178285
+DOI link: https://doi.org/10.1140/epjc/s10052-024-12935-y
+ 
 Measurements of jet quenching using semi-inclusive hadron+jet distributions in pp and central Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV
 Date on arXiv: 2023.08.30
 Link: http://arxiv.org/abs/2308.16128v3

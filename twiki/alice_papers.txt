@@ -1,4 +1,4 @@
-   * Generated on 2025-Dec-07 16:59 CET  .
+   * Generated on 2025-Dec-08 01:00 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Strangeness enhancement at its extremes: multiple (multi-)strange hadron production in pp collisions at $\mathbf{\sqrt{\textit{s}} = 5.02}$ !TeV|pp|[[http://arxiv.org/abs/2511.10413v1][2511.10413]]|[[https://inspirehep.net/literature/3082916][3082916]]|%RED%Submitted%ENDCOLOR%|542|

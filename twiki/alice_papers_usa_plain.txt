@@ -578,7 +578,7 @@ Measurement of isolated prompt photon production in pp and p-Pb collisions at th
 Date on arXiv: 2025.02.25
 Link: http://arxiv.org/abs/2502.18054v1
 Inspire: https://inspirehep.net/literature/2895564
-DOI link: N/A
+DOI link: https://doi.org/10.1140/epjc/s10052-025-14802-w
  
 Energy-energy correlators in charm-tagged jets in proton-proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV
 Date on arXiv: 2025.04.04

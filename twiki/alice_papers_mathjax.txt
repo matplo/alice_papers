@@ -1,4 +1,4 @@
-   * Generated on 2025-Dec-16 08:59 CET  .
+   * Generated on 2025-Dec-16 16:59 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Strangeness enhancement at its extremes: multiple (multi-)strange hadron production in pp collisions at \(\mathbf{\sqrt{\textit{s}} = 5.02}\) !TeV|pp|[[http://arxiv.org/abs/2511.10413v1][2511.10413]]|[[https://inspirehep.net/literature/3082916][3082916]]|%RED%Submitted%ENDCOLOR%|542|
@@ -15,7 +15,7 @@
 |HF|Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13197v1][2507.13197]]|[[https://inspirehep.net/literature/2951290][2951290]]|%RED%Submitted%ENDCOLOR%|531|
 |LF|\(\overline\Sigma^{\pm}\) production in pp and p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV with ALICE|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13183v1][2507.13183]]|[[https://inspirehep.net/literature/2948508][2948508]]|%RED%Submitted%ENDCOLOR%|530|
 |LF|Study of \(\langle p_{\rm T} \rangle\) and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2506.10394v1][2506.10394]]|[[https://inspirehep.net/literature/2933773][2933773]]|%GREEN%[[https://doi.org/10.1007/JHEP11(2025)076][JHEP 11]]%ENDCOLOR%|529|
-|CF|Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2505.01061v1][2505.01061]]|[[https://inspirehep.net/literature/2917986][2917986]]|%RED%Submitted%ENDCOLOR%|528|
+|CF|Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2505.01061v1][2505.01061]]|[[https://inspirehep.net/literature/2917986][2917986]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139921][Phys. Lett. B 871]]%ENDCOLOR%|528|
 |CF|Long-range transverse momentum correlations and radial flow in Pb\(-\)Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.04796v1][2504.04796]]|[[https://inspirehep.net/literature/2908602][2908602]]|%RED%Submitted%ENDCOLOR%|527|
 |HF|Energy-energy correlators in charm-tagged jets in proton-proton collisions at \(\mathbf{\sqrt{s} = 13}\) !TeV|pp|[[http://arxiv.org/abs/2504.03431v1][2504.03431]]|[[https://inspirehep.net/literature/2907937][2907937]]|%RED%Submitted%ENDCOLOR%|526|
 |HF|D\(^{0}\)-meson-tagged jet axes difference in proton-proton collisions at \(\mathbf{\sqrt{\textit{s}} = 5.02}\) !TeV|pp|[[http://arxiv.org/abs/2504.02571v1][2504.02571]]|[[https://inspirehep.net/literature/2907593][2907593]]|%GREEN%[[https://doi.org/10.1103/nt4q-7t77][Phys. Rev. D 112]]%ENDCOLOR%|525|

@@ -12,12 +12,12 @@
 <body class="bg-light">
   <div class="container-fluid px-3 py-3">
     <h1 class="mb-1">ALICE Publications</h1>
-    <div class="text-muted mb-3">Generated from arXiv + Inspire data. 543 entries. Built on 2025-12-16 02:25 UTC.</div>
+    <div class="text-muted mb-3">Generated from arXiv + Inspire data. 543 entries. Built on 2025-12-16 02:27 UTC.</div>
 
     <div class="row g-3 mb-3 align-items-end">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <label class="form-label">Filter</label>
-        <input id="filter-text" class="form-control" type="search" placeholder="Title, arXiv, group, system" />
+        <input id="filter-text" class="form-control" type="search" placeholder="Title, arXiv, INSPIRE, journal, group, system" />
       </div>
       <div class="col-lg-2 col-md-3 col-sm-6">
         <label class="form-label">System</label>
@@ -153,7 +153,13 @@
       const grp = document.getElementById('filter-group').value.toLowerCase();
       const sortMode = document.getElementById('sort-mode').value;
       let rows = data.filter(r => {
-        const matchesText = !q || (r.title && r.title.toLowerCase().includes(q)) || (r.arxiv_id && r.arxiv_id.toLowerCase().includes(q)) || (r.group && r.group.toLowerCase().includes(q)) || (r.system && r.system.toLowerCase().includes(q));
+        const matchesText = !q ||
+          (r.title && r.title.toLowerCase().includes(q)) ||
+          (r.arxiv_id && r.arxiv_id.toLowerCase().includes(q)) ||
+          (r.inspire_id && String(r.inspire_id).toLowerCase().includes(q)) ||
+          (r.journal && r.journal.toLowerCase().includes(q)) ||
+          (r.group && r.group.toLowerCase().includes(q)) ||
+          (r.system && r.system.toLowerCase().includes(q));
         const matchesSys = !sys || (r.system && r.system.toLowerCase().includes(sys));
         const matchesGrp = !grp || (r.group && r.group.toLowerCase().includes(grp));
         return matchesText && matchesSys && matchesGrp;

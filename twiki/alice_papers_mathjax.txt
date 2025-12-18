@@ -1,4 +1,4 @@
-   * Generated on 2025-Dec-18 09:00 CET  .
+   * Generated on 2025-Dec-18 17:00 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Strangeness enhancement at its extremes: multiple (multi-)strange hadron production in pp collisions at \(\mathbf{\sqrt{\textit{s}} = 5.02}\) !TeV|pp|[[http://arxiv.org/abs/2511.10413v1][2511.10413]]|[[https://inspirehep.net/literature/3082916][3082916]]|%RED%Submitted%ENDCOLOR%|542|
@@ -20,7 +20,7 @@
 |HF|Energy-energy correlators in charm-tagged jets in proton-proton collisions at \(\mathbf{\sqrt{s} = 13}\) !TeV|pp|[[http://arxiv.org/abs/2504.03431v1][2504.03431]]|[[https://inspirehep.net/literature/2907937][2907937]]|%RED%Submitted%ENDCOLOR%|526|
 |HF|D\(^{0}\)-meson-tagged jet axes difference in proton-proton collisions at \(\mathbf{\sqrt{\textit{s}} = 5.02}\) !TeV|pp|[[http://arxiv.org/abs/2504.02571v1][2504.02571]]|[[https://inspirehep.net/literature/2907593][2907593]]|%GREEN%[[https://doi.org/10.1103/nt4q-7t77][Phys. Rev. D 112]]%ENDCOLOR%|525|
 |LF|Centrality dependence of charged-particle pseudorapidity density at midrapidity in Pb-Pb collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.36}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.02505v1][2504.02505]]|[[https://inspirehep.net/literature/2907584][2907584]]|%RED%Submitted%ENDCOLOR%|524|
-|CF|Revealing the microscopic mechanism of deuteron formation at the LHC|pp|[[http://arxiv.org/abs/2504.02393v1][2504.02393]]|[[https://inspirehep.net/literature/2907586][2907586]]|%RED%Submitted%ENDCOLOR%|523|
+|CF|Revealing the microscopic mechanism of deuteron formation at the LHC|pp|[[http://arxiv.org/abs/2504.02393v1][2504.02393]]|[[https://inspirehep.net/literature/2907586][2907586]]|%GREEN%[[https://doi.org/10.1038/s41586-025-09775-5][Nature 648]]%ENDCOLOR%|523|
 |CF|First observation of ultra-long-range azimuthal correlations in low multiplicity pp and p-Pb collisions at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.02359v1][2504.02359]]|[[https://inspirehep.net/literature/2907599][2907599]]|%RED%Submitted%ENDCOLOR%|522|
 |CF|Accessing the deuteron source with pion-deuteron femtoscopy in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.02333v1][2504.02333]]|[[https://inspirehep.net/literature/2907579][2907579]]|%GREEN%[[https://doi.org/10.1103/mrp4-z4hh][Phys. Rev. C 112]]%ENDCOLOR%|521|
 |HF|First measurement of D\(^{*+}\) vector spin alignment in Pb\(-\)Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.00714v2][2504.00714]]|[[https://inspirehep.net/literature/2906994][2906994]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2025)094][JHEP 10]]%ENDCOLOR%|520|

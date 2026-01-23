@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Space-time evolution of particle emission in p\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\}=~5.02\}\\) TeV with 3D kaon femtoscopy|pPb|[2601.15081](http://arxiv.org/abs/2601.15081v1){: target="_blank"}|[3109745](https://inspirehep.net/literature/3109745){: target="_blank"}|Submitted|544|
+|CF|One- and three-dimensional identical charged-kaon femtoscopic correlations in Pb--Pb collisions at \\(\mathbf\{ \sqrt\{s_\mathrm\{NN\}\}=5.02\}\\) TeV|PbPb|[2601.15054](http://arxiv.org/abs/2601.15054v1){: target="_blank"}|[3109739](https://inspirehep.net/literature/3109739){: target="_blank"}|Submitted|543|
 |LF|Strangeness enhancement at its extremes: multiple (multi-)strange hadron production in pp collisions at \\(\mathbf\{\sqrt\{\textit\{s\}\} = 5.02\}\\) TeV|pp|[2511.10413](http://arxiv.org/abs/2511.10413v1){: target="_blank"}|[3082916](https://inspirehep.net/literature/3082916){: target="_blank"}|Submitted|542|
 |CF|Multiplicity dependence of two-particle angular correlations of identified particles in pp collisions at \\(\mathbf\{\sqrt\{s\} = 13\}\\) TeV|pp|[2511.10399](http://arxiv.org/abs/2511.10399v1){: target="_blank"}|[3082656](https://inspirehep.net/literature/3082656){: target="_blank"}|Submitted|541|
 |LF|Centrality dependence of strange particle production in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2511.10360](http://arxiv.org/abs/2511.10360v1){: target="_blank"}|[3082654](https://inspirehep.net/literature/3082654){: target="_blank"}|Submitted|540|

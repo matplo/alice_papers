@@ -1,6 +1,8 @@
-   * Generated on 2026-Jan-22 17:02 CET  .
+   * Generated on 2026-Jan-23 01:01 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|CF|Space-time evolution of particle emission in p$-$Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}=~5.02}$ !TeV with 3D kaon femtoscopy|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2601.15081v1][2601.15081]]|[[https://inspirehep.net/literature/3109745][3109745]]|%RED%Submitted%ENDCOLOR%|544|
+|CF|One- and three-dimensional identical charged-kaon femtoscopic correlations in Pb--Pb collisions at $\mathbf{ \sqrt{s_\mathrm{NN}}=5.02}$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2601.15054v1][2601.15054]]|[[https://inspirehep.net/literature/3109739][3109739]]|%RED%Submitted%ENDCOLOR%|543|
 |LF|Strangeness enhancement at its extremes: multiple (multi-)strange hadron production in pp collisions at $\mathbf{\sqrt{\textit{s}} = 5.02}$ !TeV|pp|[[http://arxiv.org/abs/2511.10413v1][2511.10413]]|[[https://inspirehep.net/literature/3082916][3082916]]|%RED%Submitted%ENDCOLOR%|542|
 |CF|Multiplicity dependence of two-particle angular correlations of identified particles in pp collisions at $\mathbf{\sqrt{s} = 13}$ !TeV|pp|[[http://arxiv.org/abs/2511.10399v1][2511.10399]]|[[https://inspirehep.net/literature/3082656][3082656]]|%RED%Submitted%ENDCOLOR%|541|
 |LF|Centrality dependence of strange particle production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2511.10360v1][2511.10360]]|[[https://inspirehep.net/literature/3082654][3082654]]|%RED%Submitted%ENDCOLOR%|540|

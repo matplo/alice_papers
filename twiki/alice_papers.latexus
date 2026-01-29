@@ -102,7 +102,9 @@
 \bibitem{ALICE:2025lpf}
 
  I.~J.~Abualrob \textit{et al.} [ALICE],
-%``Multiplicity dependence of f$_0$(980) production in pp collisions at $\sqrt{s} = 13$ TeV,''
+%``Multiplicity dependence of f$_{\textbf{0}}$(980) production in pp collisions at $\mathbf {\sqrt{s}}=$~13~TeV,''
+Eur. Phys. J. C \textbf{86}, no.1, 76 (2026)
+doi:10.1140/epjc/s10052-025-15205-7
 [arXiv:2507.19347 [nucl-ex]].
 %1 citations counted in INSPIRE as of 29 Jan 2026
 
@@ -1020,7 +1022,7 @@ doi:10.1103/PhysRevX.14.031051
 Phys. Rev. C \textbf{109}, no.4, 044902 (2024)
 doi:10.1103/PhysRevC.109.044902
 [arXiv:2308.16119 [nucl-ex]].
-%18 citations counted in INSPIRE as of 29 Jan 2026
+%19 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2023egx}
 
@@ -1316,7 +1318,7 @@ doi:10.1007/JHEP10(2023)092
 JINST \textbf{19}, no.05, P05062 (2024)
 doi:10.1088/1748-0221/19/05/P05062
 [arXiv:2302.01238 [physics.ins-det]].
-%146 citations counted in INSPIRE as of 29 Jan 2026
+%147 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2023wdn}
 
@@ -1515,7 +1517,7 @@ doi:10.1007/JHEP07(2023)201
 Eur. Phys. J. C \textbf{84}, no.8, 813 (2024)
 doi:10.1140/epjc/s10052-024-12935-y
 [arXiv:2211.04384 [nucl-ex]].
-%380 citations counted in INSPIRE as of 29 Jan 2026
+%381 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2022rau}
 
@@ -1691,7 +1693,7 @@ doi:10.1140/epjc/s10052-023-11476-0
 Eur. Phys. J. C \textbf{83}, no.5, 351 (2023)
 doi:10.1140/epjc/s10052-023-11475-1
 [arXiv:2205.13998 [nucl-ex]].
-%23 citations counted in INSPIRE as of 29 Jan 2026
+%24 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2022cop}
 
@@ -2208,7 +2210,7 @@ doi:10.1007/JHEP10(2021)152
 Phys. Rev. C \textbf{106}, no.3, 034907 (2022)
 doi:10.1103/PhysRevC.106.034907
 [arXiv:2106.13113 [nucl-ex]].
-%59 citations counted in INSPIRE as of 29 Jan 2026
+%60 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2021rzj}
 
@@ -2761,7 +2763,7 @@ doi:10.1103/PhysRevLett.125.162001
 Eur. Phys. J. C \textbf{81}, no.3, 256 (2021)
 doi:10.1140/epjc/s10052-020-08690-5
 [arXiv:2005.11120 [nucl-ex]].
-%108 citations counted in INSPIRE as of 29 Jan 2026
+%109 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2020eji}
 
@@ -2861,7 +2863,7 @@ doi:10.1007/JHEP06(2020)147
 Phys. Lett. B \textbf{802}, 135225 (2020)
 doi:10.1016/j.physletb.2020.135225
 [arXiv:1910.14419 [nucl-ex]].
-%128 citations counted in INSPIRE as of 29 Jan 2026
+%129 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2019hyb}
 
@@ -3048,7 +3050,7 @@ doi:10.1016/j.physletb.2020.135377
 Phys. Rev. C \textbf{101}, no.4, 044907 (2020)
 doi:10.1103/PhysRevC.101.044907
 [arXiv:1910.07678 [nucl-ex]].
-%375 citations counted in INSPIRE as of 29 Jan 2026
+%376 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2019qyj}
 
@@ -3368,7 +3370,7 @@ doi:10.1007/JHEP09(2019)108
 Comput. Phys. Commun. \textbf{242}, 25-48 (2019)
 doi:10.1016/j.cpc.2019.04.011
 [arXiv:1812.08036 [physics.ins-det]].
-%46 citations counted in INSPIRE as of 29 Jan 2026
+%47 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2018wma}
 
@@ -3522,7 +3524,7 @@ doi:10.1016/j.physletb.2019.04.047
 Phys. Lett. B \textbf{790}, 35-48 (2019)
 doi:10.1016/j.physletb.2018.12.048
 [arXiv:1805.04432 [nucl-ex]].
-%151 citations counted in INSPIRE as of 29 Jan 2026
+%152 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2018jco}
 
@@ -3566,7 +3568,7 @@ doi:10.1016/j.physletb.2018.11.039
 Phys. Lett. B \textbf{788}, 166-179 (2019)
 doi:10.1016/j.physletb.2018.10.052
 [arXiv:1805.04399 [nucl-ex]].
-%151 citations counted in INSPIRE as of 29 Jan 2026
+%152 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2018fvj}
 
@@ -3665,7 +3667,7 @@ doi:10.1103/PhysRevLett.122.072301
 Phys. Rev. C \textbf{99}, no.6, 064901 (2019)
 doi:10.1103/PhysRevC.99.064901
 [arXiv:1805.04365 [nucl-ex]].
-%85 citations counted in INSPIRE as of 29 Jan 2026
+%86 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2018ewo}
 
@@ -4116,7 +4118,7 @@ doi:10.1140/epjc/s10052-017-4940-4
 Phys. Rev. C \textbf{95}, no.6, 064606 (2017)
 doi:10.1103/PhysRevC.95.064606
 [arXiv:1702.00555 [nucl-ex]].
-%165 citations counted in INSPIRE as of 29 Jan 2026
+%166 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2017pgw}
 
@@ -4249,7 +4251,7 @@ doi:10.1016/j.physletb.2016.12.064
 Nature Phys. \textbf{13}, 535-539 (2017)
 doi:10.1038/nphys4111
 [arXiv:1606.07424 [nucl-ex]].
-%975 citations counted in INSPIRE as of 29 Jan 2026
+%976 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2016cti}
 
@@ -4391,7 +4393,7 @@ doi:10.1103/PhysRevLett.116.132302
 Eur. Phys. J. C \textbf{76}, no.5, 245 (2016)
 doi:10.1140/epjc/s10052-016-4088-7
 [arXiv:1601.07868 [nucl-ex]].
-%166 citations counted in INSPIRE as of 29 Jan 2026
+%167 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2016dei}
 
@@ -5051,7 +5053,7 @@ doi:10.1103/PhysRevLett.113.232301
 Eur. Phys. J. C \textbf{74}, no.9, 3054 (2014)
 doi:10.1140/epjc/s10052-014-3054-5
 [arXiv:1405.2737 [nucl-ex]].
-%130 citations counted in INSPIRE as of 29 Jan 2026
+%131 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2014qvj}
 
@@ -5095,7 +5097,7 @@ doi:10.1016/j.physletb.2014.10.034
 Phys. Rev. C \textbf{91}, 024609 (2015)
 doi:10.1103/PhysRevC.91.024609
 [arXiv:1404.0495 [nucl-ex]].
-%360 citations counted in INSPIRE as of 29 Jan 2026
+%361 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2014uja}
 
@@ -5195,7 +5197,7 @@ Phys. Lett. B \textbf{728}, 216-227 (2014)
 [erratum: Phys. Lett. B \textbf{734}, 409-410 (2014)]
 doi:10.1016/j.physletb.2014.05.052
 [arXiv:1307.5543 [nucl-ex]].
-%492 citations counted in INSPIRE as of 29 Jan 2026
+%493 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2013cdo}
 
@@ -5206,7 +5208,7 @@ doi:10.1016/j.physletb.2014.05.052
 Phys. Rev. Lett. \textbf{111}, 222301 (2013)
 doi:10.1103/PhysRevLett.111.222301
 [arXiv:1307.5530 [nucl-ex]].
-%460 citations counted in INSPIRE as of 29 Jan 2026
+%461 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2013snk}
 
@@ -5239,7 +5241,7 @@ doi:10.1007/JHEP09(2013)049
 Eur. Phys. J. C \textbf{73}, no.12, 2662 (2013)
 doi:10.1140/epjc/s10052-013-2662-9
 [arXiv:1307.1093 [nucl-ex]].
-%146 citations counted in INSPIRE as of 29 Jan 2026
+%147 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2013rdo}
 
@@ -5338,7 +5340,7 @@ doi:10.1103/PhysRevLett.111.162301
 Phys. Rev. C \textbf{88}, 044910 (2013)
 doi:10.1103/PhysRevC.88.044910
 [arXiv:1303.0737 [hep-ex]].
-%957 citations counted in INSPIRE as of 29 Jan 2026
+%958 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2013hur}
 
@@ -5725,7 +5727,7 @@ doi:10.1016/j.physletb.2012.03.038
 Phys. Rev. Lett. \textbf{108}, 082001 (2012)
 doi:10.1103/PhysRevLett.108.082001
 [arXiv:1111.1630 [hep-ex]].
-%209 citations counted in INSPIRE as of 29 Jan 2026
+%210 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2012mhc}
 
@@ -5769,7 +5771,7 @@ doi:10.1016/j.physletb.2012.01.060
 Phys. Rev. Lett. \textbf{107}, 032301 (2011)
 doi:10.1103/PhysRevLett.107.032301
 [arXiv:1105.3865 [nucl-ex]].
-%839 citations counted in INSPIRE as of 29 Jan 2026
+%840 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2011zqe}
 
@@ -5781,7 +5783,7 @@ Phys. Lett. B \textbf{704}, 442-455 (2011)
 [erratum: Phys. Lett. B \textbf{718}, 692-698 (2012)]
 doi:10.1016/j.physletb.2011.09.054
 [arXiv:1105.0380 [hep-ex]].
-%248 citations counted in INSPIRE as of 29 Jan 2026
+%249 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2011gmo}
 
@@ -5858,7 +5860,7 @@ doi:10.1016/j.physletb.2010.12.020
 Phys. Rev. Lett. \textbf{105}, 252302 (2010)
 doi:10.1103/PhysRevLett.105.252302
 [arXiv:1011.3914 [nucl-ex]].
-%1220 citations counted in INSPIRE as of 29 Jan 2026
+%1221 citations counted in INSPIRE as of 29 Jan 2026
 
 \cite{ALICE:2010khr}
 

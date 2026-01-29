@@ -1,4 +1,4 @@
-   * Generated on 2026-Jan-29 01:00 CET  .
+   * Generated on 2026-Jan-29 09:00 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Space-time evolution of particle emission in p\(-\)Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}=~5.02}\) !TeV with 3D kaon femtoscopy|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2601.15081v1][2601.15081]]|[[https://inspirehep.net/literature/3109745][3109745]]|%RED%Submitted%ENDCOLOR%|544|
@@ -12,7 +12,7 @@
 |CF|Study of the interaction between \(\Xi\) baryons and light mesons via femtoscopy at the LHC|pp|[[http://arxiv.org/abs/2509.24519v1][2509.24519]]|[[https://inspirehep.net/literature/2974295][2974295]]|%RED%Submitted%ENDCOLOR%|536|
 |CF|Evidence of nuclear geometry-driven anisotropic flow in OO and Ne\(-\)Ne collisions at \(\mathbf{\sqrt{{\textit s}_{\rm\mathbf {NN}}}}\) = 5.36 !TeV|NeNe,OO|[[http://arxiv.org/abs/2509.06428v1][2509.06428]]|[[https://inspirehep.net/literature/2967353][2967353]]|%RED%Submitted%ENDCOLOR%|535|
 |LF|\(\Sigma^{+}\) production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2508.20808v1][2508.20808]]|[[https://inspirehep.net/literature/2964522][2964522]]|%RED%Submitted%ENDCOLOR%|534|
-|LF|Multiplicity dependence of f\(_0\)(980) production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2507.19347v1][2507.19347]]|[[https://inspirehep.net/literature/2954608][2954608]]|%RED%Submitted%ENDCOLOR%|533|
+|LF|Multiplicity dependence of f\(_0\)(980) production in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2507.19347v1][2507.19347]]|[[https://inspirehep.net/literature/2954608][2954608]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-025-15205-7][Eur. Phys. J. C 86]]%ENDCOLOR%|533|
 |LF|Multiplicity dependence of K\(^*(892)^{\pm}\) production in pp collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2507.19332v1][2507.19332]]|[[https://inspirehep.net/literature/2954610][2954610]]|%RED%Submitted%ENDCOLOR%|532|
 |HF|Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb-Pb collisions at \(\sqrt{s_{\rm{NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13197v1][2507.13197]]|[[https://inspirehep.net/literature/2951290][2951290]]|%RED%Submitted%ENDCOLOR%|531|
 |LF|\(\overline\Sigma^{\pm}\) production in pp and p-Pb collisions at \(\sqrt{s_{\rm NN}}\) = 5.02 !TeV with ALICE|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13183v1][2507.13183]]|[[https://inspirehep.net/literature/2948508][2948508]]|%RED%Submitted%ENDCOLOR%|530|

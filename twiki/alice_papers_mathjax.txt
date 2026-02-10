@@ -1,4 +1,4 @@
-   * Generated on 2026-Feb-09 16:11 CET  .
+   * Generated on 2026-Feb-10 01:05 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Space-time evolution of particle emission in p\(-\)Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}=~5.02}\) !TeV with 3D kaon femtoscopy|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2601.15081v1][2601.15081]]|[[https://inspirehep.net/literature/3109745][3109745]]|%RED%Submitted%ENDCOLOR%|544|

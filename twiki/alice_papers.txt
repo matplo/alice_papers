@@ -1,4 +1,4 @@
-   * Generated on 2026-Feb-12 01:02 CET  .
+   * Generated on 2026-Feb-12 17:02 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Space-time evolution of particle emission in p$-$Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}=~5.02}$ !TeV with 3D kaon femtoscopy|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2601.15081v1][2601.15081]]|[[https://inspirehep.net/literature/3109745][3109745]]|%RED%Submitted%ENDCOLOR%|544|
@@ -15,7 +15,7 @@
 |LF|Multiplicity dependence of f$_0$(980) production in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2507.19347v1][2507.19347]]|[[https://inspirehep.net/literature/2954608][2954608]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-025-15205-7][Eur. Phys. J. C 86]]%ENDCOLOR%|533|
 |LF|Multiplicity dependence of K$^*(892)^{\pm}$ production in pp collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2507.19332v1][2507.19332]]|[[https://inspirehep.net/literature/2954610][2954610]]|%RED%Submitted%ENDCOLOR%|532|
 |HF|Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb-Pb collisions at $\sqrt{s_{\rm{NN}} = 5.02}$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13197v1][2507.13197]]|[[https://inspirehep.net/literature/2951290][2951290]]|%RED%Submitted%ENDCOLOR%|531|
-|LF|$\overlineΣ^{\pm}$ production in pp and p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV with ALICE|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13183v1][2507.13183]]|[[https://inspirehep.net/literature/2948508][2948508]]|%RED%Submitted%ENDCOLOR%|530|
+|LF|$\overlineΣ^{\pm}$ production in pp and p-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 !TeV with ALICE|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2507.13183v1][2507.13183]]|[[https://inspirehep.net/literature/2948508][2948508]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-025-15129-2][Eur. Phys. J. C 86]]%ENDCOLOR%|530|
 |LF|Study of $\langle p_{\rm T} \rangle$ and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2506.10394v2][2506.10394]]|[[https://inspirehep.net/literature/2933773][2933773]]|%GREEN%[[https://doi.org/10.1007/JHEP11(2025)076][JHEP 11]]%ENDCOLOR%|529|
 |CF|Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2505.01061v2][2505.01061]]|[[https://inspirehep.net/literature/2917986][2917986]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2025.139921][Phys. Lett. B 871]]%ENDCOLOR%|528|
 |CF|Long-range transverse momentum correlations and radial flow in Pb$-$Pb collisions at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2504.04796v1][2504.04796]]|[[https://inspirehep.net/literature/2908602][2908602]]|%GREEN%[[https://doi.org/10.1103/l36g-6f46][Phys. Rev. Lett. 136]]%ENDCOLOR%|527|

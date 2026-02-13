@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Inclusive and multiplicity-dependent pseudorapidity densities of charged particles in pp collisions at \\(\mathbf\{\sqrt\{s\} = 13.6\}\\) TeV|pp|[2602.10658](http://arxiv.org/abs/2602.10658v1){: target="_blank"}|[3118582](https://inspirehep.net/literature/3118582){: target="_blank"}|Submitted|546|
+|CF|Observation of flow vector fluctuations in p\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{_\{\bf NN\}\}\}\}=\\) 5.02 TeV|pPb|[2602.10645](http://arxiv.org/abs/2602.10645v1){: target="_blank"}|[3118595](https://inspirehep.net/literature/3118595){: target="_blank"}|Submitted|545|
 |CF|Space-time evolution of particle emission in p\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\}=~5.02\}\\) TeV with 3D kaon femtoscopy|pPb|[2601.15081](http://arxiv.org/abs/2601.15081v1){: target="_blank"}|[3109745](https://inspirehep.net/literature/3109745){: target="_blank"}|Submitted|544|
 |CF|One- and three-dimensional identical charged-kaon femtoscopic correlations in Pb--Pb collisions at \\(\mathbf\{ \sqrt\{s_\mathrm\{NN\}\}=5.02\}\\) TeV|PbPb|[2601.15054](http://arxiv.org/abs/2601.15054v1){: target="_blank"}|[3109739](https://inspirehep.net/literature/3109739){: target="_blank"}|Submitted|543|
 |LF|Strangeness enhancement at its extremes: multiple (multi-)strange hadron production in pp collisions at \\(\mathbf\{\sqrt\{\textit\{s\}\} = 5.02\}\\) TeV|pp|[2511.10413](http://arxiv.org/abs/2511.10413v1){: target="_blank"}|[3082916](https://inspirehep.net/literature/3082916){: target="_blank"}|Submitted|542|

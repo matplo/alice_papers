@@ -576,7 +576,7 @@ DOI link: https://doi.org/10.1016/j.physletb.2025.139409
  
 Measurement of isolated prompt photon production in pp and p-Pb collisions at the LHC
 Date on arXiv: 2025.02.25
-Link: http://arxiv.org/abs/2502.18054v1
+Link: http://arxiv.org/abs/2502.18054v2
 Inspire: https://inspirehep.net/literature/2895564
 DOI link: https://doi.org/10.1140/epjc/s10052-025-14802-w
  

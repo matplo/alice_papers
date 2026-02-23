@@ -93,7 +93,9 @@
 \bibitem{ALICE:2025kma}
 
  I.~J.~Abualrob \textit{et al.} [ALICE],
-%``Study of the interaction between $Ξ$ baryons and light mesons via femtoscopy at the LHC,''
+%``Study of the interaction between {\ensuremath{\Xi}} baryons and light mesons via femtoscopy at the LHC,''
+Phys. Lett. B \textbf{874}, 140227 (2026)
+doi:10.1016/j.physletb.2026.140227
 [arXiv:2509.24519 [nucl-ex]].
 %0 citations counted in INSPIRE as of 23 Feb 2026
 
@@ -155,7 +157,7 @@ doi:10.1140/epjc/s10052-025-15205-7
 Eur. Phys. J. C \textbf{86}, no.2, 132 (2026)
 doi:10.1140/epjc/s10052-025-15129-2
 [arXiv:2507.13183 [nucl-ex]].
-%1 citations counted in INSPIRE as of 23 Feb 2026
+%2 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2025rtg}
 
@@ -669,7 +671,7 @@ doi:10.1103/PhysRevC.111.015201
 Phys. Lett. B \textbf{860}, 139066 (2025)
 doi:10.1016/j.physletb.2024.139066
 [arXiv:2405.19839 [nucl-ex]].
-%9 citations counted in INSPIRE as of 23 Feb 2026
+%10 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2024say}
 
@@ -813,7 +815,7 @@ Eur. Phys. J. C \textbf{85}, no.2, 198 (2025)
 [erratum: Eur. Phys. J. C \textbf{86}, no.1, 12 (2026)]
 doi:10.1140/epjc/s10052-025-13793-y
 [arXiv:2311.14527 [hep-ph]].
-%36 citations counted in INSPIRE as of 23 Feb 2026
+%35 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2023ulm}
 
@@ -1232,7 +1234,7 @@ doi:10.1140/epja/s10050-023-01139-9
 Phys. Rev. C \textbf{108}, no.4, 045203 (2023)
 doi:10.1103/PhysRevC.108.045203
 [arXiv:2303.13431 [hep-ex]].
-%8 citations counted in INSPIRE as of 23 Feb 2026
+%9 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2023lwx}
 
@@ -1274,7 +1276,7 @@ doi:10.1007/JHEP08(2023)006
  S.~Acharya \textit{et al.} [ALICE],
 %``Measurement of the angle between jet axes in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
 [arXiv:2303.13347 [nucl-ex]].
-%21 citations counted in INSPIRE as of 23 Feb 2026
+%22 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2023ecf}
 
@@ -4712,7 +4714,7 @@ doi:10.1007/JHEP05(2016)179
 Phys. Lett. B \textbf{754}, 360-372 (2016)
 doi:10.1016/j.physletb.2016.01.040
 [arXiv:1506.08453 [nucl-ex]].
-%260 citations counted in INSPIRE as of 23 Feb 2026
+%261 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2015lpx}
 
@@ -4778,7 +4780,7 @@ doi:10.1007/JHEP11(2015)205
 JHEP \textbf{09}, 170 (2015)
 doi:10.1007/JHEP09(2015)170
 [arXiv:1506.03984 [nucl-ex]].
-%188 citations counted in INSPIRE as of 23 Feb 2026
+%189 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2015ikl}
 
@@ -4866,7 +4868,7 @@ doi:10.1016/j.physletb.2015.07.054
 Phys. Lett. B \textbf{746}, 1-14 (2015)
 doi:10.1016/j.physletb.2015.04.039
 [arXiv:1502.01689 [nucl-ex]].
-%246 citations counted in INSPIRE as of 23 Feb 2026
+%247 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2015hav}
 
@@ -5141,7 +5143,7 @@ doi:10.1140/epjc/s10052-014-2974-4
 Int. J. Mod. Phys. A \textbf{29}, 1430044 (2014)
 doi:10.1142/S0217751X14300440
 [arXiv:1402.4476 [nucl-ex]].
-%1226 citations counted in INSPIRE as of 23 Feb 2026
+%1227 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2014juv}
 
@@ -5219,7 +5221,7 @@ Phys. Lett. B \textbf{728}, 216-227 (2014)
 [erratum: Phys. Lett. B \textbf{734}, 409-410 (2014)]
 doi:10.1016/j.physletb.2014.05.052
 [arXiv:1307.5543 [nucl-ex]].
-%497 citations counted in INSPIRE as of 23 Feb 2026
+%498 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2013cdo}
 
@@ -5483,7 +5485,7 @@ doi:10.1140/epjc/s10052-013-2456-0
 Phys. Lett. B \textbf{720}, 52-62 (2013)
 doi:10.1016/j.physletb.2013.01.051
 [arXiv:1208.2711 [hep-ex]].
-%525 citations counted in INSPIRE as of 23 Feb 2026
+%526 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2012ovd}
 
@@ -5661,7 +5663,7 @@ doi:10.1016/j.physletb.2012.10.078
 Phys. Rev. Lett. \textbf{109}, 252302 (2012)
 doi:10.1103/PhysRevLett.109.252302
 [arXiv:1203.2436 [nucl-ex]].
-%157 citations counted in INSPIRE as of 23 Feb 2026
+%158 citations counted in INSPIRE as of 23 Feb 2026
 
 \cite{ALICE:2012ab}
 

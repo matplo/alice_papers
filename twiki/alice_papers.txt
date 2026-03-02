@@ -1,4 +1,4 @@
-   * Generated on 2026-Mar-01 17:00 CET  .
+   * Generated on 2026-Mar-02 01:00 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Limits on the chiral magnetic effect from the event shape engineering and participant-spectator correlation techniques in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.22900v1][2602.22900]]|[[https://inspirehep.net/literature/3123964][3123964]]|%RED%Submitted%ENDCOLOR%|553|

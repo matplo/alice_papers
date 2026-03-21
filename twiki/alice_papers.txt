@@ -1,6 +1,8 @@
-   * Generated on 2026-Mar-21 01:00 CET  .
+   * Generated on 2026-Mar-21 09:00 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Evidence of different $Λ_{\rm c}$-baryon and D-meson elliptic flow in Pb$-$Pb collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}}}$ = 5.36 !TeV with ALICE at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2603.18966v1][2603.18966]]|[[https://inspirehep.net/literature/3131772][3131772]]|%RED%Submitted%ENDCOLOR%|555|
+|HF|Measurement of the $\mathbf{B^0}$-meson production cross section in proton--proton collisions at $\mathbf{\sqrt{\textit{s}}=13.6}$ !TeV|pp|[[http://arxiv.org/abs/2603.18904v1][2603.18904]]|[[https://inspirehep.net/literature/3131502][3131502]]|%RED%Submitted%ENDCOLOR%|554|
 |CF|Limits on the chiral magnetic effect from the event shape engineering and participant-spectator correlation techniques in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.22900v1][2602.22900]]|[[https://inspirehep.net/literature/3123964][3123964]]|%RED%Submitted%ENDCOLOR%|553|
 |HF|Measurements of the production of W$^{\pm}$ and Z$^0$ bosons in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2602.22898v1][2602.22898]]|[[https://inspirehep.net/literature/3123908][3123908]]|%RED%Submitted%ENDCOLOR%|552|
 |DQ|Measurement of the charged-particle-jet transverse-momentum fraction carried by prompt and non-prompt J/$ψ$ mesons in pp collisions at $\sqrt{s}=13$ !TeV|pp|[[http://arxiv.org/abs/2602.22889v1][2602.22889]]|[[https://inspirehep.net/literature/3123879][3123879]]|%RED%Submitted%ENDCOLOR%|551|

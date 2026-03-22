@@ -1,4 +1,4 @@
-   * Generated on 2026-Mar-21 16:26 CET  .
+   * Generated on 2026-Mar-22 01:04 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Evidence of different \(\Lambda_{\rm c}\)-baryon and D-meson elliptic flow in Pb\(-\)Pb collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}}}\) = 5.36 !TeV with ALICE at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2603.18966v1][2603.18966]]|[[https://inspirehep.net/literature/3131772][3131772]]|%RED%Submitted%ENDCOLOR%|555|

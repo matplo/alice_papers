@@ -1,6 +1,9 @@
-   * Generated on 2026-Mar-23 01:01 CET  .
+   * Generated on 2026-Mar-23 09:03 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|LF|Measurement of the elliptic flow of \(^3\)He and \(^3_\Lambda\)H in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.36\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2603.19398v1][2603.19398]]|[[https://inspirehep.net/literature/3132551][3132551]]|%RED%Submitted%ENDCOLOR%|558|
+|CF|Measurement of the transverse-momentum fraction of strange hadrons from jet-like correlation structures in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2603.19387v1][2603.19387]]|[[https://inspirehep.net/literature/3132536][3132536]]|%RED%Submitted%ENDCOLOR%|557|
+|LF|Production of \(\Xi\) and \(Ω\) hyperons in high-multiplicity proton-proton collisions at \(\sqrt{s}\) = 13 !TeV|pp|[[http://arxiv.org/abs/2603.19374v1][2603.19374]]|[[https://inspirehep.net/literature/3132364][3132364]]|%RED%Submitted%ENDCOLOR%|556|
 |HF|Evidence of different \(\Lambda_{\rm c}\)-baryon and D-meson elliptic flow in Pb\(-\)Pb collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}}}\) = 5.36 !TeV with ALICE at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2603.18966v1][2603.18966]]|[[https://inspirehep.net/literature/3131772][3131772]]|%RED%Submitted%ENDCOLOR%|555|
 |HF|Measurement of the \(\mathbf{B^0}\)-meson production cross section in proton--proton collisions at \(\mathbf{\sqrt{\textit{s}}=13.6}\) !TeV|pp|[[http://arxiv.org/abs/2603.18904v1][2603.18904]]|[[https://inspirehep.net/literature/3131502][3131502]]|%RED%Submitted%ENDCOLOR%|554|
 |CF|Limits on the chiral magnetic effect from the event shape engineering and participant-spectator correlation techniques in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.22900v1][2602.22900]]|[[https://inspirehep.net/literature/3123964][3123964]]|%RED%Submitted%ENDCOLOR%|553|

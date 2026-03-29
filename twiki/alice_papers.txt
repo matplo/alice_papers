@@ -1,4 +1,4 @@
-   * Generated on 2026-Mar-29 08:11 CEST  .
+   * Generated on 2026-Mar-29 16:11 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Measurement of the elliptic flow of $^3$He and $^3_Λ$H in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.36$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2603.19398v1][2603.19398]]|[[https://inspirehep.net/literature/3132551][3132551]]|%RED%Submitted%ENDCOLOR%|558|

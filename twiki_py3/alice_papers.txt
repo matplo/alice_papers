@@ -1,8 +1,8 @@
 %TABLE{columnwidths="4%,55%,6%,6%,10%,9%,10%"}%
 |*N*||*Group*|*Title*|*arXiv*|*Inspire*|*Journal*|*System*|
 |555||CF|Measurement of the transverse-momentum fraction of strange hadrons from jet-like correlation structures in pp collisions at $\sqrt{s} = 13$ TeV|[[https://arxiv.org/abs/2603.19387][2603.19387]]|[[https://inspirehep.net/literature/3132536][3132536]]|n/a|pp|
-|556||LF|Production of $Ξ$ and $Ω$ hyperons in high-multiplicity proton-proton collisions at $\sqrt{s}$ = 13 TeV|[[https://arxiv.org/abs/2603.19374][2603.19374]]|[[https://inspirehep.net/literature/3132364][3132364]]|n/a|pp|
-|557||HF|Measurement of the $\mathbf{B^0}$-meson production cross section in proton--proton collisions at $\mathbf{\sqrt{\textit{s}}=13.6}$ TeV|[[https://arxiv.org/abs/2603.18904][2603.18904]]|[[https://inspirehep.net/literature/3131502][3131502]]|n/a|pp|
+|556||HF|Measurement of the $\mathbf{B^0}$-meson production cross section in proton--proton collisions at $\mathbf{\sqrt{\textit{s}}=13.6}$ TeV|[[https://arxiv.org/abs/2603.18904][2603.18904]]|[[https://inspirehep.net/literature/3131502][3131502]]|n/a|pp|
+|557||LF|Production of $Ξ$ and $Ω$ hyperons in high-multiplicity proton-proton collisions at $\sqrt{s}$ = 13 TeV|[[https://arxiv.org/abs/2603.19374][2603.19374]]|[[https://inspirehep.net/literature/3132364][3132364]]|n/a|pp|
 |558||LF|Measurement of the elliptic flow of $^3$He and $^3_Λ$H in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.36$ TeV|[[https://arxiv.org/abs/2603.19398][2603.19398]]|[[https://inspirehep.net/literature/3132551][3132551]]|n/a|PbPb|
 |559||HF|Evidence of different $Λ_{\rm c}$-baryon and D-meson elliptic flow in Pb$-$Pb collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}}}$ = 5.36 TeV with ALICE at the LHC|[[https://arxiv.org/abs/2603.18966][2603.18966]]|[[https://inspirehep.net/literature/3131772][3131772]]|n/a|PbPb|
 |548||CF|First measurement of the strong interaction scattering parameters for the $\mathbf{K^-d}$ and $\mathbf{K^+d}$ systems|[[https://arxiv.org/abs/2602.22833][2602.22833]]|[[https://inspirehep.net/literature/3123891][3123891]]|n/a|PbPb|

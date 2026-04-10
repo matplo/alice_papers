@@ -10,6 +10,9 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|DQ|Multiplicity dependence of prompt and non-prompt J/\\(\psi\\) production at midrapidity in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2604.07968](http://arxiv.org/abs/2604.07968v1){: target="_blank"}|[3142718](https://inspirehep.net/literature/3142718){: target="_blank"}|Submitted|561|
+|JE|Dijet invariant mass of charged-particle jets in pp and p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,pPb|[2604.07961](http://arxiv.org/abs/2604.07961v1){: target="_blank"}|[3142717](https://inspirehep.net/literature/3142717){: target="_blank"}|Submitted|560|
+|LF|Wave-Function Femtometry: Hypertriton - The Ultimate Halo Nucleus|pp|[2604.07949](http://arxiv.org/abs/2604.07949v1){: target="_blank"}|[3142480](https://inspirehep.net/literature/3142480){: target="_blank"}|Submitted|559|
 |LF|Measurement of the elliptic flow of \\(^3\\)He and \\(^3_\Lambda\\)H in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.36\\) TeV|PbPb|[2603.19398](http://arxiv.org/abs/2603.19398v1){: target="_blank"}|[3132551](https://inspirehep.net/literature/3132551){: target="_blank"}|Submitted|558|
 |CF|Measurement of the transverse-momentum fraction of strange hadrons from jet-like correlation structures in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2603.19387](http://arxiv.org/abs/2603.19387v1){: target="_blank"}|[3132536](https://inspirehep.net/literature/3132536){: target="_blank"}|Submitted|557|
 |LF|Production of \\(\Xi\\) and \\(Ω\\) hyperons in high-multiplicity proton-proton collisions at \\(\sqrt\{s\}\\) = 13 TeV|pp|[2603.19374](http://arxiv.org/abs/2603.19374v1){: target="_blank"}|[3132364](https://inspirehep.net/literature/3132364){: target="_blank"}|Submitted|556|

@@ -1,4 +1,4 @@
-   * Generated on 2026-Apr-25 17:02 CEST  .
+   * Generated on 2026-Apr-26 01:02 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |DQ|Multiplicity dependence of prompt and non-prompt J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2604.07968v1][2604.07968]]|[[https://inspirehep.net/literature/3142718][3142718]]|%RED%Submitted%ENDCOLOR%|561|

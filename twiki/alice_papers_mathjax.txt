@@ -1,6 +1,8 @@
-   * Generated on 2026-May-10 16:11 CEST  .
+   * Generated on 2026-May-11 01:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|JE|Measurement of isolated-prompt photon\(-\)hadron correlations in Pb\(-\)Pb collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2605.02342v1][2605.02342]]|[[https://inspirehep.net/literature/3151449][3151449]]|%RED%Submitted%ENDCOLOR%|563|
+|CF|\(\mathbf{\textbf{K}^{0}_{\textbf{S}}}-\mathbf{\textbf{K}^{0}_{\textbf{S}}}\) femtoscopy in Pb\(-\)Pb collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.02}\) !TeV at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2605.02321v1][2605.02321]]|[[https://inspirehep.net/literature/3151442][3151442]]|%RED%Submitted%ENDCOLOR%|562|
 |DQ|Multiplicity dependence of prompt and non-prompt J/\(\psi\) production at midrapidity in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2604.07968v1][2604.07968]]|[[https://inspirehep.net/literature/3142718][3142718]]|%RED%Submitted%ENDCOLOR%|561|
 |JE|Dijet invariant mass of charged-particle jets in pp and p-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2604.07961v1][2604.07961]]|[[https://inspirehep.net/literature/3142717][3142717]]|%RED%Submitted%ENDCOLOR%|560|
 |LF|Wave-Function Femtometry: Hypertriton - The Ultimate Halo Nucleus|pp|[[http://arxiv.org/abs/2604.07949v1][2604.07949]]|[[https://inspirehep.net/literature/3142480][3142480]]|%RED%Submitted%ENDCOLOR%|559|

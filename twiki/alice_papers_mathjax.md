@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|UD|Exclusive dimuon production and coherent charmonium photoproduction at forward rapidity in ultra-peripheral Pb\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\}=5.36\}\\) TeV|PbPb|[2605.13569](http://arxiv.org/abs/2605.13569v1){: target="_blank"}|[3155120](https://inspirehep.net/literature/3155120){: target="_blank"}|Submitted|564|
 |JE|Measurement of isolated-prompt photon\\(-\\)hadron correlations in Pb\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{\rm NN\}\} = 5.02\}\\) TeV|PbPb|[2605.02342](http://arxiv.org/abs/2605.02342v1){: target="_blank"}|[3151449](https://inspirehep.net/literature/3151449){: target="_blank"}|Submitted|563|
 |CF|\\(\mathbf\{\textbf\{K\}^\{0\}_\{\textbf\{S\}\}\}-\mathbf\{\textbf\{K\}^\{0\}_\{\textbf\{S\}\}\}\\) femtoscopy in Pb\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{\rm NN\}\} = 5.02\}\\) TeV at the LHC|PbPb|[2605.02321](http://arxiv.org/abs/2605.02321v1){: target="_blank"}|[3151442](https://inspirehep.net/literature/3151442){: target="_blank"}|Submitted|562|
 |DQ|Multiplicity dependence of prompt and non-prompt J/\\(\psi\\) production at midrapidity in pp collisions at \\(\sqrt\{s\} = 13\\) TeV|pp|[2604.07968](http://arxiv.org/abs/2604.07968v1){: target="_blank"}|[3142718](https://inspirehep.net/literature/3142718){: target="_blank"}|Submitted|561|

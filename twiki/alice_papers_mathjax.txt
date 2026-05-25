@@ -1,4 +1,4 @@
-   * Generated on 2026-May-25 16:23 CEST  .
+   * Generated on 2026-May-26 00:11 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |UD|Exclusive dimuon production and coherent charmonium photoproduction at forward rapidity in ultra-peripheral Pb\(-\)Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}=5.36}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2605.13569v1][2605.13569]]|[[https://inspirehep.net/literature/3155120][3155120]]|%RED%Submitted%ENDCOLOR%|564|

@@ -10,6 +10,9 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|JE|Energy-energy correlators in p-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|pp,pPb|[2606.18143](http://arxiv.org/abs/2606.18143v1){: target="_blank"}|[3169392](https://inspirehep.net/literature/3169392){: target="_blank"}|Submitted|567|
+|JE|Probing jet evolution with charged energy correlators in small systems|pp,pPb|[2606.18093](http://arxiv.org/abs/2606.18093v1){: target="_blank"}|[3169393](https://inspirehep.net/literature/3169393){: target="_blank"}|Submitted|566|
+|LF|Hyperon (\\(\Lambda\\)) polarization along the beam axis in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.36\\) TeV|PbPb|[2606.18070](http://arxiv.org/abs/2606.18070v1){: target="_blank"}|[3169170](https://inspirehep.net/literature/3169170){: target="_blank"}|Submitted|565|
 |UD|Exclusive dimuon production and coherent charmonium photoproduction at forward rapidity in ultra-peripheral Pb\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{s_\{\rm NN\}\}=5.36\}\\) TeV|PbPb|[2605.13569](http://arxiv.org/abs/2605.13569v1){: target="_blank"}|[3155120](https://inspirehep.net/literature/3155120){: target="_blank"}|Submitted|564|
 |JE|Measurement of isolated-prompt photon\\(-\\)hadron correlations in Pb\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{\rm NN\}\} = 5.02\}\\) TeV|PbPb|[2605.02342](http://arxiv.org/abs/2605.02342v1){: target="_blank"}|[3151449](https://inspirehep.net/literature/3151449){: target="_blank"}|Submitted|563|
 |CF|\\(\mathbf\{\textbf\{K\}^\{0\}_\{\textbf\{S\}\}\}-\mathbf\{\textbf\{K\}^\{0\}_\{\textbf\{S\}\}\}\\) femtoscopy in Pb\\(-\\)Pb collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{\rm NN\}\} = 5.02\}\\) TeV at the LHC|PbPb|[2605.02321](http://arxiv.org/abs/2605.02321v1){: target="_blank"}|[3151442](https://inspirehep.net/literature/3151442){: target="_blank"}|Submitted|562|

@@ -1,6 +1,10 @@
-   * Generated on 2026-Jun-19 17:13 CEST  .
+   * Generated on 2026-Jun-20 01:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|LF|Precision mass measurements of multistrange baryons and their antiparticles|pp|[[http://arxiv.org/abs/2606.20144v1][2606.20144]]|[[https://inspirehep.net/literature/3170328][3170328]]|%RED%Submitted%ENDCOLOR%|571|
+|JE|Modification of jet-energy flow in heavy-ion collisions|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2606.20061v1][2606.20061]]|[[https://inspirehep.net/literature/3170339][3170339]]|%RED%Submitted%ENDCOLOR%|570|
+|HF|Probing flavor effects in the QCD parton shower using $\mathbf{{\rm D}^0}$-tagged jet angularities in proton$-$proton collisions at $\mathbf{ \sqrt{s} = 5.02}$ !TeV|pp|[[http://arxiv.org/abs/2606.20028v1][2606.20028]]|[[https://inspirehep.net/literature/3170336][3170336]]|%RED%Submitted%ENDCOLOR%|569|
+|EM|Evidence for parton energy loss in oxygen$-$oxygen collisions at $\mathbf{\sqrt{s_{\rm NN}}=5.36}$ !TeV|OO,pO,pp|[[http://arxiv.org/abs/2606.19967v1][2606.19967]]|[[https://inspirehep.net/literature/3170323][3170323]]|%RED%Submitted%ENDCOLOR%|568|
 |JE|Energy-energy correlators in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2606.18143v1][2606.18143]]|[[https://inspirehep.net/literature/3169392][3169392]]|%RED%Submitted%ENDCOLOR%|567|
 |JE|Probing jet evolution with charged energy correlators in small systems|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2606.18093v1][2606.18093]]|[[https://inspirehep.net/literature/3169393][3169393]]|%RED%Submitted%ENDCOLOR%|566|
 |LF|Hyperon ($Λ$) polarization along the beam axis in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.36$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2606.18070v1][2606.18070]]|[[https://inspirehep.net/literature/3169170][3169170]]|%RED%Submitted%ENDCOLOR%|565|

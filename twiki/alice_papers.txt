@@ -1,4 +1,4 @@
-   * Generated on 2026-Jun-21 09:03 CEST  .
+   * Generated on 2026-Jun-21 17:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Precision mass measurements of multistrange baryons and their antiparticles|pp|[[http://arxiv.org/abs/2606.20144v1][2606.20144]]|[[https://inspirehep.net/literature/3170328][3170328]]|%RED%Submitted%ENDCOLOR%|571|

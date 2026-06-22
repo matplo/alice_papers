@@ -236,8 +236,10 @@
 
 \bibitem{ALICE:2026suk}
 
- D.~A.~H.~Abdallah \textit{et al.} [ALICE],
-%``Observation of flow vector fluctuations in p$-$Pb collisions at $\mathbf{\sqrt{\textit{s}_{_{\bf NN}}}}=$ 5.02 TeV,''
+ D.~Ali Hassan Abdallah \textit{et al.} [ALICE],
+%``Observation of flow vector fluctuations in p{\textendash}Pb collisions at $\sqrt{{s}_{NN}}=5.02$ TeV,''
+JHEP \textbf{06}, 152 (2026)
+doi:10.1007/JHEP06(2026)152
 [arXiv:2602.10645 [nucl-ex]].
 %0 citations counted in INSPIRE as of 22 Jun 2026
 

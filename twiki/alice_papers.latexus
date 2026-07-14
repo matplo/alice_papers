@@ -102,7 +102,9 @@
 \bibitem{ALICE:2026vjy}
 
  D.~Ali Hassan Abdallah \textit{et al.} [ALICE],
-%``Multiplicity dependence of prompt and non-prompt J/$ψ$ production at midrapidity in pp collisions at $\sqrt{s} = 13$ TeV,''
+%``Multiplicity dependence of prompt and non-prompt J/{\ensuremath{\psi}} production at midrapidity in pp collisions at $\sqrt{s}=13$ TeV,''
+JHEP \textbf{07}, 051 (2026)
+doi:10.1007/JHEP07(2026)051
 [arXiv:2604.07968 [hep-ex]].
 %1 citations counted in INSPIRE as of 14 Jul 2026
 
@@ -230,7 +232,7 @@
  D.~Ali Hassan Abdallah \textit{et al.} [ALICE],
 %``First measurement of the strong interaction scattering parameters for the $\mathbf{K^-d}$ and $\mathbf{K^+d}$ systems,''
 [arXiv:2602.22833 [nucl-ex]].
-%0 citations counted in INSPIRE as of 14 Jul 2026
+%1 citations counted in INSPIRE as of 14 Jul 2026
 
 \cite{ALICE:2026ajq}
 
@@ -2488,7 +2490,7 @@ doi:10.1007/JHEP10(2021)152
 Phys. Rev. C \textbf{106}, no.3, 034907 (2022)
 doi:10.1103/PhysRevC.106.034907
 [arXiv:2106.13113 [nucl-ex]].
-%69 citations counted in INSPIRE as of 14 Jul 2026
+%70 citations counted in INSPIRE as of 14 Jul 2026
 
 \cite{ALICE:2021rzj}
 

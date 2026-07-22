@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|First measurement of \\(\mathbf\{\rm \Xi_\{\rm c\}^\{0\}\}\\) production in \\(\mathbf\{Pb\}-\mathbf\{Pb\}\\) collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{\rm NN\}\}\}\\) = 5.02 TeV|PbPb|[2607.17903](http://arxiv.org/abs/2607.17903v1){: target="_blank"}|[3181783](https://inspirehep.net/literature/3181783){: target="_blank"}|Submitted|573|
 |CF|Multiplicity dependence of the size of the common hadron emission source in pp collisions at the LHC|pp|[2606.28098](http://arxiv.org/abs/2606.28098v1){: target="_blank"}|[3174083](https://inspirehep.net/literature/3174083){: target="_blank"}|Submitted|572|
 |LF|Precision mass measurements of multistrange baryons and their antiparticles|pp|[2606.20144](http://arxiv.org/abs/2606.20144v1){: target="_blank"}|[3170328](https://inspirehep.net/literature/3170328){: target="_blank"}|Submitted|571|
 |JE|Modification of jet-energy flow in heavy-ion collisions|pp,PbPb|[2606.20061](http://arxiv.org/abs/2606.20061v1){: target="_blank"}|[3170339](https://inspirehep.net/literature/3170339){: target="_blank"}|Submitted|570|

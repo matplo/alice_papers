@@ -1,4 +1,4 @@
-   * Generated on 2026-Jul-23 16:11 CEST  .
+   * Generated on 2026-Jul-24 01:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|First measurement of $\mathbf{\rm Ξ_{\rm c}^{0}}$ production in $\mathbf{Pb}-\mathbf{Pb}$ collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}}}$ = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2607.17903v1][2607.17903]]|[[https://inspirehep.net/literature/3181783][3181783]]|%RED%Submitted%ENDCOLOR%|573|
@@ -21,7 +21,7 @@
 |LF|Production of $Ξ$ and $Ω$ hyperons in high-multiplicity proton-proton collisions at $\sqrt{s}$ = 13 !TeV|pp|[[http://arxiv.org/abs/2603.19374v1][2603.19374]]|[[https://inspirehep.net/literature/3132364][3132364]]|%RED%Submitted%ENDCOLOR%|556|
 |HF|Evidence of different $Λ_{\rm c}$-baryon and D-meson elliptic flow in Pb$-$Pb collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}}}$ = 5.36 !TeV with ALICE at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2603.18966v1][2603.18966]]|[[https://inspirehep.net/literature/3131772][3131772]]|%RED%Submitted%ENDCOLOR%|555|
 |HF|Measurement of the $\mathbf{B^0}$-meson production cross section in proton--proton collisions at $\mathbf{\sqrt{\textit{s}}=13.6}$ !TeV|pp|[[http://arxiv.org/abs/2603.18904v1][2603.18904]]|[[https://inspirehep.net/literature/3131502][3131502]]|%RED%Submitted%ENDCOLOR%|554|
-|CF|Limits on the chiral magnetic effect from the event shape engineering and participant-spectator correlation techniques in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.22900v1][2602.22900]]|[[https://inspirehep.net/literature/3123964][3123964]]|%RED%Submitted%ENDCOLOR%|553|
+|CF|Limits on the chiral magnetic effect from the event shape engineering and participant-spectator correlation techniques in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.22900v1][2602.22900]]|[[https://inspirehep.net/literature/3123964][3123964]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2026.140672][Phys. Lett. B 880]]%ENDCOLOR%|553|
 |HF|Measurements of the production of W$^{\pm}$ and Z$^0$ bosons in pp collisions at $\sqrt{s} = 13$ !TeV|pp|[[http://arxiv.org/abs/2602.22898v1][2602.22898]]|[[https://inspirehep.net/literature/3123908][3123908]]|%RED%Submitted%ENDCOLOR%|552|
 |DQ|Measurement of the charged-particle-jet transverse-momentum fraction carried by prompt and non-prompt J/$ψ$ mesons in pp collisions at $\sqrt{s}=13$ !TeV|pp|[[http://arxiv.org/abs/2602.22889v1][2602.22889]]|[[https://inspirehep.net/literature/3123879][3123879]]|%RED%Submitted%ENDCOLOR%|551|
 |LF|Deuteron coalescence probability in jets in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.22880v1][2602.22880]]|[[https://inspirehep.net/literature/3123878][3123878]]|%RED%Submitted%ENDCOLOR%|550|

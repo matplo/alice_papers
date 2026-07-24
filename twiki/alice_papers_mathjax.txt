@@ -1,4 +1,4 @@
-   * Generated on 2026-Jul-24 01:03 CEST  .
+   * Generated on 2026-Jul-24 09:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|First measurement of \(\mathbf{\rm \Xi_{\rm c}^{0}}\) production in \(\mathbf{Pb}-\mathbf{Pb}\) collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2607.17903v1][2607.17903]]|[[https://inspirehep.net/literature/3181783][3181783]]|%RED%Submitted%ENDCOLOR%|573|

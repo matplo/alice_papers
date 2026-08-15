@@ -560,7 +560,7 @@ Exposing the parton-hadron transition within jets with energy-energy correlators
 Date on arXiv: 2024.09.19
 Link: http://arxiv.org/abs/2409.12687v2
 Inspire: https://inspirehep.net/literature/2830401
-DOI link: N/A
+DOI link: https://doi.org/10.1103/tgtl-7xh9
  
 Search for quasi-particle scattering in the quark-gluon plasma with jet splittings in pp and Pb$-$Pb collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.02}$ TeV
 Date on arXiv: 2024.09.19

@@ -1,6 +1,6 @@
 %TABLE{columnwidths="4%,55%,6%,6%,10%,9%,10%"}%
 |*N*||*Group*|*Title*|*arXiv*|*Inspire*|*Journal*|*System*|
-|575||CF|Three-baryon femtoscopy as an effective 3$\rightarrow$3 scattering experiment|[[https://arxiv.org/abs/2608.05708][2608.05708]]|n/a|n/a|pp|
+|575||CF|Three-baryon femtoscopy as an effective 3$\rightarrow$3 scattering experiment|[[https://arxiv.org/abs/2608.05708][2608.05708]]|[[https://inspirehep.net/literature/3191907][3191907]]|n/a|pp|
 |574||HF|First measurement of $\mathbf{\rm Ξ_{\rm c}^{0}}$ production in $\mathbf{Pb}-\mathbf{Pb}$ collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}}}$ = 5.02 TeV|[[https://arxiv.org/abs/2607.17903][2607.17903]]|[[https://inspirehep.net/literature/3181783][3181783]]|n/a|PbPb|
 |573||CF|Multiplicity dependence of the size of the common hadron emission source in pp collisions at the LHC|[[https://arxiv.org/abs/2606.28098][2606.28098]]|[[https://inspirehep.net/literature/3174083][3174083]]|n/a|pp|
 |569||EM|Evidence for parton energy loss in oxygen$-$oxygen collisions at $\mathbf{\sqrt{s_{\rm NN}}=5.36}$ TeV|[[https://arxiv.org/abs/2606.19967][2606.19967]]|[[https://inspirehep.net/literature/3170323][3170323]]|n/a|OO,pO,pp|

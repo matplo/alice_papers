@@ -1,4 +1,4 @@
-   * Generated on 2026-Aug-21 09:03 CEST  .
+   * Generated on 2026-Aug-22 01:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Three-baryon femtoscopy as an effective 3$\rightarrow$3 scattering experiment|pp|[[http://arxiv.org/abs/2608.05708v1][2608.05708]]|[[https://inspirehep.net/literature/3191907][3191907]]|%RED%Submitted%ENDCOLOR%|574|
@@ -35,7 +35,7 @@
 |CF|One- and three-dimensional identical charged-kaon femtoscopic correlations in Pb--Pb collisions at $\mathbf{ \sqrt{s_\mathrm{NN}}=5.02}$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2601.15054v1][2601.15054]]|[[https://inspirehep.net/literature/3109739][3109739]]|%RED%Submitted%ENDCOLOR%|543|
 |LF|Strangeness enhancement at its extremes: multiple (multi-)strange hadron production in pp collisions at $\mathbf{\sqrt{\textit{s}} = 5.02}$ !TeV|pp|[[http://arxiv.org/abs/2511.10413v1][2511.10413]]|[[https://inspirehep.net/literature/3082916][3082916]]|%GREEN%[[https://doi.org/10.1007/JHEP06(2026)227][JHEP 06]]%ENDCOLOR%|542|
 |CF|Multiplicity dependence of two-particle angular correlations of identified particles in pp collisions at $\mathbf{\sqrt{s} = 13}$ !TeV|pp|[[http://arxiv.org/abs/2511.10399v1][2511.10399]]|[[https://inspirehep.net/literature/3082656][3082656]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-026-15447-z][Eur. Phys. J. C 86]]%ENDCOLOR%|541|
-|LF|Centrality dependence of strange particle production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2511.10360v1][2511.10360]]|[[https://inspirehep.net/literature/3082654][3082654]]|%RED%Submitted%ENDCOLOR%|540|
+|LF|Centrality dependence of strange particle production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2511.10360v1][2511.10360]]|[[https://inspirehep.net/literature/3082654][3082654]]|%GREEN%[[https://doi.org/10.1103/j21y-pqd6][j21y-pqd6]]%ENDCOLOR%|540|
 |n/a|Time resolution of the ALICE Time-Of-Flight detector with the first Run 3 pp collisions at ${\bf \sqrt{\textit{s}} = 13.6}$ !TeV|pp|[[http://arxiv.org/abs/2511.10311v1][2511.10311]]|[[https://inspirehep.net/literature/3082633][3082633]]|%GREEN%[[https://doi.org/10.1140/epjp/s13360-026-07626-4][Eur. Phys. J. Plus 141]]%ENDCOLOR%|539|
 |LF|Strangeness production as a function of charged-particle multiplicity in proton-proton collisions at ${\bf \sqrt{s}~=~5.02}$ !TeV|pp|[[http://arxiv.org/abs/2511.10306v1][2511.10306]]|[[https://inspirehep.net/literature/3082917][3082917]]|%GREEN%[[https://doi.org/10.1103/xtf2-bsc9][Phys. Rev. C 114]]%ENDCOLOR%|538|
 |CF|Measurement of the p$-Σ^+$ correlation function in pp collisions at $\sqrt{\textit{s}}=13$ !TeV|pp|[[http://arxiv.org/abs/2510.14448v1][2510.14448]]|[[https://inspirehep.net/literature/3070639][3070639]]|%GREEN%[[https://doi.org/10.1016/j.physletb.2026.140252][Phys. Lett. B 874]]%ENDCOLOR%|537|

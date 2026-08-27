@@ -1,4 +1,4 @@
-   * Generated on 2026-Aug-27 08:11 CEST  .
+   * Generated on 2026-Aug-27 17:02 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Three-baryon femtoscopy as an effective 3\(\rightarrow\)3 scattering experiment|pp|[[http://arxiv.org/abs/2608.05708v1][2608.05708]]|[[https://inspirehep.net/literature/3191907][3191907]]|%RED%Submitted%ENDCOLOR%|574|

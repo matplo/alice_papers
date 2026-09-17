@@ -29,7 +29,7 @@ doi:10.1103/PhysRevD.82.052001
 Phys. Rev. Lett. \textbf{105}, 252302 (2010)
 doi:10.1103/PhysRevLett.105.252302
 [arXiv:1011.3914 [nucl-ex]].
-%1252 citations counted in INSPIRE as of 17 Sep 2026
+%1253 citations counted in INSPIRE as of 17 Sep 2026
 
 \cite{ALICE:2010khr}
 
@@ -152,17 +152,6 @@ doi:10.1016/j.physletb.2012.09.013
 [arXiv:1206.2056 [hep-ex]].
 %46 citations counted in INSPIRE as of 17 Sep 2026
 
-\cite{ALICE:2012yyu}
-
-\bibitem{ALICE:2012yyu}
-
- B.~Abelev \textit{et al.} [ALICE],
-%``$K^0_s-K^0_s$ correlations in $pp$ collisions at $\sqrt{s}=7$ TeV from the LHC ALICE experiment,''
-Phys. Lett. B \textbf{717}, 151-161 (2012)
-doi:10.1016/j.physletb.2012.09.013
-[arXiv:1206.2056 [hep-ex]].
-%46 citations counted in INSPIRE as of 17 Sep 2026
-
 \cite{ALICE:2012xs}
 
 \bibitem{ALICE:2012xs}
@@ -183,7 +172,7 @@ doi:10.1103/PhysRevLett.110.032301
 Phys. Lett. B \textbf{719}, 29-41 (2013)
 doi:10.1016/j.physletb.2013.01.012
 [arXiv:1212.2001 [nucl-ex]].
-%1067 citations counted in INSPIRE as of 17 Sep 2026
+%1068 citations counted in INSPIRE as of 17 Sep 2026
 
 \cite{ALICE:2013yva}
 
@@ -612,7 +601,7 @@ doi:10.1016/j.physletb.2018.06.042
 Phys. Lett. B \textbf{784}, 82-95 (2018)
 doi:10.1016/j.physletb.2018.06.059
 [arXiv:1805.01832 [nucl-ex]].
-%181 citations counted in INSPIRE as of 17 Sep 2026
+%182 citations counted in INSPIRE as of 17 Sep 2026
 
 \cite{ALICE:2018qdv}
 
@@ -700,7 +689,7 @@ doi:10.1007/JHEP09(2019)108
 Phys. Rev. Lett. \textbf{123}, no.14, 142301 (2019)
 doi:10.1103/PhysRevLett.123.142301
 [arXiv:1903.01790 [nucl-ex]].
-%216 citations counted in INSPIRE as of 17 Sep 2026
+%215 citations counted in INSPIRE as of 17 Sep 2026
 
 \cite{ALICE:2019whv}
 
@@ -713,17 +702,6 @@ doi:10.1016/j.physletb.2019.07.020
 [arXiv:1904.13118 [nucl-ex]].
 %22 citations counted in INSPIRE as of 17 Sep 2026
 
-\cite{ALICE:2019ykw}
-
-\bibitem{ALICE:2019ykw}
-
- S.~Acharya \textit{et al.} [ALICE],
-%``Exploration of jet substructure using iterative declustering in pp and Pb{\textendash}Pb collisions at LHC energies,''
-Phys. Lett. B \textbf{802}, 135227 (2020)
-doi:10.1016/j.physletb.2020.135227
-[arXiv:1905.02512 [nucl-ex]].
-%125 citations counted in INSPIRE as of 17 Sep 2026
-
 \cite{ALICE:2019cbr}
 
 \bibitem{ALICE:2019cbr}
@@ -734,6 +712,17 @@ JHEP \textbf{08}, 133 (2019)
 doi:10.1007/JHEP08(2019)133
 [arXiv:1905.02510 [nucl-ex]].
 %61 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2019ykw}
+
+\bibitem{ALICE:2019ykw}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Exploration of jet substructure using iterative declustering in pp and Pb{\textendash}Pb collisions at LHC energies,''
+Phys. Lett. B \textbf{802}, 135227 (2020)
+doi:10.1016/j.physletb.2020.135227
+[arXiv:1905.02512 [nucl-ex]].
+%125 citations counted in INSPIRE as of 17 Sep 2026
 
 \cite{ALICE:2019onw}
 
@@ -977,7 +966,7 @@ doi:10.1103/PhysRevLett.128.102001
 Eur. Phys. J. C \textbf{84}, no.8, 813 (2024)
 doi:10.1140/epjc/s10052-024-12935-y
 [arXiv:2211.04384 [nucl-ex]].
-%487 citations counted in INSPIRE as of 17 Sep 2026
+%488 citations counted in INSPIRE as of 17 Sep 2026
 
 \cite{ALICE:2023jye}
 
@@ -1023,6 +1012,17 @@ doi:10.1103/PhysRevLett.132.222303
 [arXiv:2311.11792 [nucl-ex]].
 %22 citations counted in INSPIRE as of 17 Sep 2026
 
+\cite{ALICE:2024hkk}
+
+\bibitem{ALICE:2024hkk}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``First measurement of Ds1(1+)(2536)+ and Ds2*(2+)(2573)+ production in proton-proton collisions at s=13{\,}{\,}TeV at the LHC,''
+Phys. Rev. D \textbf{111}, no.11, 112005 (2025)
+doi:10.1103/PhysRevD.111.112005
+[arXiv:2409.11938 [hep-ex]].
+%3 citations counted in INSPIRE as of 17 Sep 2026
+
 \cite{ALICE:2024dfl}
 
 \bibitem{ALICE:2024dfl}
@@ -1044,6 +1044,7 @@ Phys. Rev. Lett. \textbf{135}, no.3, 031901 (2025)
 doi:10.1103/PhysRevLett.135.031901
 [arXiv:2409.12837 [nucl-ex]].
 %15 citations counted in INSPIRE as of 17 Sep 2026
+
 
 \cite{ALICE:2024jtb}
 
@@ -1067,6 +1068,39 @@ doi:10.1140/epjc/s10052-025-14802-w
 [arXiv:2502.18054 [nucl-ex]].
 %11 citations counted in INSPIRE as of 17 Sep 2026
 
+\cite{ALICE:2025atb}
+
+\bibitem{ALICE:2025atb}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Observation of the {\ensuremath{\Omega}}(2012) baryon at the LHC,''
+Phys. Rev. D \textbf{112}, no.9, 9 (2025)
+doi:10.1103/v4mh-3r8z
+[arXiv:2502.18063 [hep-ex]].
+%11 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2025cuw}
+
+\bibitem{ALICE:2025cuw}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``Evidence for J/{\ensuremath{\psi}} Suppression in Incoherent Photonuclear Production,''
+Phys. Rev. Lett. \textbf{137}, no.5, 052301 (2026)
+doi:10.1103/jmwb-75m7
+[arXiv:2503.18708 [nucl-ex]].
+%9 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2025ygv}
+
+\bibitem{ALICE:2025ygv}
+
+ S.~Acharya \textit{et al.} [ALICE],
+%``D0-meson-tagged jet axes difference in proton-proton collisions at s=5.02{\,}{\,}TeV,''
+Phys. Rev. D \textbf{112}, no.9, 092012 (2025)
+doi:10.1103/nt4q-7t77
+[arXiv:2504.02571 [hep-ex]].
+%4 citations counted in INSPIRE as of 17 Sep 2026
+
 \cite{ALICE:2025igw}
 
 \bibitem{ALICE:2025igw}
@@ -1075,4 +1109,80 @@ doi:10.1140/epjc/s10052-025-14802-w
 %``Energy-energy correlators in charm-tagged jets in proton-proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV,''
 [arXiv:2504.03431 [hep-ex]].
 %36 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2025rtg}
+
+\bibitem{ALICE:2025rtg}
+
+ I.~J.~Abualrob \textit{et al.} [ALICE],
+%``Study of $\langle {p}_{\text{T}}\rangle $ and its higher moments, and extraction of the speed of sound in Pb-Pb collisions with ALICE,''
+JHEP \textbf{11}, 076 (2025)
+doi:10.1007/JHEP11(2025)076
+[arXiv:2506.10394 [nucl-ex]].
+%11 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2025tna}
+
+\bibitem{ALICE:2025tna}
+
+ I.~J.~Abualrob \textit{et al.} [ALICE],
+%``Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles in Pb{\textendash}Pb collisions at $\mathbf {\sqrt{s_{\textrm{NN}}} = 5.02}$ TeV,''
+Eur. Phys. J. C \textbf{86}, no.6, 598 (2026)
+doi:10.1140/epjc/s10052-026-15412-w
+[arXiv:2507.13197 [nucl-ex]].
+%0 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2026xuh}
+
+\bibitem{ALICE:2026xuh}
+
+ D.~Ali Hassan Abdallah \textit{et al.} [ALICE],
+%``Measurement of the $\mathbf{B^0}$-meson production cross section in proton--proton collisions at $\mathbf{\sqrt{\textit{s}}=13.6}$ TeV,''
+[arXiv:2603.18904 [hep-ex]].
+%3 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2026vpi}
+
+\bibitem{ALICE:2026vpi}
+
+ D.~Ali Hassan Abdallah \textit{et al.} [ALICE],
+%``$\mathbf{\textbf{K}^{0}_{\textbf{S}}}-\mathbf{\textbf{K}^{0}_{\textbf{S}}}$ femtoscopy in Pb$-$Pb collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.02}$ TeV at the LHC,''
+[arXiv:2605.02321 [nucl-ex]].
+%1 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2026zyx}
+
+\bibitem{ALICE:2026zyx}
+
+ D.~A.~H.~Abdallah \textit{et al.} [ALICE],
+%``Probing jet evolution with charged energy correlators in small systems,''
+[arXiv:2606.18093 [nucl-ex]].
+%3 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2026giw}
+
+\bibitem{ALICE:2026giw}
+
+ D.~Ali Hassan Abdallah \textit{et al.} [ALICE],
+%``Energy-energy correlators in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV,''
+[arXiv:2606.18143 [nucl-ex]].
+%3 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2026zck}
+
+\bibitem{ALICE:2026zck}
+
+ D.~Ali Hassan Abdallah \textit{et al.} [ALICE],
+%``Evidence for parton energy loss in oxygen$-$oxygen collisions at $\mathbf{\sqrt{s_{\rm NN}}=5.36}$ TeV,''
+[arXiv:2606.19967 [nucl-ex]].
+%12 citations counted in INSPIRE as of 17 Sep 2026
+
+\cite{ALICE:2026byt}
+
+\bibitem{ALICE:2026byt}
+
+ D.~Ali Hassan Abdallah \textit{et al.} [ALICE],
+%``Probing flavor effects in the QCD parton shower using $\mathbf{{\rm D}^0}$-tagged jet angularities in proton$-$proton collisions at $\mathbf{ \sqrt{s} = 5.02}$ TeV,''
+[arXiv:2606.20028 [nucl-ex]].
+%0 citations counted in INSPIRE as of 17 Sep 2026
 

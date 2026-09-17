@@ -82,12 +82,6 @@ Link: http://arxiv.org/abs/1206.2056v2
 Inspire: https://inspirehep.net/literature/1117885
 DOI link: https://doi.org/10.1016/j.physletb.2012.09.013
  
-K$^0_s$K$^0_s$ correlations in pp collisions at $\sqrt{s}=7$ TeV from the LHC ALICE experiment
-Date on arXiv: 2012.06.10
-Link: http://arxiv.org/abs/1206.2056v2
-Inspire: https://inspirehep.net/literature/1117885
-DOI link: https://doi.org/10.1016/j.physletb.2012.09.013
- 
 Pseudorapidity density of charged particles in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV
 Date on arXiv: 2012.10.12
 Link: http://arxiv.org/abs/1210.3615v3
@@ -388,17 +382,17 @@ Link: http://arxiv.org/abs/1904.13118v2
 Inspire: https://inspirehep.net/literature/1732232
 DOI link: https://doi.org/10.1016/j.physletb.2019.07.020
  
-Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies
-Date on arXiv: 2019.05.07
-Link: http://arxiv.org/abs/1905.02512v2
-Inspire: https://inspirehep.net/literature/1733684
-DOI link: https://doi.org/10.1016/j.physletb.2020.135227
- 
 Measurement of the production of charm jets tagged with D$^{0}$ mesons in pp collisions at $\sqrt{s}$= 7 TeV
 Date on arXiv: 2019.05.07
 Link: http://arxiv.org/abs/1905.02510v2
 Inspire: https://inspirehep.net/literature/1733683
 DOI link: https://doi.org/10.1007/JHEP08(2019)133
+ 
+Exploration of jet substructure using iterative declustering in pp and Pb-Pb collisions at LHC energies
+Date on arXiv: 2019.05.07
+Link: http://arxiv.org/abs/1905.02512v2
+Inspire: https://inspirehep.net/literature/1733684
+DOI link: https://doi.org/10.1016/j.physletb.2020.135227
  
 Global polarization of $Λ$ and $\overlineΛ$ hyperons in Pb-Pb collisions at the LHC
 Date on arXiv: 2019.09.03
@@ -556,6 +550,12 @@ Link: http://arxiv.org/abs/2311.11792v2
 Inspire: https://inspirehep.net/literature/2724212
 DOI link: https://doi.org/10.1103/PhysRevLett.132.222303
  
+First measurement of $\mathrm{D_{s1}}(1^{+})(2536)^+$ and $\mathrm{D_{s2}^{*}(2^{+})(2573)^+}$ production in proton-proton collisions at $\sqrt{s} = 13$ TeV at the LHC
+Date on arXiv: 2024.09.18
+Link: http://arxiv.org/abs/2409.11938v2
+Inspire: https://inspirehep.net/literature/2829721
+DOI link: https://doi.org/10.1103/PhysRevD.111.112005
+ 
 Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at $\sqrt{\textit s}=5.02$ TeV
 Date on arXiv: 2024.09.19
 Link: http://arxiv.org/abs/2409.12687v2
@@ -567,22 +567,4 @@ Date on arXiv: 2024.09.19
 Link: http://arxiv.org/abs/2409.12837v2
 Inspire: https://inspirehep.net/literature/2831271
 DOI link: https://doi.org/10.1103/PhysRevLett.135.031901
- 
-Medium-induced modification of groomed and ungroomed jet mass and angularities in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV
-Date on arXiv: 2024.11.05
-Link: http://arxiv.org/abs/2411.03106v2
-Inspire: https://inspirehep.net/literature/2845788
-DOI link: https://doi.org/10.1016/j.physletb.2025.139409
- 
-Measurement of isolated prompt photon production in pp and p-Pb collisions at the LHC
-Date on arXiv: 2025.02.25
-Link: http://arxiv.org/abs/2502.18054v2
-Inspire: https://inspirehep.net/literature/2895564
-DOI link: https://doi.org/10.1140/epjc/s10052-025-14802-w
- 
-Energy-energy correlators in charm-tagged jets in proton-proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV
-Date on arXiv: 2025.04.04
-Link: http://arxiv.org/abs/2504.03431v1
-Inspire: https://inspirehep.net/literature/2907937
-DOI link: N/A
  

@@ -558,7 +558,7 @@ DOI link: https://doi.org/10.1103/PhysRevD.111.112005
  
 Exposing the parton-hadron transition within jets with energy-energy correlators in pp collisions at $\sqrt{\textit s}=5.02$ TeV
 Date on arXiv: 2024.09.19
-Link: http://arxiv.org/abs/2409.12687v2
+Link: http://arxiv.org/abs/2409.12687v3
 Inspire: https://inspirehep.net/literature/2830401
 DOI link: https://doi.org/10.1103/tgtl-7xh9
  

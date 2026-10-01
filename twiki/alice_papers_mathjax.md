@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|HF|Measurement of prompt and non-prompt \\(\{\rm D\}^\{\rm *+\}\\)-meson spin alignment in pp collisions at \\(\sqrt\{s\}\\) = 13.6 TeV\\(|pp|[2609.39713](http://arxiv.org/abs/2609.39713v1){: target="_blank"}|[3209903](https://inspirehep.net/literature/3209903){: target="_blank"}|Submitted|576|
+|JE|Probing jet quenching via the correlation of groomed jet substructure observables in Pb\\(-\\)Pb and pp collisions|pp,PbPb|[2609.39515](http://arxiv.org/abs/2609.39515v1){: target="_blank"}|[3209857](https://inspirehep.net/literature/3209857){: target="_blank"}|Submitted|575|
 |CF|Three-baryon femtoscopy as an effective 3\\(\rightarrow\\)3 scattering experiment|pp|[2608.05708](http://arxiv.org/abs/2608.05708v1){: target="_blank"}|[3191907](https://inspirehep.net/literature/3191907){: target="_blank"}|Submitted|574|
 |HF|First measurement of \\(\mathbf\{\rm \Xi_\{\rm c\}^\{0\}\}\\) production in \\(\mathbf\{Pb\}-\mathbf\{Pb\}\\) collisions at \\(\mathbf\{\sqrt\{\textit\{s\}_\{\rm NN\}\}\}\\) = 5.02 TeV|PbPb|[2607.17903](http://arxiv.org/abs/2607.17903v1){: target="_blank"}|[3181783](https://inspirehep.net/literature/3181783){: target="_blank"}|Submitted|573|
 |CF|Multiplicity dependence of the size of the common hadron emission source in pp collisions at the LHC|pp|[2606.28098](http://arxiv.org/abs/2606.28098v1){: target="_blank"}|[3174083](https://inspirehep.net/literature/3174083){: target="_blank"}|Submitted|572|

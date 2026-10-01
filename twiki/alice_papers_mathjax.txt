@@ -1,6 +1,8 @@
-   * Generated on 2026-Oct-01 17:03 CEST  .
+   * Generated on 2026-Oct-02 01:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|HF|Measurement of prompt and non-prompt \({\rm D}^{\rm *+}\)-meson spin alignment in pp collisions at \(\sqrt{s}\) = 13.6 !TeV\(|pp|[[http://arxiv.org/abs/2609.39713v1][2609.39713]]|[[https://inspirehep.net/literature/3209903][3209903]]|%RED%Submitted%ENDCOLOR%|576|
+|JE|Probing jet quenching via the correlation of groomed jet substructure observables in Pb\(-\)Pb and pp collisions|pp,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2609.39515v1][2609.39515]]|[[https://inspirehep.net/literature/3209857][3209857]]|%RED%Submitted%ENDCOLOR%|575|
 |CF|Three-baryon femtoscopy as an effective 3\(\rightarrow\)3 scattering experiment|pp|[[http://arxiv.org/abs/2608.05708v1][2608.05708]]|[[https://inspirehep.net/literature/3191907][3191907]]|%RED%Submitted%ENDCOLOR%|574|
 |HF|First measurement of \(\mathbf{\rm \Xi_{\rm c}^{0}}\) production in \(\mathbf{Pb}-\mathbf{Pb}\) collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}}}\) = 5.02 !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2607.17903v1][2607.17903]]|[[https://inspirehep.net/literature/3181783][3181783]]|%RED%Submitted%ENDCOLOR%|573|
 |CF|Multiplicity dependence of the size of the common hadron emission source in pp collisions at the LHC|pp|[[http://arxiv.org/abs/2606.28098v1][2606.28098]]|[[https://inspirehep.net/literature/3174083][3174083]]|%RED%Submitted%ENDCOLOR%|572|

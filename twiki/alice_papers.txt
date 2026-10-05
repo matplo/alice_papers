@@ -1,4 +1,4 @@
-   * Generated on 2026-Oct-05 17:03 CEST  .
+   * Generated on 2026-Oct-06 01:03 CEST  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |HF|Measurement of prompt and non-prompt ${\rm D}^{\rm *+}$-meson spin alignment in pp collisions at $\sqrt{s}$ = 13.6 !TeV$|pp|[[http://arxiv.org/abs/2609.39713v1][2609.39713]]|[[https://inspirehep.net/literature/3209903][3209903]]|%RED%Submitted%ENDCOLOR%|576|

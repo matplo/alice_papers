@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Measurement of antideuteron and net-\\(\Lambda\\) number fluctuations at the Large Hadron Collider|PbPb|[2610.36307](http://arxiv.org/abs/2610.36307v1){: target="_blank"}|[3219392](https://inspirehep.net/literature/3219392){: target="_blank"}|Submitted|578|
+|CF|Evidence of partonic collectivity in OO collisions through the measurement of \\(\phi\\), K\\(^0_\{\rm S\}\\), and \\(\Lambda\\) elliptic flow|OO|[2610.36237](http://arxiv.org/abs/2610.36237v1){: target="_blank"}|[3219368](https://inspirehep.net/literature/3219368){: target="_blank"}|Submitted|577|
 |HF|Measurement of prompt and non-prompt \\(\{\rm D\}^\{\rm *+\}\\)-meson spin alignment in pp collisions at \\(\sqrt\{s\}\\) = 13.6 TeV\\(|pp|[2609.39713](http://arxiv.org/abs/2609.39713v1){: target="_blank"}|[3209903](https://inspirehep.net/literature/3209903){: target="_blank"}|Submitted|576|
 |JE|Probing jet quenching via the correlation of groomed jet substructure observables in Pb\\(-\\)Pb and pp collisions|pp,PbPb|[2609.39515](http://arxiv.org/abs/2609.39515v1){: target="_blank"}|[3209857](https://inspirehep.net/literature/3209857){: target="_blank"}|Submitted|575|
 |CF|Three-baryon femtoscopy as an effective 3\\(\rightarrow\\)3 scattering experiment|pp|[2608.05708](http://arxiv.org/abs/2608.05708v1){: target="_blank"}|[3191907](https://inspirehep.net/literature/3191907){: target="_blank"}|Submitted|574|

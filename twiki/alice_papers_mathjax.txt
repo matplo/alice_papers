@@ -1,4 +1,4 @@
-   * Generated on 2026-Oct-30 01:01 CET  .
+   * Generated on 2026-Oct-30 09:03 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Measurement of antideuteron and net-\(\Lambda\) number fluctuations at the Large Hadron Collider|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2610.36307v1][2610.36307]]|[[https://inspirehep.net/literature/3219392][3219392]]|%RED%Submitted%ENDCOLOR%|578|
@@ -14,7 +14,7 @@
 |EM|Evidence for parton energy loss in oxygen\(-\)oxygen collisions at \(\mathbf{\sqrt{s_{\rm NN}}=5.36}\) !TeV|OO,pO,pp|[[http://arxiv.org/abs/2606.19967v2][2606.19967]]|[[https://inspirehep.net/literature/3170323][3170323]]|%RED%Submitted%ENDCOLOR%|568|
 |JE|Energy-energy correlators in p-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2606.18143v1][2606.18143]]|[[https://inspirehep.net/literature/3169392][3169392]]|%RED%Submitted%ENDCOLOR%|567|
 |JE|Probing jet evolution with charged energy correlators in small systems|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2606.18093v1][2606.18093]]|[[https://inspirehep.net/literature/3169393][3169393]]|%RED%Submitted%ENDCOLOR%|566|
-|LF|Hyperon (\(\Lambda\)) polarization along the beam axis in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.36\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2606.18070v1][2606.18070]]|[[https://inspirehep.net/literature/3169170][3169170]]|%RED%Submitted%ENDCOLOR%|565|
+|LF|Hyperon (\(\Lambda\)) polarization along the beam axis in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.36\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2606.18070v1][2606.18070]]|[[https://inspirehep.net/literature/3169170][3169170]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2026)216][JHEP 10]]%ENDCOLOR%|565|
 |UD|Exclusive dimuon production and coherent charmonium photoproduction at forward rapidity in ultra-peripheral Pb\(-\)Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}=5.36}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2605.13569v1][2605.13569]]|[[https://inspirehep.net/literature/3155120][3155120]]|%GREEN%[[https://doi.org/10.1007/JHEP10(2026)057][JHEP 10]]%ENDCOLOR%|564|
 |JE|Measurement of isolated-prompt photon\(-\)hadron correlations in Pb\(-\)Pb collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2605.02342v2][2605.02342]]|[[https://inspirehep.net/literature/3151449][3151449]]|%GREEN%[[https://doi.org/10.1140/epjc/s10052-026-16192-z][Eur. Phys. J. C 86]]%ENDCOLOR%|563|
 |CF|\(\mathbf{\textbf{K}^{0}_{\textbf{S}}}-\mathbf{\textbf{K}^{0}_{\textbf{S}}}\) femtoscopy in Pb\(-\)Pb collisions at \(\mathbf{\sqrt{\textit{s}_{\rm NN}} = 5.02}\) !TeV at the LHC|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2605.02321v1][2605.02321]]|[[https://inspirehep.net/literature/3151442][3151442]]|%RED%Submitted%ENDCOLOR%|562|

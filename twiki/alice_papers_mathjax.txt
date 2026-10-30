@@ -1,4 +1,4 @@
-   * Generated on 2026-Oct-30 09:03 CET  .
+   * Generated on 2026-Oct-30 17:05 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Measurement of antideuteron and net-\(\Lambda\) number fluctuations at the Large Hadron Collider|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2610.36307v1][2610.36307]]|[[https://inspirehep.net/literature/3219392][3219392]]|%RED%Submitted%ENDCOLOR%|578|

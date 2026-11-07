@@ -10,6 +10,8 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|CF|Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC|XeXe,PbPb|[2611.08473](http://arxiv.org/abs/2611.08473v1){: target="_blank"}|[3225491](https://inspirehep.net/literature/3225491){: target="_blank"}|Submitted|580|
+|CP|Exploring the limit of partonic collectivity in small collision systems at the LHC|pp,pPb|[2611.08327](http://arxiv.org/abs/2611.08327v1){: target="_blank"}|[N/A](-){: target="_blank"}|Submitted|579|
 |CF|Measurement of antideuteron and net-\\(\Lambda\\) number fluctuations at the Large Hadron Collider|PbPb|[2610.36307](http://arxiv.org/abs/2610.36307v1){: target="_blank"}|[3219392](https://inspirehep.net/literature/3219392){: target="_blank"}|Submitted|578|
 |CF|Evidence of partonic collectivity in OO collisions through the measurement of \\(\phi\\), K\\(^0_\{\rm S\}\\), and \\(\Lambda\\) elliptic flow|OO|[2610.36237](http://arxiv.org/abs/2610.36237v1){: target="_blank"}|[3219368](https://inspirehep.net/literature/3219368){: target="_blank"}|Submitted|577|
 |HF|Measurement of prompt and non-prompt \\(\{\rm D\}^\{\rm *+\}\\)-meson spin alignment in pp collisions at \\(\sqrt\{s\}\\) = 13.6 TeV\\(|pp|[2609.39713](http://arxiv.org/abs/2609.39713v1){: target="_blank"}|[3209903](https://inspirehep.net/literature/3209903){: target="_blank"}|Submitted|576|

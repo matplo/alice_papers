@@ -1,7 +1,7 @@
 %TABLE{columnwidths="4%,55%,6%,6%,10%,9%,10%"}%
 |*N*||*Group*|*Title*|*arXiv*|*Inspire*|*Journal*|*System*|
-|581||CF|Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC|[[https://arxiv.org/abs/2611.08473][2611.08473]]|n/a|n/a|XeXe,PbPb|
-|580||CP|Exploring the limit of partonic collectivity in small collision systems at the LHC|[[https://arxiv.org/abs/2611.08327][2611.08327]]|n/a|n/a|pp,pPb|
+|581||CP|Exploring the limit of partonic collectivity in small collision systems at the LHC|[[https://arxiv.org/abs/2611.08327][2611.08327]]|n/a|n/a|pp,pPb|
+|580||CF|Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC|[[https://arxiv.org/abs/2611.08473][2611.08473]]|[[https://inspirehep.net/literature/3225491][3225491]]|n/a|XeXe,PbPb|
 |578||CF|Measurement of antideuteron and net-$Λ$ number fluctuations at the Large Hadron Collider|[[https://arxiv.org/abs/2610.36307][2610.36307]]|[[https://inspirehep.net/literature/3219392][3219392]]|n/a|PbPb|
 |579||CF|Evidence of partonic collectivity in OO collisions through the measurement of $ϕ$, K$^0_{\rm S}$, and $Λ$ elliptic flow|[[https://arxiv.org/abs/2610.36237][2610.36237]]|[[https://inspirehep.net/literature/3219368][3219368]]|n/a|OO|
 |576||JE|Probing jet quenching via the correlation of groomed jet substructure observables in Pb$-$Pb and pp collisions|[[https://arxiv.org/abs/2609.39515][2609.39515]]|[[https://inspirehep.net/literature/3209857][3209857]]|n/a|pp,PbPb|

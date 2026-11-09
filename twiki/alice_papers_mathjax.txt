@@ -1,8 +1,8 @@
-   * Generated on 2026-Nov-09 01:00 CET  .
+   * Generated on 2026-Nov-09 09:07 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |CF|Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC|%PINK%XeXe%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2611.08473v1][2611.08473]]|[[https://inspirehep.net/literature/3225491][3225491]]|%RED%Submitted%ENDCOLOR%|580|
-|CP|Exploring the limit of partonic collectivity in small collision systems at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2611.08327v1][2611.08327]]|[[-][0]]|%RED%Submitted%ENDCOLOR%|579|
+|CP|Exploring the limit of partonic collectivity in small collision systems at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2611.08327v1][2611.08327]]|[[https://inspirehep.net/literature/3225754][3225754]]|%RED%Submitted%ENDCOLOR%|579|
 |CF|Measurement of antideuteron and net-\(\Lambda\) number fluctuations at the Large Hadron Collider|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2610.36307v1][2610.36307]]|[[https://inspirehep.net/literature/3219392][3219392]]|%RED%Submitted%ENDCOLOR%|578|
 |CF|Evidence of partonic collectivity in OO collisions through the measurement of \(\phi\), K\(^0_{\rm S}\), and \(\Lambda\) elliptic flow|OO|[[http://arxiv.org/abs/2610.36237v1][2610.36237]]|[[https://inspirehep.net/literature/3219368][3219368]]|%RED%Submitted%ENDCOLOR%|577|
 |HF|Measurement of prompt and non-prompt \({\rm D}^{\rm *+}\)-meson spin alignment in pp collisions at \(\sqrt{s}\) = 13.6 !TeV\(|pp|[[http://arxiv.org/abs/2609.39713v1][2609.39713]]|[[https://inspirehep.net/literature/3209903][3209903]]|%RED%Submitted%ENDCOLOR%|576|

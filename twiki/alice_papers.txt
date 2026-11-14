@@ -1,6 +1,7 @@
-   * Generated on 2026-Nov-14 01:00 CET  .
+   * Generated on 2026-Nov-14 09:05 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
+|LF|Observation of the $Λ(1520)$ suppression in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2611.17010v1][2611.17010]]|[[https://inspirehep.net/literature/3228179][3228179]]|%RED%Submitted%ENDCOLOR%|581|
 |CF|Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC|%PINK%XeXe%ENDCOLOR%,%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2611.08473v1][2611.08473]]|[[https://inspirehep.net/literature/3225491][3225491]]|%RED%Submitted%ENDCOLOR%|580|
 |CP|Exploring the limit of partonic collectivity in small collision systems at the LHC|pp,%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2611.08327v1][2611.08327]]|[[https://inspirehep.net/literature/3225754][3225754]]|%RED%Submitted%ENDCOLOR%|579|
 |CF|Measurement of antideuteron and net-$Λ$ number fluctuations at the Large Hadron Collider|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2610.36307v1][2610.36307]]|[[https://inspirehep.net/literature/3219392][3219392]]|%RED%Submitted%ENDCOLOR%|578|

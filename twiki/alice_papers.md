@@ -10,6 +10,7 @@ Table of publications
 
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |
+|LF|Observation of the \\(\Lambda(1520)\\) suppression in Pb-Pb collisions at \\(\sqrt\{s_\{\rm NN\}\} = 5.02\\) TeV|PbPb|[2611.17010](http://arxiv.org/abs/2611.17010v1){: target="_blank"}|[3228179](https://inspirehep.net/literature/3228179){: target="_blank"}|Submitted|581|
 |CF|Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC|XeXe,PbPb|[2611.08473](http://arxiv.org/abs/2611.08473v1){: target="_blank"}|[3225491](https://inspirehep.net/literature/3225491){: target="_blank"}|Submitted|580|
 |CP|Exploring the limit of partonic collectivity in small collision systems at the LHC|pp,pPb|[2611.08327](http://arxiv.org/abs/2611.08327v1){: target="_blank"}|[3225754](https://inspirehep.net/literature/3225754){: target="_blank"}|Submitted|579|
 |CF|Measurement of antideuteron and net-\\(\Lambda\\) number fluctuations at the Large Hadron Collider|PbPb|[2610.36307](http://arxiv.org/abs/2610.36307v1){: target="_blank"}|[3219392](https://inspirehep.net/literature/3219392){: target="_blank"}|Submitted|578|

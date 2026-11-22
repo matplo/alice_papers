@@ -1,4 +1,4 @@
-   * Generated on 2026-Nov-21 17:05 CET  .
+   * Generated on 2026-Nov-22 01:00 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Observation of the \(\Lambda(1520)\) suppression in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2611.17010v1][2611.17010]]|[[https://inspirehep.net/literature/3228179][3228179]]|%RED%Submitted%ENDCOLOR%|581|

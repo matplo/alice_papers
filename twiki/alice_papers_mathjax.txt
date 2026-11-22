@@ -1,4 +1,4 @@
-   * Generated on 2026-Nov-22 09:06 CET  .
+   * Generated on 2026-Nov-22 17:04 CET  .
 %TABLE{columnwidths="5%,65%,5%,5%,5%,15%"}%
 |*Group*|*Title*|*System*|*arXiv*|*Inspire*|*Journal*|*N*|
 |LF|Observation of the \(\Lambda(1520)\) suppression in Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2611.17010v1][2611.17010]]|[[https://inspirehep.net/literature/3228179][3228179]]|%RED%Submitted%ENDCOLOR%|581|
@@ -36,7 +36,7 @@
 |JE|Measurement of \(\pi^0\)-hadron correlations relative to the event plane in semicentral Pb-Pb collisions at \(\sqrt{s_{\rm NN}} = 5.02\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.22866v1][2602.22866]]|[[https://inspirehep.net/literature/3124122][3124122]]|%GREEN%[[https://doi.org/10.1103/tqp4-kwrt][Phys. Rev. C 114]]%ENDCOLOR%|549|
 |DQ|Inclusive \(\psi(2S)\) production at midrapidity in pp collisions at \(\sqrt{s} = 13\) !TeV|pp|[[http://arxiv.org/abs/2602.22848v1][2602.22848]]|[[https://inspirehep.net/literature/3123890][3123890]]|%RED%Submitted%ENDCOLOR%|548|
 |CF|First measurement of the strong interaction scattering parameters for the \(\mathbf{K^-d}\) and \(\mathbf{K^+d}\) systems|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.22833v1][2602.22833]]|[[https://inspirehep.net/literature/3123891][3123891]]|%GREEN%[[https://doi.org/10.1103/5w12-tbm8][Phys. Rev. Lett. 137]]%ENDCOLOR%|547|
-|LF|Inclusive and multiplicity-dependent pseudorapidity densities of charged particles in pp collisions at \(\mathbf{\sqrt{s} = 13.6}\) !TeV|pp|[[http://arxiv.org/abs/2602.10658v1][2602.10658]]|[[https://inspirehep.net/literature/3118582][3118582]]|%RED%Submitted%ENDCOLOR%|546|
+|LF|Inclusive and multiplicity-dependent pseudorapidity densities of charged particles in pp collisions at \(\mathbf{\sqrt{s} = 13.6}\) !TeV|pp|[[http://arxiv.org/abs/2602.10658v2][2602.10658]]|[[https://inspirehep.net/literature/3118582][3118582]]|%RED%Submitted%ENDCOLOR%|546|
 |CF|Observation of flow vector fluctuations in p\(-\)Pb collisions at \(\mathbf{\sqrt{\textit{s}_{_{\bf NN}}}}=\) 5.02 !TeV|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2602.10645v2][2602.10645]]|[[https://inspirehep.net/literature/3118595][3118595]]|%GREEN%[[https://doi.org/10.1007/JHEP06(2026)152][JHEP 06]]%ENDCOLOR%|545|
 |CF|Space-time evolution of particle emission in p\(-\)Pb collisions at \(\mathbf{\sqrt{s_{\rm NN}}=~5.02}\) !TeV with 3D kaon femtoscopy|%BLUE%pPb%ENDCOLOR%|[[http://arxiv.org/abs/2601.15081v2][2601.15081]]|[[https://inspirehep.net/literature/3109745][3109745]]|%GREEN%[[https://doi.org/10.1007/JHEP04(2026)113][JHEP 04]]%ENDCOLOR%|544|
 |CF|One- and three-dimensional identical charged-kaon femtoscopic correlations in Pb\(-\)Pb collisions at \(\mathbf{ \sqrt{s_\mathrm{NN}}=5.02}\) !TeV|%RED%PbPb%ENDCOLOR%|[[http://arxiv.org/abs/2601.15054v2][2601.15054]]|[[https://inspirehep.net/literature/3109739][3109739]]|%GREEN%[[https://doi.org/10.1103/z6kw-l1pc][Phys. Rev. C 114]]%ENDCOLOR%|543|
